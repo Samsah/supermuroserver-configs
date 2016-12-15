@@ -1,0 +1,112 @@
+"Phrases"
+{
+	"when move"
+	{
+		"de"		"Zeitpunkt"
+	}
+	
+	"commands"
+	{
+		"de"		"Swap Team Menu"
+	}
+	
+	"immediately"
+	{
+		"de"		"Sofort"
+	}
+	
+	"on death"
+	{
+		"de"		"Bei Tod"
+	}
+	
+	"on rend"
+	{
+		"de"		"Am Rundenende"
+	}
+	
+	"to spec"
+	{
+		"de"		"Zu den Zuschauern"
+	}
+	
+	"select player"
+	{
+		"de"		"Wähle Spieler"
+	}
+	
+	"dont swap rend"
+	{
+		"de"		"{1} wird am Rundenende nicht in das andere Team transferiert."
+	}
+	
+	"dont swap rend2"
+	{
+		"de"		"{1} wird am Rundenende nicht in das andere Team transferiert."
+	}
+	
+	"swap rend"
+	{
+		"de"		"{1} wird am Rundenende in das andere Team transferiert."
+	}
+	
+	"swap rend2"
+	{
+		"de"		"{1} wird am Rundenende in das andere Team transferiert."
+	}
+	
+	"swap death"
+	{
+		"de"		"{1} wird bei seinem Tod in das andere Team transferiert."
+	}
+	
+	"swap death2"
+	{
+		"de"		"{1} wird bei seinem Tod in das andere Team transferiert."
+	}
+	
+	"dont swap death"
+	{
+		"de"		"{1} wird bei seinem Tod nicht in das andere Team transferiert."
+	}
+	
+	"dont swap death2"
+	{
+		"de"		"{1} wird bei seinem Tod nicht in das andere Team transferiert."
+	}
+	
+	"switch by admin"
+	{
+		"de"		"{1} wurde von einem Admin transferiert."
+	}
+	
+	"switch by admin2"
+	{
+		"de"		"{1} wurde von einem Admin transferiert."
+	}
+	
+	"swapteam usage"
+	{
+		"de"		"Befehle: sm_swapteam <#userid|name>"
+	}
+	
+	"swapteam death usage"
+	{
+		"de"		"Befehle: sm_swapteam_death <#userid|name>"
+	}
+	
+	"swapteam rend usage"
+	{
+		"de"		"Befehle: sm_swapteam_d <#userid|name>"
+	}
+	
+	"swapteam rend error"
+	{
+		"de"		"Transfer am Rundenende ist nicht möglich."
+	}
+	
+	"swapteam spec usage"
+	{
+		"de"		"Befehle: sm_spec <#userid|name>"
+	}
+}

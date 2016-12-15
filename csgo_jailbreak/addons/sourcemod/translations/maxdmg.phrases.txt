@@ -1,0 +1,27 @@
+"Phrases"
+{
+    "LR Name"
+    {
+        "en"        "Max Damage"
+    }
+    "LR Start"
+    {
+        "#format"   "{1:N}, {2:N}"
+        "en"        "{1} has challenged {2} to a Max Damage Battle."
+    }
+    "LR Explain"
+    {
+        "#format"   "{1:.1f}"
+        "en"        "The player whom has dealt the most damage to themseleves within {1} seconds is the winner!"
+    }
+    "LR No Winner"
+    {
+        "#format"   "{1:.1f}"
+        "en"        "Both players dealt {1} damage to themselves. There is no winner :("
+    }
+    "LR Winner"
+    {
+        "#format"   "{1:N}"
+        "en"        "{1} has won the LR, you may now kill the n00b within the cage :)"
+    }
+}

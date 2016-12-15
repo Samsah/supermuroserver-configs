@@ -1,0 +1,303 @@
+"Phrases"
+{
+	"T"
+	{
+		"en"		"T"
+		"de"		"T"
+	}
+	
+	"CT"
+	{
+		"en"		"CT"
+		"de"		"CT"
+	}
+	
+	"Server"
+	{
+		"en"		"Server"
+		"de"		"Server"
+	}
+	
+	"TeamBanned"
+	{
+		"#format"	"{1:s},{2:d},{3:s}"
+		"en"		"{1} You are still banned from {darkred}{3} team{lightgreen}! Remaining: {darkred}{2} minutes" 
+		"de"		"{1} Sie sind noch {darkred}{2} Minuten {lightgreen}vom {darkred}{3} Team {lightgreen}gebannt!"
+	}
+
+	"TeamBannedPerma"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} You are {darkred}permanently {lightgreen}banned from the {darkred}{2} team{lightgreen}!"
+		"de"		"{1} Sie sind {darkred}permanent {lightgreen}vom {darkred}{2} Team {lightgreen}gebannt!"
+	}
+
+	"Invalid"
+	{
+		"en"		"Target player is invalid!"
+		"de"		"Ungültiger Spieler!"
+	}
+	
+	"UnbanServerOnline"
+	{
+		"en"		"Please use sm_oban to remove a server-ban!"
+		"de"		"Bitte benutzen Sie sm_oban um einen Server-Ban zu entfernen!"
+	}
+
+	"IsAlreadyCTBanned"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Target player already has a {darkred}CT Ban{lightgreen}!"
+		"de"		"{1} Der ausgewählte Spieler ist bereits vom {darkred}CT Team {lightgreen}gebannt!"
+	}
+	
+	"IsAlreadyTBanned"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Target player already has a {darkred}T Ban{lightgreen}!"
+		"de"		"{1} Der ausgewählte Spieler ist bereits vom {darkred}T Team {lightgreen}gebannt!"
+	}
+	
+	"IsAlreadyServerBanned"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Target player already has a {darkred}Server Ban{lightgreen}!"
+		"de"		"{1} Der ausgewählte Spieler ist bereits vom {darkred}Server {lightgreen}gebannt!"
+	}
+	
+	"IsntCTBanned"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Target player is not {darkred}CT Banned{lightgreen}!"
+		"de"		"{1} Der ausgewählte Spieler hat kein {darkred}CT Ban{lightgreen}!"
+	}
+	
+	"IsntTBanned"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Target player is not {darkred}T Banned{lightgreen}!"
+		"de"		"{1} Der ausgewählte Spieler hat kein {darkred}T Ban{lightgreen}!"
+	}
+	
+	"IsntServerBanned"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Target player is not {darkred}Server Banned{lightgreen}!"
+		"de"		"{1} Der ausgewählte Spieler hat kein {darkred}Server Ban{lightgreen}!"
+	}
+
+	"TeamBansList"
+	{
+		"en"		"Team banned players"
+		"de"		"Team gebannte Spieler"
+	}
+	
+	"TeamBansListPlayer"
+	{
+		"#format"	"{1:s},{2:N},{3:d},{4:d}"
+		"en"		"[{1}] {2} ({3}/{4})"
+		"de"		"[{1}] {2} ({3}/{4})"
+	}
+
+	"TeamBansListPlayerPerma"
+	{
+		"#format"	"{1:s},{2:N}"
+		"en"		"[{1}] {2} (permanently)"
+		"de"		"[{1}] {2} (permanent)"
+	}
+
+	"BanSyntax"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Usage: {darkred}sm_ctban <#userid|name> <team> {lightgreen}[length (minutes)] [reason]"
+		"de"		"{1} Benutzung: {darkred}sm_ctban <#userID|Name> <team> {lightgreen}[Laenge (Minuten)] [Grund]"
+	}
+
+	"UnBanSyntax"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Usage: {darkred}sm_unban <#userid|name> <team>"
+		"de"		"{1} Benutzung: {darkred}sm_unban <#userID|Name> <team>"
+	}
+
+	"OnTeamBan"
+	{
+		"#format"	"{1:N},{2:s},{3:d},{4:s}"
+		"en"		"{darkred}{1} {lightgreen}was banned from the {darkred}{2} team{lightgreen}! (Length is {darkred}{3} minutes {lightgreen}with the reason: {darkred}{4}{lightgreen})"
+		"de"		"{darkred}{1} {lightgreen}wurde vom {darkred}{2} Team {lightgreen}gebannt! (Länge beträgt {darkred}{3} Minuten {lightgreen}mit dem Grund: {darkred}{4}{lightgreen})"
+	}
+	
+	"OnTeamOBan"
+	{
+		"#format"	"{1:s},{2:s},{3:d},{4:s}"
+		"en"		"{lightgreen}The ID {darkred}{1} {lightgreen}was banned from the {darkred}{2} team{lightgreen}! (Length is {darkred}{3} minutes {lightgreen}with the reason: {darkred}{4}{lightgreen})"
+		"de"		"{lightgreen}Die ID {darkred}{1} {lightgreen}wurde vom {darkred}{2} Team {lightgreen}gebannt! (Länge beträgt {darkred}{3} Minuten {lightgreen}mit dem Grund: {darkred}{4}{lightgreen})"
+	}
+
+	"OnTeamBanPerma"
+	{
+		"#format"	"{1:N},{2:s},{3:s}"
+		"en"		"{darkred}{1} {lightgreen}was {darkred}permanently {lightgreen}banned from the {darkred}{2} team{lightgreen}! (Reason: {darkred}{3}{lightgreen})"
+		"de"		"{darkred}{1} {lightgreen}wurde {darkred}permanent {lightgreen}vom {darkred}{2} Team {lightgreen}gebannt! (Grund: {darkred}{3}{lightgreen})"
+	}
+	
+	"OnTeamOBanPerma"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"{lightgreen}The ID {darkred}{1} {lightgreen}was {darkred}permanently {lightgreen}banned from the {darkred}{2} team{lightgreen}! (Reason: {darkred}{3}{lightgreen})"
+		"de"		"{lightgreen}Die ID {darkred}{1} {lightgreen}wurde {darkred}permanent {lightgreen}vom {darkred}{2} Team {lightgreen}gebannt! (Grund: {darkred}{3}{lightgreen})"
+	}
+	
+	"OnServerBan"
+	{
+		"#format"	"{1:N},{2:s},{3:d},{4:s}"
+		"en"		"{darkred}{1} {lightgreen}was banned from the {darkred}server{lightgreen}! (Length is {darkred}{3} minutes {lightgreen}with the reason: {darkred}{4}{lightgreen})"
+		"de"		"{darkred}{1} {lightgreen}wurde vom {darkred}Server {lightgreen}gebannt! (Länge beträgt {darkred}{3} Minuten {lightgreen}mit dem Grund: {darkred}{4}{lightgreen})"
+	}
+	
+	"OnServerOBan"
+	{
+		"#format"	"{1:s},{2:s},{3:d},{4:s}"
+		"en"		"{lightgreen}The ID {darkred}{1} {lightgreen}was banned from the {darkred}server{lightgreen}! (Length is {darkred}{3} minutes {lightgreen}with the reason: {darkred}{4}{lightgreen})"
+		"de"		"{lightgreen}Die ID {darkred}{{1} {lightgreen}wurde vom {darkred}Server {lightgreen}gebannt! (Länge beträgt {darkred}{3} Minuten {lightgreen}mit dem Grund: {darkred}{4}{lightgreen})"
+	}
+
+	"OnServerBanPerma"
+	{
+		"#format"	"{1:N},{2:s},{3:s}"
+		"en"		"{darkred}{1} {lightgreen}was {darkred}permanently {lightgreen}banned from the {darkred}server{lightgreen}! (Reason: {darkred}{3}{lightgreen})"
+		"de"		"{darkred}{1} {lightgreen}wurde {darkred}permanent {lightgreen}vom {darkred}Server {lightgreen}gebannt! (Grund: {darkred}{3}{lightgreen})"
+	}
+	
+	"OnServerOBanPerma"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"{lightgreen}The ID {darkred}{1} {lightgreen}was {darkred}permanently {lightgreen}banned from the {darkred}server{lightgreen}! (Reason: {darkred}{3}{lightgreen})"
+		"de"		"{lightgreen}Die ID {darkred}{1} {lightgreen}wurde {darkred}permanent {lightgreen}vom {darkred}Server {lightgreen}gebannt! (Grund: {darkred}{3}{lightgreen})"
+	}
+
+	"OnTeamUnBan"
+	{
+		"#format"	"{1:N},{2:d},{3:s},{4:s}"
+		"en"		"{darkred}{4} Ban {lightgreen}of {darkred}{1} {lightgreen}was removed! (Length was {darkred}{2} minutes {lightgreen}with the reason: {darkred}{3}{lightgreen})"
+		"de"		"Der {darkred}{4} Ban {lightgreen}von {darkred}{1} {lightgreen}wurde entfernt! (Länge betrug {darkred}{2} Minuten {lightgreen}mit dem Grund: {darkred}{3}{lightgreen})"
+	}
+
+	"OnTeamUnBanPerma"
+	{
+		"#format"	"{1:N},{2:s},{3:s}"
+		"en"		"{darkred}{3} Ban {lightgreen}of {darkred}{1} {lightgreen}was removed! (Length was {darkred}permanently {lightgreen}with the reason: {darkred}{2}{lightgreen})"
+		"de"		"Der {darkred}{3} Ban {lightgreen}von {darkred}{1} {lightgreen}wurde entfernt! (Länge war {darkred}permanent {lightgreen}mit dem Grund: {darkred}{2}{lightgreen})"
+	}
+	
+	"OnTeamOUnBan"
+	{
+		"#format"	"{1:s},{2:s},{3:d},{4:s}"
+		"en"		"{lightgreen}The ID {darkred}{1} {lightgreen}is no longer banned from the {darkred}{2} team{lightgreen}! (Length is {darkred}{3} minutes {lightgreen}with the reason: {darkred}{4}{lightgreen})"
+		"de"		"{lightgreen}Die ID {darkred}{1} {lightgreen}ist nicht länger vom {darkred}{2} Team {lightgreen}gebannt! (Länge beträgt {darkred}{3} Minuten {lightgreen}mit dem Grund: {darkred}{4}{lightgreen})"
+	}
+	
+	"OnServerOUnBan"
+	{
+		"#format"	"{1:s},{2:s},{3:d},{4:s}"
+		"en"		"{lightgreen}The ID {darkred}{1} {lightgreen}is no longer banned from the {darkred}server{lightgreen}! (Length is {darkred}{3} minutes {lightgreen}with the reason: {darkred}{4}{lightgreen})"
+		"de"		"{lightgreen}Die ID {darkred}{{1} {lightgreen}ist nicht länger vom {darkred}Server {lightgreen}gebannt! (Länge beträgt {darkred}{3} Minuten {lightgreen}mit dem Grund: {darkred}{4}{lightgreen})"
+	}
+	
+	"TeamBansInfo"
+	{
+		"#format"	"{1:s},{2:N},{3:d},{4:d},{5:s},{6:s}"
+		"en"		"{1} {darkred}{2} {lightgreen}was banned for {darkred}{3} minutes {lightgreen}from the {darkred}{6} team{lightgreen}! Remaining: {darkred}{4} minutes {lightgreen}Reason: {darkred}{5}"
+		"de"		"{1} {darkred}{2} {lightgreen}wurde für {darkred}{3} Minuten {lightgreen}vom {darkred}{6} Team{lightgreen} gebannt! Verbleibend: {darkred}{4} Minuten {lightgreen}Grund: {darkred}{5}"
+	}
+
+	"TeamBansInfoPerma"
+	{
+		"#format"	"{1:s},{2:N},{3:s},{4:s}"
+		"en"		"{1} {darkred}{2} {lightgreen}was {darkred}permanently {lightgreen}banned from the {darkred}{4} team{lightgreen}! (Reason: {darkred}{3}{lightgreen})"
+		"de"		"{1} {darkred}{2} {lightgreen}wurde {darkred}permanent {lightgreen}vom {darkred}{4} Team {lightgreen}gebannt! (Grund: {darkred}{3}{lightgreen})"
+	}
+
+	"NoReason"
+	{
+		"en"		"No reason"
+		"de"		"Kein Grund"
+	}
+
+	"NoPlayers"
+	{
+		"en"		"no player with team ban"
+		"de"		"kein Spieler mit einen Team Ban gefunden"
+	}
+	
+	"DefaultReason"
+	{
+		"en"		"no Reason"
+		"de"		"kein Grund"
+	}
+	
+	"TeamBansTitle"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Ban"
+		"de"		"{1} Ban"
+	}
+	
+	"ServerBansTitle"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Ban"
+		"de"		"{1} Ban"
+	}
+	
+	"SelectPlayer"
+	{
+		"en"		"Select a player"
+		"de"		"Wähle ein Spieler"
+	}
+	
+	"SelectLength"
+	{
+		"en"		"Select a length"
+		"de"		"Wähle eine Länge"
+	}
+	
+	"SelectReason"
+	{
+		"en"		"Select a reason"
+		"de"		"Wähle ein Grund"
+	}
+	
+	"BanReason"
+	{
+		"en"		"You was banned from this server!"	
+		"de"		"Sie wurden von diesen Server verbannt!"
+	}
+	
+	"TeamBansAdminMenuTitle"
+	{
+		"en"		"TeamBans"
+		"de"		"TeamBans"
+	}
+	
+	"CommandDisabled"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} This Command is currently disabled!"
+		"de"		"{1} Dieser Befehl ist derzeit deaktivier!"
+	}
+	
+	"OBanSyntax"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Usage: {darkred}sm_oban <communityid> <team> <length>"
+		"de"		"{1} Benutzung: {darkred}sm_oban <communityid> <team> <laenge>"
+	}
+	
+	"OUnBanSyntax"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Usage: {darkred}sm_ounban <communityid> <team>"
+		"de"		"{1} Benutzung: {darkred}sm_ounban <communityid> <Team>"
+	}
+}

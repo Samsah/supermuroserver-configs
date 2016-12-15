@@ -1,0 +1,32 @@
+// WEAPON		TEAM
+///////////////////////////////////////////////////////////
+weapon_ak47,		T
+weapon_aug,		CT
+weapon_awp,		ANY
+weapon_bizon,		ANY
+weapon_deagle,		ANY
+weapon_elite,		T
+weapon_famas,		CT
+weapon_fiveseven,	CT
+weapon_flashbang,	ANY
+weapon_g3sg1,		T
+weapon_galilar,		T
+weapon_glock,		T
+weapon_hkp2000,		CT
+weapon_m249,		ANY
+weapon_m4a1,		CT
+weapon_mac10,		T
+weapon_mag7,		ANY
+weapon_molotov,		T
+weapon_mp7,		ANY
+weapon_mp9,		CT
+weapon_negev,		ANY
+weapon_nova,		ANY
+weapon_p250,		ANY
+weapon_p90,		ANY
+weapon_scar20,		CT
+weapon_sg556,		T
+weapon_ssg08,		ANY
+weapon_tec9,		T
+weapon_ump45,		ANY
+weapon_xm1014,		ANY

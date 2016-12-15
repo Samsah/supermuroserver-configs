@@ -1,0 +1,25 @@
+"Phrases"
+{
+    "LR Name"
+    {
+        "en"        "Circle of Doom"
+    }
+    "LR Start"
+    {
+        "#format"   "{1:N},{2:N}"
+        "en"        "{1} has challenged {2} to a Circle of Doom battle."
+    }
+    "LR Explain"
+    {
+        "en"        "Knife your opponent to slap them out of the circle."
+    }
+    "LR Abort"
+    {
+        "en"        "Circle of Doom Last Request was aborted :("
+    }
+    "LR Winner"
+    {
+        "#format"   "{1:N}"
+        "en"        "{1} survived the Circle of Doom"
+    }
+}

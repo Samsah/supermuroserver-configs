@@ -1,0 +1,167 @@
+"Phrases"
+{
+	"when move"
+	{
+		"en"				"SwapTeam - When?"
+	}
+	
+	"commands"
+	{
+		"en"				"SwapTeam Commands"
+	}
+	
+	"immediately"
+	{
+		"en"				"Immediately"
+	}
+	
+	"on death"
+	{
+		"en"				"On Death"
+	}
+	
+	"on rend"
+	{
+		"en"				"On Round End"
+	}
+	
+	"to spec"
+	{
+		"en"				"To Spectator"
+	}
+	
+	"select player"
+	{
+		"en"				"Select Player"
+	}
+	
+	"dont swap rend"
+	{
+		"#format"		"{1:t}"
+		"en"				"{1} will not be switched to opposite team on round end."
+	}
+	
+	"dont swap rend2"
+	{
+		"#format"		"{1:s}"
+		"en"				"{1} will not be switched to opposite team on round end."
+	}
+	
+	"swap rend"
+	{
+		"#format"		"{1:t}"
+		"en"				"{1} will be switched to opposite team on round end."
+	}
+	
+	"swap rend2"
+	{
+		"#format"		"{1:s}"
+		"en"				"{1} will be switched to opposite team on round end."
+	}
+	
+	"swap death"
+	{
+		"#format"		"{1:t}"
+		"en"				"{1} will be switched to opposite team when they die."
+	}
+	
+	"swap death2"
+	{
+		"#format"		"{1:s}"
+		"en"				"{1} will be switched to opposite team when they die."
+	}
+	
+	"dont swap death"
+	{
+		"#format"		"{1:t}"
+		"en"				"{1} will no longer be switched to opposite team when they die."
+	}
+	
+	"dont swap death2"
+	{
+		"#format"		"{1:s}"
+		"en"				"{1} will no longer be switched to opposite team when they die."
+	}
+	
+	"switch by admin"
+	{
+		"#format"		"{1:t}"
+		"en"				"{1} has been switched to the opposite team."
+	}
+	
+	"switch by admin2"
+	{
+		"#format"		"{1:s}"
+		"en"				"{1} has been switched to the opposite team."
+	}
+	
+	"swapteam usage"
+	{
+		"en"				"Usage: sm_swapteam <#userid|name>"
+	}
+	
+	"swapteam death usage"
+	{
+		"en"				"Usage: sm_swapteam_death <#userid|name>"
+	}
+	
+	"swapteam rend usage"
+	{
+		"en"				"Usage: sm_swapteam_d <#userid|name>"
+	}
+	
+	"swapteam rend error"
+	{
+		"en"				"Switching on round end is not possible in this mod."
+	}
+	
+	"swapteam spec usage"
+	{
+		"en"				"Usage: sm_spec <#userid|name>"
+	}
+	
+	"Moved to spec"
+	{
+		"#format"		"{1:t}"
+		"en"				"Moved {1} to spectator."
+	}
+	
+	"Moved to team1"
+	{
+		"#format"		"{1:t}"
+		"en"				"Moved {1} to Team 1."
+	}
+	
+	"Moved to team2"
+	{
+		"#format"		"{1:t}"
+		"en"				"Moved {1} to Team 2."
+	}
+	
+	"team usage css"
+	{
+		"en"				"Usage: sm_team <#userid|name> <1 - Spectator | 2 - T | 3 - CT>"
+	}
+	
+	"team usage tf2"
+	{
+		"en"				"Usage: sm_team <#userid|name> <1 - Spectator | 2 - RED | 3 - BLU>"
+	}
+	
+	"team usage other"
+	{
+		"en"				"Usage: sm_team <#userid|name> <1 - Spectator | 2 - Team 1 | 3 - Team 2>"
+	}
+	
+	"moved to spec"
+	{
+		"#format"		"{1:t}"
+		"en"				"{1} has been moved into the spectator team."
+	}
+	
+	"moved to spec2"
+	{
+		"#format"		"{1:s}"
+		"en"				"{1} has been moved into the spectator team."
+	}
+}

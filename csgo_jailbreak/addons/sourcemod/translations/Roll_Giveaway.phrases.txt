@@ -1,0 +1,40 @@
+"Phrases"
+{
+	"StartGiveaway"
+	{
+		"en" "[Roll] A giveaway has been initiated! Please type !roll to participate."
+	}
+
+	"StopGiveaway"
+	{
+		"#format" "{1:N},{2:i}"
+		"en" "[Roll] The giveaway has ended. The winner is {1} with a roll of {2}!"
+	}
+      
+	"RollResponseClient"
+	{
+		"#format" "{1:i}"
+		"en" "[Roll] You have rolled {1}, good luck!"
+	}
+
+	"RollResponseAll"
+	{
+		"#format" "{1:N},{2:i}"
+		"en" "[Roll] {1} has rolled {2}."
+	}
+
+	"AdminStart"
+	{
+		"en" "[Roll] Sorry, there are no giveaways currently available for you to roll on."
+	}
+
+	"Rolled"
+	{
+		"en" "[Roll] You have already rolled."
+	}
+
+	"NotAlive"
+	{
+		"en" "[Roll] Sorry, you must be alive to roll."
+	}
+}

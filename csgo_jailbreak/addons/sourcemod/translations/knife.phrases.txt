@@ -1,0 +1,90 @@
+﻿"Phrases"
+{
+	"Type !knife to open menu of knives"
+	{		
+
+		"en"		"Type !knife to open menu of knives"
+	}
+	"Choose"
+	{		
+
+		"en"		"Choose your knife"
+	}
+	"Bayonet"
+	{		
+
+		"en"		"Now you have a Bayonet knife"
+	}
+	"Gut"
+	{		
+
+		"en"		"Now you have a Gut knife"
+	}
+	"Flip"
+	{		
+
+		"en"		"Now you have a Flip knife"
+	}
+	"M9"
+	{		
+
+		"en"		"Now you have a M9-Bayonet knife"
+	}
+	"Karambit"
+	{		
+
+		"en"		"Now you have a Karambit knife"
+	}
+	"Golden"
+	{		
+
+		"en"		"Now you have a Gold knife"
+	}
+	"Huntsman"
+	{		
+
+		"en"		"Now you have a Huntsman knife"
+	}
+
+	"Dead Bayonet"
+	{		
+
+		"en"		"You choose a Bayonet knife, will be given to you in the next spawning."
+	}
+
+	"Dead Gut"
+	{		
+
+		"en"		"You choose a Gut knife, will be given to you in the next spawning."
+	}
+
+	"Dead Flip"
+	{		
+
+		"en"		"You choose a Flip knife, will be given to you in the next spawning."
+	}
+
+	"Dead M9"
+	{		
+
+		"en"		"You choose a M9-Bayonet knife, will be given to you in the next spawning."
+	}
+
+	"Dead Karambit"
+	{		
+
+		"en"		"You choose a Karambit knife, will be given to you in the next spawning."
+	}
+	
+	"Dead Golden"
+	{		
+
+		"en"		"You choose a Golden knife, will be given to you in the next spawning."
+	}
+
+	"Dead Huntsman"
+	{		
+
+		"en"		"You choose a Huntsman knife, will be given to you in the next spawning."
+	}
+}

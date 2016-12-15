@@ -1,0 +1,65 @@
+"Games"
+{
+	"csgo"
+	{
+		"Signatures"
+		{
+			"GetItemSchema"
+			{
+				"library"	"server"
+				"windows"	"\xA1\x2A\x2A\x2A\x2A\x85\xC0\x75\x2A\x56\x68\x2A\x2A\x00\x00\xE8\x2A\x2A\x2A\x2A\x8B\xF0\x83\xC4\x04\x85\xF6\x74\x2A\x8D\x4E\x04\xC7\x06\x2A\x2A\x2A\x2A\xE8\x2A\x2A\x2A\x2A\xC7\x06\x2A\x2A\x2A\x2A\x8D\x46\x04"
+				"linux"		"@_Z13GetItemSchemav"
+				"mac"		"@_Z13GetItemSchemav"
+			}
+			"GetLoadoutSlot"
+			{
+				"library"	"server"
+				"windows"	"\x55\x8B\xEC\x8B\x45\x08\x8D\x50\xFF\x83\xFA\x02"
+				"linux"		"@_ZNK24CCStrike15ItemDefinition14GetLoadoutSlotEi"
+				"mac"		"@_ZNK24CCStrike15ItemDefinition14GetLoadoutSlotEi"
+			}
+			"HandleCommand_Buy_Internal"//Wildcard first 6 bytes
+			{
+				"library"		"server"
+				"windows"		"\x2A\x2A\x2A\x2A\x2A\x2A\x81\xEC\x2A\x2A\x2A\x2A\x83\x3D\x2A\x2A\x2A\x2A\x00\x53\x56\x57\x8B\xF9"
+				"linux"			"@_ZN9CCSPlayer26HandleCommand_Buy_InternalEPKcib"
+				"mac"			"@_ZN9CCSPlayer26HandleCommand_Buy_InternalEPKcib"
+			}
+		}
+		"Offsets"
+		{
+			"GetDefintionIndex"
+			{
+				"windows"		"0"
+				"linux"			"0"
+				"mac"			"0"
+			}
+			"GetItemDefintionByName" //_ZN15CEconItemSchema23GetItemDefinitionByNameEPKc
+			{
+				"windows"		"42"
+				"linux"			"41"
+				"mac"			"41"
+			}
+			"GiveNamedItem"
+			{
+				"windows"		"444"
+				"linux"			"445"
+				"mac"			"445"
+			}
+			//Offset into HandleCommand_Buy_Internal
+			//Same as sourcemod cstrike extension.
+			"InventoryOffset"
+			{
+				"windows"	"285"
+				"linux"		"87"
+				"mac"		"109"
+			}
+			"GetItemInLoadout"
+			{
+				"windows"		"8"
+				"linux"			"9"
+				"mac"			"9"
+			}
+		}
+	}
+}
