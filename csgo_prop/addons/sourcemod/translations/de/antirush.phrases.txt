@@ -1,0 +1,316 @@
+﻿"Phrases"
+{
+	"Shoot Fence End"
+	{
+		"de"			"Nun schieße an die Stelle, wo der Zaun enden soll oder drücke \"e\", um ihn zu deinen Füßen zu beenden."
+	}
+	
+	"Shoot Zone Edge"
+	{
+		"de"			"Nun schieße an die diagonal gegenüberliegende Ecke der Zone oder drücke \"e\", um sie zu deinen Füßen zu beenden."
+	}
+	
+	"Type Fence Name"
+	{
+		"de"			"Bitte schreibe einen Namen für diesen Zaun in den Chat. Schreibe !stop zum abbrechen."
+	}
+	
+	"Type Zone Name"
+	{
+		"de"			"Bitte schreibe einen Namen für diese Zone in den Chat. Schreibe !stop zum abbrechen."
+	}
+	
+	"Abort Zone Name"
+	{
+		"de"			"Erstellen der neuen Zone abgebrochen und Zone entfernt."
+	}
+	
+	"Abort Fence Name"
+	{
+		"de"			"Erstellen des neuen Zauns abgebrochen und Zaun entfernt."
+	}
+	
+	"Abort Zone Rename"
+	{
+		"de"			"Umbenennen der Zone abgebrochen."
+	}
+	
+	"Abort Fence Rename"
+	{
+		"de"			"Umbenennen des Zauns abgebrochen."
+	}
+	
+	"Adding Zone"
+	{
+		"de"			"Zone hinzufügen"
+	}
+	
+	"Confirm Delete Zone"
+	{
+		/* 1: Zone Name */
+		"de"			"Willst du die Zone \"{1}\" wirklich löschen?"
+	}
+	
+	"Confirm Delete Fence"
+	{
+		/* 1: Fence Name */
+		"de"			"Willst du den Zaun \"{1}\" wirklich löschen?"
+	}
+	
+	"Save"
+	{
+		"de"			"Speichern"
+	}
+	
+	"Name Already Taken"
+	{
+		/* 1: Zone Name */
+		"de"			"Es gibt bereits eine Zone mit dem Namen \"{1}\". Bitte schreibe einen anderen Namen."
+	}
+	
+	"Saved"
+	{
+		"de"			"Änderungen erfolgreich gespeichert"
+	}
+	
+	"Discard"
+	{
+		"de"			"Verwerfen"
+	}
+	
+	"Discarded"
+	{
+		"de"			"Verworfen."
+	}
+	
+	"Delete Zone"
+	{
+		"de"			"Zone löschen"
+	}
+	
+	"Delete Fence"
+	{
+		"de"			"Zaun löschen"
+	}
+	
+	"Deleted Zone"
+	{
+		/* 1: Player Name */
+		"de"			"Zone \"{1}\" erfolgreich gelöscht."
+	}
+	
+	"Deleted Fence"
+	{
+		/* 1: Player Name */
+		"de"			"Zaun \"{1}\" erfolgreich gelöscht."
+	}
+	
+	"Canceled Fence Deletion"
+	{
+		"de"			"Der Löschvorgang des Zauns wurde abgebrochen."
+	}
+	
+	"Canceled Zone Deletion"
+	{
+		"de"			"Der Löschvorgang der Zone wurde abgebrochen."
+	}
+	
+	"Name Edited"
+	{
+		"de"			"Name erfolgreich geändert."
+	}
+	
+	"Active Zones"
+	{
+		"de"			"Aktive Zonen"
+	}
+	
+	"Active Fences"
+	{
+		"de"			"Aktive Zäune"
+	}
+	
+	"Add Zones"
+	{
+		"de"			"Zone hinzufügen"
+	}
+	
+	"Add Fence"
+	{
+		"de"			"Zaun hinzufügen"
+	}
+	
+	"Add Fence Instruction"
+	{
+		"de"			"Schieße auf die beiden Stellen, an denen der Zaun enden soll oder drücke \"e\", um sie an deiner Position festzulegen."
+	}
+	
+	"Add Zone Instruction"
+	{
+		"de"			"Schieße auf die beiden Stellen, die die äußeren entgegengesetzten Ecken der Zone formen oder drücke \"e\", um sie an deiner Position festzulegen."
+	}
+	
+	"Manage Zone"
+	{
+		/* 1: Zone Name */
+		"de"			"Zone verwalten: {1}"
+	}
+	
+	"Manage Fence"
+	{
+		/* 1: Fence Name */
+		"de"			"Zaun verwalten: {1}"
+	}
+	
+	"Show Fence"
+	{
+		"de"			"Zaun anzeigen"
+	}
+	
+	"Show Zone"
+	{
+		"de"			"Zone anzeigen"
+	}
+	
+	"Edit First Point"
+	{
+		"de"			"Ersten Punkt ändern"
+	}
+	
+	"Edit Second Point"
+	{
+		"de"			"Zweiten Punkt ändern"
+	}
+	
+	"Edit Name"
+	{
+		"de"			"Namen ändern"
+	}
+	
+	"Teleport To"
+	{
+		"de"			"Gehe zu"
+	}
+	
+	"Both"
+	{
+		"de"			"Beide"
+	}
+	
+	"Trigger Team"
+	{
+		/* 1: Team Name */
+		"de"			"Team: {1}"
+	}
+	
+	"Edit Zone"
+	{
+		/* 1: Fence Name, 2: Position Number (1 or 2) */
+		"de"			"Zone ändern: {1} Position {2}"
+	}
+	
+	"Edit Fence"
+	{
+		/* 1: Fence Name, 2: Position Number (1 or 2) */
+		"de"			"Zaun ändern: {1} Position {2}"
+	}
+	
+	"Add to X"
+	{
+		"de"			"X erhöhen"
+	}
+	
+	"Add to Y"
+	{
+		"de"			"Y erhöhen"
+	}
+	
+	"Add to Z"
+	{
+		"de"			"Z erhöhen"
+	}
+	
+	"Subtract from X"
+	{
+		"de"			"X verringern"
+	}
+	
+	"Subtract from Y"
+	{
+		"de"			"Y verringern"
+	}
+	
+	"Subtract from Z"
+	{
+		"de"			"Z verringern"
+	}
+	
+	"T Allowed"
+	{
+		"de"			"Terroristen dürfen rushen."
+	}
+	
+	"CT Allowed"
+	{
+		"de"			"Counter-Terroristen dürfen rushen."
+	}
+	
+	"T Disallowed"
+	{
+		/* 1: Time in seconds until rushing is allowed */
+		"de"			"Terroristen dürfen für {1} Sekunden nicht rushen."
+	}
+	
+	"CT Disallowed"
+	{
+		/* 1: Time in seconds until rushing is allowed */
+		"de"			"Counter-Terroristen dürfen für {1} Sekunden nicht rushen."
+	}
+	
+	"Rushing Allowed"
+	{
+		"de"			"Rushen ist jetzt erlaubt."
+	}
+	
+	"Player Entered Zone"
+	{
+		/* 1: Player Name, 2: Zone Name */
+		"de"			"{1} hat die geschützte Zone \"{2}\" betreten."
+	}
+	
+	"Player Slayed"
+	{
+		/* 1: Player Name, 2: Zone Name */
+		"de"			"{1} wurde erschlagen, da er die geschützte Zone \"{2}\" betreten hat."
+	}
+	
+	"Punishment"
+	{
+		"de"			"Bestrafung"
+	}
+
+	"Default"
+	{
+		"de"			"Standard"
+	}
+
+	"Print Message"
+	{
+		"de"			"Im Chat benachrichtigen"
+	}
+
+	"Bounce Back"
+	{
+		"de"			"Spieler zurückstoßen"
+	}
+	
+	"Only Knife"
+	{
+		"de"			"Nur Messer erlauben"
+	}
+	
+	"Allow Weapons Again"
+	{
+		"de"			"Alle Waffen wieder erlauben"
+	}
+}

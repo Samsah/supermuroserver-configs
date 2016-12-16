@@ -1,0 +1,56 @@
+// This file was created on the 4-3-2013 at 13:6:48
+// with the help of me --> the Gamemodeshelper <--
+// You can still edit this file, but keep in mind that I might not be able to open the file again to edit it!
+
+"GameModes_Server.txt"
+{
+	"gameTypes"
+	{
+		"classic"
+		{
+			"gameModes"
+			{
+				"casual"
+				{
+					"maxplayers"		"30"
+
+					"exec" 
+					{
+						"exec"			"server.cfg"
+					}
+
+					"mapgroupsMP" 
+					{
+						"mg_muro"		""
+					}
+				}
+			}
+		}
+	}
+
+	"mapgroups"
+	{
+
+		"mg_muro"
+		{
+			"imagename"		"mapgroup-custom1"
+			"nameID"		"#SFUI_Mapgroup_mg_muro"
+			"name"			"mg_muro"
+			"maps"
+			{
+				"bw_brickland" "" 
+				"bw_concretehell_v2" "" 
+				"bw_Diblox_csgo" "" 
+				"bw_cookiemonster_csgo" "" 
+				"bw_marble_everywhere_csgo" "" 
+				"bw_muro_props-sand_csgo" "" 
+				"bw_muro_talvimaa2_csgo" "" 
+				"bw_muro_winter_wars_csgo" "" 
+				"bw_paraskaali2_csgo" "" 
+				"bw_proppi_disco_csgo " "" 
+				"bw_sunrise_walley2_csgo" "" 
+				"bw_xpress_csgo" ""
+			}
+		}
+	}
+}

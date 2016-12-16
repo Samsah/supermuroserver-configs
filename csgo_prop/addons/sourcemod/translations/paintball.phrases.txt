@@ -1,0 +1,20 @@
+"Phrases"
+{
+    "Paintball settings"
+    {
+        "en"            "[Paintball] Settings"
+    }
+    "Show paintball impacts"
+    {
+        "en"            "Show paintball impacts"
+    }
+    "Selected"
+    {
+        "en"            "[*]"
+    }
+    "NotSelected"
+    {
+        "en"            "[ ]"
+    }
+}
+

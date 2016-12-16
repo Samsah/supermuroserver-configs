@@ -1,0 +1,94 @@
+"BuildWars_Props"
+{
+	// "Display Name"
+	// {
+	//		"path"		""		//The path to the specified model (path/to/.mdl)
+	//		"type"		""		//The type of entity to spawn the prop as: (0 = prop_dynamic, 1 = prop_dynamic_override, 2 = prop_physics, 3 = prop_physics_multiplayer, 4 = prop_physics_override)
+	//		"access"	"1"		//Access restriction of the specified prop. (0 = None, 1 = Public, 2 = Supporters, 4 = Admins)
+	// }
+
+	"Cardboard Box"
+	{
+		"path"		"models/props/cs_assault/cardboardbox_single.mdl"
+		"type"		"0"
+		"access"	"1"
+	}
+	"Small Crate"
+	{
+		"path"		"models/props/de_dust/dust_aid_crate_56.mdl"
+		"type"		"0"
+		"access"	"1"
+	}
+	"Medium Crate"
+	{
+		"path"		"models/props/de_dust/dust_aid_crate_74.mdl"
+		"type"		"0"
+		"access"	"1"
+	}
+	"Blast Wall"
+	{
+		"path"		"models/props/props_gameplay/bomb_blast_wall02.mdl"
+		"type"		"0"
+		"access"	"1"
+	}
+//	"Data Console"
+//	{
+//		"path"		"models/props/de_prodigy/wall_console3.mdl"
+//		"type"		"0"
+//		"access"	"1"
+//	}
+	"Vending Machine"
+	{
+		"path"		"models/props/cs_office/vending_machine.mdl"
+		"type"		"0"
+		"access"	"1"
+	}
+	"Hay Bale"
+	{
+		"path"		"models/props/de_inferno/hay_bails.mdl"
+		"type"		"0"
+		"access"	"1"
+	}
+	"Wire Spool"
+	{
+		"path"		"models/props/de_vertigo/spoolwire.mdl"
+		"type"		"0"
+		"access"	"1"
+	}
+	"Drug Pallet"
+	{
+		"path"		"models/props/cs_assault/cardboardbox_single.mdl"
+		"type"		"0"
+		"access"	"1"
+	}
+	"Propane Machine"
+	{
+		"path"		"models/props/de_train/Processor_NoBase.mdl"
+		"type"		"0"
+		"access"	"1"
+	}
+	"Metal Pole"
+	{
+		"path"		"models/props_urban/metal_pole001.mdl"
+		"type"		"0"
+		"access"	"1"
+	}
+	"Bookshelf"
+	{
+		"path"		"models/props/cs_office/bookshelf1.mdl"
+		"type"		"0"
+		"access"	"1"
+	}
+	"Warehouse Shelf"
+	{
+		"path"		"models/props_industrial/warehouse_shelf002.mdl"
+		"type"		"0"
+		"access"	"1"
+	}
+	"Big Ass Rock"
+	{
+		"path"		"models/props/cs_militia/militiarock03.mdl"
+		"type"		"0"
+		"access"	"1"
+	}
+}

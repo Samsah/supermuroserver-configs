@@ -1,0 +1,113 @@
+//**********************************************  Valid Colors	***********************************************
+
+// {NORMAL}, {DARKRED}, {PINK}, {YELLOW}, {GREEN}, {LIGHTGREEN}, {RED}, {GRAY}, {BLUE}, {DARKBLUE}, {PURPLE}  *
+
+//*************************************************************************************************************
+
+
+
+"Phrases"
+
+{
+
+	"Show damage menu settings"
+	{
+		"en"			"Menu: Show Damage"
+		"fr"			"Menu: Affichage des dommages"
+	}
+	"Show damage menu settings message"
+	{
+		"#format"		"{1:s}"
+		"en"			"Show Damage: {1}"
+		"fr"			"Affichage des dommages: {1}"
+	}
+	"Head"
+	{
+        	"en"			"Head"
+		"fr"			"Tête"
+	}
+	"Chest"
+	{
+       		"en"			"Chest"
+		"fr"			"Poitrine"
+	}
+	"Stomach"
+	{
+       		"en"			"Stomach"
+		"fr"			"Ventre"
+	}
+	"Left arm"
+	{
+       		"en"			"Left arm"
+		"fr"			"Bras gauche"
+	}
+	"Right arm"
+	{
+       		"en"			"Right arm"
+		"fr"			"Bras droit"
+	}
+	"Left leg"
+	{
+       		"en"			"Left leg"
+		"fr"			"Jambe gauche"
+	}
+	"Right leg"
+	{
+      		"en"			"Right leg"
+		"fr"			"Jambe droite"
+	}
+	"Enabled"
+	{
+      		"en"			"Enabled"
+		"fr"			"Activé"
+	}
+	"Disabled"
+	{
+      		"en"			"Disabled"
+		"fr"			"Désactivé"
+	}
+	"ShowDamage_TITLE"
+	{
+      		"en"			"Menu: Show Damage"
+		"fr"			"Menu: Notifications des dommages"
+	}
+	"ShowDamage_HUD_MENU_TITLE"
+	{
+		"#format"		"{1:s}"
+      		"en"			"Show Damage: {1}"
+		"fr"			"Montrer les dommages: {1}"
+	}
+	"Show damage hit message body"
+	{
+		"#format"		"{1:s},{2:i},{3:i}"
+       		"en"			"<font color='#993300'>{1}</font>. \nHealth: <font color='#336600'>-{2}</font> | Armor: <font color='#0066CC'>-{3}</font>"
+		"fr"			"<font color='#993300'>{1}</font>. \nVie: <font color='#336600'>-{2}</font> | Armure: <font color='#0066CC'>-{3}</font>"
+	}
+	"Show damage hit message"
+	{
+		"#format"		"{1:i},{2:i}"
+       		"en"			"Health: <font color='#336600'>-{1}</font> | Armor: <font color='#0066CC'>-{2}</font>"
+		"fr"			"Vie: <font color='#336600'>-{1}</font> | Armure: <font color='#0066CC'>-{2}</font>"
+	}	
+
+	"Show damage inferno"
+	{
+		"#format"		"{1:i},{2:i},{3:i}"
+       		"en"			"Total <font color='#993300'>molotov</font> damage. \nVictims: <font color='#800000'>{1}</font> \nHealth: <font color='#336600'>-{2}</font> | Armor: <font color='#0066CC'>-{3}</font>"
+		"fr"			"Total des dommages de la <font color='#993300'>molotov</font>. \nVictimes: <font color='#800000'>{1}</font> \nVie: <font color='#336600'>-{2}</font> | Armure: <font color='#0066CC'>-{3}</font>"
+	}
+
+	"Show damage hegrenade"
+	{
+		"#format"		"{1:i},{2:i},{3:i}"
+       		"en"			"Total <font color='#993300'>hegrenade</font> damage. \nVictims: <font color='#800000'>{1}</font> \nHealth: <font color='#336600'>-{2}</font> | Armor: <font color='#0066CC'>-{3}</font>"
+		"fr"			"Total des dommages de la <font color='#993300'>grenade</font>. \nVictimes: <font color='#800000'>{1}</font>\nVie: <font color='#336600'>-{2}</font> | Armure: <font color='#0066CC'>-{3}</font>"
+	}
+	"Show damage multiple"
+	{
+		"#format"		"{1:s},{2:i},{3:i},{4:i}"
+       		"en"			"Total <font color='#993300'>{1}</font> damage. \nVictims: <font color='#800000'>{2}</font> \nHealth: <font color='#336600'>-{3}</font> | Armor: <font color='#0066CC'>-{4}</font>"
+		"fr"			"Total des dommages <font color='#993300'>{1}</font>. \nVictimes: <font color='#800000'>{2}</font>\nVie: <font color='#336600'>-{3}</font> |  Armure: <font color='#0066CC'>-{4}</font>"
+	}
+}
+

@@ -1,0 +1,19 @@
+// usage: "trigger" "Define Windows size" http://www.site.com
+// tags: {NAME} {STEAM_ID} {USER_ID} {IP} {SERVER_IP} {SERVER_PORT}
+//
+"google" "full" http://www.google.com
+"gametracker" "height=720,width=1024" http://www.gametracker.com/server_info/{SERVER_IP}:{SERVER_PORT}/
+//
+// Hidden motd testing
+//
+// If you dont want to show a windows, only a hidden motd, put "none" instead of the windows size
+// Also you can use "about:blank" for stop the motd
+//
+"!soundmotd" "none" https://www.youtube.com/watch?v=Hdum_9z2_qo&
+"!stopmotd" "none" about:blank
+//
+// fit to screen feature testing
+//
+// Use "full" instead of the windows size for adjust the windows size to the client resolution
+//
+

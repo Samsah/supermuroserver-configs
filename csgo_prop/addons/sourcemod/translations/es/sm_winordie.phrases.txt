@@ -1,0 +1,52 @@
+﻿"Phrases"
+{
+	"Defuse the bomb"
+	{
+		"es"		"Has sido slayeado por seta! La próxima vez, ve a desactivar la bomba!"
+	}
+
+	"Kill the VIP"
+	{
+		"es"		"Debido a que no has eliminado al VIP, tu célula terrorista te ha matado!"
+	}
+
+	"Protect the VIP"
+	{
+		"es"		"Has sido ejecutado por traición! La próxima vez, protege al VIP!"
+	}
+
+	"Kill terrorists"
+	{
+		"es"		"Has sido slayeado por dejar huir a los terroristas"
+	}
+
+	"Protect C4"
+	{
+		"es"		"Has sido slayeado por no proteger la C4 debidamente!"
+	}
+
+	"Dont let hostages escape"
+	{
+		"es"		"Has sido slayeado por dejar escapar a los rehenes!"
+	}
+
+	"Plant the bomb"
+	{
+		"es"		"Has sido slayeado por no ir a plantar la bomba!"
+	}
+
+	"Rescue the hostages"
+	{
+		"es"		"Has sido slayeado por no ir a rescatar a los rehenes!"
+	}
+
+	"VIP should escape"
+	{
+		"es"		"Has sido ejecutado por traición! El VIP debe escapar!"
+	}
+
+	"Free Passes Left"
+	{
+		"es"		"Oportunidades antes de ser slayeado"
+	}
+}

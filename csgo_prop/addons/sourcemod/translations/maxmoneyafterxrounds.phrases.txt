@@ -1,0 +1,15 @@
+"Phrases"
+{
+	"FullCash"
+	{
+		"#format"		""
+		"en"			"Money set to the maximum!"
+		"fr"			"Votre argent est au maximum!."
+	}
+	"SomeCash"
+	{
+		"#format"		""
+		"en"			"You received extra cash!"
+		"fr"			"Vous recevez de l'argent!."
+	}
+}

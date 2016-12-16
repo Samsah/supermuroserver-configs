@@ -1,0 +1,52 @@
+"Phrases"
+{
+	"Defuse the bomb"
+	{
+		"en"		"You have been executed for treason! Defuse the bomb next time!"
+	}
+
+	"Kill the VIP"
+	{
+		"en"		"Since you didn't kill the VIP, your terrorist cell killed you!"
+	}
+
+	"Protect the VIP"
+	{
+		"en"		"You have been executed for treason! Protect the VIP next time!"
+	}
+
+	"Kill terrorists"
+	{
+		"en"		"You have been executed for treason! Don't let the terrorists escape!"
+	}
+
+	"Protect C4"
+	{
+		"en"		"Since you didn't protect the C4 until explosion, your terrorist cell killed you!"
+	}
+
+	"Dont let hostages escape"
+	{
+		"en"		"Since you let hostages escape, your terrorist cell killed you!"
+	}
+
+	"Plant the bomb"
+	{
+		"en"		"Since you didn't plant the bomb, your terrorist cell killed you!"
+	}
+
+	"Rescue the hostages"
+	{
+		"en"		"You have been executed for treason! Rescue the hostages!"
+	}
+
+	"VIP should escape"
+	{
+		"en"		"You have been executed for treason! The VIP should escape!"
+	}
+
+	"Free Passes Left"
+	{
+		"en"		"Free passes left before getting killed"
+	}
+}
