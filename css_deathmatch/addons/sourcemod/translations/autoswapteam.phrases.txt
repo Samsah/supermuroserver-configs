@@ -1,0 +1,85 @@
+"Phrases"
+{
+	"advert_time"
+	{
+		"#format"		"{1:d}"
+		"pt"			"ATENCAO: Os times serao trocados apos {1} min!"
+		"en"			"WARNING: The teams will be exchanged after {1} minutes!"
+	}
+
+	"advert_rounds"
+	{
+		"#format"		"{1:d}"
+		"pt"			"ATENCAO: Os times serao trocados apos {1} rodadas!"
+		"en"			"WARNING: The teams will be exchanged after {1} rounds!"
+	}
+
+	"advert_wins"
+	{
+		"#format"		"{1:d}"
+		"pt"			"ATENCAO: Os times serao trocados quando um ganhar {1} rodadas!"
+		"en"			"WARNING: The teams will be changed when a win {1} rounds!"
+	}
+
+	"advert_frags"
+	{
+		"#format"		"{1:d}"
+		"pt"			"ATENCAO: Os times serao trocados quando um jogador atingir {1} pontos!"
+		"en"			"WARNING: The teams will be changed when a player reaches {1} points!"
+	}
+
+	"advert_will_swap"
+	{
+		"pt"			"ATENCAO: Os Times serao trocados ao final desta rodada!"
+		"en"			"WARNING: The teams will be exchanged at the end of this round!"
+	}
+
+	"advert_were_swap"
+	{
+		"pt"			"ATENCAO: Os times foram trocados!"
+		"en"			"WARNING: The teams were swapped!"
+	}
+
+	"invalid_steamid"
+	{
+		"pt"			"STEAM invalida!"
+		"en"			"STEAM invalid!"
+	}
+
+	"invalid_immunity"
+	{
+		"pt"			"IMUNIDADE invalida!"
+		"en"			"IMMUNITY invalid!"
+	}
+
+	"immunity_add_success"
+	{
+		"pt"			"STEAM adicionada com sucesso!"
+		"en"			"STEAM successfully added!"
+	}
+
+	"immunity_add_error"
+	{
+		"pt"			"ERRO: falha ao tentar adicionar STEAM..."
+		"en"			"ERROR: fails to add STEAM..."
+	}
+
+	"immunity_get_error"
+	{
+		"pt"			"ERRO: falha ao tentar consultar imunidade..."
+		"en"			"ERRO: fails to consult immunity..."
+	}
+
+	"immunity_del_success"
+	{
+		"pt"			"STEAM removida com sucesso!"
+		"en"			"STEAM successfully removed!"
+	}
+
+	"immunity_del_error"
+	{
+		"pt"			"ERRO: falha ao tentar remover STEAM..."
+		"en"			"ERRO: fails to remove STEAM..."
+	}
+
+}

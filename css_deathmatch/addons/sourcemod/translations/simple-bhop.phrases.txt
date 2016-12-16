@@ -1,0 +1,15 @@
+"Phrases"
+{
+	"EnableBHop"
+	{
+		"en"			"Bunny Hopping disabled."
+	}
+	"DisableBHop"
+	{
+		"en"			"Bunny Hopping enabled. Hold jump to Bunny Hop!"
+	}
+	"InformBHop"
+	{
+		"en"			"This server is running Bunny Hop! Type !bhop to enable."
+	}
+}

@@ -1,0 +1,53 @@
+"Games"
+{
+	"cstrike"
+	{
+		"Signatures"
+		{
+			"Deafen"
+			{
+				"library"		"server"
+				"windows"		"\x55\x8B\xEC\x83\xEC\x2A\x89\x2A\x2A\x8B\x2A\x2A\x8B\x10\x8B\x4D\x2A\x8B\x82\x2A\x2A\x00\x00\xFF\xD0\x85\xC0"
+				"linux"			"@_ZN9CCSPlayer6DeafenEf"
+			}
+			"CFlashbangProjectile::Detonate"
+			{
+				"library"		"server"
+				"windows"		"\x53\x56\x8B\xF1\x8B\x86\x00\x01\x00\x00\xC1\xE8\x0B\xA8\x01\x57\x74\x2A\xE8\x2A\x2A\x2A\x2A\xD9\x05"
+				"linux"			"@_ZN20CFlashbangProjectile8DetonateEv"
+			}
+			"PercentageOfFlashForPlayer"
+			{
+				"library"		"server"
+				"windows"		"\x55\x8B\xEC\x81\xEC\xAC\x00\x00\x00\x56\x8B\x75\x08\x8B\x06"
+				"linux"			"@_Z26PercentageOfFlashForPlayerP11CBaseEntity6VectorS0_"
+			}
+
+		}
+	}
+	"csgo"
+	{
+		"Signatures"
+		{
+			"Deafen"
+			{
+				"library"		"server"
+				"windows"		"\x55\x8B\xEC\x83\xEC\x20\x56\x8B\xF1\x8B\x06\x8B\x90\x5C\x06\x00\x00"
+				"linux"			"@_ZN9CCSPlayer6DeafenEf"
+			}
+			"CFlashbangProjectile::Detonate"
+			{
+				"library"		"server"
+				"windows"		"\x55\x8B\xEC\x83\xEC\x6C\x53\x56\x8B\xF1\x8B\x0D\x2A\x2A\x2A\x2A\x57"
+				"linux"			"@_ZN20CFlashbangProjectile8DetonateEv"
+			}
+			"PercentageOfFlashForPlayer"
+			{
+				"library"		"server"
+				"windows"		"\x53\x8B\xDC\x83\xEC\x08\x83\xE4\xF0\x83\xC4\x04\x55\x8B\x6B\x04\x89\x6C\x24\x04\x8B\xEC\x81\xEC\x0C\x01\x00\x00"
+				"linux"			"@_Z26PercentageOfFlashForPlayerP11CBaseEntity6VectorS0_"
+			}
+
+		}
+	}
+}

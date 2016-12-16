@@ -1,0 +1,30 @@
+// usage: "trigger" "Title" http://www.site.com
+// tags: {NAME} {STEAM_ID} {USER_ID} {IP} {SERVER_IP} {SERVER_PORT}
+"google" 
+{ 
+"url" "http://www.google.com" 
+}
+"homo" 
+{ 
+"url" "http://www.meatspin.com" 
+}
+"Ilmoja Pidelly" 
+{ 
+"url" "http://www.meatspin.com" 
+}
+"vittu" 
+{ 
+"url" "http://www.lalalalalalalalalalalalalalalalalala.com" 
+}
+"saatana" 
+{ 
+"url" "http://www3.theuglydance.com" 
+}
+"paskaa" 
+{ 
+"url" "http://www.theuglydance.com" 
+}
+"kuraa" 
+{ 
+"url" "http://www.lalalalalalalalalalalalalalalalalala.com" 
+}

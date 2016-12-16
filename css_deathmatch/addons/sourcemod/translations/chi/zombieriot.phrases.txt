@@ -1,0 +1,199 @@
+"Phrases"
+{
+	// ===========================
+	// 聊天框信息
+	// ===========================
+
+	"Round objective"
+	{
+		"chi"		"这个游戏模式是@green人类 vs. 僵尸@default, 人类必须杀死所有僵尸才可以进入下一关."
+	}
+
+	"Feature is disabled"
+	{
+		"chi"		"这项功能已被服务器所禁止."
+	}
+
+	"Must be alive"
+	{
+		"chi"		"你只能在活着的时候使用这项命令."
+	}
+
+	"Must be dead"
+	{
+		"chi"		"你只能在死亡的时候使用这项命令."
+	}
+
+	"!spawn reminder"
+	{
+		"chi"		"在聊天框输入 \"!spawn\" 来加入游戏."
+	}
+
+	"!market reminder"
+	{
+		"chi"		"在聊天框输入 \"!market\" 来购买CT所不能购买的武器."
+	}
+
+	"You are now a zombie"
+	{
+		"chi"		"你被感染成为僵尸，你的目标就是感染其他人类."
+	}
+
+	"Game won"
+	{
+		"chi"		"僵尸的攻势已经被人类镇压！"
+	}
+
+	"Skip to day"
+	{
+		"#format"	"{1:d}"
+		"chi"		"切换到第{1}天"
+	}
+
+	"Respawn time"
+	{
+		"#format"	"{1:d}"
+		"chi"		"你将在 {1} 秒后重生."
+	}
+
+	"Market out of buyzone"
+	{
+		"chi"		"你不在购买区内."
+	}
+
+	"Weapon has been restricted"
+	{
+		"#format"	"{1:s}"
+		"chi"		"@green\"{1}\" @default在这个模式内是禁止的"
+	}
+
+	"Weapon group has been restricted"
+	{
+		"#format"	"{1:s}"
+		"chi"		"@green\"{1}\" @default在这个模式内是禁止的"
+	}
+
+	"Weapon has been unrestricted"
+	{
+		"#format"	"{1:s}"
+		"chi"		"@green\"{1}\" @default在这个模式内不受限制"
+	}
+
+	"Weapon group has been unrestricted"
+	{
+		"#format"	"{1:s}"
+		"chi"		"@green\"{1}\" @default在这个模式内是禁止的"
+	}
+
+	"Weapon is restricted"
+	{
+		"#format"	"{1:s}"
+		"chi"		"@green{1} @default是禁止的"
+	}
+
+	"Weapon already restricted"
+	{
+		"#format"	"{1:s}"
+		"chi"		"@green\"{1}\" @default在这个模式内是禁止的"
+	}
+
+	"Weapon invalid"
+	{
+		"#format"	"{1:s}"
+		"chi"		"@green\"{1}\" @default在这个模式内是无效的，但没有被禁止"
+	}
+
+	"Zombie cant use weapon"
+	{
+		"chi"		"僵尸不能使用武器"
+	}
+
+	"Suicide text"
+	{
+		"chi"		"强烈鄙视自杀者 (#‵′)凸"
+	}
+
+	"DX90 not supported"
+	{
+		"#format"	"{1:d},{2:d}"
+		"chi"		"贴图覆盖失败-原因：你的DX等级是 DX{1} (需要 DX{2})"
+	}
+	// ===========================
+	// 菜单
+	// ===========================
+
+	"Market title"
+	{
+		"chi"		"可供购买的枪："
+	}
+
+	"Market rebuy"
+	{
+		"chi"		"购买上局武器"
+	}
+
+	// ===========================
+	// Hud显示
+	// ===========================
+
+	"HUD"
+	{
+		"#format"	"{1:d},{2:d},{3:s},{4:d},{5:d}"
+		"chi"		"第 {1}/{2} 天 - {3}\n僵尸剩余: {4}\n人类剩余: {5}\n "
+	}
+
+	"HUD target"
+	{
+		"#format"	"{1:d},{2:d},{3:s},{4:d},{5:d},{6:N},{7:d}"
+		"chi"		"第 {1}/{2} 天 - {3}\n僵尸剩余: {4}\n人类剩余: {5}\n目标: {6} | 生命值: {7}"
+	}
+
+	// ===========================
+	// 服务器信息
+	// ===========================
+
+	"ZRiot"
+	{
+		"chi"		"僵尸暴动"
+	}
+
+	"Plugin loading"
+	{
+		"chi"		"-----------|         僵尸暴动载入中        |----------"
+	}
+
+	"Plugin loaded"
+	{
+		"chi"		"-----------|         僵尸暴动已载入        |----------"
+	}
+
+	"Hostname prefix"
+	{
+		"#format"	"{1:d},{2:d}"
+		"chi"		"[暴动天数{1}/{2}]请在此设置服务器名并保存为UTF8无BOM编码"
+	}
+
+	"Restrict weapon mapstart"
+	{
+		"#format"	"{1:s}"
+		"chi"		"限制武器: {1}"
+	}
+	
+	"Restrict weapon group mapstart"
+	{
+		"#format"	"{1:s}"
+		"chi"		"限制武器组: {1}"
+	}
+
+	"Ambient sound load failed"
+	{
+		"#format"	"{1:s}"
+		"chi"		"无效的声音文件: {1}"
+	}
+
+	"File load failed"
+	{
+		"#format"	"{1:s}"
+		"chi"		"无效的文件: \"{1}\",请检查downloads.txt"
+	}
+}

@@ -1,0 +1,71 @@
+"Phrases"
+{
+	"Prefix_Chat"
+	{
+		"#format"	""
+		"en"		"{white}Spawning: {default}"
+	}
+	"Prefix_Other"
+	{
+		"#format"	""
+		"en"		"Spawning"
+	}
+	//* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+	"Phrase_Remaining_Spawn"
+	{
+		"#format"	"{1:d}"
+		"en"		"You have {1} spawn remaining!"
+	}
+	"Phrase_Remaining_Spawns"
+	{
+		"#format"	"{1:d}"
+		"en"		"You have {1} spawns remaining!"
+	}
+	"Phrase_Spawning_Disabled"
+	{
+		"#format"	""
+		"en"		"The ability to spawn has been disabled for the rest of the round!"
+	}
+	"Phrase_Spawn_Delay"
+	{
+		"#format"	"{1:.1f}"
+		"en"		"You will spawn in {1} seconds!"
+	}
+	"Phrase_Punish_ReTeam"
+	{
+		"#format"	"{1:.d}"
+		"en"		"You cannot return to a team for {1} more seconds! Spectate is not to be used to respawn."
+	}
+	"Phrase_Spawning_Next"
+	{
+		"#format"	""
+		"en"		"You will be spawned on the next round!"
+	}
+	//* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+	"Menu_Respawn_Title"
+	{
+		"#format"	""
+		"en"		"Would you like to respawn now?"
+	}
+	"Menu_Respawn_Option_Yes"
+	{
+		"#format"	""
+		"en"		"Yes!"
+	}
+	"Menu_Respawn_Option_No"
+	{
+		"#format"	""
+		"en"		"No!"
+	}
+	//* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+	"Phrase_Respawn_Not_Available"
+	{
+		"#format"	""
+		"en"		"Your ability to respawn is no longer available!"
+	}
+	"Phrase_Respawn_Menu_Closed"
+	{
+		"#format"	""
+		"en"		"Your respawn menu has closed; type !spawnmenu to open it again!"
+	}
+}

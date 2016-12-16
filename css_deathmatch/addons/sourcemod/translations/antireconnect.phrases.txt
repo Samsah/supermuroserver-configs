@@ -1,0 +1,16 @@
+﻿"Phrases"
+{
+	"You are not allowed to reconnect for X seconds"
+	{
+		"#format"		"{1:d}"
+		"en"			"You are not allowed to reconnect for {1} seconds"
+		"ru"			"Вы не можете переподключиться раньше, чем через {1} секунд"
+		"de"			"Du darfst erst in {1} Sekunden wieder auf den Server"
+		"fr"			"Vous devez attendre {1} secondes pour pouvoir vous reconnectez"
+		"hu"			"Újracsatlakozás nincs engedélyezve {1} másodpercig"
+		"da"			"Du har ikke tilladelse til at reconnect for {1} sekund"
+		"sv"			"Du är inte tillåtet att återansluta till {1} sekund"
+		"no"			"Du er ikke lov å koble til {1} sekund"
+		"pl"			"Nie możesz zrobić reconnecta przez {1} sekund"
+	}
+}
