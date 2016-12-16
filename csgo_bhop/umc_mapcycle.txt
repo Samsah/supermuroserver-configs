@@ -1,0 +1,163 @@
+"umc_mapcycle"
+{
+	"Bhop"
+	{
+		"maps_invote"	"5"
+		"bhop_3d_csgo" { 
+			"display" "[Tier 1] 3d_csgo" 
+		}
+		"bhop_addict_v2_csgo" {
+			"display" "[Tier 3] Addict_v2_csgo"
+		}
+		"bhop_arcane_csgo" {
+			"display" "[Tier 5] Arcane_csgo"
+		}
+		"bhop_areaportal_v1" {
+			"display" "[Tier 3] Areaportal_v1"
+		}
+		"bhop_at_night_csgo" {
+			"display" "[Tier 1] At_night_csgo"
+		}
+		"bhop_babes_csgo" {
+			"display" "[Tier 1] Babes_csgo"
+		}
+		"bhop_badges_mini_csgo" {
+			"display" "[Tier 10] Badges_mini_csgo"
+		}
+		"bhop_bitches_csgo" {
+			"display" "[Tier 1] Bitches_csgo"
+		}
+		"bhop_blue_abstract" {
+			"display" "[Tier 1] Blue_abstract"
+		}
+		"bhop_cartoons_csgo" {
+			"display" "[Tier 2] Cartoons_csgo"
+		}
+		"bhop_cobblestones_csgo" {
+			"display" "[Tier 1] Cobblestones_csgo"
+		}
+		"bhop_colour_v1" {
+			"display" "[Tier 2] Colour_v1"
+		}
+		"bhop_danmark_csgo" {
+			"display" "[Tier 2] Danmark_csgo"
+		}
+		"bhop_darkness_csgo" {
+			"display" "[Tier 1] Darkness_csgo"
+		}
+		"bhop_dev_v1_csgo" {
+			"display" "[Tier 6] Dev_v1_csgo"
+		}
+		"bhop_duality_csgo" {
+			"display" "[Tier 1] Duality_csgo"
+		}
+		"bhop_eazy_csgo_fixd" {
+			"display" "[Tier 1] Eazy_csgo_fixd"
+		}
+		"bhop_freakin_csgo" {
+			"display" "[Tier 10] Freakin_csgo"
+		}
+		"bhop_gismo_csgo" {
+			"display" "[Tier 4] Gismo_csgo"
+		}
+		"bhop_greenhouse_csgo" {
+			"display" "[Tier 1] Greenhouse_csgo"
+		}
+		"bhop_icosa_csgo" {
+			"display" "[Tier 1] Icosa_csgo"
+		}
+		"bhop_illusionary" {
+			"display" "[Tier 7] Illusionary"
+		}
+		"bhop_japan" {
+			"display" "[Tier 5] Japan"
+		}
+		"bhop_kiwi_cwfx_csgo" {
+			"display" "[Tier 1] Kiwi_cwfx_csgo"
+		}
+		"bhop_larena_nodoors_csgo" {
+			"display" "[Tier 2] Larena_nodoors_csgo"
+		}
+		"bhop_legion" {
+			"display" "[Tier 2] Legion"
+		}
+		"bhop_lego_csgo" {
+			"display" "[Tier 1] Lego_csgo"
+		}
+		"bhop_lego2" {
+			"display" "[Tier 10] Lego2"
+		}
+		"bhop_miku_csgo" {
+			"display" "[Tier 1] Miku_csgo"
+		}
+		"bhop_militia_v2" {
+			"display" "[Tier 1] Militia_v2"
+		}
+		"bhop_mine_csgo" {
+			"display" "[Tier 8] Mine_csgo"
+		}
+		"bhop_minecraft_csgo" {
+			"display" "[Tier 2] Minecraft_csgo"
+		}
+		"bhop_mixtape_csgo" {
+			"display" "[Tier 1] Mixtape_csgo"
+		}
+		"bhop_mp_stairs_hq_csgo" {
+			"display" "[Tier 1] Mp_stairs_hq_csgo"
+		}
+		"bhop_nameless_csgo" {
+			"display" "[Tier 1] Nameless_csgo"
+		}
+		"bhop_nubia_fix" {
+			"display" "[Tier 3] Nubia_fix"
+		}
+		"bhop_null" {
+			"display" "[Tier 10] Null"
+		}
+		"bhop_overline" {
+			"display" "[Tier 1] Overline"
+		}
+		"bhop_pims_cwfx_csgo" {
+			"display" "[Tier 1] Pims_cwfx_csgo"
+		}
+		"bhop_pinky_csgo_fix" {
+			"display" "[Tier 1] Pinky_csgo_fix"
+		}
+		"bhop_playboy_csgo" {
+			"display" "[Tier 3] Playboy_csgo"
+		}
+		"bhop_screelee_fix_csgo" {
+			"display" "[Tier 3] Screelee_fix_csgo"
+		}
+		"bhop_shades_csgo" {
+			"display" "[Tier 2] Shades_csgo"
+		}
+		"bhop_sketchy_v4_csgo" {
+			"display" "[Tier 2] Sketchy_v4_csgo"
+		}
+		"bhop_sleepless_lg" {
+			"display" "[Tier 2] Sleepless_lg"
+		}
+		"bhop_soaatana_csgo" {
+			"display" "[Tier 1] Soaatana_csgo"
+		}
+		"bhop_soft_csgo" {
+			"display" "[Tier 3] Soft_csgo"
+		}
+		"bhop_sqee_csgo" {
+			"display" "[Tier 10] Sqee_csgo"
+		}
+		"bhop_tasku" {
+			"display" "[Tier 1] Tasku"
+		}
+		"bhop_tropic_csgo" {
+			"display" "[Tier 2] Tropic_csgo"
+		}
+		"bhop_unkn0wn_v2" {
+			"display" "[Tier 3] Unkn0wn_v2"
+		}
+		"bhop_zygos" {
+			"display" "[Tier 3] Zygos"
+		}
+	}
+}
