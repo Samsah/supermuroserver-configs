@@ -1,0 +1,544 @@
+﻿"Phrases"
+{
+	//Kick reason
+	"TK Limit Reached"
+	{
+		"en"			"TK Limit Reached"
+		"de"			"TK Limit ist erreicht"
+		"hu"			"TK Limit Elerve"
+		"es"			"Has alcanzado el limite de TK."
+		"fr"			"Limite TK atteinte"
+		"pl"			"Osiagneles limit TK."
+		"chi"			"TK 上限已到"
+		"ru"			"Достигнут лимит TK."
+		"it"			"Limite max di TK raggiunto"
+	}
+
+	//Menu title
+	//Forgive {AttackerName}?
+	"ForgiveMenu"
+	{
+		"en"			"Forgive %s?"
+		"de"			"Vergibst Du %s?"
+		"hu"			"Megbocsajtasz %s -nak?"
+		"es"			"Perdonar %s?
+		"fr"			"Pardonner %s?"
+		"pl"			"Wybaczyc %s?"
+		"chi"			"原谅 %s?"
+		"ru"			"простить %s?"
+		"it"			"Perdona %s?"
+	}
+
+	//Menu title
+	//Punish {AttackerName}
+	"PunishMenu"
+	{
+		"en"			"Punish %s"
+		"de"			"%s bestrafen"
+		"hu"			"Megbunteted %s"
+		"es"			"Castigar %s"
+		"fr"			"Punir %s"
+		"pl"			"Ukaraj %s"
+		"chi"			"惩罚 %s"
+		"ru"			"наказать %s"
+		"it"			"Punisci %s"
+	}
+
+	//Menu option
+	"Yes"
+	{
+		"en"			"Yes"
+		"de"			"Ja"
+		"hu"			"Igen"
+		"es"			"Si"
+		"fr"			"Oui"
+		"pl"			"Tak"
+		"chi"			"是"
+		"ru"			"Да"
+		"it"			"Si"
+	}
+
+	//Menu option
+	"No"
+	{
+		"en"			"No"
+		"de"			"Nein"
+		"hu"			"Nem"
+		"es"			"No"
+		"fr"			"Non"
+		"pl"			"Nie"
+		"chi"			"不"
+		"ru"			"Нет"
+		"en"			"No"
+	}
+
+	//Menu option
+	"Warn"
+	{
+		"en"			"Warn"
+		"de"			"Warnen"
+		"hu"			"Figylemeztet"
+		"es"			"Advertir"
+		"fr"			"Avertir"
+		"pl"			"Ostrzezenie"
+		"chi"			"警告"
+		"ru"			"Предупредить"
+		"it"			"Attenzione"
+	}
+
+	//Menu option
+	"Slay"
+	{
+		"en"			"Slay"
+		"de"			"Toeten"
+		"hu"			"Leut"
+		"es"			"Matar"
+		"fr"			"Assassiner(Slay)"
+		"pl"			"Zgladz"
+		"chi"			"处死"
+		"ru"			"Убить"
+		"it"			"Uccidi"
+	}
+
+	//Menu option
+	"Burn"
+	{
+		"en"			"Burn"
+		"de"			"Verbrennen"
+		"hu"			"Meggyujt"
+		"es"			"Quemar"
+		"fr"			"Bruler"
+		"pl"			"Podpal"
+		"chi"			"烧烤"
+		"ru"			"Поджечь"
+		"it"			"Brucia"
+	}
+
+	//Menu option
+	"Freeze"
+	{
+		"en"			"Freeze"
+		"de"			"Einfrieren"
+		"hu"			"Fagyaszd"
+		"es"			"Congelar"
+		"fr"			"Congeler"
+		"pl"			"Zamroz"
+		"chi"			"冻结"
+		"ru"			"Заморозить"
+		"it"			"Congela"
+	}
+
+	//Menu option
+	"Beacon"
+	{
+		"en"			"Beacon"
+		"de"			"Blinklicht"
+		"hu"			"Jelzofeny"
+		"es"			"Congelar"
+		"fr"			"Baliser"
+		"pl"			"Oznacz"
+		"chi"			"点灯"
+		"ru"			"Маяк"
+		"it"			"Anello rosso"
+	}
+
+	//Menu option
+	"FreezeBomb"
+	{
+		"en"			"Freeze Bomb"
+		"de"			"Gefrier-Bombe"
+		"hu"			"Jeg bomba"
+		"es"			"Bomba de Congelacion"
+		"fr"			"Bombe Gel"
+		"pl"			"Zamrazajaca bomba"
+		"chi"			"冰冻弹"
+		"ru"			"Замораживающая бомба"
+		"it"			"Congela bomba"
+	}
+
+	//Menu option
+	"FireBomb"
+	{
+		"en"			"Fire Bomb"
+		"de"			"Feuer-Bombe"
+		"hu"			"Tuz bomba"
+		"es"			"Bomba de Fuego"
+		"fr"			"Bombe Incendiaire"
+		"pl"			"Ognista bomba"
+		"chi"			"燃烧弹"
+		"ru"			"Зажигательная бомба"
+		"it"			"Bomba esplosiva"
+	}
+
+	//Menu option
+	"TimeBomb"
+	{
+		"en"			"Time Bomb"
+		"de"			"Zeitbombe"
+		"hu"			"Idozitett bomba"
+		"es"			"Bomba de tiempo"
+		"fr"			"Bombe a Retardement"
+		"pl"			"Bomba zegarowa"
+		"chi"			"定时炸弹"
+		"ru"			"Часовая бомба"
+		"it"			"Tempo bomba"
+	}
+
+	//Menu option
+	"Slap"
+	{
+		"en"			"Slap"
+		"de"			"Schlagen"
+		"hu"			"Pofon"
+		"es"			"Slap"
+		"fr"			"Baffer(Slap)"
+		"pl"			"Uderz"
+		"chi"			"拍打"
+		"ru"			"Урон"
+		"it"			"Slappa"
+	}
+
+	//Menu option
+	//Remove {Amount}% Cash
+	"RemoveCash"
+	{
+		"en"			"Remove %d%% Cash"
+		"de"			"Entferne %d%% Cash"
+		"hu"			"Elveszel %d%% Penzt"
+		"es"			"Borrar %d%% Cash"
+		"fr"			"Enlever %d%% Cash"
+		"pl"			"Zabierz %d%% pieniedzy"
+		"chi"			"扣除 %d%% 现金"
+		"ru"			"Удалаю %d%% Денег"
+		"it"			"Sottratto %d%% Cash"
+	}
+
+	//Menu option
+	"Drug"
+	{
+		"en"			"Drug"
+		"de"			"Drogen"
+		"hu"			"Drogozd"
+		"es"			"Drogar"
+		"fr"			"Droguer"
+		"pl"			"Nacpaj"
+		"chi"			"喂药"
+		"ru"			"Опьянить"
+		"it"			"Drogato"
+	}
+
+	//Punishment message
+	//{VictimName} warned for you team killing
+	"Warned"
+	{
+		"en"			"%s warned you for team killing."
+		"de"			"%s hat dich fur das Team Killing gewarnt."
+		"hu"			"%s felhivja a fgiyelmed aTK-ra."
+		"es"			"%s ha sido advertido por su TK."
+		"fr"			"%s vous lance un avertissement pour TK."
+		"pl"			"%s dal tobie ostrzezenie za zabicie czlonka swojej druzyny."
+		"chi"			"%s 警告您不要自相残杀."
+		"ru"			"%s предупредил тебя за тимкил."
+		"it"			"%s avvisato per TK."
+	}
+
+	//Punishment message
+	//{VictimName} slayed {AttackerName} for team killing.
+	"Slayed"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} slayed {2} for team killing."
+		"de"			"{1] totet {2} fur das Team Killing."
+		"hu"			"{1} leutotte {2} a TK-er."
+		"es"			"{1} ha sido matado por {2} por hacerle TK."
+		"fr"			"{1} a massacre {2} pour son TK."
+		"pl"			"{1} zgladzil {2} za zabicie czlonka swojej druzyny."
+		"chi"			"{1} 因为 {2} 自相残杀而拍打了后者."
+		"ru"			"{1} убил {2} за тимкил."
+		"it"			"{1} ucciso {2} per TK."
+	}
+
+	//Punishment message
+	//{VictimName} burnt {AttackerName} for team killing.
+	"Burnt"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} burnt {2} for team killing."
+		"de"			"{1} verbrennt {2} fur das Team Killing."
+		"hu"			"{1} meggyutotta {2} a TK-er."
+		"es"			"{1} ha quemado a {2} por el TK."
+		"fr"			"{1} a brule {2} pour son TK."
+		"pl"			"{1} podpalil {2} za zabicie czlonka swojej druzyny."
+		"chi"			"{1} 因为 {2} 自相残杀而把后者烤了."
+		"ru"			"{1} поджог {2} за тимкил."
+		"it"			"{1} bruciato {2} per TK."
+	}
+
+	//Punishment message
+	//{VictimName} froze {AttackerName} for team killing.
+	"Froze"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} froze {2} for team killing."
+		"de"			"{1} friert {2} ein fur das Team Killing."
+		"hu"			"{1} lefagyasztott {2} a TK miatt."
+		"es"			"{1} ha congelado a {2} por el TK."
+		"fr"			"{1} a congele {2} pour son TK."
+		"pl"			"{1} zamrozil {2} za zabicie czlonka swojej druzyny."
+		"chi"			"{1} 因为 {2} 自相残杀而把后者冻起来了."
+		"ru"			"{1} заморозил {2} за тимкил."
+		"it"			"{1} congelato {2} per TK."
+	}
+
+	//Punishment message
+	//{VictimName} put a beacon {AttackerName} for team killing.
+	"Beaconed"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} put a beacon on {2} for team killing."
+		"de"			 "{1} gibt {2} ein Blinklicht fur das Team killing."
+		"hu"			"{1} jlezofenyt tett {2}  -ra a TK miatt."
+		"es"			"{1} ne ha puesto un beacon a {2} por el TK."
+		"fr"			"{1} a balise {2} pour son TK."
+		"pl"			"{1} oznaczyl {2} za zabicie czlonka swojej druzyny."
+		"chi"			"{1} 因为 {2} 自相残杀而把后者点了灯."
+		"ru"			"{1} поставил маяк на {2} за тимкил."
+		"it"			"{1} ha messo anello rosso a {2} per TK."
+	}
+	
+	//Punishment message
+	//{VictimName} put a freeze bomb {AttackerName} for team killing.
+	"FreezeBombed"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} put a freeze bomb on {2} for team killing."
+		"de"			"{1} gibt {2} eine Gefrier-Bombe furs TK."
+		"hu"			"{1} jegbombava valtoztatta {2} a TK miatt."
+		"es"			"{1} le ha puesto una bomba de congelacion a {2} por el TK."
+		"fr"			"{1} a transforme {2} en bombe a congeler pour son TK."
+		"pl"			"{1} zmienil {2} w zamrazajaca bombe za zabicie czlonka swojej druzyny."
+		"chi"			"{1} 因为 {2} 自相残杀而在后者身上放置了冰冻弹."
+		"ru"			"{1} поставил замораживающую бомбу на {2} за тимкил."
+		"it"			"{1} ha messo una bomba congelata a {2} per TK."
+	}
+
+	//Punishment message
+	//{VictimName} put a fire bomb {AttackerName} for team killing.
+	"FireBombed"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} put a fire bomb on {2} for team killing."
+		"de"			"{1} gibt {2} eine Feuer-Bombe furs TK."
+		"hu"			"{1} tuzbombava valtoztatta {2} a TK miatt."
+		"es"			"{1} le ha puesto una bomba de fuego a {2} por el TK."
+		"fr"			"{1} a transforme {2} en bombe incendiaire pour son TK."
+		"pl"			"{1} zmienil {2} w ognista bombe za zabicie czlonka swojej druzyny."
+		"chi"			"{1} 因为 {2} 自相残杀而在后者身上放置了燃烧弹."
+		"ru"			"{1} поставил зажигательную бомбу на {2} за тимкил."
+		"it"			"{1} ha messo una bomba esplosiva a {2} per TK."
+	}
+
+	//Punishment message
+	//{VictimName} put a time bomb {AttackerName} for team killing.
+	"TimeBombed"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} put a time bomb on {2} for team killing."
+		"de"			"{1} gibt {2} eine Zeitbombe furs TK."
+		"hu"			"{1} idozitettbombava valtoztatta {2} a TK miatt."
+		"es"			"{1} le ha puesto una bomba de tiempo a {2} por el TK."
+		"fr"			"{1} a transforme {2} en bombe a retardement pour son TK."
+		"pl"			"{1} zamienil {2} w bombe zegarowa za zabicie czlonka swojej druzyny."
+		"chi"			"{1} 因为 {2} 自相残杀而在后者身上放置了定时炸弹."
+		"ru"			"{1}  поставил временную бомбу на {2} за тимкил."
+		"it"			"{1} ha messo una bomba ad orologieria a {2} per TK."
+	}
+
+	//Punishment message
+	//{VictimName} slapped {AttackerName} for {Amount} dmg for team killing.
+	"Slapped"
+	{
+		"#format"		"{1:s},{2:s},{3:d}"
+		"en"			"{1} slapped {2} for {3} dmg team killing."
+		"de"			"{1} schlagt {2} fur das TK."
+		"hu"			"{1} felpofozta {2} {3} sebzessel a TK miatt."
+		"es"			"{1} ha slapeado a {2} por el TK."
+		"fr"			"{1} a gifle {2} et lui ote {3} dmg pour son TK."
+		"pl"			"{1} uderzyl {2} za {3} obrazen za zabicie czlonka swojej druzyny."
+		"chi"			"{1} 因为 {2} 自相残杀给其造成的 {3} 点伤害而拍打了后者."
+		"ru"			"{1} шлёпнул {2} на {3} dmg за тимкил."
+		"it"			"{1} ha slappato {2} per {3} danni TK."
+	}
+
+	//Punishment message
+	//{VictimName} removed {Amount}% of {AttackerName}'s cash for team killing.
+	"CashRemoved"
+	{
+		"#format"		"{1:s},{2:d},{3:s}"
+		"en"			"{1} removed {2}%% of {3}'s cash for team killing."
+		"de"			 "{1} nimmt {2}%% von {3}'s geld weg.
+		"hu"			"{1} elvett {2}%% penezebol {3} a TK miatt."
+		"es"			"{1} ha borrado a {2}%% of {3}'s cash por el TK."
+		"fr"			"{1} enleve {2}%% du cash de {3} pour son TK."
+		"pl"			"{1} zabral {2}%% pieniedzy od {3} za zabicie czlonka swojej druzyny."
+		"chi"			"{1} 因为受自相残杀而扣除了 {2}%% / {3} 的现金."
+		"ru"			"{1} забрал {2}%% от {3} Деньги за тимкил."
+		"it"			"{1} ha sottratto {2}%% di {3}'s cash per TK."
+	}
+
+	//Punishment message
+	//{VictimName} drugged {AttackerName} for team killing.
+	"Drugged"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} drugged {2} for team killing."
+		"de"			"{1} setzt {2} unter Drogen furs TK."
+		"hu"			"{1} bedrogozta {2} a TK-er."
+		"es"			"{1} ha drogado a {2} por el TK."
+		"fr"			"{1} a drogue {2} pour son TK."
+		"pl"			"{1} nacpal {2} za zabicie czlonka swojej druzyny."
+		"chi"			"{1} 因为 {2} 自相残杀而喂后者吃了药."
+		"ru"			"{1}  опьянил {2} за тимкил."
+		"it"			"{1} ha drogato {2} per TK."
+	}
+
+	//Punishment message
+	"TKSlayed"
+	{
+		"en"			"You have been punished for team attacking too much."
+		"de"			"Du wurdest wegen zu vieler TKs erschlagen."
+		"hu"			"Leutottek mert sokat TK-tal."
+		"es"			"Has sido castigado por hacer muchos TKS."
+		"fr"			"Vous avez ete puni(e) pour exces d'attaques sur vos coequipiers."
+		"pl"			"Zostales ukarany za atakowanie w zbyt duzym stopniu czlonkow swojej druzyny."
+		"chi"			"您因为自相残杀而受到的惩罚太多了吧."
+		"ru"			"Вы наказаны за чрезмернный огонь по своим."
+		"it"			"Sei stato punito per troppi TK."
+	}
+
+	//Punishment message
+	"Spawn"
+	{
+		"en"			"You have been punished for team attacking in spawn."
+		"de"			"Du wurdest wegen zu vieler TKs im Spawn erschlagen."
+		"hu"			"Kezdo TK miatt meg lettel buntetve"
+		"es"			"Has sido castigado por hacer TK en el respawn."
+		"fr"			"Vous avez ete puni(e) pour attaque au Spawn."
+		"pl"			"Zostales ukarany za atakowanie czlonkow swojej druzyny na poczatku rundy."
+		"chi"			"您由于在出生点自相残杀而受到了惩罚."
+		"ru"			"Вы наказаны за чрезмернный огонь по своим."
+		"it"			"Sei stato punito per aver fatto TK in base."
+	}
+
+	//Broadcast message
+	//{AttackerName} ({Attacker SteamID}) has reached the TK limit and has been kicked.
+	"Kicked"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} ({2}) has reached the TK limit and has been kicked."
+		"de"			"{1} ({2}) hat sein TK Limit erreicht und wurde gekickt."
+		"hu"			"{1} ({2}) elerte a TK limitet es ki lett rugva"
+		"es"			"{1} ({2}) ha llegado al limite de los TKS y ha sido kikeado."
+		"fr"			"{1} ({2}) a atteint la limite des TK autorises et a ete kicke(e)."
+		"pl"			"{1} ({2}) osiagnal limit TK wiec zostal wykopany z servera."
+		"chi"			"{1} ({2}) 达到了 TK 上限而被自动踢出了."
+		"ru"			"{1} ({2}) превысил TK лимит и был кикнут."
+		"it"			"{1} ({2}) ha raggiunto il numero massimo di TK ed è stato kickato."
+	}
+
+	//Broadcast message
+	//{VictimName} forgave {AttackerName} for tking
+	"Forgave"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} forgave {2} for tking."
+		"de"			"{1} vergab {2} den Teamkill."
+		"hu"			"{1} megbocsajtotta a TK-t {2} -nek ."
+		"es"			"{1} ha perdonado el TK a {2}."
+		"fr"			"{1} a pardonne {2} pour son TK."
+		"pl"			"{1} wybaczyl {2} za zabicie czlonka swojej druzyny."
+		"chi"			"{1} 原谅了 {2} 自相残杀的行为."
+		"ru"			"{1}  простил {2} за тимкил."
+		"it"			"{1} ha perdonato {2} per TK."
+	}
+	
+	//Broadcast message
+	//{VictimName} automatically forgave {AttackerName} for tking because he/she is busy.
+	"Auto Forgave"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} automatically forgave {2} for tking because he/she is busy."
+		"de"			"{1} vergibt {2} den Teamkill automatisch , weil er/sie beschaftigt ist."
+		"hu"			"{1} automatikusan megbocsajtotta a TK-t {2} -nek  mert tul elfoglat volt."
+		"es"			"{1} ha perdonado automaticamente a {2} por el TK debido a que no le ha dado al boton."
+		"fr"			"{1} a pardonne {2} automatiquement pour son TK. Il/Elle est occupe(e)."
+		"pl"			"{1} automatycznie wybaczyl {2} zabicie czlonka swojej druzyny gdyz uplynal czas podjecia decyzji."
+		"chi"			"{1} 自动原谅了 {2} 自相残杀的行为, 因为这会儿他正忙着呢."
+		"ru"			"{1} автоматически простил  {2} за ТК, потому что занят."
+		"it"			"{1} perdonato automaticamente {2} per TK in quanto occupato/a."
+	}
+
+	//Broadcast message
+	//{VictimName} automatically forgave {AttackerName} for tking because he/she is an admin.
+	"Auto Forgave Admin"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} automatically forgave {2} for tking because he/she is an admin."
+		"de"			"{1} vergibt {2} den Teamkill automatisch , weil er/sie ein Admin ist."
+		"hu"			"{1} automatikisan megbocsajtotta a TK-t {2} -nek mert admin volt."
+		"es"			"{1} ha perdonado automaticamente a {2} porque es un admin."
+		"fr"			"{1} a pardonne {2} automatiquement pour son TK. Il/Elle est admin."
+		"pl"			"{1} automatycznie wybaczyl {2} gdyz administrator nie moze zostac ukarany."
+		"chi"			"{1} 自动原谅了 {2} 自相残杀的行为, 因为后者是管理员."
+		"ru"			"{1} автоматически простил  {2} за ТК, потому что он/она админ."
+		"it"			"{1} perdonato automaticamente{2} per TK in quanto Admin."
+	}
+
+	//Broadcast message
+	//{VictimName} did not forgive {AttackerName} for tking
+	"Did Not Forgive"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} did not forgive {2} for tking."
+		"de"			"{1} vergab {2} den Teamkill nicht."
+		"hu"			"{1} nem bocsajtotta meg a TK-t {2} -nek ."
+		"es"			"{1} no ha perdonado a {2} por el TK."
+		"fr"			"{1} n'a pas pardonne {2} pour son TK."
+		"pl"			"{1} nie wybaczyl {2} zabicia czlonka swojej druzyny."
+		"chi"			"{1} 不原谅 {2} 的自相残杀行为."
+		"ru"			"{1}  не простил {2} за тимкил."
+		"it"			"{1} non ha perdonato {2} per TK."
+	}
+
+	//Warning message to the attacker
+	//You have {CurrentTKs} out of the {TotalTKs} TKs needed to be kicked.
+	"TK Count"
+	{
+		"#format"		"{1:d},{2:d}"
+		"en"			"You have {1} out of the {2} TKs needed to be kicked."
+		"de"			"Du hast {1} von {2} TeamKills, bist du gekickt wirst."
+		"hu"			"{1} TK-d van a lehetseges {2} -bol, a kirugasig ."
+		"es"			"Tienes {1} de {2} TKS que necesitas para ser kikeado."
+		"fr"			"Vous avez fait {1} TK sur {2} permis avant d'etre kicke(e)."
+		"pl"			"Posiadasz {1} z {2} TK potrzebnych do wyrzucenia Cie z serwera."
+		"chi"			"您再犯 {1} / {2} 次 TK 行为就会被踢出."
+		"ru"			"У Вас {1} из {2} допустимых TK-ов до кика."
+		"it"			"Hai raggiunto {1} dei {2} TK necessari per essere kickato."
+	}
+
+	//Warning message to other players
+	//{AttackerName} has {CurrentTKs} our of the {TotalTKs} TKs needed to be kicked.
+	"TK Count Others"
+	{
+		"#format"		"{1:s},{2:d},{3:d}"
+		"en"			"{1} has {2} out of the {3} TKs needed to be kicked."
+		"de"			"{1} hat {2} von {3} TKs, die er braucht um gekickt zu werden."
+		"hu"			"{1} -nak jelenleg {2} TK-ja van a lehetseges {3} -bol, mielott kirugja a server."
+		"es"			"{1} tiene {2} de nps {3} TKS necesarios para ser kikeado."
+		"fr"			"{1} a fait {2} TK sur {3} permis avant d'etre kicke(e)."
+		"pl"			"Posiada {1} z {2} TK potrzebnych do wyrzucenia z serwera."
+		"chi"			"{1} 已经达到了 {2} / {3} 被踢出的次数."
+		"ru"			"{1} имеет {2} из {3} допустимых TK-ов до кика."
+		"it"			"{1} ha raggiunto {2} dei {3} TK necessari per essere kickato."
+	}
+}

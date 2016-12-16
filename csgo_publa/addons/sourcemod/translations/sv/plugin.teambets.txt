@@ -1,0 +1,77 @@
+﻿"Phrases"
+{
+	"No bets after bomb planted"
+	{
+		"sv"			"Inga spel tillåts efter bomben har planterats."
+	}
+
+	"Must Be On A Team To Vote"
+	{
+		"sv"			"Du måste gå med i en grupp för att satsa."
+	}
+
+	"Already Betted"
+	{
+		"sv"			"Du har redan lagt en insats denna runda."
+	}
+	
+	"Must Be Dead To Vote"
+	{
+		"sv"			"Du måste vara död för att placera en insats"
+	}
+	
+	"Invalid Team for Bet"
+	{
+		"sv"			"Ogiltig team, vänligen använd 'ct' eller 't'."
+	}
+	
+	"Invalid Bet Amount"
+	{
+		"sv"			"du inte anger en giltig satsning. Använd 'all', 'half', 'third' eller ett tal."
+	}
+	
+	"Not Enough Money"
+	{
+		"sv"			"Du har inte tillräckligt med pengar för denna satsning."
+	}
+	
+	"Bet Made"
+	{
+		"sv"			"Satsa placeras. Odds är {1} till {2}. Du står att vinna ${3} på ${4} satsa."
+	}
+	
+	"One Vs One"
+	{
+		"sv"			"One vs One! Satsa nu!"
+	}
+	
+	"One Vs Many Start"
+	{
+		"sv"     		"{1} vs den {2} team! Satsa nu!"
+	}
+	
+	"One Vs Many Winner"
+	{
+		"sv"			"{1} har vunnit mot alla odds! ${2} tilldelas från förlora potten!"
+	}
+	
+	"Bet Won"
+	{
+		"sv"			"Du vann ${1} om er satsning på ${2}."
+	}
+	
+	"Bet Lost"
+	{
+		"sv"			"Du har tappat ditt ${1} satsning."
+	}
+	
+	"Players Are Dead"
+	{
+		"sv"			"Man kan inte satsa när endera laget är död."
+	}
+	
+	"Advertise Bets"
+	{
+		"sv"			"Skriva 'bet team belopp' för att satsa på det vinnande laget!"
+	}
+}

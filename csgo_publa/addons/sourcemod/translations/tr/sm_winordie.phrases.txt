@@ -1,0 +1,52 @@
+﻿"Phrases"
+{
+	"Defuse the bomb"
+	{
+		"tr"		"Vatan hainliği suçundan idam edildiniz! Bir dahaki sefere bombayi cozun!"
+	}
+
+	"Kill the VIP"
+	{
+		"tr"		"Terorist grubunuz sizi VIP'i olduremediginiz icin infaz etti!"
+	}
+
+	"Protect the VIP"
+	{
+		"tr"		"Vatan hainligi sucundan idam edildiniz! Bir dahaki sefere VIP'i koruyun!"
+	}
+
+	"Kill terrorists"
+	{
+		"tr"		"Vatan hainligi sucundan idam edildiniz! Teroristlerin kacmasina izin vermeyin!"
+	}
+
+	"Protect C4"
+	{
+		"tr"		"Terorist grubunuz sizi C4'u koruyamadiginiz icin infaz etti!"
+	}
+
+	"Dont let hostages escape"
+	{
+		"tr"		"Terorist grubunuz sizi rehinelerin gitmesine izin verdiginiz icin infaz etti!"
+	}
+
+	"Plant the bomb"
+	{
+		"tr"		"Terorist grubunuz sizi bombayi kurmadiginiz icin infaz etti!"
+	}
+
+	"Rescue the hostages"
+	{
+		"tr"		"Vatan hainligi sucundan idam edildiniz! Rehineleri kurtarin!"
+	}
+
+	"VIP should escape"
+	{
+		"tr"		"Vatan hainligi sucundan idam edildiniz! VIP kacirilmali!"
+	}
+
+	"Free Passes Left"
+	{
+		"tr"		"Oldurulmeden once geriye kalan hakkiniz"
+	}
+}

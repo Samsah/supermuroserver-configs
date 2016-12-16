@@ -1,0 +1,183 @@
+"Phrases"
+{
+	"ct switch"
+	{
+		"da"		"Du vil blive skiftet til anti terrorist styrker"
+		"de"		" Du wurdest in das Counter Terroristen Team gewechselt"
+		"en"		" You are being switched to the counter terrorist team"
+		"hu"		"Át lettél helyezve az anti-terroristák csapatába"
+		"pl"		"Zostałeś przeniesiony do Drużyny CT"
+		"ru"		"Вы были перенесены за команду контр террористов"
+		"sv"		"Du blir flyttad till antiterroristlaget"
+	}
+	"t switch"
+	{
+		"da"		"Du vil blive skiftet til terrorist styrker"
+		"de"		"Du wurdest in das Terroisten Team gewechselt"
+		"en"		"You are being switched to the terrorist team"
+		"hu"		"Át lettél helyezve a terroristák csapatába"
+		"pl"		"Zostałeś przeniesiony do Drużyny T"
+		"ru"		"Вы были перенесены за команду террористов"
+		"sv"		"Du blir flyttad till terroristlaget"
+	}
+	"pending"
+	{
+		"da"		"Holdene er stadig ved at blive balanceret"
+		"de"		"Die Teambalance ist unausgewogen"
+		"en"		"The team balance is pending"
+		"hu"		"Csapatkiegyenlítés folyamatban ..."
+		"pl"		"Wyrównywanie drużyn"
+		"ru"		"Балансировка команд"
+		"sv"		"Lagbalanseraren arbetar"
+	}
+	"balanced"
+	{
+		"da"		"Det ser ud somom at holdene er balanceret"
+		"de"		"Die Teams scheinen ausgeglichen"
+		"en"		"The teams appear to be balanced"
+		"hu"		"A csapatok kiegyenlítettek"
+		"pl"		"Drużyny zostały wyrównane"
+		"ru"		"Команды сбалансированы"
+		"sv"		"Lagen verkar se jämna ut"
+	}
+	"not balanced"
+	{
+		"da"		"Holdene er ikke balanceret"
+		"de"		"Die Teams sind nicht ausgeglichen"
+		"en"		"The teams are not balanced"
+		"hu"		"A csapatok nem kiegyenlítettek"
+		"pl"		"Drużyny są nierówne"
+		"ru"		"Команды не сбалансированы"
+		"sv"		"Lagen är ojämna"
+	}
+	"unbalanceable"
+	{
+		"da"		"Holdene kan ikke blive balanceret"
+		"de"		"Die Teams konnten nicht ausgeglichen werden"
+		"en"		"The teams cannot be balanced"
+		"hu"		"A csapatok nem kiegyenlíthetőek"
+		"pl"		"Drużyny nie mogą być wyrównane"
+		"ru"		"Команды не могут быть сбалансированы"	
+		"sv"		"Lagen kan inte balanseras"
+	}
+	"team management menu"
+	{
+		"da"		"Hold Manager"
+		"en"		"Team Management"
+		"hu"		"Csapat beállítás"
+		"pl"		"Zarządzanie drużynami"
+		"sv"		"Laghantering"
+	}
+	"swap teams"
+	{
+		"da"		"Skift Holdene"
+		"en"		"Swap Teams"
+		"hu"		"Csapatok cseréje"
+		"pl"		"Zamień drużyny"
+		"sv"		"Byta lag"
+	}
+	"switch player"
+	{
+		"da"		"Byt På Spillere"
+		"en"		"Switch Player"
+		"hu"		"Játékos átállítása"
+		"pl"		"Przerzuć gracza"
+		"sv"		"Flytta över spelare"
+	}
+	"switch player next"
+	{
+		"da"		"Skift Spillere Næste Runde"
+		"en"		"Switch Player Next Round"
+		"hu"		"Játékos átállítása a következő körben"
+		"pl"		"Przerzuć gracza w następnej rundzie"
+		"sv"		"Flytta över spelare nästa runda"
+	}
+	"announce preferences"
+	{
+		"da"		"Announce Indstillinger"
+		"en"		"Announce Preferences"
+		"hu"		"Értesítések beállítása"
+		"pl"		"Ustawienia ogłoszeń"
+		"sv"		"Egenskaper för tillkännagivande"
+	}
+	"maintain size on"
+	{
+		"da"		"Slå Oprethold Holdene Til"
+		"en"		"Turn Maintain Size On"
+		"hu"		"Létszám egyensúly Be"
+		"pl"		"Włącz utrzymywanie liczebności"
+		"sv"		"Aktivera storlekshantering"
+	}
+	"maintain size off"
+	{
+		"da"		"Slå Oprethold Holdene Fra"
+		"en"		"Turn Maintain Size Off"
+		"hu"		"Létszám egyensúly Ki"
+		"pl"		"Wyłącz utrzymywanie liczebności"
+		"sv"		"Avaktivera storlekshantering"
+	}
+	"control joins on"
+	{
+		"da"		"Slå kontrollerede Tilslutninger Til"
+		"en"		"Turn Control Joins On"
+		"hu"		"Csapatválasztás kontroll Be"
+		"pl"		"Włącz kontrolę dołączania graczy"
+		"sv"		"Aktivera kontroll vid anslutning"
+	}
+	"control joins off"
+	{
+		"da"		"Slå kontrollerede Tilslutninger Fra"
+		"en"		"Turn Control Joins Off"
+		"hu"		"Csapatválasztás kontroll Ki"
+		"pl"		"Wyłącz kontrolę dołączania graczy"
+		"sv"		"Avaktivera kontroll vid anslutning"
+	}
+	"enable balancer"
+	{
+		"da"		"Aktiver Hold Balancering"
+		"en"		"Enable Team Balancing"
+		"hu"		"Csapategyensúly engedélyezés"
+		"pl"		"Włącz wyrównywanie drużyn"
+		"sv"		"Aktivera lagbalansering"
+	}
+	"disable balancer"
+	{
+		"da"		"Deaktiver Hold Balancering"
+		"en"		"Disable Team Balancing"
+		"hu"		"Csapategyensúly tiltás"
+		"pl"		"Wyłącz wyrównywanie drużyn"
+		"sv"		"Avaktivera lagbalansering"
+	}
+	"kdr panel"
+	{
+		"da"		"CS:S Hold Balancering"
+		"en"		"Kill/Death Ratio Panel"
+		"hu"		"CS:S Csapategyensúly"
+		"pl"		"Panel statystyk KDR"
+		"sv"		"Hantering av mord-/dödsfallsförhållande"
+	}
+	"internal stats"
+	{
+		"da"		"Interne Statistikker"
+		"en"		"Internal Stats"
+		"hu"		"Belső statisztika"
+		"pl"		"Statystyki wewnętrzne"
+		"sv"		"Intern statistik"
+	}
+	"display stats"
+	{
+		"da"		"Deaktiver Statistikker"
+		"en"		"Display Stats"
+		"hu"		"Statisztika kijelzése"
+		"pl"		"Pokaż statystyki"
+		"sv"		"Visa statistik"
+	}
+	"dump settings"
+	{
+		"da"		"Nustil Indstillinger"
+		"en"		"Save Settings"
+		"hu"		"Beállítások törlése"
+		"pl"		"Zapisz ustawienia"
+		"sv"		"Spara inställningar"
+	}
+}

@@ -1,0 +1,78 @@
+﻿"Phrases"
+{
+	"No bets after bomb planted"
+	{
+		"pl"			"Ma zakładów dozwolona po bomby został obsadzony."
+	}
+
+	"Must Be On A Team To Vote"
+	{
+		"pl"			"Musisz dolaczyc do zespolu, aby zawrzec zaklad."
+	}
+
+	"Already Betted"
+	{
+		"pl"			"Obstawiales juz zaklad w tej rundzie"
+
+	}
+	
+	"Must Be Dead To Vote"
+	{
+		"pl"			"Musisz byc martwy aby obstawic zaklad"
+	}
+	
+	"Invalid Team for Bet"
+	{
+		"pl"			"Nieprawidlowa nazwa druzyny, prosze uzyc 'ct' lub 't'."
+	}
+	
+	"Invalid Bet Amount"
+	{
+		"pl"			"Niepoprawny zaklad. Prosze uzyc: 'all' (wszystko), 'half' (polowa), 'third' (jedna trzecia) lub podac konkretna ilosc pieniedzy."
+	}
+	
+	"Not Enough Money"
+	{
+		"pl"			"Nie posiadasz wystarczajacej ilosci pieniedzy by obstawic ten zaklad"
+	}
+	
+	"Bet Made"
+	{
+		"pl"			"Zaklad obstawiony. Szanse sa {1} do {2}. Mozesz wygrac ${3} przy twoim zakladzie ${4}."
+	}
+	
+	"One Vs One"
+	{
+		"pl"			"Jeden na jednego! Obstaw zaklad teraz!"
+	}
+	
+	"One Vs Many Start"
+	{
+		"pl"			"{1} przeciwko {2}! Obstaw zaklad teraz!"
+	}
+	
+	"One Vs Many Winner"
+	{
+		"pl"			"{1} wygral mimo przewagi przeciwnika! ${2} nagrodzony z puli przegranych!"
+	}
+	
+	"Bet Won"
+	{
+		"pl"			"Wygrales ${1} przy zakladzie ${2}."
+	}
+	
+	"Bet Lost"
+	{
+		"pl"			"Przegrales ${1}"
+	}
+	
+	"Players Are Dead"
+	{
+		"pl"			"Nie mozesz obstawiac zkladуw gdy jedna z druzyn jest martwa."
+	}
+	
+	"Advertise Bets"
+	{
+		"pl"			"Napisz 'bet druzyna ilosc' by obstawic zaklad!"
+	}
+}

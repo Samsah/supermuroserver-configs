@@ -1,0 +1,15 @@
+"Phrases"
+{
+	"Beware"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"BEWARE! You hurt your teammate for {1} HP & {2} armor!"
+		"ru"		"ОСТОРОЖНО! Вы попали в своего товарища, отняв у него {1} ХП и {2} брони!"
+	}
+	"You lost"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"You lost {1} HP & {2} armor!"
+		"ru"		"Вы потеряли {1} ХП и {2} брони!"
+	}
+}

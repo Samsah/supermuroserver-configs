@@ -1,0 +1,178 @@
+"Phrases"
+{
+	"Blue"
+	{
+		"en"				"Blue"
+		"de"				"Blau"
+		"pl"				"Niebieski"
+		"fr"				"Bleu"
+	}
+	"Yellow"
+	{
+		"en"				"Yellow"
+		"de"				"Gelb"
+		"pl"				"Żółty"
+		"fr"				"Jaune"
+	}
+	"Red"
+	{
+		"en"				"Red"
+		"de"				"Rot"
+		"pl"				"Czerwony"
+		"fr"				"Rouge"
+	}
+	"Green"
+	{
+		"en"				"Green"
+		"de"				"Gruen"
+		"pl"				"Zielony"
+		"fr"				"Vert"
+	}
+	"t1"
+	{
+		"en"				"Choose a Wire:"
+		"de"				"Waehle eine Kabelfarbe:"
+		"pl"				"Wybierz Kabel:"
+		"fr"				"Choisir un Fil :"
+	}
+	"t2"
+	{
+		"en"				"The CT's can try guess this for an instant defuse"
+		"de"				"Die CTs entschaerfen sofort, wenn sie die Farbe erraten"
+		"pl"				"Antyterroryści mogą rozbroić  bombę przecinając kabel"
+		"fr"				"Les CTs peuvent tenter de le deviner pour un désamorçage immédiat"
+	}
+	"t3"
+	{
+		"en"				"Exit, or ignore this for a random wire"
+		"de"				"Schliessen oder ignorieren fuer eine zufaellige Wahl"
+		"pl"				"Wyjdź lub zignoruj to, aby kabel został wybrany losowo"
+		"fr"				"Sortir ou ignorer pour un fil aléatoire"
+	}
+	"t4"
+	{
+		"en"				"Exit"
+		"de"				"Schliessen"
+		"pl"				"Wyjdź"
+		"fr"				"Sortir"
+	}
+	"ct1"
+	{
+		"en"				"Choose a Wire:"
+		"de"				"Waehle eine Kabelfarbe:"
+		"pl"				"Wybierz Kabel:"
+		"fr"				"Choisir un Fil :"
+	}
+	"ct2"
+	{
+		"en"				"Ignore this to defuse normally"
+		"de"				"Dies hier ignorieren fuer eine sichere Entschaerfung"
+		"pl"				"Zignoruj to, aby rozbrajać normalnie"
+		"fr"				"Ignorer pour désamorcer normalement"
+	}
+	"ct3"
+	{
+		"en"				"Get it right and the bomb is defused"
+		"de"				"Erwische das richtige Kabel und die Bombe ist sofort entschaerft"
+		"pl"				"Wybierzesz właściwy a bomba zostanie rozbrojona"
+		"fr"				"Choisissez le bon et la bombe est désamorcée"
+	}
+	"ct4"
+	{
+		"en"				"Get it wrong and the bomb instantly explodes"
+		"de"				"Eine falsche Wahl laesst die Bombe sofort explodieren"
+		"pl"				"Wybierzesz niewłaściwy a bomba wybuchnie"
+		"fr"				"Choisissez le mauvais et la bombe explose instantanément"
+	}
+	"ct5"
+	{
+		"en"				"With no defuse kit you have a 50% chance of the bomb exploding"
+		"de"				"Ohne DefuseKit besteht eine 50% Chance, dass die Bombe explodiert"
+		"pl"				"Bez zestawu do rozbrajania masz 50% szans na to,"
+		"fr"				"Sans kit de désamorçage vous avez 50% de chance que la bombe explose"
+	}
+	"ct6"
+	{
+		"en"				"even if you choose the right wire"
+		"de"				"sogar, wenn Du das richtige Kabel erwischt"
+		"pl"				"że bomba wybuchnie nawet wybierając właściwy kabel"
+		"fr"				"même en choisissant le bon fil"
+	}
+	"ct7"
+	{
+		"en"				"Blue"
+		"de"				"Blau"
+		"pl"				"Niebieski"
+		"fr"				"Bleu"
+	}
+	"ct8"
+	{
+		"en"				"Yellow"
+		"de"				"Gelb"
+		"pl"				"Żółty"
+		"fr"				"Jaune"
+	}
+	"ct9"
+	{
+		"en"				"Red"
+		"de"				"Rot"
+		"pl"				"Czerwony"
+		"fr"				"Rouge"
+	}
+	"ct10"
+	{
+		"en"				"Green"
+		"de"				"Gruen"
+		"pl"				"Zielony"
+		"fr"				"Vert"
+	}
+	"ct11"
+	{
+		"en"				"Exit"
+		"de"				"Schliessen"
+		"pl"				"Wyjdź"
+		"fr"				"Sortir"
+	}
+	"Wire Choice"
+	{
+		"en"				"You chose the %s wire"
+		"de"				"Du hast das %s Kabel gewählt"
+		"pl"				"Wybrałeś %s%s%s kabel"
+		"fr"				"Vous choissisez le fil %s"
+	}
+	"Correct Cut"
+	{
+		"en"				"%s correctly cut the %s wire for an instant C4 defusal (1:4 odds)"
+		"de"				"%s hat das Kabel (%s) richtig gewahlt und die Bombe entschaerft"
+		"pl"				"%s%s%s pomyślnie przeciął %s%s%s kabel i natychmiastowo rozbroił bombę (szanse 1:4)."
+		"fr"				"%s a correctement coupé le fil %s pour un désamorçage instantané (proba 1:4)"
+	}
+	"Incorrect Cut"
+	{
+		"en"				"%s detonated the C4 with an incorrect wire choice of %s (3:4 odds) The correct wire was %s"
+		"de"				"%s hat das C4 hochgejagt, weil er das falsche Kabel mit der Farbe %s erwischt hat. Richtig war das %s Kabel"
+		"pl"				"%s%s%s zdetonował bombę przecinając niewłaściwy, %s%s%s kabel (szanse 3:4). %s%s%s był właściwym kablem."
+		"fr"				"%s a fait exploser la bombe avec le fil %s (proba 3:4) Le bon fil était le %s"
+	}
+	"Correct Pull"
+	{
+		"en"				"%s correctly pulled the %s wire for an instant C4 defusal (1:8 odds)"
+		"de"				"%s hat das Kabel (%s) richtig gewahlt und die Bombe entschaerft"
+		"pl"				"%s%s%s pomyślnie wyrwał %s%s%s kabel i natychmiastowo rozbroił bombę (szanse 1:8)."
+		"fr"				"%s a correctement tiré le fil %s pour un désamorçage instantané (proba 1:8)"
+	}
+	"Incorrect Pull"
+	{
+		"en"				"%s detonated the C4 with an incorrect wire choice of %s (7:8 odds) The correct wire was %s"
+		"de"				"%s hat das C4 hochgejagt, weil er das falsche Kabel mit der Farbe %s erwischt hat. Richtig war das %s Kabel"
+		"pl"				"%s%s%s zdetonował bombę wyrywając niewłaściwy, %s%s%s kabel (szanse 7:8). %s%s%s był właściwym kablem."
+		"fr"				"%s a fait exploser la bombe avec le fil %s (proba 7:8) Le bon fil était le %s"
+	}
+	"Correct Pull with No Kit"
+	{
+		"en"				"%s chose the correct wire (%s) but the C4 still detonated!"
+		"de"				"%s hat zwar das richtige Kabel mit der Farbe %s erwischt, aber das C4 ist trotzdem hochgegangen"
+		"pl"				"%s%s%s wyrwał właściwy kabel (%s%s%s), ale bomba wybuchła!"
+		"fr"				"%s a choisi le bon fil (%s) mais la bombe a quand même explosée !"
+	}
+}

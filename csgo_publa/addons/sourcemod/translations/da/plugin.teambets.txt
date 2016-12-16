@@ -1,0 +1,77 @@
+﻿"Phrases"
+{
+	"No bets after bomb planted"
+	{
+		"da"			"Ingen vaeddemal tillades efter bomben er blevet plantet."
+	}
+
+	"Must Be On A Team To Vote"
+	{
+		"da"			"Du skal deltage i en team at placere et væddemål."
+	}
+
+	"Already Betted"
+	{
+		"da"			"Du har allerede satset i den her runde."
+	}
+	
+	"Must Be Dead To Vote"
+	{
+		"da"			"Du skal være død for at satse."
+	}
+	
+	"Invalid Team for Bet"
+	{
+		"da"			"Forkert team, please brug 'ct' eller 't'."
+	}
+	
+	"Invalid Bet Amount"
+	{
+		"da"			"Du har ikke satset rigtigt. Please brug 'all', 'half', 'third' eller et tal."
+	}
+	
+	"Not Enough Money"
+	{
+		"da"			"Du har ikke nok penge."
+	}
+	
+	"Bet Made"
+	{
+		"da"			"Du har satset. Odds er {1} til {2}. Du kan vinde ${3} af dine ${4} satset."
+	}
+	
+	"One Vs One"
+	{
+		"da"			"En mod en! placer din satsning nu!"
+	}
+	
+	"One Vs Many Start"
+	{
+		"da"     		"{1} mod {2} team! placer dit satsning nu!"
+	}
+	
+	"One Vs Many Winner"
+	{
+		"da"			"{1} har vundet imod oddsene! ${2} tildelt fra den tabende gryde!"
+	}
+	
+	"Bet Won"
+	{
+		"da"			"Du vandt ${1} på din satsning på ${2}."
+	}
+	
+	"Bet Lost"
+	{
+		"da"			"Du har tabt dine ${1} på satsning."
+	}
+	
+	"Players Are Dead"
+	{
+		"da"			"Du kan ikke satse, når begge hold er døde."
+	}
+	
+	"Advertise Bets"
+	{
+		"da"			"Skriv 'bet team amount' at satse på det vindende hold!"
+	}
+}

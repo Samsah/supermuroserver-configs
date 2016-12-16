@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"Enabled"
+	{
+		"en"			"[Spawn NoBlock] NoBlock Enabled"
+		"pl"			"[Spawn NoBlock] NoBlock wlaczony"
+	}
+	"Disabled"
+	{
+		"en"			"[Spawn NoBlock] NoBlock Disabled"
+		"pl"			"[Spawn NoBlock] NoBlock wylaczony"
+	}
+}

@@ -1,0 +1,151 @@
+﻿"Phrases"
+{
+	//first msg
+	"NoTeamLeading"
+	{
+		"#format"		""
+		"en"			"None"
+		"fr"			"Aucune"
+		"no"			"Ingen"
+		"sk"			"Ziadny"
+		"cze"			"Ziadny"
+	}
+	"RoundXEnd"
+	{
+		"#format"		"{1:s}{2:d}{3:s}"
+		"en"			"Round #{1}{2} {3}end."
+		"fr"			"Le tour #{1}{2} {3}se termine."
+		"no"			"Runde #{1}{2} {3}slutt."
+		"sk"			"Kolo #{1}{2} {3}konci."
+		"cze"			"Kolo #{1}{2} {3}konci."
+	}
+	"ScoreBestOf"
+	{
+		"#format"		"{1:s}{2:d}{3:s}{4:s}{5:d}{6:s}{7:s}{8:s}{9:s}"
+		"en"			"Score is {1}{2} {3}to {4}{5}{6}. Leading team : {7}{8}{9}."
+		"fr"			"Le score est de {1}{2} {3}à {4}{5}{6}. Équipe en tête : {7}{8}{9}."
+		"no"			"Stillingen er {1}{2} {3}til {4}{5}{6}. Ledende lag : {7}{8}{9}."
+		"sk"			"Skore je {1}{2} {3}az {4}{5}{6}. Veduci tim : {7}{8}{9}."
+		"cze"			"Skore je {1}{2} {3}az {4}{5}{6}. Veduci tim : {7}{8}{9}."
+	}
+	"WinStreak"
+	{
+		"#format"		"{1:s}{2:d}{3:s}"
+		"en"			"Consecutive win(s) : {1}{2}{3}."
+		"fr"			"Victoire(s) consécutive(s) : {1}{2}{3}."
+		"no"			"Fortløpende seiere : {1}{2}{3}."
+		"sk"			"Nasledujuce vitazstva : {1}{2}{3}."
+		"cze"			"Nasledujuce vitazstva : {1}{2}{3}."
+	}
+	"Inequity"
+	{
+		"#format"		"{1:s}{2:d}{3:s}{4:s}{5:s}{6:s}"
+		"en"			"Inequity in the score : {1}{2}{3}. Leading team : {4}{5}{6}."
+		"fr"			"Inégalité dans le score : {1}{2}{3}. Équipe en tête : {4}{5}{6}."
+		//"no"			"TODO"
+		"sk"			"Nerovnomernost v skore : {1}{2}{3}. Veduci tim : {4}{5}{6}."
+		"cze"			"Nerovnomernost v skore : {1}{2}{3}. Veduci tym : {4}{5}{6}."
+	}
+	//2nd
+	"RulesWhenToScramble"
+	{
+		"#format"		""
+		"en"			"Teams are scrambled :"
+		"fr"			"Les équipes sont mélangées :"
+		"no"			"Lagene er blitt mixet :"
+		"sk"			"Timy su prehodene :"
+		"cze"			"Timy su prehodene :"
+	}
+	"Or"
+	{
+		"#format"		""
+		"en"			"or"
+		"fr"			"ou"
+		"no"			"eller"
+		"sk"			"alebo"
+		"cze"			"alebo"
+	}
+	"RuleRound"
+	{
+		"#format"		"{1:s}{2:d}{3:s}"
+		"en"			"every {1}{2} {3}round(s)"
+		"fr"			"chaque {1}{2} {3}tour(s)"
+		"no"			"hver {1}{2} {3}rund(e)"
+		"sk"			"kazdych {1}{2} {3}kol"
+		"cze"			"kazdych {1}{2} {3}kol"
+	}
+	"RuleBestOf"
+	{
+		"#format"		"{1:s}{2:d}{3:s}"
+		"en"			"when a team win a {1}best-of-{2} {3}rounds"
+		"fr"			"lorsqu'une équipe gagne au meilleur des {1}{2} {3}tours"
+		"no"			"når et lag vinner {1}best av {2} {3}runder"
+		"sk"			"ked tim vyhra {1}best-of-{2} {3}kol"
+		"cze"			"ked tim vyhra {1}best-of-{2} {3}kol"
+	}
+	"RuleWinStreak"
+	{
+		"#format"		"{1:s}{2:d}{3:s}"
+		"en"			"when a team win {1}{2} {3}rounds in a row"
+		"fr"			"lorsqu'une équipe gagne {1}{2} {3}tours de suite"
+		"no"			"når et lag vinner {1}{2} {3}runder på rad"
+		"sk"			"ked tim vyhra {1}{2} {3}kol po sebe"
+		"cze"			"ked tim vyhra {1}{2} {3}kol po sebe"
+	}
+	"RuleInequity"
+	{
+		"#format"		"{1:s}{2:d}{3:s}"
+		"en"			"when a team has a {1}{2} {3}win lead"
+		"fr"			"lorsqu'une équipe mène par {1}{2} {3}victoires"
+		//"no"			"TODO"
+		"sk"			"ked ma tim {1}{2} {3}vyhier po sebe"
+		"cze"			"ked ma tim {1}{2} {3}vyhier po sebe"
+	}
+	
+	//3rd msg
+	"ScrambledRound"
+	{
+		"#format"		"{1:s}{2:d}{3:s}"
+		"en"			"{1}{2} {3}round(s) passed"
+		"fr"			"{1}{2} {3}tour(s) ont passé"
+		"no"			"{1}{2} {3}rund(e) passert"
+		"sk"			"{1}{2} {3}kol uplynulo"
+		"cze"			"{1}{2} {3}kol uplynulo"
+	}
+	"ScrambledBestOf"
+	{
+		"#format"		"{1:s}{2:s}{3:s}{4:s}{5:d}{6:s}"
+		"en"			"{1}{2}s {3}won the {4}best-of-{5} {6}rounds"
+		"fr"			"Les {1}{2}s {3}ont gagné au meilleur des {4}{5} {6}tours"
+		"no"			"{1}{2}s {3}vant {4}best av {5} {6}runder"
+		"sk"			"{1}{2}s {3}vyhrali {4}best-of-{5} {6}kol"
+		"cze"			"{1}{2}s {3}vyhrali {4}best-of-{5} {6}kol"
+	}
+	"ScrambledWinStreak"
+	{
+		"#format"		"{1:s}{2:s}{3:s}{4:s}{5:d}{6:s}"
+		"en"			"{1}{2}s {3}won {4}{5} {6}rounds in a row"
+		"fr"			"Les {1}{2}s {3}ont gagné {4}{5} {6}tours de suite"
+		"no"			"{1}{2}s {3}vant {4}{5} {6}runder på rad"
+		"sk"			"{1}{2}s {3}vyhrali {4}{5} {6}kol po sebe"
+		"cze"			"{1}{2}s {3}vyhrali {4}{5} {6}kol po sebe"
+	}
+	"ScrambledInequity"
+	{
+		"#format"		"{1:s}{2:s}{3:s}{4:s}{5:d}{6:s}"
+		"en"			"{1}{2}s {3}have a {4}{5} {6}win lead"
+		"fr"			"Les {1}{2}s {3}mène par {4}{5} {6}victoires"
+		//"no"			"TODO"
+		"sk"			"{1}{2} {3}maju {4}{5} {6}vyhier po sebe"
+		"cze"			"{1}{2} {3}maju {4}{5} {6}vyhier po sebe"
+	}
+	"ScrambledTherefore"
+	{
+		"#format"		""
+		"en"			"Therefore, teams are scrambled."
+		"fr"			"Par conséquent, les équipes sont mélangées."
+		"no"			"Derfor er lagene mixet."
+		"sk"			"A preto su timy pomiesane."
+		"cze"			"A preto su timy pomiesane."
+	}
+}

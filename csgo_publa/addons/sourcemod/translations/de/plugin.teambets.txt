@@ -1,0 +1,77 @@
+﻿"Phrases"
+{
+	"No bets after bomb planted"
+	{
+		"de"			"Keine Wetten erlaubt sein, nachdem die Bombe wurde gepflanzt."
+	}
+
+	"Must Be On A Team To Vote"
+	{
+		"de"			"Sie mussen in einem Team mitarbeiten, um eine Wette platzieren."
+	}
+
+	"Already Betted"
+	{
+		"de"			"Du hast diese Runde schon eine Wette plaziert"
+	}
+	
+	"Must Be Dead To Vote"
+	{
+		"de"			"Du musst tot sein um eine Wette abzugeben"
+	}
+	
+	"Invalid Team for Bet"
+	{
+		"de"     		"Ungültiges Team, verwende bitte 'ct' oder 't'."
+	}
+	
+	"Invalid Bet Amount"
+	{
+		"de"			"Du hast keine gültige Wette abgegeben. Bitte benutze 'all', 'half', 'third' oder einen Betrag."
+	}
+	
+	"Not Enough Money"
+	{
+		"de"			"Du hast nicht genügend Geld als Wetteinsatz"
+	}
+	
+	"Bet Made"
+	{
+		"de"			"Wette abgegeben. Chancen stehen {1} zu {2}. Du kannst ${3} auf deine ${4} Wetteinsatz gewinnen."
+	}
+	
+	"One Vs One"
+	{
+		"de"			"1 vs 1! Gebt jetzt eure Wettgebote ab!"
+	}
+	
+	"One Vs Many Start"
+	{
+		"de"			"{1} vs die {2} Mannschaft! Jetzt wetten!"
+	}
+	
+	"One Vs Many Winner"
+	{
+		"de"			"{1} hat gegen die Wettquote gewonnen! ${2} Belohnung finanziert aus dem Verlierertopf!"
+	}
+	
+	"Bet Won"
+	{
+		"de"			"Du hast ${1} auf deinen Wetteinsatz von${2} gewonnen."
+	}
+	
+	"Bet Lost"
+	{
+		"de"			"Du hast deinen Wetteinsatz in Höhe von {1}$ verloren."
+	}
+	
+	"Players Are Dead"
+	{
+		"de"			"Du kannst keine Wette plazieren wenn eins der Teams tot ist."
+	}
+	
+	"Advertise Bets"
+	{
+		"de"			"Tippe 'bet team betrag' um auf das Gewinnerteam zu setzen!"
+	}
+}

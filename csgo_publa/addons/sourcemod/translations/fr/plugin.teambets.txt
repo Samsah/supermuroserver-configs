@@ -1,0 +1,77 @@
+﻿"Phrases"
+{
+	"No bets after bomb planted"
+	{
+		"fr"			"Aucun pari autorisee apres la bombe a ete plantee."
+	}
+
+	"Must Be On A Team To Vote"
+	{
+		"fr"			"Vous devez joindre à une équipe de placer un pari."
+	}
+
+	"Already Betted"
+	{
+		"fr"			"Vous avez deja parie ce round."
+	}
+	
+	"Must Be Dead To Vote"
+	{
+		"fr"			"Seulement les morts peuvent parier."
+	}
+	
+	"Invalid Team for Bet"
+	{
+		"fr"			"Team incorrecte, utiliser 'ct' ou 't'."
+	}
+	
+	"Invalid Bet Amount"
+	{
+		"fr"			"Votre pari est incorrecte. Utiliser 'all', 'half', 'third' ou un nombre."
+	}
+	
+	"Not Enough Money"
+	{
+		"fr"			"Vous n'avez pas assez d'argent pour ce pari."
+	}
+	
+	"Bet Made"
+	{
+		"fr"			"Pari valide. Les cotes sont de {1} / {2}. Vous pouvez gagner {3}$ pour un pari de {4}$."
+	}
+	
+	"One Vs One"
+	{
+		"fr"			"1 vs 1! Pariez maintenant!"
+	}
+	
+	"One Vs Many Start"
+	{
+		"fr"			"{1} vs l'йquipe de {2}! Pariez maintenant!"
+	}
+	
+	"One Vs Many Winner"
+	{
+		"fr"			"{1} a gagne contre la cote! Il gagne {2}$ !"
+	}
+	
+	"Bet Won"
+	{
+		"fr"			"Vous gagnez {1}$ pour un pari de {2}$."
+	}
+	
+	"Bet Lost"
+	{
+		"fr"			"Vous perdez votre pari de {1}$."
+	}
+	
+	"Players Are Dead"
+	{
+		"fr"			"Vous ne pouvez parier quand tout le monde est mort."
+	}
+	
+	"Advertise Bets"
+	{
+		"fr"			"Tapez 'bet team amount' pour parier sur l'equipe en train de gagner!"
+	}
+}

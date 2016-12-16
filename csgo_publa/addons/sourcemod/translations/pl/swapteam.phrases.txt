@@ -1,0 +1,152 @@
+"Phrases"
+{
+	"when move"
+	{
+		"pl"				"Przenieś gracza - Kiedy?"
+	}
+	
+	"commands"
+	{
+		"pl"				"Przenieś gracza"
+	}
+	
+	"immediately"
+	{
+		"pl"				"Natychmiast"
+	}
+	
+	"on death"
+	{
+		"pl"				"Po śmierci"
+	}
+	
+	"on rend"
+	{
+		"pl"				"Na końcu rundy"
+	}
+	
+	"to spec"
+	{
+		"pl"				"Do obserwatorów"
+	}
+	
+	"select player"
+	{
+		"pl"				"Wybierz gracza"
+	}
+	
+	"dont swap rend"
+	{
+		"pl"				"{1} nie zostanie przeniesiony do przeciwnej drużyny pod koniec rundy."
+	}
+	
+	"dont swap rend2"
+	{
+		"pl"				"{1} nie zostanie przeniesiony do przeciwnej drużyny pod koniec rundy."
+	}
+	
+	"swap rend"
+	{
+		"pl"				"{1} zostanie przeniesiony do przeciwnej drużyny pod koniec rundy."
+	}
+	
+	"swap rend2"
+	{
+		"pl"				"{1} zostanie przeniesiony do przeciwnej drużyny pod koniec rundy."
+	}
+	
+	"swap death"
+	{
+		"pl"				"{1} zostanie przeniesiony do przeciwnej drużyny gdy zginie."
+	}
+	
+	"swap death2"
+	{
+		"pl"				"{1} zostanie przeniesiony do przeciwnej drużyny gdy zginie."
+	}
+	
+	"dont swap death"
+	{
+		"pl"				"{1} nie zostanie przeniesiony do przeciwnej drużyny gdy zginie."
+	}
+	
+	"dont swap death2"
+	{
+		"pl"				"{1} nie zostanie przeniesiony do przeciwnej drużyny gdy zginie."
+	}
+	
+	"switch by admin"
+	{
+		"pl"				"{1} został przeniesiony do przeciwnej drużyny."
+	}
+	
+	"switch by admin2"
+	{
+		"pl"				"{1} został przeniesiony do przeciwnej drużyny."
+	}
+	
+	"swapteam usage"
+	{
+		"pl"				"Użycie: sm_swapteam <#userid|nazwa>"
+	}
+	
+	"swapteam death usage"
+	{
+		"pl"				"Użycie: sm_swapteam_death <#userid|nazwa>"
+	}
+	
+	"swapteam rend usage"
+	{
+		"pl"				"Użycie: sm_swapteam_d <#userid|nazwa>"
+	}
+	
+	"swapteam rend error"
+	{
+		"pl"				"Przenoszenie gracza pod koniec rundy nie jest dostępne w tej grze."
+	}
+	
+	"swapteam spec usage"
+	{
+		"pl"				"Użycie: sm_spec <#userid|nazwa>"
+	}
+	
+	"Moved to spec"
+	{
+		"pl"				"Przeniesiono {1} do obserwatorów."
+	}
+	
+	"Moved to team1"
+	{
+		"pl"				"Przeniesiono {1} do drużyny nr 1."
+	}
+	
+	"Moved to team2"
+	{
+		"pl"				"Przeniesiono {1} do drużyny nr 2."
+	}
+	
+	"team usage css"
+	{
+		"pl"				"Użycie: sm_team <#userid|nazwa> <1 - Obserwator | 2 - T | 3 - CT>"
+	}
+	
+	"team usage tf2"
+	{
+		"pl"				"Użycie: sm_team <#userid|nazwa> <1 - Obserwator | 2 - RED | 3 - BLU>"
+	}
+	
+	"team usage other"
+	{
+		"pl"				"Użycie: sm_team <#userid|nazwa> <1 - Obserwator | 2 - Drużyna nr 1 | 3 - Drużyna nr 2>"
+	}
+	
+	"moved to spec"
+	{
+		"pl"				"{1} został przeniesiony do obserwatorów."
+	}
+	
+	"moved to spec2"
+	{
+		"pl"				"{1} został przeniesiony do obserwatorów."
+	}
+}

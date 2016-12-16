@@ -1,0 +1,23 @@
+"Phrases"
+{
+	"Self Flash"
+	{
+		"#format"		"{1:s}"
+		"en"			"You flashed yourself for {1} seconds."
+	}
+	"Flashed By"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"You were flashed by {1} for {2} seconds."
+	}
+	"You Flashed"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"You flashed {1} for {2} seconds."
+	}
+	"Flashed Teammates"
+	{
+		"#format"		"{1:s},{2:i}"
+		"en"			"{1} flashed {2} teammates."
+	}
+}

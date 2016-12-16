@@ -1,0 +1,78 @@
+﻿"Phrases"
+{
+	"No bets after bomb planted"
+	{
+		"pt"			"Tens de  juntar-te a uma equipa para fazer uma aposta."
+	}
+
+	"Must Be On A Team To Vote"
+	{
+		"pt"			"Você deve juntar uma equipe para fazer uma aposta."
+	}
+
+	"Already Betted"
+	{
+		"pt"			"Já apostaste este round."
+
+	}
+	
+	"Must Be Dead To Vote"
+	{
+		"pt"			"Tens de estar morto para poder apostar."
+	}
+	
+	"Invalid Team for Bet"
+	{
+		"pt"			"Equipa inválida, usa 'ct' or 't'."
+	}
+	
+	"Invalid Bet Amount"
+	{
+		"pt"			"Não fizeste uma aposta válida. Usa 'all', 'half', 'third' ou um numero."
+	}
+	
+	"Not Enough Money"
+	{
+		"pt"			"Não tens dinheiro suficiente para essa aposta."
+	}
+	
+	"Bet Made"
+	{
+		"pt"			"Aposta feita. Probabilidades de {1} para {2}. Podes ganhar ${3} na tua aposta de ${4}."
+	}
+	
+	"One Vs One"
+	{
+		"pt"			"Um vs Um! Apostem agora!"
+	}
+	
+	"One Vs Many Start"
+	{
+		"pt"			"{1} vs a equipa {2}!  Apostem agora!"
+	}
+	
+	"One Vs Many Winner"
+	{
+		"pt"			"{1} ganhou contra as probabilidades! ${2} atribuidos da aposta!"
+	}
+	
+	"Bet Won"
+	{
+		"pt"			"Ganhaste ${1} na tua aposta de ${2}."
+	}
+	
+	"Bet Lost"
+	{
+		"pt"			"Perdeste a tua aposta de ${1}."
+	}
+	
+	"Players Are Dead"
+	{
+		"pt"			"Não podes apostar quando as duas equipas estão mortas!"
+	}
+	
+	"Advertise Bets"
+	{
+		"pt"			"Escreve 'bet team amount' para apostar na equipa ganhadora!"
+	}
+}
