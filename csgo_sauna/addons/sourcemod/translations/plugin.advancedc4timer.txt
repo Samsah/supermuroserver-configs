@@ -1,0 +1,127 @@
+"Phrases"
+{
+	"announce"
+	{
+		"en"		"Say !c4timer or /c4timer to set your c4 timer sounds preferences"
+	}
+	"enable sound"
+	{
+		"en"		"Enable c4 Sounds"
+	}
+	"disable sound"
+	{
+		"en"		"Disable c4 Sounds"
+	}
+	"enable chat"
+	{
+		"en"		"Enable Chat Timer"
+	}
+	"disable chat"
+	{
+		"en"		"Disable Chat Timer"
+	}
+	"enable hud"
+	{
+		"en"		"Enable HUD Timer"
+	}
+	"disable hud"
+	{
+		"en"		"Disable HUD Timer"
+	}
+	"enable center"
+	{
+		"en"		"Enable Center Timer"
+	}
+	"disable center"
+	{
+		"en"		"Disable Center Timer"
+	}
+	"c4 menu"
+	{
+		"en"		"c4 Timer Menu"
+	}
+	"exit"
+	{
+		"en"		"Exit"
+	}
+	"bomb exploded"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} successfully destroyed the target"
+	}
+	"bomb defused"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} successfully defused the c4"
+	}
+	"countdown 1"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+	}
+	"countdown 2"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+	}
+	"countdown 3"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+	}
+	"countdown 4"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+	}
+	"countdown 5"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+	}
+	"countdown 6"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+	}
+	"countdown 7"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+	}
+	"countdown 8"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+	}
+	"countdown 9"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+	}
+	"countdown 10"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1}"
+	}
+	"countdown 20"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1} seconds until explosion"
+	}
+	"countdown 30"
+	{
+		"#format"	"{1:i}"
+		"en"		"{1} seconds until explosion"
+	}
+	"Terrorist"
+	{
+		"#format"	""
+		"en"		"Terrorist"
+	}
+	"Counter-Terrorist"
+	{
+		"#format"	"{1:i}"
+		"en"		"Counter-Terrorist"
+	}
+}

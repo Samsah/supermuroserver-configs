@@ -1,0 +1,46 @@
+// This file was created on the 4-3-2013 at 13:6:48
+// with the help of me --> the Gamemodeshelper <--
+// You can still edit this file, but keep in mind that I might not be able to open the file again to edit it!
+
+"GameModes_Server.txt"
+{
+	"gameTypes"
+	{
+		"classic"
+		{
+			"gameModes"
+			{
+				"casual"
+				{
+					"maxplayers"		"40"
+
+					"exec" 
+					{
+						"exec"			"server.cfg"
+					}
+
+					"mapgroupsMP" 
+					{
+						"mg_muro"		""
+					}
+				}
+			}
+		}
+	}
+
+	"mapgroups"
+	{
+
+		"mg_muro"
+		{
+			"imagename"		"mapgroup-custom1"
+			"nameID"		"#SFUI_Mapgroup_mg_muro"
+			"name"			"mg_muro"
+			"maps"
+			{
+				"cs_sauna_go"		""
+				"de_dust"		""
+			}
+		}
+	}
+}

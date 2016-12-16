@@ -1,0 +1,160 @@
+"Phrases"
+{
+	"Announcement"
+	{
+		"#format"		"{1:s},{2:d},{3:d},{4:d},{5:d},{6:d}"
+		"en"			"{1} You can hold up to {2} grenade(s), {3} incendery/molotov(s), {4} flashbang(s), {5} smoke grenades, and {6} decoy grenades.  {green}ViPs can hold more."
+	}
+
+	"VIP Announcement"
+	{
+		"#format"		"{1:s},{2:d},{3:d},{4:d},{5:d},{6:d}"
+		"en"			"{1} As a {green}ViP{default}, you can hold up to {2} grenade(s), {3} incendery/molotov(s), {4} flashbang(s), {5} smoke grenades, and {6} decoy grenades."
+	}
+
+	"Announcement Total"
+	{
+		"#format"		"{1:s},{2:d}"
+		"en"			"{1} You can hold up to {2} nade(s), regardless of type.  {green}ViPs can hold more."
+	}
+
+	"VIP Announcement Total"
+	{
+		"#format"		"{1:s},{2:d}"
+		"en"			"{1} As a {green}ViP{default}, you can hold up to {2} nade(s), regardless of type."
+	}
+
+	"Announcement RestrictType"
+	{
+		"#format"		"{1:s},{2:d}"
+		"en"			"{1} You can hold up to a total {2} different types of nade(s.  {green}ViPs can hold more."
+	}
+
+	"VIP Announcement RestrictType"
+	{
+		"#format"		"{1:s},{2:d}"
+		"en"			"{1} As a {green}ViP{default}, you can hold up to a total of {2} different types of nade(s)."
+	}
+
+	"Announcement unlimited"
+	{
+		"en"			"You can hold as many grenades as you can find"
+	}
+
+	"Limit changed he"
+	{
+		"#format"		"{1:s},{2:d}"
+		"en"			"{1} The grenade limit has been changed to [{default}{2}{green}]"
+	}
+
+	"Limit changed inc"
+	{
+		"#format"		"{1:s},{2:d}"
+		"en"			"{1} The incendery/molotov limit has been changed to [{default}{2}{green}]"
+	}
+
+	"Limit changed decoy"
+	{
+		"#format"		"{1:s},{2:d}"
+		"en"			"{1} The decoy grenade limit has been changed to [{default}{2}{green}]"
+	}
+
+	"Limit changed flash"
+	{
+		"#format"		"{1:s},{2:d}"
+		"en"			"{1} The flashbang limit has been changed to [{default}{2}{green}]"
+	}
+
+	"Limit changed smoke"
+	{
+		"#format"		"{1:s},{2:d}"
+		"en"			"{1} The smoke grenade limit has been changed to [{default}{2}{green}]"
+	}
+
+	"Limit changed he vip"
+	{
+		"#format"		"{1:s},{2:d}"
+		"en"			"{1} The grenade limit has been changed for VIPs.  If you're a [{default}VIP{green}], you can carry [{default}{2}{green}]hegrenades."
+	}
+
+	"Limit changed inc vip"
+	{
+		"#format"		"{1:s},{2:d}"
+		"en"			"{1} The incendery/molotov limit has been changed for VIPs.  If you're a [{default}VIP{green}], you can carry [{default}{2}{green}]hegrenades."
+	}
+
+	"Limit changed decoy vip"
+	{
+		"#format"		"{1:s},{2:d}"
+		"en"			"{1} The decoy grenade limit has been changed for VIPs.  If you're a [{default}VIP{green}], you can carry [{default}{2}{green}]hegrenades."
+	}
+
+
+	"Limit changed flash vip"
+	{
+		"#format"		"{1:s},{2:d}"
+		"en"			"{1} The flashbang limit has been changed for VIPs.  If you're a [{default}VIP{green}], you can carry [{default}{2}{green}]flashbangs."
+	}
+
+	"Limit changed smoke vip"
+	{
+		"#format"		"{1:s},{2:d}"
+		"en"			"{1} The smoke grenade limit has been changed for VIPs.  If you're a [{default}VIP{green}], you can carry [{default}{2}{green}]smoke grenades."
+	}
+
+	"Plugin Enabled"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} Enabled"
+	}
+
+	"Plugin Disabled"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} Disabled"
+	}
+
+	"Cannot Carry"
+	{
+		"en"			"You cannot carry any more."
+	}
+	"Purchased Max HE"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} You have purchased your max {default}Grenades{green}, wait until next round."
+	}
+	"Purchased Max FB"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} You have purchased your max {default}Flashbangs{green}, wait until next round."
+	}
+	"Purchased Max SG"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} You have purchased your max {default}Smoke Grenades{green}, wait until next round."
+	}
+
+	"Purchased Max INC"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} You have purchased your max {default}Incendery/Molotov{green}, wait until next round."
+	}
+
+	"Purchased Max DECOY"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} You have purchased your max {default}Decoy Grenades{green}, wait until next round."
+	}
+
+	"Purchased Max Nades"
+	{
+		"#format"		"{1:s},{2:i}"
+		"en"			"{1} You have purchased your max ({2}) {default}Grenades{green} of any type, wait until next round."
+	}
+	"Purchased Max Nade Type"
+	{
+		"#format"		"{1:s},{2:i}"
+		"en"			"{1} You have purchased your max ({2}) type of nades, wait until next round."
+	}
+
+}

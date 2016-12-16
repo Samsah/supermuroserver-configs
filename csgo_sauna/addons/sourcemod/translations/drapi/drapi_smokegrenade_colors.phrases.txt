@@ -1,0 +1,148 @@
+﻿//**********************************************  Valid Colors	***********************************************
+
+// {NORMAL}, {DARKRED}, {PINK}, {YELLOW}, {GREEN}, {LIGHTGREEN}, {RED}, {GRAY}, {BLUE}, {DARKBLUE}, {PURPLE}  *
+
+//*************************************************************************************************************
+
+
+
+"Phrases"
+
+{
+
+	"Say Color"
+	{
+		"#format"		"{1:s}"
+		"fr"			"[{GREEN}FUMI{NORMAL}] Vous avez choisi la fumigène{NORMAL}: {BLUE}{1}{NORMAL}."
+		"en"			"[{GREEN}SMOKE{NORMAL}] You chose the{NORMAL}: {BLUE}{1}{NORMAL} smoke."
+		"zho"			"[{GREEN}SMOKE{NORMAL}] 你選擇了{NORMAL}: {BLUE}{1}{NORMAL} 煙霧."
+		"ru"			"[{GREEN}ДЫМ{NORMAL}] Вы выбрали{NORMAL}: {BLUE}{1}{NORMAL} дым."
+		"fi"			"[{GREEN}SMOKE{NORMAL}] Sinä valitsit{NORMAL}: {BLUE}{1}{NORMAL} Savu."
+	}
+
+	"MenuSmokeColors_TITLE"
+	{
+		"fr"			"Menu: Couleur de la fumigène"
+		"en"			"Menu: Smoke Colors"
+		"pl"			"Menu: Smoke kolory"
+		"zho"			"煙霧彈顏色設定"
+		"ru"			"Меню: Цвета дыма"
+		"fi"			"Valikko: Savu värit"
+	}
+	"Multi Colors"
+	{
+		"fr"			"Aléatoire"
+		"en"			"Random"
+		"pl"			"Losowy"
+		"zho"			"隨機"
+		"ru"			"Случайный"
+		"fi"			"Satunnainen"
+	}
+	"explosion_smokegrenade"
+	{
+		"fr"			"Défaut"
+		"en"			"Default"
+		"pl"			"Domyslny"
+		"zho"			"預設"
+		"ru"			"Стандартный"
+		"fi"			"Standardi"
+	}
+
+	"explosion_smokegrenade_base_red"
+	{
+		"fr"			"Rouge"
+		"en"			"Red"
+		"pl"			"Czerwony"
+		"zho"			"紅色"
+		"ru"			"Красный"
+		"fi"			"Punainen"
+	}
+
+	"explosion_smokegrenade_base_green"
+	{
+		"fr"			"Verte"
+		"en"			"Green"
+		"pl"			"Zielony"
+		"zho"			"綠色"
+		"ru"			"Зелёный"
+		"fi"			"Vihreä"
+	}
+
+	"explosion_smokegrenade_base_blue"
+	{
+		"fr"			"Bleue"
+		"en"			"Blue"
+		"pl"			"Niebieski"
+		"zho"			"藍色"
+		"ru"			"Синий"
+		"fi"			"Sininen"
+	}
+
+	"explosion_smokegrenade_base_pink"
+	{
+		"fr"			"Rose"
+		"en"			"Pink"
+		"pl"			"Różowy"
+		"zho"			"粉紅色"
+		"ru"			"Розовый"
+		"fi"			"Vaaleanpunainen"
+	}
+
+	"explosion_smokegrenade_base_orange"
+	{
+		"fr"			"Orange"
+		"en"			"Orange"
+		"pl"			"Pomarańczowy"
+		"zho"			"橘色"
+		"ru"			"Оранжевый"
+		"fi"			"Oranssi"
+	}
+
+	"explosion_smokegrenade_base_black"
+	{
+		"fr"			"Noir"
+		"en"			"Black"
+		"pl"			"Czarny"
+		"zho"			"黑色"
+		"ru"			"Черный"
+		"fi"			"Musta"
+	}
+
+	"explosion_smokegrenade_base_lime"
+	{
+		"fr"			"Citron vert"
+		"en"			"Lime"
+		"pl"			"Lime"
+		"zho"			"萊姆"
+		"ru"			"Лаймовый"
+		"fi"			"Lime"
+	}
+	"explosion_smokegrenade_base_cyan"
+	{
+		"fr"			"Cyan"
+		"en"			"Cyan"
+		"pl"			"Cyan"
+		"zho"			"青色"
+		"ru"			"Голубой"
+		"fi"			"Vaaleansininen"
+	}
+	"explosion_smokegrenade_base_yellow"
+	{
+		"fr"			"Jaune"
+		"en"			"Yellow"
+		"pl"			"Żółty"
+		"zho"			"黃色"
+		"ru"			"Желтый"
+		"fi"			"Keltainen"
+	}
+	"explosion_smokegrenade_base_water_effect"
+	{
+		"fr"			"Effet éclaboussure"
+		"en"			"Water effect"
+		"pl"			"Efekt wody"
+		"zho"			"水波"
+		"ru"			"Эффект воды"
+		"fi"			"Veden vaikutus"
+	}
+}
+

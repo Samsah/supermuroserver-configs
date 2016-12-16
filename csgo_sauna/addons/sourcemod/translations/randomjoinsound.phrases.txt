@@ -1,0 +1,37 @@
+"Phrases"
+{
+	"rjs_menuTitle"
+	{
+		"#format"		""
+		"en"			"Random Join Sound"
+		"fr"			"Son de Bienvenue"
+	}
+	"Disabled"
+	{
+		"#format"		""
+		"en"			"Disabled"
+		"fr"			"Désactivé"
+	}
+	"Enabled"
+	{
+		"#format"		""
+		"en"			"Enabled"
+		"fr"			"Activé"
+	}
+	"EnabledAndStopOnJoinTeam"
+	{
+		"#format"		""
+		"en"			"Enabled but stop on join team"
+		"fr"			"Activé mais arrête après changement d'équipe"
+	}
+	"(Selected)"
+	{
+		"en"			" (selected)"
+		"fr"			" (sélectionnée)"
+	}
+	"space"
+	{
+		"en"			" "
+		"fr"			" "
+	}
+}

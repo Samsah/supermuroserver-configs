@@ -1,0 +1,87 @@
+"Phrases"
+{
+	"Command RS"
+	{
+		"en"			"Usage: sm_resetplayer <name or #userid>"
+	}
+
+	"Command SetScore"
+	{
+		"en"			"Usage: sm_setscore <name or #userid> <Kills> <Deaths>"
+	}
+	"Command SetAssists"
+	{
+		"en"			"Usage: sm_setassists <name or #userid> <assists>"
+	}
+	"Command SetStars"
+	{
+		"en"			"Usage: sm_setstars <name or #userid> <stars>"
+	}
+	"Reset Score of"
+	{
+		"#format"		"{1:s}"
+		"en"			"reseset score of {1}."
+	}
+	"Set Score of"
+	{
+		"#format"		"{1:s},{2:d},{3:d}"
+		"en"			"set score of {1} to {2}/{3}."
+	}
+
+	"Set Stars of"
+	{
+		"#format"		"{1:s},{2:d}"
+		"en"			"set stars of {1} to {2}."
+	}
+
+	"Set Assists of"
+	{
+		"#format"		"{1:s},{2:d}"
+		"en"			"set assists of {1} to {2}."
+	}
+
+	"Set Score Console"
+	{
+		"#format"		"{1:s},{2:d},{3:d}"
+		"en"			"Console set score of {1} to {2}/{3}."
+	}
+
+	"Plugin Disabled"
+	{
+		"en"			"The plugin is disabled."
+	}
+
+	"Server Reset"
+	{
+		"en"			"The server cannot reset his score."
+	}
+
+	"Score 0"
+	{
+		"en"			"Your Score is already 0."
+	}
+
+	"Player Reset Red"
+	{
+		"#format"		"{1:s}"
+		"en"			"Player {red}{1} {default}has just reseted his score."
+	}
+
+	"Player Reset Blue"
+	{
+		"#format"		"{1:s}"
+		"en"			"Player {blue}{1} {default}has just reseted his score."
+	}
+
+	"Player Reset Normal"
+	{
+		"#format"		"{1:s}"
+		"en"			"Player {lightgreen}{1} {default}has just reseted his score."
+	}
+
+	"You Reset"
+	{
+		"en"			"You reseted your score !."
+	}
+
+}
