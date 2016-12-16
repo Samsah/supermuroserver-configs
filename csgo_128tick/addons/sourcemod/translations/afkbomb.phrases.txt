@@ -1,0 +1,28 @@
+﻿"Phrases"
+{
+	"Drop Bomb"
+	{
+		"#format"		""
+		"en"			"I appear to be afk and i'm dropping the bomb."
+		"fr"			"Je semble être afk et je dépose la bombe."
+		"ru"			"Я в состоянии AFK и сбрасываю бомбу!"
+		"pt"			"Estou AFK e dropando a C4, peguem ai!"
+		"pl"			"Jestem AFK, więc wywalam bombe!"
+		"nl"			"Ik drop de bom, ik ben AFK."
+		"de"			"Ich bin offenbar afk und platziere daher die Bombe."
+		"lt"			"Panašu, jog aš afk ir išmetu bombą."
+		"ko"			"잠수중이므로 C4를 버립니다."
+	}
+	"StripNGive Bomb"
+	{
+		"#format"		"{1:s}{2:N}{3:s}"
+		"en"			"{1}{2} {3}seems to be afk with the bomb and therefore it is given to a random terrorist."
+		"fr"			"{1}{2} {3}semble être afk avec la bombe et donc elle est donnée aléatoirement à un terroriste."
+		"pt"			"{1}{2} {3}aparentemente está AFK e com a bomba, devido a isto a bomba foi dada a outro terrorista aleatóriamente."
+		"pl"			"{1}{2} {3}wydaje się być AFK wraz z bombą. Dlatego to bomba zostaje przekazana losowemu terroryście."
+		"nl"			"{1}{2} {3}lijkt afk te zijn. De bom is doorgeschoven naar een random terrorist."
+		"de"			"{1}{2} {3}scheint abwesend zu sein und deshalb erhält ein zufällig ausgewählter Terrorist die Bombe."
+		"lt"			"{1}{2} {3}yra afk su bomba, todel ji duota atsitiktiniam teroristui."
+		"ko"			"{1}{2} {3}님이 현재 C4를 갖고 잠수중인 것으로 보이므로 C4가 임의의 테러리스트에게 지급됩니다."
+	}
+}

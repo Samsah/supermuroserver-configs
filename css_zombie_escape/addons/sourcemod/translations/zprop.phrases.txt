@@ -1,0 +1,64 @@
+"Phrases"
+{
+	// ===========================
+	// Chat Messages
+	// ===========================
+	"Prefix_Chat"
+	{
+		"#format"	""
+		"en"		"{white}[ZProp]: {olive}"
+	}
+	"Phrase_Insufficient_Credits"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"You have insufficient credits - Current: {1}, Required: {2}!"
+	}
+	"Phrase_Spawn_Prop"
+	{
+		"#format"	"{1:s}"
+		"en"		"You have created a {white}{1}{olive}!"
+	}
+	"Phrase_Join"
+	{
+		"#format"	""
+		"en"		"ZProp is enabled! You'll earn credits for killing zombies, etc. Type !zprops to spawn a prop."
+	}
+
+	// ===========================
+	// Hint Messages
+	// ===========================
+	"Prefix_Hint"
+	{
+		"#format"	""
+		"en"		"[ZProp] \n\n"
+	}
+	"Hint_Credits_Buy"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Credits Spent: {1} - Current Credits: {2}"
+	}
+	"Hint_Credits_Gain"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Credits Gained: {1} - Current Credits: {2}"
+	}
+	"Hint_Credits_Maximum"
+	{
+		"#format"	"{1:d}"
+		"en"		"Current Credits: {1} - Maximum Credit Allowance Reached!"
+	}
+
+	// ===========================
+	// Menus
+	// ===========================
+	"Menu_Title"
+	{
+		"#format"	"{1:d}"
+		"en"		"Available Props:\n- You have {1} credits"
+	}
+	"Menu_Prop"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"{1}, ${2}"
+	}
+}

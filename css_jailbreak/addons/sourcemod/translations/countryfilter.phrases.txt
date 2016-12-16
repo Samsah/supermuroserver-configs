@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"Reject"
+	{
+		"en"	"Your country (%s) isn't allowed on this server"
+	}
+
+	"Connect"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} (Country: {2}) was allowed to connect"
+	}
+}

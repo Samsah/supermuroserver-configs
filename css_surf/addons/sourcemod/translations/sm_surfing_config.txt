@@ -1,0 +1,15 @@
+"Games"
+{
+	"cstrike"
+	{
+		"Signatures"
+		{
+			"CleanUp"
+			{
+				"library"	"server"
+				"windows"	"\x83\xEC\x2A\x80\xB9\x2A\x2A\x2A\x2A\x2A\x0F\x2A\x2A\x2A\x2A\x2A\x56\x6A\x00\xB9"
+				"linux"		"@_ZN12CCSGameRules10CleanUpMapEv"
+			}
+		}
+	}
+}

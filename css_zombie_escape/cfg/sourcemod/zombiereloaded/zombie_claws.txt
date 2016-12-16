@@ -1,0 +1,4 @@
+models/player/kuristaja/l4d2/boomer_arms/v_knife_t.mdl
+models/player/kuristaja/l4d2/hunter_arms/v_knife_t.mdl
+models/player/kuristaja/l4d2/smoker_arms/v_knife_t.mdl
+models/player/kuristaja/l4d2/spitter_arms/v_knife_t.mdl

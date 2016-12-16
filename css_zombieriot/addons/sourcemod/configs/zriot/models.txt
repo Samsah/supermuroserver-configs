@@ -1,0 +1,27 @@
+// ====================
+//     Zombie Riot
+//   File: models.txt
+//   Author: Greyscale
+// ====================
+//
+// Add paths to models here
+// They will automatically be downloaded to the client
+//
+// ** DEFAULTS
+
+models/player/zh/zh_charple001
+models/player/zh/zh_zombie003
+models/player/zh/zh_corpse002
+models/player/ics/hellknight_red/t_guerilla
+
+// ** END DEFAULTS **
+
+models/player/slow/l4d/hot_ass_zombie/slow_v2
+
+models/player/slow/amberlyn/re5/fat_majini/slow_css
+
+models/player/slow/aliendrone_v3/slow_alien
+
+models/player/slow/predator_xp/predator_xp
+
+models/player/slow/babycrab_v2/slow_babycrab

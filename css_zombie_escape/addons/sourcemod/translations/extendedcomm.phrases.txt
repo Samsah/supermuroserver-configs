@@ -1,0 +1,598 @@
+"Phrases"
+{
+	//===========================================
+	//	Plugin Translations
+	"Prefix_Chat"
+	{
+		"#format"	""
+		"en"		"Comm: "	
+	}
+	"Prefix_Console"
+	{
+		"#format"	""
+		"en"		"Comm: "	
+	}
+	//===========================================
+	"AdminMenu_Not_Available"
+	{
+		"#format"	""
+		"en"		"The player you selected is no longer available."
+	}
+	"Command_Target_Not_Targetable"
+	{
+		"#format"	""
+		"en"		"You cannot target this player."
+	}
+	//===========================================
+	"AdminMenu_Display_None"
+	{
+		"#format"	"{1:s}"
+		"en"		"[  ] {1}"
+	}
+	"AdminMenu_Display_Muted"
+	{
+		"#format"	"{1:s}"
+		"en"		"[M] {1}"
+	}
+	"AdminMenu_Display_Gagged"
+	{
+		"#format"	"{1:s}"
+		"en"		"[G] {1}"
+	}
+	"AdminMenu_Display_Silenced"
+	{
+		"#format"	"{1:s}"
+		"en"		"[S] {1}"
+	}
+	//===========================================
+	"AdminMenu_Main"
+	{
+		"#format"	""
+		"en"		"Comm Commands"
+	}
+	"AdminMenu_Select_Main"
+	{
+		"#format"	""
+		"en"		"Comm Commands:"
+	}
+	"AdminMenu_Title_Durations"
+	{
+		"#format"	""
+		"en"		"Select Duration:"
+	}
+	"AdminMenu_Title_Reasons"
+	{
+		"#format"	""
+		"en"		"Select Reason:"
+	}
+	"AdminMenu_List"
+	{
+		"#format"	""
+		"en"		"View Punishments"
+	}
+	"AdminMenu_Select_List"
+	{
+		"#format"	""
+		"en"		"Select Player:"
+	}
+	"AdminMenu_Gag"
+	{
+		"#format"	""
+		"en"		"Issue Gag"
+	}
+	"AdminMenu_Select_Gag"
+	{
+		"#format"	""
+		"en"		"Select Player:"
+	}
+	"AdminMenu_Mute"
+	{
+		"#format"	""
+		"en"		"Issue Mute"
+	}
+	"AdminMenu_Select_Mute"
+	{
+		"#format"	""
+		"en"		"Select Player:"
+	}
+	"AdminMenu_Silence"
+	{
+		"#format"	""
+		"en"		"Issue Silence"
+	}
+	"AdminMenu_Select_Silence"
+	{
+		"#format"	""
+		"en"		"Select Player:"
+	}
+	"AdminMenu_Gagged"
+	{
+		"#format"	""
+		"en"		"Remove Gag"
+	}
+	"AdminMenu_Select_Gagged"
+	{
+		"#format"	""
+		"en"		"Select Player:"
+	}
+	"AdminMenu_Muted"
+	{
+		"#format"	""
+		"en"		"Remove Mute"
+	}
+	"AdminMenu_Select_Muted"
+	{
+		"#format"	""
+		"en"		"Select Player:"
+	}
+	"AdminMenu_Silenced"
+	{
+		"#format"	""
+		"en"		"Remove Silence"
+	}
+	"AdminMenu_Select_Silenced"
+	{
+		"#format"	""
+		"en"		"Select Player:"
+	}
+	"AdminMenu_Option_Mute_Empty"
+	{
+		"#format"	""
+		"en"		"No Muted Players"
+	}
+	"AdminMenu_Option_Gag_Empty"
+	{
+		"#format"	""
+		"en"		"No Gagged Players"
+	}
+	"AdminMenu_Option_Silence_Empty"
+	{
+		"#format"	""
+		"en"		"No Silenced Players"
+	}
+	//===========================================
+	"ListMenu_Option_Empty"
+	{
+		"#format"	""
+		"en"		"No Punished Clients"
+	}
+	"ListMenu_Option_Mute"
+	{
+		"#format"	""
+		"en"		"Muted"
+	}
+	"ListMenu_Option_Gag"
+	{
+		"#format"	""
+		"en"		"Gagged"
+	}
+	"ListMenu_Option_Duration"
+	{
+		"#format"	""
+		"en"		"- Duration: "
+	}
+	"ListMenu_Option_Duration_Perm"
+	{
+		"#format"	""
+		"en"		"Permanent"
+	}
+	"ListMenu_Option_Duration_Time"
+	{
+		"#format"	"{1:d}"
+		"en"		"{1} Minutes"
+	}
+	"ListMenu_Option_Duration_Temp"
+	{
+		"#format"	""
+		"en"		"Temporary"
+	}
+	"ListMenu_Option_Expire"
+	{
+		"#format"	""
+		"en"		"- Expires: "
+	}
+	"ListMenu_Option_Expire_Perm"
+	{
+		"#format"	""
+		"en"		"Never"
+	}
+	"ListMenu_Option_Expire_Time"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1}"
+	}
+	"ListMenu_Option_Expire_Temp"
+	{
+		"#format"	""
+		"en"		"Map Change"
+	}
+	"ListMenu_Option_Expire_Temp_Reconnect"
+	{
+		"#format"	""
+		"en"		"Reconnect"
+	}
+	"ListMenu_Option_Admin"
+	{
+		"#format"	"{1:s}"
+		"en"		"- Admin: {1}"
+	}
+	"ListMenu_Option_Issue"
+	{
+		"#format"	"{1:s}"
+		"en"		"- Issued: {1}"
+	}
+	"ListMenu_Option_Reason"
+	{
+		"#format"	""
+		"en"		"- View Reason"
+	}
+	"ListMenu_Option_Reason_None"
+	{
+		"#format"	""
+		"en"		"- Reason: None"
+	}
+	//===========================================
+	"ReasonPanel_Punishment_Mute"
+	{
+		"#format"	""
+		"en"		"Muted: "
+	}
+	"ReasonPanel_Punishment_Gag"
+	{
+		"#format"	""
+		"en"		"Gagged: "
+	}
+	"ReasonPanel_Perm"
+	{
+		"#format"	""
+		"en"		"Permanent"
+	}
+	"ReasonPanel_Time"
+	{
+		"#format"	"{1:d}"
+		"en"		"{1} Minutes"
+	}
+	"ReasonPanel_Temp"
+	{
+		"#format"	""
+		"en"		"Temporary"
+	}
+	"ReasonPanel_Reason"
+	{
+		"#format"	"{1:s}"
+		"en"		"Reason: {1}"
+	}
+	"ReasonPanel_Back"
+	{
+		"#format"	""
+		"en"		"Exit"
+	}
+	//===========================================
+	"Command_Mute_Issue_Immunity"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} was unable to be muted due to already being silenced by a higher administrator!"
+	}
+	"Command_Mute_Remove_Immunity"
+	{
+		"#format"	"{1:N}"
+		"en"		"The mute on {1} was unable to be removed due to being muted by a higher administrator!"
+	}
+	//===========================================
+	"Command_Gag_Issue_Immunity"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} was unable to be gagged due to already being gagged by a higher administrator!"
+	}
+	"Command_Gag_Remove_Immunity"
+	{
+		"#format"	"{1:N}"
+		"en"		"The gag on {1} was unable to be removed due to being gagged by a higher administrator!"
+	}
+	//===========================================
+	"Command_Silence_Issue_Immunity"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} was unable to be silenced due to already being silenced by a higher administrator!"
+	}
+	"Command_Silence_Issue_Immunity_Gag"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} was unable to be gagged due to already being silenced by a higher administrator!"
+	}
+	"Command_Silence_Issue_Immunity_Mute"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} was unable to be muted due to already being silenced by a higher administrator!"
+	}
+	"Command_Silence_Remove_Immunity"
+	{
+		"#format"	"{1:N}"
+		"en"		"The silence on {1} was unable to be removed due to being silenced by a higher administrator!"
+	}
+	"Command_Silence_Remove_Immunity_Gag"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} could not be ungagged due to being gagged by a higher administrator!"
+	}
+	"Command_Silence_Remove_Immunity_Mute"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} could not be unmuted due to being muted by a higher administrator!"
+	}
+	//===========================================
+	"Command_Issue_Mute_Usage"
+	{
+		"#format"	""
+		"en"		"[SM] Usage: sm_mute <player> <optional:time (in minutes)>"
+	}
+	"Command_Remove_Mute_Usage"
+	{
+		"#format"	""
+		"en"		"[SM] Usage: sm_unmute <player> <bool:remove>"
+	}
+	"Command_Issue_Mute_Permission_Perm"
+	{
+		"#format"	""
+		"en"		"You lack the permission to permanently mute!"
+	}
+	"Command_Issue_Mute_Permission_Time"
+	{
+		"#format"	"{1:d}"
+		"en"		"You lack the permission to mute for more than {1} minutes!"
+	}
+	//===========================================
+	"Command_Issue_Gag_Usage"
+	{
+		"#format"	""
+		"en"		"[SM] Usage: sm_gag <player> <optional:time (in minutes)>"
+	}
+	"Command_Remove_Gag_Usage"
+	{
+		"#format"	""
+		"en"		"[SM] Usage: sm_ungag <player> <bool:remove>"
+	}
+	"Command_Issue_Gag_Permission_Perm"
+	{
+		"#format"	""
+		"en"		"You lack the permission to permanently gag!"
+	}
+	"Command_Issue_Gag_Permission_Time"
+	{
+		"#format"	"{1:d}"
+		"en"		"You lack the permission to gag for more than {1} minutes!"
+	}
+	//===========================================
+	"Command_Issue_Silence_Usage"
+	{
+		"#format"	""
+		"en"		"[SM] Usage: sm_silence <player> <optional:time (in minutes)>"
+	}
+	"Command_Remove_Silence_Usage"
+	{
+		"#format"	""
+		"en"		"[SM] Usage: sm_unsilence <player> <bool:remove>"
+	}
+	"Command_Issue_Silence_Permission_Perm"
+	{
+		"#format"	""
+		"en"		"You lack the permission to permanently silence!"
+	}
+	"Command_Issue_Silence_Permission_Time"
+	{
+		"#format"	"{1:d}"
+		"en"		"You lack the permission to silence for more than {1} minutes!"
+	}
+	//===========================================
+	"Command_Database_Invalid"
+	{
+		"#format"	""
+		"en"		"You cannot use this feature as ExtendedComm is not connected to a database!"
+	}
+	"Command_List_Game_Only"
+	{
+		"#format"	""
+		"en"		"This command can only be used in-game."
+	}
+	"Commande_Prune_Complete"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"The pruning operation has completed! {1} entries were removed and {2} entries were updated!"
+	}
+	//===========================================
+	"Log_Mute_Issue_Temp"
+	{
+		"#format"	"{1:L},{2:L}"
+		"en"		"{1} issued a temporary mute on {2}."
+	}
+	"Log_Mute_Remove_Temp"
+	{
+		"#format"	"{1:L},{2:L}"
+		"en"		"{1} removed a temporary mute from {2}."
+	}
+	"Log_Mute_Issue_Perm"
+	{
+		"#format"	"{1:L},{2:L}"
+		"en"		"{1} issued a permanent mute on {2}."
+	}
+	"Log_Mute_Remove_Perm"
+	{
+		"#format"	"{1:L},{2:L}"
+		"en"		"{1} removed a permanent mute from {2}."
+	}
+	"Log_Mute_Issue_Time"
+	{
+		"#format"	"{1:L},{2:L},{3:d}"
+		"en"		"{1} issued an extended mute on {2} for {3} minutes."
+	}
+	"Log_Mute_Remove_Time"
+	{
+		"#format"	"{1:L},{2:L},{3:d}"
+		"en"		"{1} removed an extended mute for {3} minutes from {2}."
+	}
+	//===========================================
+	"Log_Gag_Issue_Temp"
+	{
+		"#format"	"{1:L},{2:L}"
+		"en"		"{1} issued a temporary gag on {2}."
+	}
+	"Log_Gag_Remove_Temp"
+	{
+		"#format"	"{1:L},{2:L}"
+		"en"		"{1} removed a temporary gag from {2}."
+	}
+	"Log_Gag_Issue_Perm"
+	{
+		"#format"	"{1:L},{2:L}"
+		"en"		"{1} issued a permanent gag on {2}."
+	}
+	"Log_Gag_Remove_Perm"
+	{
+		"#format"	"{1:L},{2:L}"
+		"en"		"{1} removed a permanent gag from {2}."
+	}
+	"Log_Gag_Issue_Time"
+	{
+		"#format"	"{1:L},{2:L},{3:d}"
+		"en"		"{1} issued an extended gag on {2} for {3} minutes."
+	}
+	"Log_Gag_Remove_Time"
+	{
+		"#format"	"{1:L},{2:L},{3:d}"
+		"en"		"{1} removed an extended gag for {3} minutes from {2}."
+	}
+	//===========================================
+	"Log_Silence_Issue_Temp"
+	{
+		"#format"	"{1:L},{2:L}"
+		"en"		"{1} issued a temporary silence on {2}."
+	}
+	"Log_Silence_Remove_Temp"
+	{
+		"#format"	"{1:L},{2:L}"
+		"en"		"{1} removed a temporary silence from {2}."
+	}
+	"Log_Silence_Remove_Misc"
+	{
+		"#format"	"{1:L},{2:L}"
+		"en"		"{1} removed a miscellaneous silence from {2}."
+	}
+	"Log_Silence_Issue_Perm"
+	{
+		"#format"	"{1:L},{2:L}"
+		"en"		"{1} issued a permanent silence on {2}."
+	}
+	"Log_Silence_Remove_Perm"
+	{
+		"#format"	"{1:L},{2:L}"
+		"en"		"{1} removed a permanent silence from {2}."
+	}
+	"Log_Silence_Issue_Time"
+	{
+		"#format"	"{1:L},{2:L},{3:d}"
+		"en"		"{1} issued an extended silence on {2} for {3} minutes."
+	}
+	"Log_Silence_Remove_Time"
+	{
+		"#format"	"{1:L},{2:L}"
+		"en"		"{1} removed an extended silence from {2}."
+	}
+	//===========================================
+	"Show_Activity_Mute_Issue_Temp"
+	{
+		"#format"	"{1:N}"
+		"en"		"Issued a temporary mute on {1}."
+	}
+	"Show_Activity_Mute_Remove_Temp"
+	{
+		"#format"	"{1:N}"
+		"en"		"Removed a temporary mute from {1}."
+	}
+	"Show_Activity_Mute_Issue_Perm"
+	{
+		"#format"	"{1:N}"
+		"en"		"Issued a permanent mute on {1}."
+	}
+	"Show_Activity_Mute_Remove_Perm"
+	{
+		"#format"	"{1:N}"
+		"en"		"Removed a permanent mute from {1}."
+	}
+	"Show_Activity_Mute_Issue_Time"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"Issued an extended mute on {1} for {2} minutes."
+	}
+	"Show_Activity_Mute_Remove_Time"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"Removed an extended mute for {2} minutes from {1}."
+	}
+	//===========================================
+	"Show_Activity_Gag_Issue_Temp"
+	{
+		"#format"	"{1:N}"
+		"en"		"Issued a temporary gag on {1}."
+	}
+	"Show_Activity_Gag_Remove_Temp"
+	{
+		"#format"	"{1:N}"
+		"en"		"Removed a temporary gag from {1}."
+	}
+	"Show_Activity_Gag_Issue_Perm"
+	{
+		"#format"	"{1:N}"
+		"en"		"Issued a permanent gag on {1}."
+	}
+	"Show_Activity_Gag_Remove_Perm"
+	{
+		"#format"	"{1:N}"
+		"en"		"Removed a permanent gag from {1}."
+	}
+	"Show_Activity_Gag_Issue_Time"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"Issued an extended gag on {1} for {2} minutes."
+	}
+	"Show_Activity_Gag_Remove_Time"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"Removed an extended gag for {2} minutes from {1}."
+	}
+	//===========================================
+	"Show_Activity_Silence_Issue_Temp"
+	{
+		"#format"	"{1:N}"
+		"en"		"Issued a temporary silence on {1}."
+	}
+	"Show_Activity_Silence_Remove_Temp"
+	{
+		"#format"	"{1:N}"
+		"en"		"Removed a temporary silence from {1}."
+	}
+	"Show_Activity_Silence_Remove_Misc"
+	{
+		"#format"	"{1:N}"
+		"en"		"Removed a miscellaneous silence from {1}."
+	}
+	"Show_Activity_Silence_Issue_Perm"
+	{
+		"#format"	"{1:N}"
+		"en"		"Issued a permanent silence on {1}."
+	}
+	"Show_Activity_Silence_Remove_Perm"
+	{
+		"#format"	"{1:N}"
+		"en"		"Removed a permanent silence from {1}."
+	}
+	"Show_Activity_Silence_Issue_Time"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"Issued an extended silence on {1} for {2} minutes."
+	}
+	"Show_Activity_Silence_Remove_Time"
+	{
+		"#format"	"{1:N}"
+		"en"		"Removed an extended silence from {1}."
+	}
+}

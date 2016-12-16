@@ -1,0 +1,47 @@
+"entities"
+{
+	"0"
+	{
+		"desc"			"Freeze Gun"
+		"short_desc"		"Freeze"
+		"color"			"00A4DB"
+		"name"			"freeze_gun"
+		"exactname"		"true"
+		"singleactivator"	"true"
+		"type"			"weapon_elite"
+		"button_type"		"func_button"
+		"chat"			"true"
+		"hud"			"true"
+		"mode"			"1"
+		"cooldown"		"30.0"
+	}
+	"1"
+	{
+		"desc"			"Push Gun"
+		"short_desc"		"Push"
+		"color"			"A400DB"
+		"name"			"wunder_gun"
+		"exactname"		"true"
+		"singleactivator"	"true"
+		"type"			"weapon_elite"
+		"button_type"		"func_button"
+		"chat"			"true"
+		"hud"			"true"
+		"mode"			"1"
+		"cooldown"		"30.0"
+	}
+	"2"
+	{
+		"desc"			"Monkey Bombs"
+		"short_desc"		"Bombs"
+		"color"			"DB8000"
+		"name"			"monkey_gun"
+		"exactname"		"true"
+		"singleactivator"	"true"
+		"type"			"weapon_elite"
+		"button_type"		"func_button"
+		"chat"			"true"
+		"hud"			"true"
+		"mode"			"0"
+	}
+}

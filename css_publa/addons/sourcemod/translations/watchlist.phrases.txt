@@ -1,0 +1,78 @@
+//v 2.0.1
+"Phrases"
+{
+	"ERROR1"
+	{
+		"en"		"databases.cfg is not filled out correctly."
+	}
+	"ERROR2"
+	{
+		"#format"	"{1:s}"
+		"en"		"Query failed. {1}"
+	}
+	"Watchlist_Timer_Announce"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"[Watchlist] Player {1} ({2}) is on the Watchlist for {3}."
+	}
+	"Watchlist_Player_Join"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"[Watchlist] Player {1} ({2}) is on the Watchlist for {3} and has joined the server."
+	}
+	"Watchlist_Player_Leave"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"[Watchlist] Player {1} ({2}) is on the Watchlist but has left the server."
+	}
+	"Watchlist_Query_Header"
+	{
+		"en"		"[Watchlist] =====STEAMID=====NAME=====DATE LAST SEEN=====REASON====="
+	}
+	"Watchlist_Query_Empty"
+	{
+		"en"		"There are no players on the watchlist."
+	}
+	"Watchlist_Add"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"[Watchlist] {1} is already on the Watchlist for {2}."
+	}
+	"Watchlist_Add_Fail"
+	{
+		"#format"	"{1:s}"
+		"en"		"[Watchlist] Unable to add {1} to the Watchlist."
+	}
+	"Watchlist_Add_Success"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"[Watchlist] Successfully added {1} to the Watchlist for {2}."
+	}
+	"Watchlist_Remove"
+	{
+		"#format"	"{1:s}"
+		"en"		"[Watchlist] {1} is not on the Watchlist."
+	}
+	"Watchlist_Remove_Fail"
+	{
+		"#format"	"{1:s}"
+		"en"		"[Watchlist] Unable to remove {1} from the Watchlist."
+	}
+	"Watchlist_Remove_Success"
+	{
+		"#format"	"{1:s}"
+		"en"		"[Watchlist] Successfully removed {1} from the Watchlist."
+	}
+	"Watchlist_Add_Menu"
+	{
+		"en"		"Add a player to the Watchlist."
+	}
+	"Watchlist_Remove_Menu"
+	{
+		"en"		"Remove a player from the Watchlist."
+	}
+	"Watchlist_Admin_Join"
+	{
+		"en"		"[Watchlist] There are players online that are on the watchlist. Check the console to see who they are."
+	}
+}

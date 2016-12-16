@@ -1,0 +1,11 @@
+"Phrases"
+{
+	"Blocked"
+	{
+		"en"		"Radio messages are blocked!"
+		"he"		"!תומוסח וידר תועדוה"
+		"hu"		"Rádió üzenetek letiltva!"
+		"es"		"Los mensajes de radio estan bloqueados!"
+		"ru"        "Радио сообщения отключены!"
+	}
+}

@@ -1,0 +1,130 @@
+// ====================
+//     Zombie Riot
+//   File: downloads.txt
+//   Author: Greyscale
+// ====================
+//
+// Add files you want clients to download here
+//
+// ** DEFAULTS **
+
+materials/models/player/zh/Zombie_Classic_sheet.vmt
+materials/models/player/zh/corpse1.vmt
+materials/models/player/zh/Charple1_sheet.vmt
+
+// Big Zombie
+materials/models/player/ics/hellknight_red/estuche.vmt
+materials/models/player/ics/hellknight_red/estuche.vtf
+materials/models/player/ics/hellknight_red/hellknight.vmt
+materials/models/player/ics/hellknight_red/hellknight.vtf
+materials/models/player/ics/hellknight_red/hellknight_normal.vtf
+
+// team win overlays
+materials/overlays/zr/zombies_win.vtf
+materials/overlays/zr/zombies_win.vmt
+materials/overlays/zr/humans_win.vtf
+materials/overlays/zr/humans_win.vmt
+
+// zvision
+materials/overlays/zr/zvision.vtf
+materials/overlays/zr/zvision.vmt
+
+// ** END DEFAULTS **
+
+//HOT ASS ZOMBIE
+materials/models/player/slow/l4d/hot_ass_zombie/slow_body.vmt
+materials/models/player/slow/l4d/hot_ass_zombie/slow_body.vtf
+materials/models/player/slow/l4d/hot_ass_zombie/slow_body_bump.vtf
+materials/models/player/slow/l4d/hot_ass_zombie/slow_head.vmt
+materials/models/player/slow/l4d/hot_ass_zombie/slow_head.vtf
+materials/models/player/slow/l4d/hot_ass_zombie/slow_head_bump.vtf
+materials/models/player/slow/l4d/hot_ass_zombie/slow_legs.vmt
+materials/models/player/slow/l4d/hot_ass_zombie/slow_legs.vtf
+materials/models/player/slow/l4d/hot_ass_zombie/slow_legs_bump.vtf
+models/player/slow/l4d/hot_ass_zombie/slow_v2.dx80.vtx
+models/player/slow/l4d/hot_ass_zombie/slow_v2.dx90.vtx
+models/player/slow/l4d/hot_ass_zombie/slow_v2.mdl
+models/player/slow/l4d/hot_ass_zombie/slow_v2.phy
+models/player/slow/l4d/hot_ass_zombie/slow_v2.sw.vtx
+models/player/slow/l4d/hot_ass_zombie/slow_v2.vvd
+
+//FAT MANGI
+materials/models/player/slow/amberlyn/re5/fat_majini/slow_eyes.vmt
+materials/models/player/slow/amberlyn/re5/fat_majini/slow_head.vmt
+materials/models/player/slow/amberlyn/re5/fat_majini/slow_head.vtf
+materials/models/player/slow/amberlyn/re5/fat_majini/slow_head_bump.vtf
+materials/models/player/slow/amberlyn/re5/fat_majini/slow_mouth.vmt
+materials/models/player/slow/amberlyn/re5/fat_majini/slow_pants.vmt
+materials/models/player/slow/amberlyn/re5/fat_majini/slow_pants.vtf
+materials/models/player/slow/amberlyn/re5/fat_majini/slow_pants_bump.vtf
+materials/models/player/slow/amberlyn/re5/fat_majini/slow_skin.vmt
+materials/models/player/slow/amberlyn/re5/fat_majini/slow_skin.vtf
+materials/models/player/slow/amberlyn/re5/fat_majini/slow_skin_bump.vtf
+models/player/slow/amberlyn/re5/fat_majini/slow_css.dx80.vtx
+models/player/slow/amberlyn/re5/fat_majini/slow_css.dx90.vtx
+models/player/slow/amberlyn/re5/fat_majini/slow_css.mdl
+models/player/slow/amberlyn/re5/fat_majini/slow_css.phy
+models/player/slow/amberlyn/re5/fat_majini/slow_css.sw.vtx
+models/player/slow/amberlyn/re5/fat_majini/slow_css.vvd
+
+//S-LoW's ALIEN V3
+materials/models/player/slow/aliendrone_v3/drone_arms.vmt
+materials/models/player/slow/aliendrone_v3/drone_arms.vtf
+materials/models/player/slow/aliendrone_v3/drone_arms_normal.vtf
+materials/models/player/slow/aliendrone_v3/drone_head.vmt
+materials/models/player/slow/aliendrone_v3/drone_head.vtf
+materials/models/player/slow/aliendrone_v3/drone_head_normal.vtf
+materials/models/player/slow/aliendrone_v3/drone_legs.vmt
+materials/models/player/slow/aliendrone_v3/drone_legs.vtf
+materials/models/player/slow/aliendrone_v3/drone_legs_normal.vtf
+materials/models/player/slow/aliendrone_v3/drone_torso.vmt
+materials/models/player/slow/aliendrone_v3/drone_torso.vtf
+materials/models/player/slow/aliendrone_v3/drone_torso_normal.vtf
+materials/models/player/slow/aliendrone_v3/slow_alien_blood.vmt
+materials/models/player/slow/aliendrone_v3/slow_alien_blood.vtf
+materials/models/player/slow/aliendrone_v3/slow_alien_gebiss.vmt
+materials/models/player/slow/aliendrone_v3/slow_alien_gebiss.vtf
+materials/models/player/slow/aliendrone_v3/slow_alien_gebiss_bump.vtf
+materials/models/player/slow/aliendrone_v3/slow_alien_schwanz.vmt
+materials/models/player/slow/aliendrone_v3/slow_alien_schwanz.vtf
+models/player/slow/aliendrone_v3/slow_alien.dx80.vtx
+models/player/slow/aliendrone_v3/slow_alien.dx90.vtx
+models/player/slow/aliendrone_v3/slow_alien.mdl
+models/player/slow/aliendrone_v3/slow_alien.phy
+models/player/slow/aliendrone_v3/slow_alien.sw.vtx
+models/player/slow/aliendrone_v3/slow_alien.vvd
+
+models/player/slow/aliendrone_v3/slow_alien_head.dx80.vtx
+models/player/slow/aliendrone_v3/slow_alien_head.dx90.vtx
+models/player/slow/aliendrone_v3/slow_alien_head.mdl
+models/player/slow/aliendrone_v3/slow_alien_head.phy
+models/player/slow/aliendrone_v3/slow_alien_head.sw.vtx
+models/player/slow/aliendrone_v3/slow_alien_head.vvd
+
+models/player/slow/aliendrone_v3/slow_alien_hs.dx80.vtx
+models/player/slow/aliendrone_v3/slow_alien_hs.dx90.vtx
+models/player/slow/aliendrone_v3/slow_alien_hs.mdl
+models/player/slow/aliendrone_v3/slow_alien_hs.phy
+models/player/slow/aliendrone_v3/slow_alien_hs.sw.vtx
+models/player/slow/aliendrone_v3/slow_alien_hs.vvd
+
+//S-LoW's Predator XP
+materials/models/player/slow/predator_xp/devices.vmt
+materials/models/player/slow/predator_xp/limbs.vmt
+materials/models/player/slow/predator_xp/slow_laser.vmt
+materials/models/player/slow/predator_xp/slow_laser.vtf
+materials/models/player/slow/predator_xp/torso.vmt
+models/player/slow/predator_xp/predator_xp.dx80.vtx
+models/player/slow/predator_xp/predator_xp.dx90.vtx
+models/player/slow/predator_xp/predator_xp.mdl
+models/player/slow/predator_xp/predator_xp.phy
+models/player/slow/predator_xp/predator_xp.sw.vtx
+models/player/slow/predator_xp/predator_xp.vvd
+
+//S-LoW's Babycrab V2
+models/player/slow/babycrab_v2/slow_babycrab.dx80.vtx
+models/player/slow/babycrab_v2/slow_babycrab.dx90.vtx
+models/player/slow/babycrab_v2/slow_babycrab.mdl
+models/player/slow/babycrab_v2/slow_babycrab.phy
+models/player/slow/babycrab_v2/slow_babycrab.sw.vtx
+models/player/slow/babycrab_v2/slow_babycrab.vvd

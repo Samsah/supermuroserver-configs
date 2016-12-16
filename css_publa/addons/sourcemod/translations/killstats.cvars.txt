@@ -1,0 +1,235 @@
+﻿"Phrases"
+{
+	// CVARS
+	"sm_killstats_enable"
+	{
+		"en"		"Enables the KillStats plugin"
+		"de"		"Schaltet das KillStats Plug-in ein"
+		"ru"		"Статистика повреждений включена."
+		"fr"		"Mettre en marche le plugin KillStats"
+	}
+
+	"sm_killstats_enabled_by_default"
+	{
+		"en"		"Specifies whether players default to seeing killstats or not"
+		"de"		"Gibt an ob der Spieler als Standard die Killstats sieht oder nicht"
+		"ru"		"Включена ли статистика повреждений по умолчанию"
+		"fr"		"Indique si les joueurs peuvent voir killstats ou pas"
+	}
+
+	"sm_killstats_new_player_options"
+	{
+		"en"		"Whether to bring up the kill stats options menu for players who have not yet set any preferences"
+		"de"		"Soll das Kill Stats Optionen Menü bei Spielern eingeblendet werden, welche derzeit noch keine Einstellungen vorgenommen haben"
+		"fr"		"Doit-il faire apparaitre le menu option de Kill Stats pour les joueurs qui non pas encore choisi leur préférences"
+		"ru"		"Меню нового игрока: настройка статистики повреждений"
+	}
+
+	"sm_killstats_show_startup_help"
+	{
+		"en"		"Show help messages on startup"
+		"de"		"Zeige Hilfe Dialog beim Start"
+		"fr"		"Montrez le message d'aide au démarrage"
+		"ru"		"Показывать сообщения при входе"
+	}
+
+	"sm_killstats_show_on_teamkill"
+	{
+		"en"		"Whether to display the killstats if the player was killed by a teammate"
+		"de"    	"Sollen die Killstats angezeigt werden wenn der Spieler von einem Teammitglied ausgeschaltet worden ist"
+		"fr"		"Doit-il montrer les killstats si le joueur était tué par un co-équipier"
+		"ru"		"Показывать ли статистику повреждений если вас убил свой?"
+	}
+
+	"sm_killstats_combine_damage"
+	{
+		"en"		"Whether to combine damage with kills (Kills/DamageDone in one section, KilledBy/DamageTaken in another)"
+		"de"		"Soll der Schaden mit den ausgeschalteten Gegnern verrechnet werden (Ausgeschaltete Gegner / Ausgeteilter Schaden in einer Sektion, Ausgeschaltet von / Eingesteckter Schaden in einer anderen)"
+		"fr"		"Doit-il combiner les dommages avec les tués(Tués/Dommages fait dans une section, Tué par/Dommages prit dans l'autre)"
+		"ru"		"Показывать подробную информафию"
+	}
+
+	"sm_killstats_show_death_mark"
+	{
+		"en"		"Whether to show a * next to kills"
+		"de"		"Soll ein * neben den ausgeschalteten Gegner stehen"
+		"fr"		"Doit-il afficher un * a coté des tués"
+		"ru"		"Показывать ли *"
+	}
+
+	"sm_killstats_show_distance"
+	{
+		"en"		"Whether to show distance in death strings"
+		"de"		"Soll die Distance in den Strings der Ausgeschalteten Gegner angezeigt werden"
+		"fr"		"Doit-il afficher la distance dans la ligne des tués"
+		"ru"		"Показ дистанции (метры или футы)"
+	}
+
+	"sm_killstats_show_body_hits"
+	{
+		"en"		"What to show in body hit strings - 0=Nothing,1=Everything,2=Headshots Only"
+		"de"		"Was in den Körpertreffer Strings angezeigt werden soll - 0=Nichts, 1=Alles, 2=Nur Kopftreffer"
+		"fr"		"Quoi afficher sur la ligne quand un tir touche une partie du corps - 0=Rien,1=Tout,2=Headshots Seulement"
+		"ru"		"Показ статистики попаданий - 0=Не показывать, 1=Показывать всегда, 2= показывать только при хедшотах"
+	}
+
+	"sm_killstats_show_weapon_used"
+	{
+		"en"		"Whether to show what weapon was used for kills"
+		"de"		"Sollen angezeigt werden welche Waffe für das Ausschalten von Gegnern verwendet worden ist"
+		"fr"		"Doit-il afficher l'arme qui a été utilisé pour tué"
+		"ru"		"Показ оружия, использованого для убийства"
+	}
+
+	"sm_killstats_show_empty_menus"
+	{
+		"en"		"Whether to show an empty menu with NONE for menus where player had no activity"
+		"de"		"Soll ein leeres Menü ohne Einträge für Spieler angezeigt werden, wenn der Spieler keine Treffer hatte"
+		"fr"		"Doit-il afficher un Menu vide avec rien quand le joueur n'a eu aucune activité"
+		"ru"		"Не показывать неиспользуемые меню"
+	}
+
+	"sm_killstats_max_panel_width"
+	{
+		"en"		"Maximum number of characters that will be displayed for killstats panels.  Can be between 30 and 128 (default is 128)."
+		"de"		"Maximale Buchstabenkettenlänge die im Killstats Panel angezeigt wird. Wert kann zwischen 30 und 128 (Standard ist 128) liegen."
+		"fr"		"Le nombre maximal de caractères qui seront affiché dans le paneau Killstats.  Peut être entre  30 et 128 (par défaut a 128)."
+		"ru"		"Максимальное количество символов, помещенное на панель статистики повреждений - от 30 до 128 (128 по-умолчанию"
+	}
+
+       "sm_killstats_restart_numbering"
+	{
+		"en"		"Whether to restart the first item at 1 on every killstats page"
+		"de"		"Soll der erste Gegenstand auf 1 bei jeder Killstats Seite neu geladen werden"
+		"fr"		"Doit-il réafficher le premier article a 1 sur toute les pages de Killstats"
+		"ru"		"Whether to restart the first item at 1 on every killstats page"
+	}
+       
+	"sm_killstats_death_time"
+	{
+		"en"		"How long to display the killstats panel when a player dies"
+		"de"		"Gibt an wie lange die Killstats Anzeige angezeigt wird wenn ein Spieler stirbt"
+		"ru"		"Сколько времени будет показываться статистика повреждений после смерти"
+		"fr"		"Combien de temps doit être affiché les killstats quand un joueur meurt"
+	}
+
+	"sm_killstats_view_time"
+	{
+		"en"		"How long to display the killstats panel when a player chooses to view it"
+		"de"		"Gibt an wie lange die Killstats Anzeige angezeigt wird wenn der Spieler eingestellt hat das sie angezeigt werden soll"
+		"ru"		"Сколько времени будет показываться статистика повреждений при ее принудительном отбражении"
+		"fr"		"Combien de temps doit être affiché les killstats quand un joueur choisit de le regarder"
+	}
+
+	"sm_killstats_round_end_time"
+	{
+		"en"		"How long to display the killstats panel at the end of a round"
+		"de"		"Gibt an wie lange die Killstats Anzeige am Ende der Runde angezeigt werden soll"
+		"ru"		"Сколько времени будет показываться статистика повреждений в конце раунда"
+		"fr"		"Combien de temps doit être affiché le panneau de killstats à la fin d'un round"
+	}
+
+	"sm_killstats_unit_of_measure"
+	{
+		"en"		"Unit of measure to show for kills (1=feet,2=meters)"
+		"de"		"Maßeinheit in welchen die Entfernung wiedergegen werden soll (1=Fuß, 2=Meter)
+		"fr"		"L'Unité de mesure a utiliser (1=pieds,2=mètres)"
+		"ru"		"Мера исчисления расстояния (1=футы, 2=метры)"
+	}
+
+	"sm_killstats_default_show_in_chat"
+	{
+		"en"		"Whether to display killstats in the chat window by default"
+		"de"    	"Sollen die Killstats normalerweise im Chat Fenster angezeigt werden"
+		"fr"		"Doit-il montrer les killstats dans le chat par défaut"
+		"ru"		"Показывать статистику повреждений в чате по-умолчанию"
+	}
+
+	"sm_killstats_default_show_in_menu"
+	{
+		"en"		"Whether to display killstats in a menu by default"
+		"de"    	"Sollen die Killstats normalerweise in einem Menü angezeigt werden"
+		"fr"		"Doit-il montrer les killstats dans un menu par défaut"
+		"ru"		"Показывать статистику повреждений в меню по-умолчанию"
+	}
+
+	"sm_killstats_menu_show_killed"
+	{
+		"en"		"Whether players will see who they killed by default"
+		"de"    	"Sollen die Spieler normalerweise angezeigt bekommen wen Sie ausgeschaltet haben"
+		"fr"		"Si les joueurs verront qui ils ont tué par défaut"
+		"ru"		"Показывать статистику повреждений в меню по-умолчанию"
+	}
+
+	"sm_killstats_menu_show_killed_by"
+	{
+		"en"		"Whether players will see who killed them by default"
+		"de"    	"Sollen die Spieler normalerweise angezeigt bekommen wer Sie ausgeschaltet hat"
+		"fr"		"Si les joueurs verront qui les a tuées par défaut"
+		"ru"		"Показывать кем был убит игрок по-умолчанию"
+	}
+
+	"sm_killstats_menu_show_damage_done"
+	{
+		"en"		"Whether players will see damage they dealt by default"
+		"de"    	"Sollen die Spieler normalerweise den Schaden den Sie ausgeteilt haben angezeigt bekommen"
+		"fr"		"Si les joueurs verront les dommages qu'ils ont causés par défaut"
+		"ru"		"Показывать нанесенные повреждения по-умолчанию"
+	}
+
+	"sm_killstats_menu_show_damage_taken"
+	{
+		"en"		"Whether players will see how much damage they took by default"
+		"de"    	"Sollen die Spieler normalerweise den Schaden den Sie eingesteckt haben angezeigt bekommen"
+		"fr"		"Si les joueurs verront combien de dommages ils ont pris par défaut"
+		"ru"		"Показывать полученный урон по-умолчанию"
+	}
+
+	"sm_killstats_chat_show_killed"
+	{
+		"en"		"Whether players will see who they killed by default"
+		"de"    	"Sollen die Spieler normalerweise angezeigt bekommen wen Sie ausgeschaltet haben"
+		"fr"		"Si les joueurs verront qui ils ont tué par défaut"
+		"ru"		"Игрок может видеть кто его убил по-умолчанию"
+	}
+
+	"sm_killstats_chat_show_killed_by"
+	{
+		"en"		"Whether players will see who killed them by default"
+		"de"		"Sollen die Spieler normalerweise angezeigt bekommen wer Sie ausgeschaltet hat"
+		"fr"		"Si les joueurs verront qui les a tuées par défaut"
+		"ru"		"Игрок может видеть кого он убил по-умолчанию"
+	}
+
+	"sm_killstats_chat_show_damage_done"
+	{
+		"en"		"Whether players will see damage they dealt by default"
+		"de"		"Sollen die Spieler normalerweise den Schaden den Sie ausgeteilt haben angezeigt bekommen"
+		"fr"		"Si les joueurs verront les dommages qu'ils ont causés par défaut"
+		"ru"		"Показывать нанесенные повреждения по-умолчанию"
+	}
+
+	"sm_killstats_chat_show_damage_taken"
+	{
+		"en"		"Whether players will see how much damage they took by default"
+		"de"		"Sollen die Spieler normalerweise den Schaden den Sie eingesteckt haben angezeigt bekommen"
+		"fr"		"Si les joueurs verront combien de dommages ils ont pris par défaut"
+		"ru"		"Показывать полученный урон по-умолчанию"
+	}
+
+	"sm_killstats_chat_display_order"
+	{
+		"en"		"Order in chat to display Kills/Deaths/Damage Done/Damage Received (1234 would be this order, 4321 would be reverse, etc)"
+		"de"    	"Reihenfolge im Chat in welcher Ausgeschaltete Gegner/Gestorben/Schaden ausgeteilt/Schaden eingesteckt angezeigt werden soll (1234 stellt diese Reihenfolge da, 4321 dreht diese Reihenfolge um, etc)"
+		"fr"		"L'ordre d’affichage dans le chat Tués/Morts/Dommages fait/Dommages reçu (1234 seraient cet ordre, 4321 seraient renversés, etc..)"
+		"ru"		"Показывать статистику повреждений в чате"
+	}
+
+	"sm_killstats_menu_display_order"
+	{
+		"en"		"Order in menu to display Kills/Deaths/Damage Done/Damage Received (1234 would be this order, 4321 would be reverse, etc)"
+		"de"    	"Reihenfolge im Menü in welcher Ausgeschaltete Gegner/Gestorben/Schaden ausgeteilt/Schaden eingesteckt angezeigt werden soll (1234 stellt diese Reihenfolge da, 4321 dreht diese Reihenfolge um, etc)"
+		"fr"		"L'ordre d’affichage dans le menu Tués/Morts/Dommages fait/Dommages reçu (1234 seraient cet ordre, 4321 seraient renversés, etc..)"
+		"ru"		"Показывать статистику повреждений в меню"
+	}
+}

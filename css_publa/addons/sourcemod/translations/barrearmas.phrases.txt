@@ -1,0 +1,13 @@
+﻿"Phrases"
+{
+	"Manual MSG Escoba"
+	{
+		"en"		"Broom passed by an admin order. Removed all weapons in ground."
+                "es"            "Escoba pasada por orden de un admin. Se borraron todas las armas del suelo."
+	}
+	"Auto MSG Escoba"
+	{
+		"en"		"Broom automatic passed. Removed all weapons in ground."
+		"es"		"Escoba automatica pasada. Se borraron todas las armas del suelo."
+	}
+}

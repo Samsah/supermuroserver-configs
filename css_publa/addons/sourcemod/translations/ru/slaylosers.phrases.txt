@@ -1,0 +1,19 @@
+"Phrases"
+{
+	"[Slay Losers]"
+	{
+		"ru"		"{green}[Slay Losers]{default} "
+	}
+	"Counter Terrorists have been spared for touching at least one hostage"
+	{
+		"ru"		"Спецназ помилован за попытку вывести заложников"
+	}
+	"Counter Terrorists have been slayed for not completing the objectives"
+	{
+		"ru"		"Спецназ уничтожен за невыполнение задачи карты"
+	}
+	"Terrorists have been slayed for not completing the objectives"
+	{
+		"ru"		"Террористы уничтожены за невыполнение задачи карты"
+	}
+}

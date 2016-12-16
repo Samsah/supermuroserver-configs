@@ -1,0 +1,20 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"1.1.4-fix2"
+		}
+		
+		"Notes"		"Fixed 1.5 dependency... again"
+	}
+	
+	"Files"
+	{
+		"Plugin"	"Path_SM/plugins/simple-chatprocessor.smx"
+
+		"Source"	"Path_SM/scripting/simple-chatprocessor.sp"
+		"Source"	"Path_SM/scripting/include/scp.inc"
+	}
+}

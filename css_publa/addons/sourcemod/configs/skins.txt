@@ -1,0 +1,9 @@
+"Skins"
+{
+	/*"1"
+	{
+		"original"	"modelpath"
+		"replacement"	"modelpath"
+	}
+	*/
+}

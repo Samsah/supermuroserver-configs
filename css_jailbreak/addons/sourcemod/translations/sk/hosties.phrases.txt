@@ -1,0 +1,331 @@
+"Phrases"
+{
+	"Knife Fight"
+	{
+		"sk"		"Knife Fight"
+	}
+	"Shot4Shot"
+	{
+		"sk"		"Shot4Shot"
+	}
+	"Gun Toss"
+	{
+		"sk"		"Gun Toss"
+	}
+	"Chicken Fight"
+	{
+		"sk"		"Chicken Fight"
+	}
+	"Hot Potato"
+	{
+		"sk"		"Hot Potato"
+	}
+	"Dodgeball"
+	{
+		"sk"		"Dodgeball"
+	}
+	"No Scope Battle"
+	{
+		"sk"		"No Scope Battle"
+	}
+	"Rock Paper Scissors"
+	{
+		"sk"		"Rock Paper Scissors"
+	}
+	"Already Dropped Deagle"
+	{
+		"sk"		"Uz si odhodil deagle!"
+	}
+	"Hot Potato PickUp"
+	{
+		"sk"		"{1} zdvihol hot potato!"
+	}
+	"Powered By Hosties"
+	{
+		"sk"		"Tento server je pohanany Hosties pluginom pre SM, uzi si zabavu!"
+	}
+	"Please Follow Rules"
+	{
+		"sk"		"Prosim dodrzujte pravidla uvedene v !rules."
+	}
+	"Knife Fight Gun Attack Slay"
+	{
+		"sk"		"{1} bol zabity za utok na {2} s {3} pocas Knife Fight."
+	}
+	"Knife Fight Gun Attack Abort"
+	{
+		"sk"		"{1} zautocil na {2} s {3} - Knife Fight bol zruseny."
+	}
+	"Chicken Fight Gun Attack Slay"
+	{
+		"sk"		"{1} bol zabity za utok na {2} s {3} pocas Chicken Fight."
+	}
+	"Chicken Fight Gun Attack Abort"
+	{
+		"sk"		"{1} zautocil na {2} s {3} - Chicken Fight bol zruseny."
+	}
+	"Hot Potato Attack Slay"
+	{
+		"sk"		"{1} bol zabity za utok na {2} pocas Hot Potato."
+	}
+	"Hot Potato Attack Abort"
+	{
+		"sk"		"{1} zautocil na {2} - Hot Potato bol zruseny."
+	}
+	"New Rebel"
+	{
+		"sk"		"{1} je rebel."
+	}
+	"Freeattack"
+	{
+		"sk"		"{1} zautocil na {2}."
+	}
+	"Non LR Kill LR Slay"
+	{
+		"sk"		"Hrac {1} bol zabity za zabitie hrace {2},ktory mal prianie."
+	}
+	"Non LR Kill LR Abort"
+	{
+		"sk"		"Hrac {1} zabil hraca {2}, ktory mal LR - LR zrusene."
+	}
+	"Rebel Kill"
+	{
+		"sk"		"{1} zabil rebela {2}."
+	}
+	"LR Available"
+	{
+		"sk"		"Teroristi moze teraz napisat !lr pre posledne prianie."
+	}
+	"LR Player Disconnect"
+	{
+		"sk"		"LR-player {1} sa odpojil - LR zrusene."
+	}
+	"Chicken Fight Win And Slay"
+	{
+		"sk"		"{1} vyhral Chicken Fight - {2} bol zabity."
+	}
+	"Chicken Fight Win"
+	{
+		"sk"		"{1} vyhral Chicken Fight."
+	}
+	"Chicken Fight Kill Loser"
+	{
+		"sk"		"Zabi {1}!"
+	}
+	"S4S Double Shot Slay"
+	{
+		"sk"		"{1} bol zabity za 2 vystrely pocas S4S."
+	}
+	"S4S Double Shot Abort"
+	{
+		"sk"		"{1} vystrelil 2 rany - S4S zruseny."
+	}
+	"S4S Shot Taken"
+	{
+		"sk"		"{1} vystrelil."
+	}
+	"Distance Meter"
+	{
+		"sk"		"Distance meter:"
+	}
+	"LR Rebel Not Allowed"
+	{
+		"sk"		"Nemozes mat LR ked si rebel."
+	}
+	"LR Choose"
+	{
+		"sk"		"Vyber Posledne Prianie"
+	}
+	"No CTs Alive"
+	{
+		"sk"		"Nie su ziadne CT(zive) pre tvoje LR."
+	}
+	"Too Many Ts"
+	{
+		"sk"		"Je prilis vela teroristov na LR!"
+	}
+	"Not Alive Or In Wrong Team"
+	{
+		"sk"		"Nie si zivy alebo si v zlom time na LR."
+	}
+	"Another LR In Progress"
+	{
+		"sk"		"LR uz prebieha. Skus to neskor."
+	}
+	"LR Disabled"
+	{
+		"sk"		"Prepac, posledne prianie je vypnute na tomto servery."
+	}
+	"Choose A Player"
+	{
+		"sk"		"Vyber hraca"
+	}
+	"Rebel Ask CT For LR"
+	{
+		"sk"		"Rebel {1} chces mat {2} s tebou. Potvrdit?"
+	}
+	"Yes"
+	{
+		"sk"		"Ano"
+	}
+	"No"
+	{
+		"sk"		"Nie"
+	}
+	"Asking For Permission"
+	{
+		"sk"		"Ziadanie {1} o povolenie pretoze si rebel..."
+	}
+	"Target Is Not Alive Or In Wrong Team"
+	{
+		"sk"		"Cielovy hrac nie je zivy alebo je v zlom time."
+	}
+	"Declined LR Request"
+	{
+		"sk"		"{1} zamietol tvoju ziadost na LR."
+	}
+	"LR Partner Died"
+	{
+		"sk"		"Tvoj LR partner zomrel."
+	}
+	"Too Slow Another LR In Progress"
+	{
+		"sk"		"Oops, prilis pomaly. Prebieha tu uz dalsie LR."
+	}
+	"LR Request Decline Or Too Long"
+	{
+		"sk"		"{1} zamietol tvoju ziadost na LR alebo dlho neodpoveda."
+	}
+	"LR KF Start"
+	{
+		"sk"		"{1} si vybral Knife Fight s {2}."
+	}
+	"LR S4S Start"
+	{
+		"sk"		"{1} si vybral Shot4Shot s {2}."
+	}
+	"LR GT Start"
+	{
+		"sk"		"{1} si vybral Gun Toss s {2}."
+	}
+	"LR CF Start"
+	{
+		"sk"		"{1} si vybral Chicken Fight s {2}."
+	}
+	"LR HP Start"
+	{
+		"sk"		"{1} si vybral Hot Potato s {2}."
+	}
+	"LR DB Start"
+	{
+		"sk"		"{1} si vybral Dodgeball s {2}."
+	}
+	"LR NS Start"
+	{
+		"sk"		"{1} si vybral No Scope Battle s {2}."
+	}
+	"LR RPS Start"
+	{
+		"sk"		"{1} si vybral Rock Paper Scissors s {2}."
+	}
+	"No Rebels ATM"
+	{
+		"sk"		"V sucasnej dobe nie su ziadny rebelujuci teroristi."
+	}
+	"Rebelling Terrorists"
+	{
+		"sk"		"Rebelujuci teroristi:"
+	}
+	"CheckPlayers CMD Disabled"
+	{
+		"sk"		"Prikaz !checkplayers je na tomto servery vypnuty."
+	}
+	"Server Rules"
+	{
+		"sk"		"Pravidla serveru:"
+	}
+	"HP Win"
+	{
+		"sk"		"{1} vyhral Hot Potato - {2} bol zabity."
+	}
+	"HP Last One To Have The Potato"
+	{
+		"sk"		"Bol si posledny kto mal potato!"
+	}
+	"Ts Muted"
+	{
+		"sk"		"Teroristi boli umlcany na prvych {1} sekund kola!"
+	}
+	"Ts Can Speak Again"
+	{
+		"sk"		"Teroristi mozu rozpravat... potichu..."
+	}
+	"Now Muted"
+	{
+		"sk"		"Bol si umlcany, budes odmlcany na konci kola."
+	}
+	"NS Weapon Chooser Menu"
+	{
+		"sk"		"Prosim vyber zbran na No Scope Battle:"
+	}
+	"CT Attack T Gun"
+	{
+		"sk"		"{1} zautocil {2} ktory ma zbran..."
+	}
+	"Rock"
+	{
+		"sk"		"Rock"
+	}
+	"Paper"
+	{
+		"sk"		"Paper"
+	}
+	"Scissors"
+	{
+		"sk"		"Scissors"
+	}
+	"LR RPS No Answer"
+	{
+		"sk"		"{1} nevyral rock, paper alebo scissors, alebo nestihol vybrat v limite."
+	}
+	"LR RPS Done"
+	{
+		"sk"		"{1} vybral {2}, {3} vybral {4} - {5} vyhral"
+	}
+	"LR RPS Tie"
+	{
+		"sk"		"{1} vyhral {2}, {3} vyhral {4} - remiza"
+	}
+	"LR Not With Bot"
+	{
+		"sk"		"Prepac, nemozes mat LR s bot."
+	}
+	"LR Not Available"
+	{
+		"sk"		"Prave teraz nemozes mat posledne prianie."
+	}
+	"Freekill Slay"
+	{
+		"sk"		"{1} bol zabity za prilis vela freekillov."
+	}
+	"Freekill Kick"
+	{
+		"sk"		"{1} bol vyhodeny za prilis vela freekillov."
+	}
+	"Freekill Kick Reason"
+	{
+		"sk"		"Vyhodeny za prilis vela freekillov"
+	}
+	"Freekill Ban"
+	{
+		"sk"		"{1} bol zabanovany za prilis vela freekillov."
+	}
+	"Freekill Ban Reason"
+	{
+		"sk"		"Zabanovany za prilis vela freekillov"
+	}
+	"Freekill Record Increased"
+	{
+		"sk"		"Mas {1} z {2} zabitych nerebelujucich teroristov (davaj si pozor)..."
+	}
+}

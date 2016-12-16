@@ -1,0 +1,105 @@
+"Phrases"
+{
+	"deathrun"
+	{
+		"en"		"Deathrun"
+	}
+	
+	"ct"
+	{
+		"en"		"Counter-Terrorists"
+	}
+	
+	"t"
+	{
+		"en"		"Terrorists"
+	}
+	
+	"auto force"
+	{
+		"en"		"You auto-forced to team:"
+	}
+	
+	"terrorist suicide"
+	{
+		"en"		"Sorry, but terrorists can't suicide."
+	}
+	
+	"only choosen can be a terrorist"
+	{
+		"en"		"Only choosen can being a terrorist..."
+	}
+
+	"selecting random terrorist"
+	{
+		"en"		"Randomizing terrorist..."
+	}
+	
+	"player go to terrorists"
+	{
+		"#format"	"{1:N}"
+		"en"		"Player {1} choosen to next terrorist!"
+	}
+	
+	"not people for random terrorist"
+	{
+		"en"		"Need more people to randomizing terrorist..."
+	}
+	
+	"plugin disabled"
+	{
+		"en"		"Sorry, but plugin is disabled."
+	}
+	
+	"scouts disabled"
+	{
+		"en"		"Sorry, but scouts part of plugin is disabled."
+	}
+	
+	"only alive players"
+	{
+		"en"		"Sorry, but only alive players can get scouts."
+	}
+	
+	"only ct can get scout"
+	{
+		"en"		"Sorry, but only counter-terrorists can get scout."
+	}
+	
+	"all scouts ended"
+	{
+		"en"		"Sorry, but all scouts ended."
+	}
+	
+	"1 scout to 1 player"
+	{
+		"en"		"Sorry, but one player can get only one scout in round."
+	}
+	
+	"already have weapon"
+	{
+		"en"		"Sorry, but you already have a primary weapon."
+	}
+	
+	"get scout without ammo"
+	{
+		"en"		"Server create for you a scout without ammo."
+	}
+	
+	"to get scout type this"
+	{
+		"en"		"If you want scout type !scout or /scout in chat area."
+	}
+	
+	"auto-respawn"
+	{
+		"#format"	"{1:i}"
+		"en"		"Auto-Respawn: {1} second(s) left..."
+	}
+	
+	"terr disconnected"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"Terrorist {1} disconnected, his banned for {2} minutes!"
+	}
+}

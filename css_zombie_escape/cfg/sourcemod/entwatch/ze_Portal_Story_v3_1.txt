@@ -1,0 +1,33 @@
+"entities"
+{
+        "0"
+        {
+		"desc"			"Propulsion Gel"
+		"short_desc"		"Propulsion"
+		"color"			"FF8A00"
+		"name"			"propulsiongel"
+		"exactname"		"true"
+		"singleactivator"	"true"
+		"type"			"weapon_elite"
+		"button_type"		"func_rot_button"
+		"chat"			"true"
+		"hud"			"true"
+		"cooldown"		"40.0"
+		"maxuses"		"20"
+        }
+        "1"
+        {
+		"desc"			"Repulsion Gel"
+		"short_desc"		"Repulsion"
+		"color"			"009CFF"		
+		"name"			"RepulsionGel"
+		"exactname"		"true"
+		"singleactivator"	"true"
+		"type"			"weapon_elite"
+		"button_type"		"func_rot_button"
+		"chat"			"true"
+		"hud"			"true"
+		"cooldown"		"50.0"
+		"maxuses"		"20"
+        }
+}

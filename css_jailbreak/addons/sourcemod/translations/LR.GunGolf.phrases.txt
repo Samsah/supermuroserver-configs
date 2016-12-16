@@ -1,0 +1,81 @@
+"Phrases"
+{
+	"Weapon Selection Menu"
+	{
+		"en"		"Gun Golf : Weapon Selection"
+	}
+	"Point Selection Menu"
+	{
+		"en"		"Gun Golf : Point Selection"
+	}
+	"Point_Selection"
+	{
+		"en"		"Select this location"
+	}
+	"Obstacle"
+	{
+		"en"		"You are too close to an obstacle!"
+	}
+	"GG Winner"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} won the Gun Golf!"
+	}
+	"GG Start"
+	{
+		"#format"	"{1:N},{2:N}"
+		"en"		"{1} started Gun Golf with {2}!"
+	}
+	"GG Stopped"
+	{
+		"en"		"Gun Golf is stopped!"
+	}
+	"On Ground"
+	{
+		"en"		"You must be on ground to select a point location!"
+	}
+	"Distance Meter"
+	{
+		"en"		"Distance meter :"
+	}
+	"Pistol_Deagle"
+	{
+		"en"		"Deagle"
+	}
+	"GunGolf"
+	{
+		"en"		"Gun Golf"
+	}
+	"Pistol_P228"
+	{
+		"en"		"P228"
+	}
+	"Pistol_P250"
+	{
+		"en"		"P250"
+	}
+	"Pistol_Glock"
+	{
+		"en"		"Glock"
+	}
+	"Pistol_FiveSeven"
+	{
+		"en"		"Five-Seven"
+	}
+	"Pistol_Dualies"
+	{
+		"en"		"Dualies"
+	}
+	"Pistol_USP"
+	{
+		"en"		"USP"
+	}
+	"Pistol_P2000"
+	{
+		"en"		"P2000"
+	}
+	"Pistol_Tec9"
+	{
+		"en"		"Tec 9"
+	}
+}

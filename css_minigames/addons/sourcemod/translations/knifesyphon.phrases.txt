@@ -1,0 +1,19 @@
+﻿"Phrases"
+{
+	"Life Syphoned"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"You gained {1} health for knifing {2}."
+		"de"		"Du hast {1} HP erhalten, da du {2} gemessert hast."
+		"hu"		"Kaptál {1} életpontot, amiért lekéselted {2} -t."
+		"ru" 		"Вы получили {1} hp за убийство {2} ножом."
+	}
+	"Announce"
+	{
+		"#format"	"{1:d}"
+		"en"		"You can gain a {1} health boost by killing someone with a knife."
+		"de"		"Du kannst {1} HP erhalten, wenn du jemand mit dem Messer ausschaltest."
+		"hu"		"Szerezhetsz {1} életpontot, ha valakit késsel ölsz meg."
+		"ru"		"Убийство ножом, дает вам {1} hp."
+	}
+}

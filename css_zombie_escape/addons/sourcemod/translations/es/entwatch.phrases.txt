@@ -1,0 +1,27 @@
+﻿"Phrases"
+{
+"welcome"
+{
+"es" "Escribe !hud para activar/desactivar los mensajes del HUD - Plugin creado por"
+}
+"use"
+{
+"es" "ha usado"
+}
+"pickup"
+{
+"es" "ha cogido"
+}
+"drop"
+{
+"es" "ha soltado"
+}
+"death"
+{
+"es" "ha muerto y ha soltado"
+}
+"disconnect"
+{
+"es" "se ha desconectado cuando tenia"
+}
+} 

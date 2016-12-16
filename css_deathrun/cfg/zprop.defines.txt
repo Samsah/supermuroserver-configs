@@ -1,0 +1,55 @@
+//
+// Here you can pre-define each prop available to the players and its cost
+// Format:
+// "display"	- This text is what is shown in the menu
+// "cost"		- The cost, in credits, of the prop
+// "model"		- The path to the model of the prop (props are available in either the hl2/cstrike directories)
+// "type"		- Optional physics type of the prop, set to prop_physics_override if prop not spawn or if you want that prop have been not breakable
+//		  	  		- Default value is prop_physics
+// "health"		- Optional amount of health applied to the prop
+//					- Default value is 0, meaning unbreakable.
+//
+
+"zprops"
+{
+	"Filing Cabinet"
+	{
+		"cost"		"2"
+		"model"		"models/props/cs_office/file_cabinet1.mdl"
+		"health"	"500"
+	}
+	"Barrel"
+	{
+		"cost"		"5"
+		"model"		"models/props/de_train/Barrel.mdl"
+	}
+	"Dryer"
+	{
+		"cost"		"7"
+		"model"		"models/props/cs_militia/dryer.mdl"
+	}
+	"Wooden Crate"
+	{
+		"cost"		"3"
+		"model"		"models/props_junk/wood_crate001a.mdl"
+		"health"	"500"
+
+	}
+	"Gas Pump"
+	{
+		"cost"		"8"
+		"model"		"models/props_wasteland/gaspump001a.mdl"
+		"type"		"prop_physics_override"
+	}
+	"Dumpster"
+	{
+		"cost"		"10"
+		"model"		"models/props_junk/TrashDumpster01a.mdl"
+		"type"		"prop_physics_override"
+	}
+	"Explosive Barrel"
+	{
+		"cost"		"6"
+		"model"		"models/props/de_train/Barrel.mdl"
+	}
+}

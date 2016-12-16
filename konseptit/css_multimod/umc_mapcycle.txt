@@ -1,0 +1,44 @@
+"umc_rotation"
+{
+	"Aim maps"
+	{
+		"default_max_players" "20"
+		"maps_invote"    "1"
+		"aim_ak-colt_v3"	{}
+	}
+
+	"Zombie Riot"
+	{
+		"maps_invote"    "1"
+		"zr_office_v3"	{}
+	}
+
+	"Deathrun"
+	{
+		"maps_invote"    "1"
+		"deathrun_aztecan_escape_v8"	{}
+	}
+
+	"GunGame"
+	{
+		"maps_invote"    "1"
+		"gg_Spongebob"	{}
+	}
+
+	"Normal Defuse"
+	{
+	"maps_invote"    "3"
+		"de_dust"	{}	
+		"de_inferno"	{}		
+		"de_dust2"	{}
+		"de_prodigy"
+		{
+			"max_players"   "20"  
+		}
+		"de_piranesi"	
+		{
+			"min_players"   "10"
+		}
+	}
+
+}

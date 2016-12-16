@@ -1,0 +1,60 @@
+﻿"Phrases"
+{
+	"This is a special round"
+	{
+		/* 1: Description of the config */
+		"de"		"Jetzt ist eine {default}{1}{green} Runde."
+	}
+
+	"Already played this map"
+	{
+		"de"		"Es wurde schon eine spezielle Runde auf dieser Karte gespielt."
+	}
+
+	"Currently running"
+	{
+		"de"		"Die derzeitige Runde ist eine Spezielle."
+	}
+	
+	"Voted for"
+	{
+		/* 1: Description of the config */
+		// Playername ...
+		"de"		"hat für eine {default}{1}{green} Runde abgestimmt. ({default}{2}{green}/{default}{3}{green})"
+	}
+	
+	"Next round is going"
+	{
+		/* 1: Description of the config */
+		"de"		"Abstimmung akzeptiert. Die nächste Runde wird eine {default}{1}{green} Runde sein!"
+	}
+	
+	"Not enough players"
+	{
+		/* 1: Amount of players connected, 2: Amount of players needed for this config */
+		"de"		"Nicht genug Spieler für diese Abstimmung. ({default}{1}{green}/{default}{2}{green})"
+	}
+	
+	"Not enough players anymore"
+	{
+		/* 1: Description of the config, 2: Amount of players connected, 3: Amount of players needed for this config */
+		"de"		"Nicht mehr genug Spieler für eine {default}{1}{green} Runde. ({default}{2}{green}/{default}{3}{green})"
+	}
+	
+	"Already set for next round"
+	{
+		/* 1: Description of the config */
+		"de"		"Über die nächste Runde wurde schon mit {default}{1}{green} abgestimmt!"
+	}
+	
+	"Players required"
+	{
+		/* 1: Minimum players for that vote */
+		"de"		"{1} Spieler benötigt"
+	}
+	
+	"Votes"
+	{
+		"de"		"Abstimmungen"
+	}
+}

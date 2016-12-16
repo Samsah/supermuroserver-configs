@@ -1,0 +1,51 @@
+﻿"Phrases"
+{
+	"Disabled"
+	{
+		"en"		"Sorry, the bomb menu has been disabled."
+		"fr"		"Desolé, le menu bomb est désactivé."
+	}
+	"Youre_Dead"
+	{
+		"en"		"You can't use this command while dead."
+		"fr"		"Vous ne pouvez pas utiliser cette commande quand vous êtes mort."
+	}
+	"Welcome_Msg"
+	{
+		"en"		"This server has the Suicide Bomb Plugin.  Type !bomb to buy a bomb."
+		"fr"		"Cette serveur a le Plugin Suicide Bomb.  Appuyez !bomb pour acheter une bombe."
+	}
+	"Disabled_Team"
+	{
+		"#format"		"{1:s}"
+		"en"		"Sorry, the bomb menu has been disabled for your team.  ({1})"
+		"fr"		"Desolé, le menu bomb est désactivé pour votre equipe.  ({1})"
+	}
+	"Have_Bomb_Already"
+	{
+		"en"		"You already have a bomb!!"
+		"fr"		"Vous avez déjà une bombe!!"
+	}
+	"Expensive"
+	{
+		"#format"		"{1:i}"
+		"en"		"You can't afford this bomb.  You need ${1} to buy it."
+		"fr"		"Vous n'avez pas assez d'argent.  Vous avez besoin de {1} $ pour cette bombe."
+	}
+	"Bought_C"
+	{
+		"#format"		"{1:s}"
+		"en"		"You bought a {1} with your cash.  Type !detonate or !boom to blow yourself up."
+		"fr"		"Vous avez acheté un(e) {1} avec votre argent. Appuyez !detonate ou !boom pour faire exploser la bombe."
+	}
+	"No_Bomb"
+	{
+		"en"		"You don't have a bomb.  Type !bomb to buy one."
+		"fr"		"Vous n'avez pas une bombe.  Appuyez !bomb pour acheter une bombe."
+	}
+	"Bomb_Menu"
+	{
+		"en"		"Bomb Menu"
+		"fr"		"Menu Bombe"
+	}
+}

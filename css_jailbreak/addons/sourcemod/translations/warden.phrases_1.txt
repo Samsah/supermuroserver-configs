@@ -1,0 +1,72 @@
+"Phrases"
+{
+	"warden_new"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} has become the warden of this prison."
+		"sv"		"{1} har blivit fängelsedirektör över detta fängelse."
+	}
+	
+	"warden_playerdead"
+	{
+		"#format"	""
+		"en"		"only alive players may become warden."
+		"sv"		"Endast levande spelare kan bli fängelsedirektör."
+	}
+	
+	"warden_ctsonly"
+	{
+		"#format"	""
+		"en"		"only Counter-Terrorists may become warden."
+		"sv"		"Endast Anti-Terrorister kan bli fängelsedirektör."
+	}
+	
+	"warden_exist"
+	{
+		"#format"	"{1:N}"
+		"en"		"current warden are: {1}"
+		"sv"		"nuvarande fängelsedirektör är: {1}"
+	}
+	
+	"warden_retire"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} has decided to retire. You may now choose a new one."
+		"sv"		"{1} har bestämt sig för att avgå. Ni bör nu välja en ny."
+	}
+	
+	"warden_notwarden"
+	{
+		"#format"	""
+		"en"		"you are not the warden and therefore may not retire."
+		"sv"		"du är inte fängelsedirektören och kan därför inte avgå."
+	}
+	
+	"warden_dead"
+	{
+		"#format"	""
+		"en"		"the warden are now dead. You may now choose a new one."
+		"sv"		"fängelsedirektören är död. Ni bör nu välja en ny."
+	}
+	
+	"warden_disconnected"
+	{
+		"#format"	""
+		"en"		"the warden has disconnected. You may now choose a new one."
+		"sv"		"fängelsedirektören har lämnat. Ni bör nu välja en ny."
+	}
+	
+	"warden_removed"
+	{
+		"#format"	"{1:N},{2:N}"
+		"en"		"Admin: {1} fired Warden: {2}"
+		"sv"		"Admin: {1} avskedade Fängelsedirektören: {2}"
+	}
+	
+	"warden_noexist"
+	{
+		"#format"	""
+		"en"		"there was no warden to fire."
+		"sv"		"det fanns ingen fängelsedirektör att avskeda."
+	}
+}

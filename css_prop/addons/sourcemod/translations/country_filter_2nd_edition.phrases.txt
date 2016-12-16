@@ -1,0 +1,53 @@
+﻿"Phrases"
+{
+	"Country not allowed join chat"
+	{
+		"#format"	"{1:s}"
+		"en"	"Dropped %N from server (Country {1} not allowed join into this server)"
+	}
+
+	"Country not allowed join kick"
+	{
+		"#format"	"{1:s}"
+		"en"	" [ Country Filter ]\nYour country {1} not allowed join into this server"
+	}
+
+	"Country allowed join chat"
+	{
+		"#format"	"{1:s}"
+		"en"	"Player %N connected ({1})"
+	}
+
+	"LAN not allowed join chat"
+	{
+		"#format"	"{1:s}"
+		"en"	"Dropped %N from server (LAN {1} not allowed join into this server)"
+	}
+
+	"LAN not allowed join kick"
+	{
+		"#format"	"{1:s}"
+		"en"	" [ Country Filter ]\nYour LAN {1} not allowed join into this server"
+	}
+
+	"LAN allowed join chat"
+	{
+		"#format"	"{1:s}"
+		"en"	"Player %N connected (LAN {1})"
+	}
+
+	"Unidentified not allowed join chat"
+	{
+		"en"	"Dropped %N from server (Unidentified country not allowed join into this server)"
+	}
+
+	"Unidentified not allowed join kick"
+	{
+		"en"	" [ Country Filter ]\nUnidentified country not allowed join into this server"
+	}
+
+	"Unidentified allowed join chat"
+	{
+		"en"	"Player %N connected (Unidentified country)"
+	}
+}

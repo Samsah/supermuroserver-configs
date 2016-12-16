@@ -1,0 +1,125 @@
+"Phrases"
+{
+	"Announcement"
+	{
+		"#format"		"{1:s},{2:d},{3:d},{4:d}"
+		"en"			"{1} You can hold up to {2} grenade(s), {3} flashbang(s), and {4} smoke grenade(s)."
+	}
+
+	"VIP Announcement"
+	{
+		"#format"		"{1:s},{2:d},{3:d},{4:d}"
+		"en"			"{1} As a VIP, you can hold up to {2} grenade(s), {3} flashbang(s), and {4} smoke grenade(s)."
+	}
+
+	"Announcement unlimited"
+	{
+		"en"			"You can hold as many grenades as you can find"
+	}
+
+	"Limit changed he"
+	{
+		"#format"		"{1:s},{2:d}"
+		"en"			"{1} The grenade limit has been changed to {2}"
+	}
+
+	"Limit changed flash"
+	{
+		"#format"		"{1:s},{2:d}"
+		"en"			"{1} The flashbang limit has been changed to {2}"
+	}
+
+	"Limit changed smoke"
+	{
+		"#format"		"{1:s},{2:d}"
+		"en"			"{1} The smoke grenade limit has been changed to {2}"
+	}
+
+	"Limit changed he vip"
+	{
+		"#format"		"{1:s},{2:d}"
+		"en"			"{1} The grenade limit has been changed for VIPs.  If you're a VIP, you can carry {2} hegrenades."
+	}
+
+	"Limit changed flash vip"
+	{
+		"#format"		"{1:s},{2:d}"
+		"en"			"{1} The flashbang limit has been changed for VIPs.  If you're a VIP, you can carry {2} flashbangs."
+	}
+
+	"Limit changed smoke vip"
+	{
+		"#format"		"{1:s},{2:d}"
+		"en"			"{1} The smoke grenade limit has been changed for VIPs.  If you're a VIP, you can carry {2} smoke grenades."
+	}
+
+
+	"Limit changed unlimited he"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} There is no limit on the amount of grenades you can hold"
+	}
+	
+	"Limit changed unlimited flash"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} There is no limit on the amount of flashbangs you can hold"
+	}
+
+	"Limit changed unlimited smoke"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} There is no limit on the amount of smoke grenades you can hold"
+	}
+
+	"Limit changed unlimited he vip"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} If you're a VIP, there is no limit on the amount of grenades you can hold"
+	}
+	
+	"Limit changed unlimited flash vip"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} If you're a VIP, there is no limit on the amount of flashbangs you can hold"
+	}
+
+	"Limit changed unlimited smoke vip"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} If you're a VIP, there is no limit on the amount of smoke grenades you can hold"
+	}
+
+
+	"Plugin Enabled"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} Enabled"
+	}
+
+	"Plugin Disabled"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} Disabled"
+	}
+
+	"Cannot Carry"
+	{
+		"en"			"You cannot carry any more."
+	}
+	"Purchased Max HE"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} You have purchased your max hegrenades, wait until next round."
+	}
+	"Purchased Max FB"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} You have purchased your max flashbangs, wait until next round."
+	}
+	"Purchased Max SG"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} You have purchased your max smoke grenades, wait until next round."
+	}
+}

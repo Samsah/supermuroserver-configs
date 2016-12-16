@@ -1,0 +1,59 @@
+"Phrases"
+{
+	// Less - {name}, {steam_id}, {ip}
+	// Full - {name}, {steam_id}, {ip}, {city}, {country}, {cc}
+
+	"Connect_less"
+	{
+		"en"		"{lawngreen}{name} {default}[{steam_id}] is connecting"
+	}
+	"Connect"
+	{
+		"en"		"{lawngreen}{name} {default}[{steam_id}] is connecting from {community}{city} {country}"
+	}
+	"Connect_adm_less"
+	{
+		"en"		"{lawngreen}{name} {default}[{steam_id}] is connecting from IP:{ip}"
+	}
+	"Connect_adm"
+	{
+		"en"		"{lawngreen}{name} {default}[{steam_id}] is connecting from {community}{country} {city} IP:{ip}"
+	}
+	"Connect_srv_less"
+	{
+		"en"		"{name} [{steam_id}] is connecting from IP:{ip}"
+	}
+	"Connect_srv"
+	{
+		"en"		"{name} [{steam_id}] is connecting from {country} {city} IP:{ip}"
+	}
+
+
+	// Less - {name}, {steam_id}, {ip}, {reason}
+	// Full - {name}, {steam_id}, {ip}, {city}, {country}, {cc}, {reason}
+
+	"Disconnect_less"
+	{
+		"en"		"{community}{name} {default}[{steam_id}] has disconnected ({reason}{default})"
+	}
+	"Disconnect"
+	{
+		"en"		"{community}{name} {default}[{steam_id}] has disconnected from {lawngreen}{country} {city} {default}({reason}{default})"
+	}
+	"Disconnect_adm_less"
+	{
+		"en"		"{community}{name} {default}[{steam_id}] has disconnected from IP:{ip} ({reason}{default})"
+	}
+	"Disconnect_adm"
+	{
+		"en"		"{community}{name} {default}[{steam_id}] has disconnected from {lawngreen}{country} {city} IP:{ip} {default}({reason}{default})"
+	}
+	"Disconnect_srv_less"
+	{
+		"en"		"{name} [{steam_id}] has disconnected from IP:{ip} ({reason})"
+	}
+	"Disconnect_srv"
+	{
+		"en"		"{name} [{steam_id}] has disconnected from {country} {city} IP:{ip}({reason})"
+	}
+}

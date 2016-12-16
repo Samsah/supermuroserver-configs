@@ -1,0 +1,46 @@
+"entities"
+{
+        "0"
+        {
+		"desc"			"Earendil Light"
+		"short_desc"			"Light"
+		"color"			"ffffff"
+		"name"		"star"
+		"exactname"			"true"
+		"singleactivator"		"true"
+		"type"			"weapon_deagle"
+		"button_type"			"func_button"
+		"chat"			"true"
+		"hud"			"true"
+		"mode"		"1" 
+		"cooldown"			"40"		
+        }
+        "1"
+        {
+		"desc"			"The Ring"
+		"short_desc"		"Ring"
+		"color"			"ffdd21"
+		"name"		"anillo"
+		"exactname"		"true"
+		"singleactivator"	"true"
+		"type"			"weapon_deagle"
+		"button_type"		"func_button"
+		"chat"			"true"
+		"hud"			"true"
+		"mode"		"5"
+        }
+        "2"
+        {
+		"desc"			"Nazgul"
+		"short_desc"			"Nazgul"
+		"color"			"ff0000"
+		"name"		"nazgulknife"
+		"exactname"			"true"
+		"singleactivator"		"true"
+		"type"			"weapon_knife"
+		"button_type"			"func_button"
+		"chat"			"true"
+		"hud"			"true"
+		"mode"		"5" 
+        }
+}

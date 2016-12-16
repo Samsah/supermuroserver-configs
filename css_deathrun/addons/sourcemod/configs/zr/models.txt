@@ -1,0 +1,266 @@
+// ============================================================================
+//
+//                              ZOMBIE:RELOADED
+//                            Model configuration
+//
+// See Model Configuration (3.5) section in the manual for detailed info.
+//
+// ============================================================================
+//
+// SHORT DESCRIPTIONS
+//
+// Attribute:   Description:
+// ----------------------------------------------------------------------------
+// name     Name of model file, without extension.
+// path     Path to model files. MUST end with "/".
+// team     Model type:
+//              "zombies"
+//              "humans"
+// access   Access type:
+//              "public"        - Everyone can use the model.
+//              "admins"        - Model can only be used by admins.    
+//              "hidden"        - Model is excluded from public random selections.
+//              "motherzombies" - Model can only be used by mother zombies.
+//              "group"         - Use group authentication.
+// group    If access is "group": A SourceMod group name. Otherwise blank ("").
+
+"models"
+
+{
+
+
+	"predator"
+    {
+        "name"      "predator"
+        "path"      "models/mapeadores/kaem/predator/"
+        "team"      "zombies"
+        "access"    "hidden"
+        "group"     ""
+    }
+
+	"slow"
+    {
+        "name"      "slow"
+        "path"      "models/player/slow/fallout_3/ghoul/"
+        "team"      "zombies"
+        "access"    "public"
+        "group"     ""
+	}
+
+	"slow"
+    {
+        "name"      "slow"
+        "path"      "models/player/slow/amberlyn/lotr/haradrim/"
+        "team"      "humans"
+        "access"    "admins"
+		"group"     ""
+    }
+	
+
+	"slow"
+    {
+        "name"      "slow"
+        "path"      "models/player/slow/ichigo_bw/"
+        "team"      "humans"
+        "access"    "hidden"
+        "group"     ""
+    }
+	
+	"slow"
+    {
+        "name"      "slow"
+        "path"      "models/player/slow/amberlyn/lotr/legolas/"
+        "team"      "humans"
+        "access"    "hidden"
+       "group"     "lahjoittajat"
+    }
+
+	"slow"
+    {
+        "name"      "slow"
+        "path"      "models/player/slow/amberlyn/lotr/gandalf/"
+        "team"      "humans"
+        "access"    "hidden"
+       "group"     ""
+    }
+	
+	"slow"
+    {
+        "name"      "slow"
+        "path"      "models/player/slow/amberlyn/lotr/frodo/"
+        "team"      "humans"
+        "access"    "hidden"
+       "group"     	""
+    }
+	
+	"slow_v2"
+    {
+        "name"      "slow_v2"
+        "path"      "models/player/slow/mitch/ichigo/"
+        "team"      "humans"
+        "access"    "hidden"
+       "group"     ""
+    }
+
+	"slow"
+    {
+        "name"      "slow"
+        "path"      "models/player/slow/amberlyn/lotr/gimli/"
+        "team"      "humans"
+        "access"    "hidden"
+       "group"     ""
+    }
+	
+	"slow"
+    {
+        "name"      "slow"
+        "path"      "models/player/slow/amberlyn/lotr/sauron/"
+        "team"      "zombies"
+        "access"    "hidden"
+       "group"     	""
+    }
+	
+	"slow"
+    {
+        "name"      "slow"
+        "path"      "models/player/slow/amberlyn/lotr/uruk_hai_sword/"
+        "team"      "zombies"
+        "access"    "hidden"
+       "group"     ""
+    }
+	
+	"goblin"
+    {
+        "name"      "goblin"
+        "path"      "models/player/elis/gb/"
+        "team"      "zombies"
+        "access"    "hidden"
+		"group"     ""
+    }
+
+	"slow"
+    {
+        "name"      "slow"
+        "path"      "models/player/slow/amberlyn/lotr/aragorn/"
+        "team"      "humans"
+        "access"    "hidden"
+       "group"     ""
+    }
+   
+    "z2"
+    {
+        "name"      "z2"
+        "path"      "models/player/techknow/zp/"
+        "team"      "zombies"
+        "access"    "public"
+        "group"     ""
+    }
+
+	"slow"
+    {
+        "name"      "slow"
+        "path"      "models/player/slow/vin_diesel/"
+        "team"      "humans"
+        "access"    "public"
+       "group"     ""
+    }
+	
+	"slow"
+    {
+        "name"      "slow"
+        "path"      "models/player/slow/50cent/"
+        "team"      "humans"
+        "access"    "public"
+       "group"     ""
+    }
+	
+	"slow"
+    {
+        "name"      "slow"
+        "path"      "models/player/slow/niko_bellic/"
+        "team"      "humans"
+        "access"    "public"
+        "group"     ""
+    }
+	
+	"slow_css"
+    {
+        "name"      "slow_css"
+        "path"      "models/player/slow/amberlyn/re5/fat_majini/"
+        "team"      "zombies"
+        "access"    "public"
+        "group"     ""
+    }
+	
+	"slow_v2"
+    {
+        "name"      "slow_v2"
+        "path"      "models/player/slow/l4d/hot_ass_zombie/"
+        "team"      "zombies"
+        "access"    "public"
+        "group"     ""
+    }
+		
+	"slow"
+    {
+        "name"      "slow_alien"
+        "path"      "models/player/slow/aliendrone_v3/"
+        "team"      "zombies"
+        "access"    "public"
+        "group"     ""
+	}
+	
+	"slow"
+    {
+        "name"      "slow_1_hs"
+        "path"      "models/player/slow/zombie_package/"
+        "team"      "zombies"
+        "access"    "public"
+        "group"     ""
+	}
+	
+	"slow"
+    {
+        "name"      "slow"
+        "path"      "models/player/slow/aot/murray/"
+        "team"      "humans"
+        "access"    "public"
+        "group"     ""
+	}
+
+}
+    
+    // Special model examples:
+    // -----------------------
+    
+    // Only admins can use this zombie model.
+    //"admin_zombie"
+    //{
+    //    "name"      "1337model"
+    //    "path"      "models/player/adminmodels/"
+    //    "team"      "zombies"
+    //    "access"    "admins"
+    //    "group"     ""
+    //}
+    
+    // Only members of the zr_vip group in SourceMod can use this human model.
+    //"vip_human"
+    //{
+    //    "name"      "vipmodel"
+    //    "path"      "models/player/vip/"
+    //    "team"      "humans"
+    //    "access"    "group"
+    //    "group"     "zr_vip"
+    //}
+    
+    // This model will be excluded from public random selections. Only classes
+    // that use "random_hidden" or explicit specify this model will be able to use it.
+    //"hidden"
+    //{
+    //    "name"      "hiddenmodel"
+    //    "path"      "models/player/"
+    //    "team"      "humans"
+    //    "access"    "hidden"
+    //    "group"     ""
+    //}
+

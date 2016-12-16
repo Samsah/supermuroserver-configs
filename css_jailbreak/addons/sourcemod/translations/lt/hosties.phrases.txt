@@ -1,0 +1,307 @@
+"Phrases"
+{
+	"Knife Fight"
+	{
+		"lt"		"Peilių Kova"
+	}
+	"Shot4Shot"
+	{
+		"lt"		"Šūvis į Šūvį"
+	}
+	"Gun Toss"
+	{
+		"lt"		"Ginklų Metimas"
+	}
+	"Chicken Fight"
+	{
+		"lt"		"Viščiukų Kova"
+	}
+	"Hot Potato"
+	{
+		"lt"		"Karšta Bulvė"
+	}
+	"Dodgeball"
+	{
+		"lt"		"Granatų Kova"
+	}
+	"No Scope Battle"
+	{
+		"lt"		"Kova Nepriartinus"
+	}
+	"Rock Paper Scissors"
+	{
+		"lt"		"Akmuo-Lapas-Žirklės"
+	}
+	"Already Dropped Deagle"
+	{
+		"lt"		"Tu jau metei deagle!"
+	}
+	"Hot Potato PickUp"
+	{
+		"lt"		"{1} paėmė karštą bulvę!"
+	}
+	"Powered By Hosties"
+	{
+		"lt"		"Šis serveris naudoja SM Hosties įskiepį, mėgaukis!"
+	}
+	"Please Follow Rules"
+	{
+		"lt"		"Prašome laikytis taisyklių išvardytų !rules lentelėje."
+	}
+	"Knife Fight Gun Attack Slay"
+	{
+		"lt"		"{1} buvo nužudyti dėl užpuolimo {2} su {3} per Pelių Kovą."
+	}
+	"Knife Fight Gun Attack Abort"
+	{
+		"lt"		"{1} užpultas {2} su {3} - Peilių Kova nutraukta."
+	}
+	"Chicken Fight Gun Attack Slay"
+	{
+		"lt"		"{1} buvo nužudyti dėl užpuolimo {2} su {3} per Viščiukų Kovą."
+	}
+	"Chicken Fight Gun Attack Abort"
+	{
+		"lt"		"{1} užpuolė {2} su {3} - Viščiukų Kova nutraukta."
+	}
+	"Hot Potato Attack Slay"
+	{
+		"lt"		"{1} buvo nužudyti dėl užpuolimo {2} per Karštos bulvės konkursą."
+	}
+	"Hot Potato Attack Abort"
+	{
+		"lt"		"{1} užpuolė {2} - Karštos bulvės konkursas nutrauktas."
+	}
+	"New Rebel"
+	{
+		"lt"		"{1} dabar sukilėlis."
+	}
+	"Freeattack"
+	{
+		"lt"		"{1} užpuolė {2}."
+	}
+	"Non LR Kill LR Slay"
+	{
+		"lt"		"Ne LR-žaidėjas {1} buvo užmustas, už LR-žaidėjo {2} nužudymą."
+	}
+	"Non LR Kill LR Abort"
+	{
+		"lt"		"Ne LR-žaidėjas {1} nužudė LR-žaidėją {2} - LR nutrauktas."
+	}
+	"Rebel Kill"
+	{
+		"lt"		"{1} nužudė sukilėli {2}."
+	}
+	"LR Available"
+	{
+		"lt"		"Teroristai dabar gali rašyti !lr, norėdami paskutinio prašymo."
+	}
+	"LR Player Disconnect"
+	{
+		"lt"		"LR-žaidėjas {1} paliko žaidimą - LR nutrauktas."
+	}
+	"Chicken Fight Win And Slay"
+	{
+		"lt"		"{1} laimėjo Viščiukų Kovą - {2} nužudytas."
+	}
+	"Chicken Fight Win"
+	{
+		"lt"		"{1} laimėjo Viščiukų Kovą."
+	}
+	"Chicken Fight Kill Loser"
+	{
+		"lt"		"Nužudyk {1}!"
+	}
+	"S4S Double Shot Slay"
+	{
+		"lt"		"{1} buvo užmuštas, nes šovė du šūvius iš eilės, per Šūvis į Šūvį kovą."
+	}
+	"S4S Double Shot Abort"
+	{
+		"lt"		"{1} šovė du šūvius- Šūvis į Šuvį kova nutraukta."
+	}
+	"S4S Shot Taken"
+	{
+		"lt"		"{1} iššovė savo šūvį."
+	}
+	"Distance Meter"
+	{
+		"lt"		"Distance meter:"
+	}
+	"LR Rebel Not Allowed"
+	{
+		"lt"		"Tu negali prašyti LR, kai esi sukilėlis."
+	}
+	"LR Choose"
+	{
+		"lt"		"Pasirink Paskutinį Prašymą"
+	}
+	"No CTs Alive"
+	{
+		"lt"		"Nera gyvų CT, kad įvyktų LR."
+	}
+	"Too Many Ts"
+	{
+		"lt"		"Per daug gyvų teroristų, kad įvyktų LR!"
+	}
+	"Not Alive Or In Wrong Team"
+	{
+		"lt"		"Esi miręs arba netoje komandoje, kad prašytum LR."
+	}
+	"Another LR In Progress"
+	{
+		"lt"		"Jau vyksta LR. Pamėgink vėliau."
+	}
+	"LR Disabled"
+	{
+		"lt"		"Atsiprašome, Paskutinis Prašymas yra išjungtas šiame serveryje."
+	}
+	"Choose A Player"
+	{
+		"lt"		"Pasirink žaidėją"
+	}
+	"Rebel Ask CT For LR"
+	{
+		"lt"		"Sukilėlis {1} nori turėti {2} su tavimi. Sutinki?"
+	}
+	"Yes"
+	{
+		"lt"		"Taip"
+	}
+	"No"
+	{
+		"lt"		"Ne"
+	}
+	"Asking For Permission"
+	{
+		"lt"		"Laukiama {1} sutikimo, nes tu esi sukilėlis..."
+	}
+	"Target Is Not Alive Or In Wrong Team"
+	{
+		"lt"		"Žaidėjas yra miręs arba netoje komandoje, kad prašytum LR."
+	}
+	"Declined LR Request"
+	{
+		"lt"		"{1} atmetė tavo LR prašymą."
+	}
+	"LR Partner Died"
+	{
+		"lt"		"Tavo LR partneris mirė."
+	}
+	"Too Slow Another LR In Progress"
+	{
+		"lt"		"Oops, per lėtai. Vyksta kitas LR."
+	}
+	"LR Request Decline Or Too Long"
+	{
+		"lt"		"{1} atmėtė tavo LR prasšymą arba nenori atsakyti."
+	}
+	"LR KF Start"
+	{
+		"lt"		"{1} pasirinko Peilių Kovą, su{2}."
+	}
+	"LR S4S Start"
+	{
+		"lt"		"{1} pasirinko Šūvis į Šuvį, su{2}."
+	}
+	"LR GT Start"
+	{
+		"lt"		"{1} pasirinko Ginklo Metimą, su {2}."
+	}
+	"LR CF Start"
+	{
+		"lt"		"{1} pasirinko Viščiukų Kovą, su {2}."
+	}
+	"LR HP Start"
+	{
+		"lt"		"{1} pasirinko Karštą Bulvę, su {2}."
+	}
+	"LR DB Start"
+	{
+		"lt"		"{1} pasirinko Granatų Kovą, su{2}."
+	}
+	"LR NS Start"
+	{
+		"lt"		"{1} pasirinko kovą Nepriartinus, su {2}."
+	}
+	"LR RPS Start"
+	{
+		"lt"		"{1} pasirinko žaisti Akmuo-Lapas-Žirklės su {2}."
+	}
+	"No Rebels ATM"
+	{
+		"lt"		"Šiuo metu, sukilusių teroristu nėra."
+	}
+	"Rebelling Terrorists"
+	{
+		"lt"		"Sukilę teroristai:"
+	}
+	"CheckPlayers CMD Disabled"
+	{
+		"lt"		"!checkplayers-komanda yra išjungta šiame serveryje."
+	}
+	"Server Rules"
+	{
+		"lt"		"Serverio taisyklės:"
+	}
+	"HP Win"
+	{
+		"lt"		"{1} laimėjo Karštos Bulvės konkursą - {2} nužudytas."
+	}
+	"HP Last One To Have The Potato"
+	{
+		"lt"		"Buvai paskutinis, kuris turėjo bulvę!"
+	}
+	"Ts Muted"
+	{
+		"lt"		"Teroristai yra užtildyti pirmosioms {1} sekundžių!"
+	}
+	"Now Muted"
+	{
+		"lt"		"Esi užtildytas, kalbėti galėsi raundo pabaigoje."
+	}
+	"NS Weapon Chooser Menu"
+	{
+		"lt"		"Prašome pasirinkti ginklą naudoti Kova Nepriartinus:"
+	}
+	"Ts Can Speak Again"
+	{
+		"lt"		"Teroristai vėl gali kalbėti... tyliai..."
+	}
+	"CT Attack T Gun"
+	{
+		"lt"		"{1} užpuolė {2} kuris turėjo ginklą.."
+	}
+	"Rock"
+	{
+		"lt"		"Akmenį"
+	}
+	"Paper"
+	{
+		"lt"		"Lapą"
+	}
+	"Scissors"
+	{
+		"lt"		"Žirkles"
+	}
+	"LR RPS No Answer"
+	{
+		"lt"		"{1} nepasirinko akmens, lapo arba popieriaus, arba nepasirinko nieko laiku."
+	}
+	"LR RPS Done"
+	{
+		"lt"		"{1} pasirinko {2}, o {3} pasirinko {4} - laimėjo {5}"
+	}
+	"LR RPS Tie"
+	{
+		"lt"		"{1} pasirinko {2}, o {3} pasirinko {4} - lygiosios"
+	}
+	"LR Not With Bot"
+	{
+		"lt"		"Dėja, Paskutinis Prašymas su botu neįmanomas."
+	}
+	"LR Not Available"
+	{
+		"lt"		"Šiuo metu jūs negalite pateikti Paskutio Prašymo."
+	}
+}

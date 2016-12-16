@@ -1,0 +1,304 @@
+﻿"Phrases"
+{
+	////////////////////////////////////
+	//           MENU RESULTS
+	////////////////////////////////////
+
+	// Don't change the format string, just remove the ones that you don't want from the translation string
+	// 1 = Name of the person I hit
+	// 2 = Amount of damage I did
+	// 3 = Number of hits against the person
+	// 4 = Body part string 
+	// 5 = Distance 
+	// 6 = My Name (not usually needed here)
+	// 7 = (placeholder -ignored)
+	// 8 = Weapon
+	"menu_damage_done_death_string"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:s},{5:s},{6:s},{7:d},{8:s}"
+		"en"		"{1} - {2} damage - {3} hits {4}{8}{5}"
+		"de"		"{1} - {2} Schaden - {3} Treffer {4}{8}{5}"
+		"ru"		"{1} - {2} урона - {3} попадания {4}{8}{5}"
+		"fr"		"*{1} - {2} de dommages - en {3} coups {4}{8}{5}"
+	}
+
+	// 7 = Health Remaining
+	"menu_damage_taken_death_string"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:s},{5:s},{6:s},{7:d},{8:s}"
+		"en"		"{1} - {2} damage - {3} hits {4}{8}{5}- ({7} health remaining)"
+		"de"		"{1} - {2} Schaden - {3} Treffer {4}{8}{5}- ({7} HP Gesundheit verbleiben)"
+		"ru"		"{1} - {2} урона - {3} попадания {4}{8}{5}"
+		"fr"		"{1} - {2} de dommages - en {3} coups {4}{8}{5}- (avec encore {7} de vie)"
+	}
+
+	// Subset of the death string (no distance)
+	// 1 = Name of the person I hit
+	// 2 = Amount of damage I did
+	// 3 = Number of hits against the person
+	// 4 = Body part string 
+	// 5 = My Name (not usually needed here)
+	"menu_damage_done_string"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:s},{5:s}"
+		"en"		"{1} - {2} damage - {3} hits {4}"
+		"de"		"{1} - {2} Schaden - {3} Treffer {4}"
+		"ru"		"{1} - {2} урона - {3} попадания {4}"
+		"fr"		"{1} - {2} de dommages - en {3} coups {4}"
+	}
+
+	"menu_damage_taken_string"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:s},{5:s}"
+		"en"		"{1} - {2} damage - {3} hits {4}"
+		"de"		"{1} - {2} Schaden - {3} Treffer {4}"
+		"ru"		"{1} - {2} урона - {3} попадания {4}"
+		"fr"		"{1} - {2} de dommages - en {3} coups {4}"
+	}
+
+	// 1 – Distance
+	// 2 – Unit of Measure
+	"menu_distance_string"
+	{
+		"#format"	"{1:.2f},{2:s}"
+		"en"		"- {1} {2} "
+		"de"		"- {1} {2} "
+		"ru"		"- {1} {2} "
+		"fr"		"- {1} {2} "
+	}
+
+	"menu_weapon_string"
+	{
+		"#format"	"{1:s}"
+		"en"		"- {1} "
+		"de"		"- {1} "
+		"ru"		"- {1} "
+		"fr"		"- {1} "
+	}
+
+	"menu_body_part_full_string"
+	{
+		"#format"	"{1:s}"
+		"en"		"({1}) "
+		"de"		"({1}) "
+		"ru"		"({1}) "
+		"fr"		"({1}) "
+	}
+
+	// This will put a divider between body parts if there are more than 1 (1 headshot, 3 chest)
+	"menu_body_combined_parts"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1}, {2}"
+		"de"		"{1}, {2}"
+		"ru"		"{1}, {2}"
+		"fr"		"{1}, {2}"
+	}
+
+	// This defines how an individual body part section will be represented ("1 head" or "chest - 3" for example)
+	"menu_body_individual_part"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"{1} {2}"
+		"de"		"{1} {2}"
+		"ru"		"{1} {2}"
+		"fr"		"{1} {2}"
+	}
+
+	////////////////////////////////////
+	//           CHAT RESULTS
+	////////////////////////////////////
+
+	// For chat, these must be differentiated because we don't show section headers, so you won't
+	// know the difference between being the victim and the attacker if the strings are the same
+	// Don't change the format string, just remove the ones that you don't want from the translation string
+	// 1 = Name of the person I hit
+	// 2 = Amount of damage I did
+	// 3 = Number of hits against the person
+	// 4 = Body part string 
+	// 5 = Distance 
+	// 6 = My Name
+	// 7 = (placeholder not used)
+	// 8 = Weapon
+	"chat_damage_done_death_string"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:s},{5:s},{6:s},{7:d},{8:s}"
+		"en"		"*{6} >> {1} - {2} DAM, {3} HITS {4}{8}{5}"
+		"de"		"*{1} - {2} Schaden - {3} Treffer {4}{8}{5}"
+		"ru"		"*{1} - {2} урона - {3} попадания {4}{8}{5}"
+		"fr"		"*{6} >> {1} - {2} de dommages, en {3} coups {4}{8}{5}"
+	}
+
+	// 7 = Health remaining
+	"chat_damage_taken_death_string"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:s},{5:s},{6:s},{7:d},{8:s}"
+		"en"		"*{1} >> {6} - {2} DAM, {3} HITS {4}{8}{5}({7} health remaining)"
+		"de"		"*{1} - {2} Schaden - {3} Treffer {4}{8}{5}({7} HP Gesundheit verbleiben)"
+		"ru"		"*{1} - {2} урона - {3} попадания {4}{8}{5}}({7} % здоровья осталось)"
+		"fr"		"*{1} >> {6} - {2} de dommages, en {3} coups {4}{8}{5}(avec encore {7} de vie)"
+	}
+
+	// Subset of the death string (no distance)
+	// 1 = Name of the person I hit
+	// 2 = Amount of damage I did
+	// 3 = Number of hits against the person
+	// 4 = Body part string 
+	// 5 = My Name
+	"chat_damage_done_string"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:s},{5:s}"
+		"en"		" {5} >> {1} - {2} DAM, {3} HITS {4}"
+		"de"		" {1} - {2} Schaden - {3} Treffer {4}"
+		"ru"		" {1} - {2} урона - {3} попадания {4}"
+		"fr"		" {5} >> {1} - {2} de dommages, en {3} coups {4}"
+	}
+
+	"chat_damage_taken_string"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:s},{5:s}"
+		"en"		" {1} >> {5} - {2} DAM, {3} HITS {4}" 
+		"de"		" {1} - {2} Schaden - {3} Treffer {4}" 
+		"ru"		" {1} - {2} урона - {3} попадания {4}" 
+		"fr"		" {1} >> {5} - {2} de dommages, en {3} coups {4}" 
+	}
+
+	// 1 – Distance
+	// 2 – Unit of Measure
+	"chat_distance_string"
+	{
+		"#format"	"{1:.2f},{2:s}"
+		"en"		"- {1} {2} "
+		"de"		"- {1} {2} "
+		"ru"		"- {1} {2} "
+		"fr"		"- {1} {2} "
+	}
+
+	"chat_weapon_string"
+	{
+		"#format"	"{1:s}"
+		"en"		"- {1} "
+		"de"		"- {1} "
+		"ru"		"- {1} "
+		"fr"		"- {1} "
+	}
+
+	"chat_body_part_full_string"
+	{
+		"#format"	"{1:s}"
+		"en"		"({1}) "
+		"de"		"({1}) "
+		"ru"		"({1}) "
+		"fr"		"({1}) "
+	}
+
+	// This will put a divider between body parts if there are more than 1 (1 headshot, 3 chest)
+	"chat_body_combined_parts"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1}, {2}"
+		"de"		"{1}, {2}"
+		"ru"		"{1}, {2}"
+		"fr"		"{1}, {2}"
+	}
+
+	// This defines how an individual body part section will be represented ("1 head" or "chest - 3" for example)
+	"chat_body_individual_part"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"{1} {2}"
+		"de"		"{1} {2}"
+		"fr"		"{1} {2}"
+	}
+
+	// Everything below applies to menu + chat
+
+	// For specific damage locations
+	"headshots"
+	{
+		"en"		"headshots"
+		"de"		"Kopftreffer"
+		"ru"		"хедшота"
+		"fr"		"headshots"
+	}
+
+	"headshot"
+	{
+		"en"		"headshot"
+		"de"		"Kopftreffer"
+		"ru"		"хедшот"
+		"fr"		"headshot"
+	}
+
+	"feet"
+	{
+		"en"		"ft"
+		"fr"		"pieds"
+		"ru"		"ноги"
+		"de"		"fuß"
+	}
+
+	"meters"
+	{
+		"en"		"m"
+		"fr"		"mètres"
+		"ru"		"метров"
+		"de"		"Meter"
+	}
+
+      "head"
+	{
+		"en"		"head"
+		"de"		"Kopf"
+		"ru"		"голова"
+		"fr"		"tête"
+	}
+
+       "chest"
+	{
+		"en"		"chest"
+		"de"		"Brust"
+		"ru"		"грудь"
+		"fr"		"poitrine"
+	}
+
+       "stomach"
+	{
+		"en"		"stomach"
+		"de"		"Magen"
+		"ru"		"живот"
+		"fr"		"estomac"
+	}
+
+       "left_arm"
+	{
+		"en"		"left arm"
+		"de"		"linker Arm"
+		"ru"		"левая рука"
+		"fr"		"bras gauche"
+	}
+
+       "right_arm"
+	{
+		"en"		"right arm"
+		"de"		"rechter Arm"
+		"ru"		"правая рука"
+		"fr"		"bras droit"
+	}
+
+       "left_leg"
+	{
+		"en"		"left leg"
+		"de"		"linkes Bein"
+		"ru"		"левая нога"
+		"fr"		"jambe gauche"
+	}
+       
+       "right_leg"
+	{
+		"en"		"right leg"
+		"de"		"rechtes Bein"
+		"ru"		"правая нога"
+		"fr"		"jambe droit"
+	}
+}

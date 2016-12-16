@@ -1,0 +1,155 @@
+"Times"
+{
+	//"0"
+	//{
+	//	"total"		"Integer value of total indexes currently declared, 1 through x"
+	//}
+	"0"
+	{
+		"total" 	"23"
+	}
+	//"#"
+	//{
+	//	"display"	"The text that is displayed in the admin's menu"
+	//	"seconds"	"The number of seconds the punishment will last, 0 = Perm, -1 = Temp, # = Seconds"
+	//	"flags"		"The required flag to access the specific time, 'a' through 't' & 'z'"
+	//}
+	"1"
+	{
+		"display"	"Temporary"
+		"seconds"	"-1"
+		"flags"		""
+	}
+	"2"
+	{
+		"display" 	"5 Minutes"
+		"seconds" 	"300"
+		"flags" 	""
+	}
+	"3"
+	{
+		"display"	"10 Minutes"
+		"seconds"	"600"
+		"flags"		""
+	}
+	"4"
+	{
+		"display"	"15 Minutes"
+		"seconds"	"900"
+		"flags"		""
+	}
+	"5"
+	{
+		"display"	"20 Minutes"
+		"seconds"	"1200"
+		"flags"		""
+	}
+	"6"
+	{
+		"display"	"30 Minutes"
+		"seconds"	"1800"
+		"flags"		""
+	}
+	"7"
+	{
+		"display"	"45 Minutes"
+		"seconds"	"2700"
+		"flags"		""
+	}
+	"8"
+	{
+		"display"	"60 Minutes"
+		"seconds"	"3600"
+		"flags"		""
+	}
+	"9"
+	{
+		"display"	"2 Hours"
+		"seconds"	"7200"
+		"flags"		""
+	}
+	"10"
+	{
+		"display"	"3 Hours"
+		"seconds"	"10800"
+		"flags"		""
+	}
+	"11"
+	{
+		"display"	"6 Hours"
+		"seconds"	"21600"
+		"flags"		""
+	}
+	"12"
+	{
+		"display"	"12 Hours"
+		"seconds"	"43200"
+		"flags"		""
+	}
+	"13"
+	{
+		"display"	"24 Hours"
+		"seconds"	"86400"
+		"flags"		""
+	}
+	"14"
+	{
+		"display"	"2 Days"
+		"seconds"	"172800"
+		"flags"		""
+	}
+	"15"
+	{
+		"display"	"3 Days"
+		"seconds"	"259200"
+		"flags"		""
+	}
+	"16"
+	{
+		"display"	"4 Days"
+		"seconds"	"345600"
+		"flags"		""
+	}
+	"17"
+	{
+		"display"	"5 Days"
+		"seconds"	"432000"
+		"flags"		""
+	}
+	"18"
+	{
+		"display"	"6 Days"
+		"seconds"	"518400"
+		"flags"		""
+	}
+	"19"
+	{
+		"display"	"7 Days"
+		"seconds"	"604800"
+		"flags"		""
+	}
+	"20"
+	{
+		"display"	"2 Weeks"
+		"seconds"	"1209600"
+		"flags"		""
+	}
+	"21"
+	{
+		"display"	"3 Weeks"
+		"seconds"	"1814400"
+		"flags"		""
+	}
+	"22"
+	{
+		"display"	"4 Weeks"
+		"seconds"	"2592000"
+		"flags"		""
+	}
+	"23"
+	{
+		"display"	"Permanent"
+		"seconds"	"0"
+		"flags"		""
+	}
+}

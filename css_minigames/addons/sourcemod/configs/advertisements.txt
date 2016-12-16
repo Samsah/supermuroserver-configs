@@ -1,0 +1,8 @@
+"Advertisements"
+{
+	"2"
+	{
+		"type"		"S"
+		"text"		"{WHITE}Read rules/Lue säännot:{GREEN} !rules"
+	}
+}

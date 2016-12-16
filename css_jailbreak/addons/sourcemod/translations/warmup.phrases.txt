@@ -1,0 +1,7 @@
+"Phrases"
+{
+	"warmup time"
+	{
+		"en"			"Warm Up Round"
+	}
+}

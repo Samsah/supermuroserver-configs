@@ -1,0 +1,1616 @@
+// ============================================================================
+//
+//                    Zombie:Reloaded Class configuration
+//
+// See Class Configuration (3.7) in the manual for detailed info.
+//
+// ============================================================================
+//
+// SHORT DESCRIPTIONS
+//
+// Attribute:               Values:     Description:
+// ----------------------------------------------------------------------------
+// enabled                  yes/no      Enables or disables a class.
+// team                     number      Specifies what team the class belongs to:
+//                                      0 - Zombies
+//                                      1 - Humans
+//                                      2 - Admin mode classes (incomplete feautre!)
+// team_default             yes/no      Marks the class as the default class in the team.
+// flags                    number      Special class flags (bit field). To combine multiple flags
+//                                      use a sum of the flag values. Available flags:
+//                                      1 - Admins only
+//                                      2 - Mother zombies only
+// group                    text        Restrict class to member of this SourceMod group. Leave blank for no restriction.
+// name                     text        The class name used in class menu.
+// description              text        The class description used in class menu.
+// model_path               text        Path to model to use. Relative to cstrike folder.
+// alpha_initial            number      Initial transparency setting.
+// alpha_damaged            number      Transparency when damaged.
+// alpha_damage             number      How much damage to do before switching alpha.
+// overlay_path             text        Overlay displayed at the player.
+// nvgs                     yes/no      Give night vision.
+// fov                      number      Field of view value. 90 is default.
+// has_napalm               yes/no      Allows player to throw napalm grenades. Humans only.
+// napalm_time              decimal     Napalm burn duration. Zombies only.
+// immunity_mode            number      Sets the immunity mode.
+// immunity_amount          decimal     Sets the immunity value.
+// no_fall_damage           on/off      Disables fall damage.
+// health                   number      How many health points to give.
+// health_regen_interval    decimal     Sets the regeneration interval. 0 to disable.
+// health_regen_amount      number      How much HP to give per interval.
+// health_infect_gain       number      How much HP to give when the player infects someone. Zombies only.
+// kill_bonus               number      How many points to give per kill. Zombies only.
+// speed                    decimal     The player speed.
+// knockback                decimal     Force of the knockback when shot at. Zombies only.
+// jump_height              decimal     Multiplier of the players jump height. 0.0 means no jump boost, 1.0 is normal.
+// jump_distance            decimal     Multiplier of the players jump distance. 0.0 means no forward jump boost, 1.0 is normal.
+
+"classes"
+{
+    // ------------------------------------------
+    //
+    // Zombie classes
+    //
+    // ------------------------------------------
+	
+		"chewbacca"
+    {
+        // General
+        "enabled"               "no"
+        "team"                  "1"
+        "team_default"          "no"
+        "flags"                 "0"
+        "group"                 ""
+        
+        "name"                  "chewbacca"
+        "description"           "++++HP | ++Speed | +++Jump | Napalm"
+        
+        // Model
+        "model_path"            "models/player/b4p/b4p_chewbacca/b4p_chewbacca.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "yes"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "yes"
+        
+        "health"                "125"
+        "health_regen_interval" "0.0"
+        "health_regen_amount"   "1.0"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "2"
+        
+        "speed"                 "290"
+        "knockback"             "0"
+        "jump_height"           "1.04"
+        "jump_distance"         "1.04"
+    }
+	
+	
+		"duke"
+    {
+		"enabled"               "yes"
+        "team"                  "1"
+        "team_default"          "yes"
+        "flags"                 "1"
+        "group"                 ""
+        
+        "name"                  "duke"
+        "description"           "++++HP | +++Speed | ++++Jump | Napalm | zshield"
+        
+        // Model
+        "model_path"            "models/player/kuristaja/duke4eva/duke/duke.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "yes"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"        	"shield"
+        "immunity_amount"       "4.0"
+		"immunity_cooldown"		"120.0"
+        "no_fall_damage"        "yes"
+        
+        "health"                "125"
+        "health_regen_interval" "3.0"
+        "health_regen_amount"   "1.0"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "2"
+        
+        "speed"                 "302"
+        "knockback"             "0"
+        "jump_height"           "1.07"
+        "jump_distance"         "1.07"
+    }
+	
+	"slow"
+	
+    {
+        // General
+        "enabled"               "no"
+        "team"                  "1"
+        "team_default"          "no"
+        "flags"                 "0"
+        "group"                 "lahjoittajat"
+        
+        "name"                  "VIP Human - legolas"
+        "description"           "+++HP | ++Speed | ++++Jump | Napalm | No falldamage"
+        
+        // Model
+        "model_path"            "models/player/slow/amberlyn/lotr/legolas/slow.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "yes"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "yes"
+        
+        "health"                "150"
+        "health_regen_interval" "1.0"
+        "health_regen_amount"   "1.0"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "2"
+        
+        "speed"                 "306"
+        "knockback"             "0"
+        "jump_height"           "1.07"
+        "jump_distance"         "1.00"
+    }
+
+	"predator"
+	
+    {
+        // General
+        "enabled"               "no"
+        "team"                  "0"
+        "team_default"          "no"
+        "flags"                 "0"
+        "group"                 ""   
+        
+        "name"                  "predator"
+        "description"           "predator"
+        
+        // Model
+        "model_path"            "models/mapeadores/kaem/predator/predator.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "no"
+        "napalm_time"           "2.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "yes"
+        
+        "health"                "7000"
+        "health_regen_interval" "1.0"
+        "health_regen_amount"   "100.0"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "2"
+        
+        "speed"                 "306"
+        "knockback"             "4.5"
+        "jump_height"           "1.04"
+        "jump_distance"         "0.96"
+	}
+	
+		"slow"
+    {
+        // General
+        "enabled"               "no"
+        "team"                  "0"
+        "team_default"          "no"
+        "flags"                 "2"
+        "group"                 ""   
+        
+        "name"                  "Sauron"
+        "description"           "Sauron"
+        
+        // Model
+        "model_path"            "models/player/slow/amberlyn/lotr/sauron/slow.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "no"
+        "napalm_time"           "3.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "yes"
+        
+        "health"                "5000"
+        "health_regen_interval" "1.0"
+        "health_regen_amount"   "100.0"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "2"
+        
+        "speed"                 "308"
+        "knockback"             "4.0"
+        "jump_height"           "1.03"
+        "jump_distance"         "0.95"
+	}
+	
+	"zombie_vip"
+    {
+        // General
+        "enabled"               "yes"
+        "team"                  "0"
+        "team_default"          "yes"
+        "flags"                 "0"
+        "group"                 "lahjoittajat"      // Write the name of a SourceMod group for vip players ("zr_vip"), then make it in SourceMod.
+        
+        "name"                  "VIP Zombie, Bloodsucker"
+        "description"           "+++HP | +++Speed | +++Jump | ++Knockback | No Burning | zshield"
+        
+        // Model
+        "model_path"            "models/player/slow/bloodsucker_pack/slow_chernobyl.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "no"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"        	"shield"
+        "immunity_amount"       "2.0"
+		"immunity_cooldown"		"120.0"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "no"
+        
+        "health"                "5000"
+        "health_regen_interval" "0.25"
+        "health_regen_amount"   "15.0"
+        "health_infect_gain"    "300"
+        "kill_bonus"            "1"
+        
+        "speed"                 "308"
+        "knockback"             "4.5"
+        "jump_height"           "1.04"
+        "jump_distance"         "1.02"
+    }
+	
+	"slow"
+    {
+        // General
+		"enabled"               "no"
+        "team"                  "1"
+        "team_default"          "no"
+        "flags"                 "0"
+        "group"                 ""
+        
+        "name"                  "ichigo white"
+        "description"           "+++HP | +Speed | ++++Jump | Napalm | No falldamage"
+        
+        // Model
+        "model_path"            "models/player/slow/ichigo_bw/slow.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "yes"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "yes"
+        
+        "health"                "125"
+        "health_regen_interval" "3.0"
+        "health_regen_amount"   "1.0"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "1"
+        
+        "speed"                 "285"
+        "knockback"             "0.0"
+        "jump_height"           "1.04"
+        "jump_distance"         "1.04"
+	}	
+	
+	"slow_v2"
+    {
+        // General
+		"enabled"               "no"
+        "team"                  "1"
+        "team_default"          "yes"
+        "flags"                 "0"
+        "group"                 ""
+        
+        "name"                  "ichigo"
+        "description"           "++HP | +++Speed | +Jump | Napalm"
+        
+        // Model
+        "model_path"            "models/player/slow/mitch/ichigo/slow_v2.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "yes"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "no"
+        
+        "health"                "80"
+        "health_regen_interval" "0.0"
+        "health_regen_amount"   "0.0"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "1"
+        
+        "speed"                 "300"
+        "knockback"             "0.0"
+        "jump_height"           "1.0"
+        "jump_distance"         "0.94"
+	}
+	
+	"slow"
+    {
+        // General
+        "enabled"               "no"
+        "team"                  "0"
+        "team_default"          "yes"
+        "flags"                 "0"
+        "group"                 ""   
+        
+        "name"                  "uruk_hai"
+        "description"           "+++HP | ++Speed | ++Jump | ++Knockback"
+        
+        // Model
+        "model_path"            "models/player/slow/amberlyn/lotr/uruk_hai_sword/slow.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "no"
+        "napalm_time"           "3.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "no"
+        
+        "health"                "4000"
+        "health_regen_interval" "2.0"
+        "health_regen_amount"   "100.0"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "1"
+        
+        "speed"                 "299"
+        "knockback"             "5.0"
+        "jump_height"           "1.02"
+        "jump_distance"         "0.96"
+	}
+	
+	"goblin"
+	
+    {
+        // General
+        "enabled"               "no"
+        "team"                  "0"
+        "team_default"          "no"
+        "flags"                 "0"
+        "group"                 ""   
+        
+        "name"                  "goblin"
+        "description"           "+HP | +++Speed | +++Jump | +Knockback"
+        
+        // Model
+        "model_path"            "models/player/elis/gb/goblin.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "no"
+        "napalm_time"           "3.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "no"
+        
+        "health"                "3000"
+        "health_regen_interval" "2.0"
+        "health_regen_amount"   "50.0"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "1"
+        
+        "speed"                 "304"
+        "knockback"             "6.0"
+        "jump_height"           "1.02"
+        "jump_distance"         "1.00"
+	}
+	
+	"slow"
+    {
+        // General
+        "enabled"               "no"
+        "team"                  "1"
+        "team_default"          "no"
+        "flags"                 "0"
+        "group"                 "lahjoittajat"
+        
+        "name"                  "legolas"
+        "description"           "Humans class for VIP players"
+        
+        // Model
+        "model_path"            "models/player/slow/amberlyn/lotr/legolas/slow.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "yes"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "yes"
+        
+        "health"                "150"
+        "health_regen_interval" "1.0"
+        "health_regen_amount"   "1.0"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "2"
+        
+        "speed"                 "304"
+        "knockback"             "0"
+        "jump_height"           "1.07"
+        "jump_distance"         "1.05"
+    }
+
+	"slow"
+    {
+        // General
+        "enabled"               "no"
+        "team"                  "1"
+        "team_default"          "no"
+        "flags"                 "0"
+        "group"                 ""
+        
+        "name"                  "Gandalf"
+        "description"           "++++HP | +Speed | ++Jump | Napalm | No falldamage | shield"
+        
+        // Model
+        "model_path"            "models/player/slow/amberlyn/lotr/gandalf/slow.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "yes"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"        	"shield"
+        "immunity_amount"       "5.0"
+		"immunity_cooldown"		"120.0"
+        "no_fall_damage"        "yes"
+        
+        "health"                "250"
+        "health_regen_interval" "1.0"
+        "health_regen_amount"   "1.0"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "2"
+        
+        "speed"                 "280"
+        "knockback"             "0"
+        "jump_height"           "1.03"
+        "jump_distance"         "1.01"
+    }	
+	
+	"slow"
+    {
+        // General
+        "enabled"               "no"
+        "team"                  "1"
+        "team_default"          "no"
+        "flags"                 "0"
+        "group"                 ""
+        
+        "name"                  "gimli"
+        "description"           "++HP | ++Speed | ++Jump | Napalm"
+        
+        // Model
+        "model_path"            "models/player/slow/amberlyn/lotr/gimli/slow.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "yes"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "no"
+        
+        "health"                "100"
+        "health_regen_interval" "0.0"
+        "health_regen_amount"   "1.0"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "2"
+        
+        "speed"                 "292"
+        "knockback"             "0"
+        "jump_height"           "1.03"
+        "jump_distance"         "1.00"
+    }
+	
+	"slow"
+    {
+        // General
+        "enabled"               "no"
+        "team"                  "1"
+        "team_default"          "no"
+        "flags"                 "0"
+        "group"                 ""    
+        
+        "name"                  "Frodo"
+        "description"           "+HP | ++++Speed | +Jump | No napalm | No falldamage"
+        
+        // Model
+        "model_path"            "models/player/slow/amberlyn/lotr/frodo/slow.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "no"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "yes"
+        
+        "health"                "50"
+        "health_regen_interval" "0.0"
+        "health_regen_amount"   "0.0"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "2"
+        
+        "speed"                 "299"
+        "knockback"             "0"
+        "jump_height"           "0.98"
+        "jump_distance"         "0.94"
+    }
+	
+	"slow"
+    {
+        // General
+        "enabled"               "no"
+        "team"                  "1"
+        "team_default"          "no"
+        "flags"                 "0"
+        "group"                 ""    
+        
+        "name"                  "aragorn"
+        "description"           "++HP | +++Speed | ++Jump | No napalm"
+        
+        // Model
+        "model_path"            "models/player/slow/amberlyn/lotr/aragorn/slow.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "no"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "no"
+        
+        "health"                "60"
+        "health_regen_interval" "0.0"
+        "health_regen_amount"   "0.0"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "2"
+        
+        "speed"                 "297"
+        "knockback"             "0"
+        "jump_height"           "1.02"
+        "jump_distance"         "0.98"
+    }
+	
+    "z2"
+    {
+        // General
+        "enabled"               "yes"
+        "team"                  "0"
+        "team_default"          "yes"
+        "flags"                 "0"
+        "group"                 ""
+        
+        "name"                  "Regular Zombie"
+        "description"           "+++HP | ++Speed | +Jump | +++Knockback"
+        
+        // Model
+        "model_path"            "models/player/techknow/zp/z2.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          "overlays/zr/zvision"
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "no"
+        "napalm_time"           "3.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "no"
+        
+        "health"                "3500"
+        "health_regen_interval" "1.0"
+        "health_regen_amount"   "10"
+        "health_infect_gain"    "300"
+        "kill_bonus"            "5"
+        
+        "speed"                 "302"
+        "knockback"             "3.0"
+        "jump_height"           "0.99"
+        "jump_distance"         "0.95"
+    }
+	
+	"slow"
+    {
+        // General
+        "enabled"               "yes"
+        "team"                  "0"
+        "team_default"          "no"
+        "flags"                 "0"
+        "group"                 ""
+        
+        "name"                  "Hell Dog"
+        "description"           "+++++HP | +++Speed | ++++Jump | +Knockback | No Burning"
+        
+        // Model
+        "model_path"            "models/player/slow/amberlyn/re5/dog/slow.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          "overlays/zr/zvision"
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "yes"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "no"
+        
+        "health"                "8000"
+        "health_regen_interval" "0.50"
+        "health_regen_amount"   "25"
+        "health_infect_gain"    "300"
+        "kill_bonus"            "1"
+        
+        "speed"                 "306"
+        "knockback"             "1.5"
+        "jump_height"           "1.09"
+        "jump_distance"         "1.03"
+    }
+	
+	"slow_gigante"
+    {
+        // General
+        "enabled"               "yes"
+        "team"                  "0"
+        "team_default"          "no"
+        "flags"                 "0"
+        "group"                 ""
+        
+        "name"                  "Heavy Gigante"
+        "description"           "+++++HP | +Speed | ++++Jump | +++Knockback | No Burning"
+        
+        // Model
+        "model_path"            "models/player/slow/el_g_fix2/slow_gigante.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          "overlays/zr/zvision"
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "no"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "yes"
+        
+        "health"                "7000"
+        "health_regen_interval" "1.0"
+        "health_regen_amount"   "55"
+        "health_infect_gain"    "100"
+        "kill_bonus"            "2"
+        
+        "speed"                 "240"
+        "knockback"             "1.2"
+        "jump_height"           "1.06"
+        "jump_distance"         "1.06"
+    }
+    
+    "z2"
+    {
+        // General
+        "enabled"               "yes"
+        "team"                  "0"
+        "team_default"          "no"
+        "flags"                 "0"
+        "group"                 ""
+        
+        "name"                  "Regular Mutated"
+        "description"           "+++HP | +Speed | +++Jump | ++Knockback"
+        
+        // Model
+        "model_path"            "models/player/techknow/zp/z2.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          "overlays/zr/zvision"
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "no"
+        "napalm_time"           "3.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "no"
+        
+        "health"                "4000"
+        "health_regen_interval" "1.0"
+        "health_regen_amount"   "25"
+        "health_infect_gain"    "300"
+        "kill_bonus"            "5"
+        
+        "speed"                 "290"
+        "knockback"             "4.5"
+        "jump_height"           "1.08"
+        "jump_distance"         "0.99"
+    }
+	
+	"slow_css"
+    {
+        // General
+        "enabled"               "yes"
+        "team"                  "0"
+        "team_default"          "no"
+        "flags"                 "0"
+        "group"                 ""
+        
+        "name"                  "Fat Majini"
+        "description"           "++++HP | +Speed | +Jump | +++Knockback | No Burning"
+        
+        // Model
+        "model_path"            "models/player/slow/amberlyn/re5/fat_majini/slow_css.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          "overlays/zr/zvision"
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "no"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "no"
+        
+        "health"                "5000"
+        "health_regen_interval" "1.00"
+        "health_regen_amount"   "50"
+        "health_infect_gain"    "100"
+        "kill_bonus"            "1"
+        
+        "speed"                 "280"
+        "knockback"             "3.5"
+        "jump_height"           "0.99"
+        "jump_distance"         "0.94"
+    }
+	
+	"slow_v2"
+    {
+        // General
+        "enabled"               "yes"
+        "team"                  "0"
+        "team_default"          "no"
+        "flags"                 "0"
+        "group"                 ""
+        
+        "name"                  "Hot Ass Zombie"
+        "description"           "+HP | ++++Speed | +Jump | +Knockback"
+        
+        // Model
+        "model_path"            "models/player/slow/l4d/hot_ass_zombie/slow_v2.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          "overlays/zr/zvision"
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "no"
+        "napalm_time"           "3.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "no"
+        
+        "health"                "2500"
+        "health_regen_interval" "1.00"
+        "health_regen_amount"   "15"
+        "health_infect_gain"    "100"
+        "kill_bonus"            "1"
+        
+        "speed"                 "313"
+        "knockback"             "6.5"
+        "jump_height"           "1.00"
+        "jump_distance"         "0.96"
+    }
+	
+	"mother_zombie"
+    {
+        // General
+        "enabled"               "yes"
+        "team"                  "0"
+        "team_default"          "no"
+        "flags"                 "2"
+        "group"                 ""
+        
+		"name"                  "Mother zombie"
+        "description"           "Mother zombie"
+        
+        // Model
+        "model_path"            "models/player/slow/fallout_3/ghoul/slow.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          "overlays/zr/zvision"
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "no"
+        "napalm_time"           "3.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "no"
+        
+        "health"                "7000"
+        "health_regen_interval" "0.50"
+        "health_regen_amount"   "15"
+        "health_infect_gain"    "300"
+        "kill_bonus"            "10"
+        
+        "speed"                 "311"
+        "knockback"             "2.5"
+        "jump_height"           "1.04"
+        "jump_distance"         "0.88"
+    }
+    
+    "slow"
+    {
+        // General
+        "enabled"               "no"
+        "team"                  "0"
+        "team_default"          "no"
+        "flags"                 "0"
+        "group"                 ""
+        
+		"name"                  "Alien"
+        "description"           "Alien"
+        
+        // Model
+        "model_path"            "models/player/slow/aliendrone_v3/slow_alien.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          "overlays/zr/zvision"
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "no"
+        "napalm_time"           "3.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "no"
+        
+        "health"                "3500"
+        "health_regen_interval" "0.50"
+        "health_regen_amount"   "10"
+        "health_infect_gain"    "300"
+        "kill_bonus"            "1"
+        
+        "speed"                 "306"
+        "knockback"             "7.5"
+        "jump_height"           "1.0"
+        "jump_distance"         "1.0"
+    }
+	
+    
+    // ------------------------------------------
+    //
+    // Human classes
+    //
+    // ------------------------------------------
+    
+    "human_normal"
+    {
+        // General
+        "enabled"               "yes"
+        "team"                  "1"
+        "team_default"          "yes"
+        "flags"                 "0"
+        "group"                 ""
+        
+        "name"                  "Normal Human"
+        "description"           "Regular class"
+        
+        // Model
+        "model_path"            "default"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "yes"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "no"
+        
+        "health"                "100"
+        "health_regen_interval" "0.0"
+        "health_regen_amount"   "1"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "2"
+        
+        "speed"                 "296"
+        "knockback"             "0"
+        "jump_height"           "1.0"
+        "jump_distance"         "0.99"
+    }
+	
+	"human_vip"
+    {
+        // General
+        "enabled"               "no"
+        "team"                  "1"
+        "team_default"          "no"
+        "flags"                 "0"
+        "group"                 "lahjoittajat"      // Write the name of a SourceMod group for vip players ("zr_vip"), then make it in SourceMod.
+        
+        "name"                  "cloud"
+        "description"           "Cloud, special class for VIP - zshield"
+        
+        // Model
+        "model_path"            "models/mapeadores/kaem/cloudfix/cloud.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "yes"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"        	"shield"
+        "immunity_amount"       "4.0"
+		"immunity_cooldown"		"120.0"
+        "no_fall_damage"        "yes"
+        
+        "health"                "150"
+        "health_regen_interval" "5.0"
+        "health_regen_amount"   "1.0"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "1"
+        
+        "speed"                 "305"
+        "knockback"             "0"
+        "jump_height"           "1.03"
+        "jump_distance"         "1.03"
+    }
+	"human_admin"
+	
+    {
+        // General
+	    "enabled"               "no"
+        "team"                  "1"
+        "team_default"          "no"
+        "flags"                 "1"
+        "group"                 "Full"
+        
+        "name"                  "cloud"
+        "description"           "Cloud, special MAKO class for full ADMINS"
+        
+        // Model
+        "model_path"            "models/mapeadores/kaem/cloudfix/cloud.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "yes"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"        	"shield"
+        "immunity_amount"       "4.0"
+		"immunity_cooldown"		"120.0"
+        "no_fall_damage"        "yes"
+        
+        "health"                "200"
+        "health_regen_interval" "1.0"
+        "health_regen_amount"   "1.0"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "1"
+        
+        "speed"                 "308"
+        "knockback"             "0"
+        "jump_height"           "1.04"
+        "jump_distance"         "1.04"
+    }
+	
+    "human_vip"
+    {
+        // General
+        "enabled"               "yes"
+        "team"                  "1"
+        "team_default"          "yes"
+        "flags"                 "0"
+        "group"                 "lahjoittajat"      // Write the name of a SourceMod group for vip players ("zr_vip"), then make it in SourceMod.
+        
+        "name"                  "VIP Human, G MAN"
+        "description"           "+++HP | ++++Speed | +Jump | Napalm | Fast HP Regen | zshield"
+        
+        // Model
+        "model_path"            "models/player/slow/vip/slow_vip.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "yes"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"        	"shield"
+        "immunity_amount"       "4.0"
+		"immunity_cooldown"		"120.0"
+        "no_fall_damage"        "no"
+        
+        "health"                "125"
+        "health_regen_interval" "1.0"
+        "health_regen_amount"   "1.0"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "1"
+        
+        "speed"                 "307"
+        "knockback"             "0"
+        "jump_height"           "1.00"
+        "jump_distance"         "1.00"
+    }
+	
+	"human_vip"
+    {
+        // General
+        "enabled"               "yes"
+        "team"                  "1"
+        "team_default"          "yes"
+        "flags"                 "0"
+        "group"                 "lahjoittajat"      // Write the name of a SourceMod group for vip players ("zr_vip"), then make it in SourceMod.
+        
+        "name"                  "VIP Human, NanoSuit"
+        "description"           "+++HP | ++Speed | ++++Jump | No Napalm | HP Regen | No fallda | zshield"
+        
+        // Model
+        "model_path"            "models/player/slow/nanosuit/slow_nanosuit.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "no"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"        	"shield"
+        "immunity_amount"       "4.0"
+		"immunity_cooldown"		"120.0"
+        "no_fall_damage"        "yes"
+        
+        "health"                "100"
+        "health_regen_interval" "4.0"
+        "health_regen_amount"   "1.0"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "1"
+        
+        "speed"                 "300"
+        "knockback"             "0"
+        "jump_height"           "1.06"
+        "jump_distance"         "1.03"
+    }
+	
+	"human_admin"
+    {
+        // General
+        "enabled"               "no"
+        "team"                  "1"
+        "team_default"          "no"
+        "flags"                 "1"
+        "group"                 ""
+        
+        "name"                  "haradrim"
+        "description"           "Human class for admins"
+        
+        // Model
+        "model_path"            "models/player/slow/amberlyn/lotr/haradrim/slow.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "yes"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "yes"
+        
+        "health"                "150"
+        "health_regen_interval" "3.0"
+        "health_regen_amount"   "3"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "10"
+        
+        "speed"                 "303"
+        "knockback"             "0"
+        "jump_height"           "1.05"
+        "jump_distance"         "1.01"
+    }
+    
+    "human_admin"
+    {
+        // General
+        "enabled"               "yes"
+        "team"                  "1"
+        "team_default"          "no"
+        "flags"                 "1"
+        "group"                 ""
+        
+        "name"                  "Admin Human"
+        "description"           "++++HP | +++Speed | +++Jump | Napalm | HP Regen"
+        
+        // Model
+        "model_path"            "models/player/slow/trenchcoat/slow.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "yes"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "no"
+        
+        "health"                "125"
+        "health_regen_interval" "3.0"
+        "health_regen_amount"   "1"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "10"
+        
+        "speed"                 "302"
+        "knockback"             "0"
+        "jump_height"           "1.04"
+        "jump_distance"         "1.01"
+    }
+	
+	"slow"
+    {
+        // General
+        "enabled"               "no"
+        "team"                  "1"
+        "team_default"          "no"
+        "flags"                 "0"
+        "group"                 ""
+        
+        "name"                  "Stormtrooper"
+        "description"           "Stormtrooper"
+        
+        // Model
+        "model_path"            "models/player/slow/stormtrooper/slow_stormtrooper.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "yes"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "no"
+        
+        "health"                "100"
+        "health_regen_interval" "0.0"
+        "health_regen_amount"   "0"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "1"
+        
+        "speed"                 "295"
+        "knockback"             "0"
+        "jump_height"           "1.00"
+        "jump_distance"         "1.00"
+    }
+	
+	"slow"
+    {
+        // General
+        "enabled"               "yes"
+        "team"                  "1"
+        "team_default"          "no"
+        "flags"                 "0"
+        "group"                 ""
+        
+        "name"                  "Alice Murray"
+        "description"           "+HP | +++Speed | ++Jump | No Napalm | Fast HP Regen"
+        
+        // Model
+        "model_path"            "models/player/slow/aot/murray/slow.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "no"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "no"
+        
+        "health"                "30"
+        "health_regen_interval" "1.0"
+        "health_regen_amount"   "1"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "1"
+        
+        "speed"                 "301"
+        "knockback"             "0"
+        "jump_height"           "1.05"
+        "jump_distance"         "1.00"
+    }
+    
+    "human_speedy"
+    {
+        // General
+        "enabled"               "yes"
+        "team"                  "1"
+        "team_default"          "no"
+        "flags"                 "0"
+        "group"                 ""
+        
+        "name"                  "Vin Diesel"
+        "description"           "++HP | ++++Speed | +Jump | No Napalm"
+        
+        // Model
+        "model_path"            "models/player/slow/vin_diesel/slow.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "no"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "no"
+        
+        "health"                "60"
+        "health_regen_interval" "0.0"
+        "health_regen_amount"   "0"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "1"
+        
+        "speed"                 "304"
+        "knockback"             "0"
+        "jump_height"           "0.96"
+        "jump_distance"         "0.93"
+    }
+    
+    "human_light"
+    {
+        // General
+        "enabled"               "yes"
+        "team"                  "1"
+        "team_default"          "no"
+        "flags"                 "0"
+        "group"                 ""
+        
+        "name"                  "50cent"
+        "description"           "++++HP | +Speed | +++Jump | Napalm"
+        
+        // Model
+        "model_path"            "models/player/slow/50cent/slow.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "yes"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "no"
+        
+        "health"                "140"
+        "health_regen_interval" "2.0"
+        "health_regen_amount"   "1"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "1"
+        
+        "speed"                 "284"
+        "knockback"             "0"
+        "jump_height"           "1.04"
+        "jump_distance"         "1.01"
+    }
+	
+	"slow"
+    {
+        // General
+        "enabled"               "yes"
+        "team"                  "1"
+        "team_default"          "no"
+        "flags"                 "0"
+        "group"                 ""
+        
+        "name"                  "Niko Bellic"
+        "description"           "++HP | +Speed | ++++Jump | Slow HP Reg | No Fallda"
+        
+        // Model
+        "model_path"            "models/player/slow/niko_bellic/slow.mdl"
+        "alpha_initial"         "255"
+        "alpha_damaged"         "255"
+        "alpha_damage"          "0"
+        
+        // Hud
+        "overlay_path"          ""
+        "nvgs"                  "no"
+        "fov"                   "90"
+        
+        // Effects
+        "has_napalm"            "no"
+        "napalm_time"           "0.0"
+        
+        // Player behaviour
+        "immunity_mode"         "none"
+        "immunity_amount"       "0.0"
+        "no_fall_damage"        "yes"
+        
+        "health"                "100"
+        "health_regen_interval" "3.0"
+        "health_regen_amount"   "1"
+        "health_infect_gain"    "0"
+        "kill_bonus"            "1"
+        
+        "speed"                 "280"
+        "knockback"             "0"
+        "jump_height"           "1.05"
+        "jump_distance"         "1.03"
+    }
+	
+	
+}
+	

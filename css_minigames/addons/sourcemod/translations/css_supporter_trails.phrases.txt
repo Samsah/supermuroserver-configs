@@ -1,0 +1,204 @@
+"Phrases"
+{
+	"Prefix_Chat"
+	{
+		"#format"	""
+		"en"		"{olive}Trails: {green}"
+	}
+	"Phrase_Restricted"
+	{
+		"#format"	""
+		"en"		"Sorry, but this feature is reserved for supporters!"
+	}
+	//======================================================
+	"Menu_Option_Selected"
+	{
+		"#format"	""
+		"en"		"[*] "		
+	}
+	"Menu_Option_Empty"
+	{
+		"#format"	""
+		"en"		"[  ] "
+	}
+	//======================================================
+	"Phrase_Enable"
+	{
+		"#format"	""
+		"en"		"Your personal trails have been enabled!"
+	}
+	"Phrase_Disable"
+	{
+		"#format"	""
+		"en"		"Your personal trails have been disabled!"
+	}
+	"Phrase_Change_Layout"
+	{
+		"#format"	"{1:s}"
+		"en"		"Your trails now use the {1} layout scheme!"
+	}
+	"Phrase_Change_Color"
+	{
+		"#format"	"{1:s}"
+		"en"		"Your trails now use the {1} color!"
+	}
+	"Phrase_Change_Starting"
+	{
+		"#format"	"{1:s}"
+		"en"		"Your trails now have an starting width of {1} units!"
+	}
+	"Phrase_Change_Ending"
+	{
+		"#format"	"{1:s}"
+		"en"		"Your trails now have an ending width of {1} units!"
+	}
+	"Phrase_Change_Life"
+	{
+		"#format"	"{1:s}"
+		"en"		"Your trails now live for {1} seconds!"
+	}
+	"Phrase_Change_Render"
+	{
+		"#format"	"{1:d}"
+		"en"		"Your trails now use the render method {1}!"
+	}
+	"Phrase_Change_Material"
+	{
+		"#format"	"{1:s}"
+		"en"		"Your trails now use the {1} material!"
+	}
+	"Phrase_Change_Visible_One"
+	{
+		"#format"	""
+		"en"		"Your trails will be visible only to you!"
+	}
+	"Phrase_Change_Visible_Team"
+	{
+		"#format"	""
+		"en"		"Your trails will be visible to all team members!"
+	}
+	"Phrase_Change_Visible_All"
+	{
+		"#format"	""
+		"en"		"Your trails will be visible to all players!"
+	}
+	//======================================================
+	"Cookie_Title"
+	{
+		"#format"	""
+		"en"		"Trail Settings"
+	}
+	//======================================================
+	"Menu_Title_Main"
+	{
+		"#format"	""
+		"en"		"Trail Settings:"
+	}
+	"Menu_Title_Layout"
+	{
+		"#format"	""
+		"en"		"Trail Layouts:"
+	}
+	"Menu_Title_Color"
+	{
+		"#format"	""
+		"en"		"Trail Colors:"
+	}
+	"Menu_Title_Starting"
+	{
+		"#format"	""
+		"en"		"Trail Starting Widths:"
+	}
+	"Menu_Title_Ending"
+	{
+		"#format"	""
+		"en"		"Trail Ending Widths:"
+	}
+	"Menu_Title_Life"
+	{
+		"#format"	""
+		"en"		"Trail Durations:"
+	}
+	"Menu_Title_Render"
+	{
+		"#format"	""
+		"en"		"Trail Render Modes:"
+	}
+	"Menu_Title_Material"
+	{
+		"#format"	""
+		"en"		"Trail Materials:"
+	}
+	"Menu_Title_Visible"
+	{
+		"#format"	""
+		"en"		"Trail Visibility:"
+	}
+	//======================================================
+	"Menu_Option_Enable"
+	{
+		"#format"	""
+		"en"		"Enable Trails"
+	}
+	"Menu_Option_Disable"
+	{
+		"#format"	""
+		"en"		"Disable Trails"
+	}	
+	"Menu_Option_Color"
+	{
+		"#format"	""
+		"en"		"Select Color"
+	}
+	"Menu_Option_Layout"
+	{
+		"#format"	""
+		"en"		"Select Layout"
+	}
+	"Menu_Option_Material"
+	{
+		"#format"	""
+		"en"		"Select Material"
+	}
+	"Menu_Option_Starting"
+	{
+		"#format"	""
+		"en"		"Select Starting Width"
+	}
+	"Menu_Option_Ending"
+	{
+		"#format"	""
+		"en"		"Select Ending Width"
+	}
+	"Menu_Option_Life"
+	{
+		"#format"	""
+		"en"		"Select Duration"
+	}
+	"Menu_Option_Render"
+	{
+		"#format"	""
+		"en"		"Select Rendering"
+	}
+	"Menu_Option_Visibility"
+	{
+		"#format"	""
+		"en"		"Select Visibility"
+	}
+	//======================================================	
+	"Menu_Option_Visibility_Single"
+	{
+		"#format"	""
+		"en"		"Single"
+	}
+	"Menu_Option_Visibility_Team"
+	{
+		"#format"	""
+		"en"		"Team Members"
+	}
+	"Menu_Option_Visibility_All"
+	{
+		"#format"	""
+		"en"		"All Players"
+	}
+}

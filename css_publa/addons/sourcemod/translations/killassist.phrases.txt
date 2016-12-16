@@ -1,0 +1,61 @@
+﻿"Phrases"
+{
+	"Assist"
+	{
+		"#format"		"{1:s}{2:N}{3:s}{4:s}{5:N}{6:s}"
+		"en"			"You assisted {1}{2} {3}on killing {4}{5}{6}."
+		"fr"			"Vous avez aidé {1}{2} {3}à tuer {4}{5}{6}."
+		"de"			"Du hast {1}{2} {3}geholfen {4}{5}{6} zu killen."
+		"sk"			"Asistoval si {1}{2} {3}pri zabiti {4}{5}{6}."
+		"cze"			"Asistoval jsi {1}{2} {3}pri zabiti {4}{5}{6}."
+	}
+	"TellHowToChange"
+	{
+		"#format"		"{1:s}{2:s}{3:s}{4:s}"
+		"en"			"You can change when to show assists in your {1}!settings{2}."
+		"fr"			"Vous pouvez changer quand afficher les assistances dans {1}!settings{2}."
+	}
+	//Menu
+	"MenuTitleAssist"
+	{
+		"#format"		""
+		"en"			"Kill Assist Menu"
+		"fr"			"Menu de Kill Assist"
+	}
+	"MenuVerboseOff"
+	{
+		"#format"		""
+		"en"			"Never inform about assists"
+		"fr"			"Jamais être informé des assistances"
+	}
+	"MenuVerboseAlways"
+	{
+		"#format"		""
+		"en"			"Always inform about assists"
+		"fr"			"Toujours être informé des assistances"
+	}
+	"MenuVerboseDeadOnly"
+	{
+		"#format"		""
+		"en"			"Only inform about assists when dead"
+		"fr"			"Être informé des assistances lorsque mort"
+	}
+	"MenuVerboseInformAboutTheMenu"
+	{
+		"#format"		""
+		"en"			"Tell about this menu once per map : "
+		"fr"			"Informer de l'existence de ce menu une fois par carte : "
+	}
+	"(Selected)"
+	{
+		"#format"		""
+		"en"			" (selected)"
+		"fr"			" (sélectionnée)"
+	}
+	"space"
+	{
+		"#format"		""
+		"en"			" "
+		"fr"			" "
+	}
+}

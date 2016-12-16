@@ -1,0 +1,41 @@
+"Phrases"
+{
+	"BecomeWarden"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} is now {green}Warden{default}."
+		"sv"        "{1} är nu{green}Fängelsedirektör{default}."
+	}
+	"WrongTeamOrAlive"
+	{
+		"en"		"Prisoners can't be {green}Warden {default} / Your not alive and cant be {green}Warden{default}."
+		"sv"        "Fångar kan inte vara {green}Fängelsedirektör {default}  / Du är död och kan inte vara{green}Fängelsedirektör {default}."
+	}
+	"WardenDied"
+	{
+		"en"		"{green}Warden {default}is now Dead. You can now choose a new one."
+		"sv"        "{green}Fängelsedirektören {default}har dött. Ni kan nu välja en ny."
+	}
+	"WardenDisconnected"
+	{
+		"en"		"{green}Warden {default}has Disconnected. You can now choose a new one."
+		"sv"        "{green}Fängelsedirektören {default}har lämnat servern. Ni kan nu välja en ny."
+	}
+	"WardenAlreadyExist"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} is already {green}Warden! {default}You can't be the {green}Warden {defualt}at the moment."
+		"sv"        "{1} är den nuvarande {green}Fängelsedirektören! {default}Du kan inte vara {green}Fängelsedirektör {defualt}för tillfället."
+	}
+	"LeftWarden"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} Has decided to retire from be {green}Warden{default}. You can now choose a new one."
+		"sv"        "{1} har bestämt sig för att avgå från att vara {green}Fängelsedirektör{default}. Ni kan nu välja en ny."
+	}
+	"RemoveWarden"
+	{
+		"#format"	"{1:N},{2:s},{3:N},{4:s} "
+		"en"		"{1} ({2}) was removed from {green}Warden {default} by {3} ({4})."
+		"sv"        "{1} ({2}) blev borttagen från {green}Fängelsedirektör {default}av {3} ({4})."
+}

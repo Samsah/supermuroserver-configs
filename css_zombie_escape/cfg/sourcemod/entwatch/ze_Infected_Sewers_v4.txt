@@ -1,0 +1,48 @@
+"entities"
+{
+        "0"
+        {
+		"desc"			"Push Gun"
+		"short_desc"		"Push"
+		"color"			"00d8d5"
+		"name"			"pusherdeagle"
+		"exactname"		"true"
+		"singleactivator"	"true"
+		"type"			"weapon_deagle"
+		"button_type"		"func_button"
+		"chat"			"true"
+		"hud"			"true"
+		"mode"			"1"
+		"cooldown"		"90.0"
+        }
+        "1"
+        {
+		"desc"			"Flamethrower"
+		"short_desc"		"Flame"
+		"color"			"bb0000"
+		"name"			"fameelite"
+		"exactname"		"true"
+		"singleactivator"	"true"
+		"type"			"weapon_elite"
+		"button_type"		"func_button"
+		"chat"			"true"
+		"hud"			"true"
+		"mode"			"1"
+		"cooldown"		"40.0"
+        }
+        "2"
+        {
+		"desc"			"Minigun"
+		"short_desc"		"Minigun"
+		"color"			"ad4100"
+		"name"			"minigun"
+		"exactname"		"true"
+		"singleactivator"	"true"
+		"type"			"weapon_elite"
+		"button_type"		"func_button"
+		"chat"			"true"
+		"hud"			"true"
+		"mode"			"1"
+		"cooldown"		"40.0"
+        }
+}

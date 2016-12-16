@@ -1,0 +1,205 @@
+"umc_rotation"
+{
+	"MAPS"
+	
+{
+	"maps_invote"    "6"
+		
+		
+		"ze_minecraft_v1_1"
+		{
+			"min_players"   "10"  
+		}
+		
+		"ze_Portal_Story_v3_2"
+		{
+			"min_players"   "8"  
+		}
+		
+		"ze_naruto_v2_6e"
+		{
+			"min_players"   "14"  
+		}
+		
+		"zm_neko_garden_hs_v2"	{}
+		
+		"zm_snowpoint"	{}
+		
+		"zm_cbble_b4"	{}
+		
+		"zm_wtfhax_v6"	{}
+		
+		"zm_cryptic_b2"	{}
+		
+		"ZM_Krusty_krab_a3"	{}
+		
+		"ze_voodoo_islands_v8_5"	{}
+		
+		"ze_volcano_escape_v4"
+		{
+			"min_players"   "20"  
+		}
+		
+		"ze_voodoo_islands_v4_007"	{}
+		
+		"ze_nostromo_v1_0f"
+		{
+			"min_players"   "20"  
+		}
+		
+		"ze_slender_escape_b3"
+		{
+			"min_players"   "22"  
+		}
+		
+		"ze_TESV_Skyrim_v4fix"
+		{
+			"min_players"   "20"  
+		}
+		
+		"ze_Pirates_Port_Royal_v3_5fix"
+		{
+			"min_players"   "12"  
+		}
+		
+		"ze_Inboxed_v1_4"
+		{
+			"min_players"   "10"  
+		}
+		
+		"ze_DOOM_v1_1"
+		{
+			"min_players"   "10"  
+		}
+		
+		"ze_paranoid_classic_b4"
+		{
+			"min_players"   "12"  
+		}
+
+		"ze_mountain_escape_v5_zy"
+		{
+			"min_players"   "12"  
+		}
+		
+		"ze_FFXII_Paramina_Rift_v1_3"
+		{
+			"min_players"   "14"  
+		}
+		
+		"ze_lila_panic_escape_v3_1"
+		{
+			"min_players"   "12"  
+		}
+		
+		"ze_Parking_v3_1"
+		{
+			"min_players"   "16"  
+		}
+		
+		"ze_ELEVATOR_escape"
+		{
+			"min_players"   "8"  
+		}
+		
+		"ze_sienimetsa_v6_1"
+		{
+			"min_players"   "14"  
+		}
+		
+		"ze_POTC_IV_v6_1"
+		{
+			"min_players"   "12"  
+		}
+		
+		"ze_fapescape_v1_2"
+		{
+			"min_players"   "16"  
+		}
+		
+		"ze_predator_ultimate_v3"
+		{
+			"min_players"   "10"  
+		}
+		
+		"ze_FFXII_Westersand_v7_2"
+		{
+			"min_players"   "12"  
+		}
+		
+		"ze_bisounours_party_v1_1"
+		{
+			"min_players"   "10"  
+		}
+		
+		"ze_stargate_escape_v8"		{}
+		
+		"ze_italy_town_v3"
+		{
+			"min_players"   "8"  
+		}
+		
+		"ze_FFVII_Mako_Reactor_v5_3"
+		{
+			"min_players"   "12"  
+		}
+		
+		"ze_Paranoid_Rezurrection_v11_9"
+		{
+			"min_players"   "8"  
+		}
+		
+		"ze_icecap_escape_v5"	{}
+
+		"ze_30_Seconds__b21"	{}
+		
+		"ze_parkour_fix"
+		{
+			"max_players"   "24"  
+		}
+		
+		"ze_surf_facility_v3_pre2"		{}
+	
+		"ze_echo_boatescape_extended"
+		{
+			"min_players"   "8"  
+		}
+		
+		"ze_LOTR_Mines_of_Moria_v6_3"
+		{
+			"min_players"   "8"  
+		}
+		
+		"ze_LOTR_Helms_Deep_v5"
+		{
+			"min_players"   "16"  
+		}
+		
+		"ze_LOTR_Mount_Doom_v4_2"
+		{
+			"min_players"   "8"  
+		}
+
+		"ze_rooftop_runaway1_v4"
+		{
+			"max_players"   "24"  
+		}
+		
+		"ze_PotC_v3_4fix"		{}
+		
+		"ze_rooftop_reborn_v3_2"
+		{
+			"min_players"   "8"  
+		}
+		
+		"ze_minecraft_adventure_v1_2c"
+		{
+			"min_players"   "8"  
+		}
+		
+
+		
+	}
+
+}
+

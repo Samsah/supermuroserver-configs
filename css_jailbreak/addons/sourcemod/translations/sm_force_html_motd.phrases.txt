@@ -1,0 +1,87 @@
+"Phrases"
+{
+	//====================================================================
+	"Prefix_Chat"
+	{
+		"#format"	""
+		"en"		"{olive}Motd Check: {green}"	
+	}
+	"Prefix_Center"
+	{
+		"#format"	""
+		"en"		"Motd Check: "	
+	}
+	//====================================================================
+	"Motd_Panel_Title"
+	{
+		"#format"	""
+		"en"		"Message of the Day"
+	}
+	//====================================================================
+	"Phrase_Join_Permission"
+	{
+		"#format"	""
+		"en"		"You are now allowed to join a team!"
+	}
+	"Phrase_Join_Restricted"
+	{
+		"#format"	""
+		"en"		"You may not play until HTML MOTDs are enabled!\n\nType !motdhelp if the instruction panel disappears!"
+	}
+	//====================================================================
+	"Menu_Title"
+	{
+		"#format"	""
+		"en"		"Your HTML MOTDs are Disabled!"
+	}
+	"Menu_Phrase_0"
+	{
+		"#format"	""
+		"en"		"Please enable them to play on this server!"
+	}
+	"Menu_Phrase_1"
+	{
+		"#format"	""
+		"en"		"Method: Console"
+	}
+	"Menu_Phrase_2"
+	{
+		"#format"	""
+		"en"		"- Type cl_disablehtmlmotd 0 into console"
+	}
+	"Menu_Phrase_3"
+	{
+		"#format"	""
+		"en"		"Method: Settings"
+	}
+	"Menu_Phrase_4"
+	{
+		"#format"	""
+		"en"		"- Press Escape"
+	}
+	"Menu_Phrase_5"
+	{
+		"#format"	""
+		"en"		"- Select Options"
+	}
+	"Menu_Phrase_6"
+	{
+		"#format"	""
+		"en"		"- Select Multiplayer"
+	}
+	"Menu_Phrase_7"
+	{
+		"#format"	""
+		"en"		"- Select Advanced"
+	}
+	"Menu_Phrase_8"
+	{
+		"#format"	""
+		"en"		"- Uncheck Disable HTML MOTDs"
+	}
+	"Menu_Phrase_Exit"
+	{
+		"#format"	""
+		"en"		"Exit"
+	}
+}

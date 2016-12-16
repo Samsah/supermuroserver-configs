@@ -10,3 +10,7 @@ Osa lisäosista saattaa sisältää muokattuja ominaisuuksia kuten [Muro]-chat t
 Etsi lisäosan alkuperäistä (ja mahdollisesti uudempaa) versiota osoitteesta http://www.sourcemod.net/plugins.php
 
 Mitään materiaaleja (äänet yms.), joita lisäosat saattavat vaatia, ei ole mukana.
+
+##Poikkeukset
+Konseptit-kansion alla löytyy vanhoja serveriluonnoksia, joista ei ole karsittu mitään. 
+Periaatteessa niiden pitäisi toimia drag&drop.

@@ -1,0 +1,19 @@
+"Phrases"
+{
+	"Blind Cow"
+	{
+		"en"		"Blind Cow"
+	}
+	
+	"LR Blind Cow Start"
+	{
+		"#format"	"{1:N},{2:N}"
+		"en"		"{1} Choosed to have Blind Cow with {2}."
+	}
+	
+	"Blind Cow Win"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} Won the "Blind Cow" LR."
+	}
+}

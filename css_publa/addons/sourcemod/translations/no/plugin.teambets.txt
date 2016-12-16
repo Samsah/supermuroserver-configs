@@ -1,0 +1,77 @@
+﻿"Phrases"
+{
+	"No bets after bomb planted"
+	{
+		"no"			"Ingen spill tillatt etter at bomben er plantet."
+	}
+
+	"Must Be On A Team To Vote"
+	{
+		"no"			"Du må delta i et team for å plassere et veddemål."
+	}
+
+	"Already Betted"
+	{
+		"no"			"Du har allerede satset denne runden."
+	}
+	
+	"Must Be Dead To Vote"
+	{
+		"no"			"Du må være død for å plassere et spill."
+	}
+	
+	"Invalid Team for Bet"
+	{
+		"no"			"Ugyldig team, vennligst bruk 'ct' eller 't'."
+	}
+	
+	"Invalid Bet Amount"
+	{
+		"no"			"Du har ikke angir et gyldig bud. Vennligst bruk 'all', 'half', 'third' eller et tall"
+	}
+	
+	"Not Enough Money"
+	{
+		"no"			"Du har ikke nok penger for innsatsen."
+	}
+	
+	"Bet Made"
+	{
+		"no"			"Bet plassert. Odds er {1} til {2}. Du har alt å vinne ${3} på $ {4} innsats."
+	}
+	
+	"One Vs One"
+	{
+		"no"			"One vs One! Sett dine spill nå!"
+	}
+	
+	"One Vs Many Start"
+	{
+		"no"     		"{1} vs {2} team! Sett dine spill nå!"
+	}
+	
+	"One Vs Many Winner"
+	{
+		"no"			"{1} har vunnet mot alle odds! $ {2} tildelt fra den tapende potten!"
+	}
+	
+	"Bet Won"
+	{
+		"no"			"Du vant ${1} på innsatsen din på ${2}."
+	}
+	
+	"Bet Lost"
+	{
+		"no"			"Du mistet ${1} innsats."
+	}
+	
+	"Players Are Dead"
+	{
+		"no"			"Du kan ikke spille når begge lag er død."
+	}
+	
+	"Advertise Bets"
+	{
+		"no"			"Skrive 'bet team beløp' for å spille på det vinnende laget!"
+	}
+}

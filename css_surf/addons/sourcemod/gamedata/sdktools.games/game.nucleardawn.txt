@@ -1,0 +1,216 @@
+"Games"
+{
+	/* Nuclear Dawn */
+
+	/* General Temp Entities */
+	"#default"
+	{
+		"Offsets"
+		{
+			/* Offset into CBaseTempEntity constructor */
+			"s_pTempEntities"
+			{
+				"windows"	"17"
+			}
+			"GetTEName"
+			{
+				"windows"	"4"
+				"linux"		"4"
+				"mac"		"4"
+			}
+			"GetTENext"
+			{
+				"windows"	"8"
+				"linux"		"8"
+				"mac"		"8"
+			}
+			"TE_GetServerClass"
+			{
+				"windows"	"0"
+				"linux"		"0"
+				"mac"		"0"
+			}
+		}
+
+		"Signatures"
+		{
+			"CBaseTempEntity"
+			{
+				"library"	"server"
+				"windows"	"\x8B\xC1\x8B\x4C\x24\x04\xC7\x00\x2A\x2A\x2A\x2A\x89\x48\x04\x8B\x15\x2A\x2A\x2A\x2A\x89\x50\x08\xA3\x2A\x2A\x2A\x2A\xC2\x04\x00"
+			}
+			"s_pTempEntities"
+			{
+				"library"	"server"
+				"linux"		"@_ZN15CBaseTempEntity15s_pTempEntitiesE"
+				"mac"		"@_ZN15CBaseTempEntity15s_pTempEntitiesE"
+			}
+		}
+	}
+	
+	/* CGlobalEntityList */
+	"#default"
+	{
+		"#supported"
+		{
+			"game"		"left4dead2"
+			"game"		"nucleardawn"
+		}
+			
+		"Signatures"
+		{
+			/* Functions in CGlobalEntityList */
+			"FindEntityByClassname"
+			{
+				"library"	"server"
+				"windows"	"\x53\x55\x56\x8B\xF1\x8B\x4C\x24\x10\x85\xC9\x57\x74\x19\x8B\x01\x8B\x50\x08\xFF\xD2\x8B\x00\x25\xFF\x0F\x00\x00\x83\xC0\x01\xC1\xE0\x04\x8B\x3C\x30\xEB\x06\x8B\xBE\x2A\x2A\x2A\x2A\x85\xFF\x74\x39\x8B\x5C\x24\x18\x8B\x2D\x2A\x2A\x2A\x2A\xEB\x03"
+				"linux"		"@_ZN17CGlobalEntityList21FindEntityByClassnameEP11CBaseEntityPKc"
+				"mac"		"@_ZN17CGlobalEntityList21FindEntityByClassnameEP11CBaseEntityPKc"
+			}
+		}
+	}
+	
+	/* IServer interface pointer */
+	"#default"
+	{
+		"Keys"
+		{
+			/* Signature for the beginning of IVEngineServer::CreateFakeClient.
+			 *
+			 * The engine binary is not actually scanned in order to look for
+			 * this. SourceHook is used to used to determine the address of the
+			 * function and this signature is used to verify that it contains
+			 * the expected code. A pointer to sv (IServer interface) is used
+			 * here.
+			 */
+			"CreateFakeClient_Windows"	"\x8B\x44\x24\x2A\x50\xB9\x2A\x2A\x2A\x2A\xE8"
+		}
+		
+		"Offsets"
+		{
+			/* Offset into IVEngineServer::CreateFakeClient */
+			"sv"
+			{
+				"windows"	"6"
+			}
+		}
+
+		"Signatures"
+		{
+			/* CBaseServer object for IServer interface */
+			"sv"
+			{
+				"library"	"engine"
+				"linux"		"@sv"
+				"mac"		"@sv"
+			}
+		}
+	}
+	
+	"nucleardawn"
+	{		
+		"Offsets"
+		{
+			"GiveNamedItem"
+			{
+				"windows"	"442"
+				"linux"		"443"
+				"mac"		"443"
+			}
+			"RemovePlayerItem"
+			{
+				"windows"	"300"
+				"linux"		"301"
+				"mac"		"301"
+			}
+			"Weapon_GetSlot"
+			{
+				"windows"	"298"
+				"linux"		"299"
+				"mac"		"299"
+			}
+			"Ignite"
+			{
+				"windows"	"233"
+				"linux"		"234"
+				"mac"		"234"
+			}
+			"Extinguish"
+			{
+				"windows"	"236"
+				"linux"		"237"
+				"mac"		"237"
+			}
+			"Teleport"
+			{
+				"windows"	"128"
+				"linux"		"129"
+				"mac"		"129"
+			}
+			"CommitSuicide"
+			{
+				"windows"	"487"
+				"linux"		"487"
+				"mac"		"487"
+			}
+			"GetVelocity"
+			{
+				"windows"	"160"
+				"linux"		"161"
+				"mac"		"161"
+			}
+			"EyeAngles"
+			{
+				"windows"	"151"
+				"linux"		"152"
+				"mac"		"152"
+			}
+			"AcceptInput"
+			{
+				"windows"	"44"
+				"linux"		"45"
+				"mac"		"45"
+			}
+			"SetEntityModel"
+			{
+				"windows"	"27"
+				"linux"		"28"
+				"mac"		"28"
+			}
+			"WeaponEquip"
+			{
+				"windows"	"291"
+				"linux"		"292"
+				"mac"		"292"
+			}
+			"Activate"
+			{
+				"windows"	"36"
+				"linux"		"37"
+				"mac"		"37"
+			}
+			"PlayerRunCmd"
+			{
+				"windows"	"465"
+				"linux"		"466"
+				"mac"		"466"
+			}
+		}
+		
+		"Keys"
+		{
+			"GameRulesProxy"	"CNuclearDawnRulesProxy"
+		}
+		
+		"Signatures"
+		{
+			"FireOutput"
+			{
+				"library"	"server"
+				"windows"	"\x81\x2A\x2A\x2A\x2A\x2A\x53\x55\x56\x8B\x2A\x2A\x85"
+				"linux"		"@_ZN17CBaseEntityOutput10FireOutputE9variant_tP11CBaseEntityS2_f"
+				"mac"		"@_ZN17CBaseEntityOutput10FireOutputE9variant_tP11CBaseEntityS2_f"
+			}
+		}
+	}
+}

@@ -1,0 +1,52 @@
+﻿"Phrases"
+{
+	"Defuse the bomb"
+	{
+		"fr"		"Vous avez été exécuté pour trahison ! Désamorcez la bombe la prochaine fois !"
+	}
+
+	"Kill the VIP"
+	{
+		"fr"		"Puisque vous n'avez pas tué le VIP, votre cellule terroriste vous a tué !"
+	}
+
+	"Protect the VIP"
+	{
+		"fr"		"Vous avez été exécuté pour trahison ! Protégez le VIP la prochaine fois !"
+	}
+
+	"Kill terrorists"
+	{
+		"fr"		"Vous avez été exécuté pour trahison ! Ne laissez pas les terroristes s'enfuir !"
+	}
+
+	"Protect C4"
+	{
+		"fr"		"Puisque vous n'avez pas protégé le C4 jusqu'à l'explosion, votre cellule terroriste vous a tué !"
+	}
+
+	"Dont let hostages escape"
+	{
+		"fr"		"Puisque vous avez laissé des otages s'échapper, votre cellule terroriste vous a tué !"
+	}
+
+	"Plant the bomb"
+	{
+		"fr"		"Puisque vous n'avez pas planté la bombe, votre cellule terroriste vous a tué !"
+	}
+
+	"Rescue the hostages"
+	{
+		"fr"		"Vous avez été exécuté pour trahison ! Sauvez les otages !"
+	}
+
+	"VIP should escape"
+	{
+		"fr"		"Vous avez été exécuté pour trahison ! Le VIP devrait s'échapper !"
+	}
+
+	"Free Passes Left"
+	{
+		"fr"		"Free passes left before getting killed"
+	}
+}

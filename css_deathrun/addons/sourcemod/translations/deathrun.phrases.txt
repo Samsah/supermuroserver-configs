@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"moved from t"
+	{
+		"en"  	"You have died and have been moved to Counter-Terrorists"
+		"pl"  	"Umarłeś i zostałeś przeniesiony do drużyny Anty-Terrorystów"
+		"de"  	"Du bist gestorben und bist nun ein Counter-Terrorist"
+	}
+	"random moved"
+	{
+		"en"  	"A random player has been moved to Terrorist"
+		"pl"  	"Losowy gracz został przeniesiony do Terrorystów"
+		"de"  	"Ein zufälliger Spieler wurde zum Terroristen"
+	}
+	"radio blocked"
+	{
+		"en"    "Radio commands are blocked to prevent spam!"
+		"pl"    "Komendy radiowe są zablokowane aby zapobiec spamowaniu!"
+		"de"    "Radiobefehle sind geblockt, um spam vorzubeugen!"
+	}
+	"kill blocked"
+	{
+		"en"    "Do not attempt to suicide to avoid death!"
+		"pl"    "Nie próbuj się zabić aby uniknąć śmierci!"
+		"de"    "Versuche keinen Suicid, um dem Tot zu entgehen!"
+	}
+	"join spec"
+	{
+		"en"    "If you wish to join the spectator team, type 'spectate' into console"
+		"pl"    "Jeżeli chcesz wejść do Spektatorów, wpisz w konsoli 'spectate'"
+		"de"    "Wenn du ein Spectator (Zuschauer) sein willst, tippe 'spectate' in deine Konsole"
+	}
+	"enough ts"
+	{
+    "en"    "There is already enough players on the Terrorist team!"
+		"de"    "Es sind bereits genügend Spieler im Terroristen Team!"
+  }
+  "sprays blocked"
+  {
+    "en"    "Sprays are blocked on this server!"
+    "de"    "Spraylogos sind deaktiviert auf diesem Server!"
+  }
+}

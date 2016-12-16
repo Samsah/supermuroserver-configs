@@ -1,0 +1,95 @@
+// ====================
+//     Zombie Riot
+//   File: zombies.txt
+//   Author: Greyscale
+// ====================
+//
+// Here you can pre-define the different zombies and their abilities
+// Format:
+//
+// "strong" - Any word(s) to help keep track of the different zombies
+//	"type" - "normal" will spawn the zombie randomly in the day (unless the day has a zombieoverride)
+//	       - "override_required" this zombie can only be spawned via an override defined in days.txt
+//	"model"	- Path to the model this zombie will use (NO .mdl extension)
+//	"health" - Spawn HP of this zombie
+//	"speed" - Speed of the zombie (Default: 300)
+//	"gravity" - Gravity of the zombie (0.5: Half, 1.0: Default, 2.0: Double)
+//	"jump" - Extra jump power that the zombie will receive (recommended you lower the gravity as you raise this)
+//	"fov" - Field of vision (Default: 90)
+//	"zvision" - Overlay to display on the zombies' screen (Omit line or "" to disable)
+
+
+"zombies"
+{
+	"zombie1"
+	{
+		"type"		"normal"
+		"model"		"models/player/slow/aliendrone_v3/slow_alien.mdl"
+		"health"	"100"
+		"speed"		"395"
+		"gravity"	"0.8"
+		"jump"		"3.0"
+		"fov"		"110"
+		"zvision"	"overlays/zr/zvision"
+	}
+
+	"zombie2"
+	{
+		"type"		"normal"
+		"model"		"models/player/slow/amberlyn/re5/fat_majini/slow_css.mdl"
+		"health"	"300"
+		"speed"		"325"
+		"gravity"	"0.95"
+		"jump"		"2.0"
+		"fov"		"110"
+		"zvision"	"overlays/zr/zvision"
+	}
+
+	"zombie3"
+	{
+		"type"		"normal"
+		"model"		"models/player/slow/l4d/hot_ass_zombie/slow_v2.mdl"
+		"health"	"200"
+		"speed"		"350"
+		"gravity"	"0.9"
+		"jump"		"5.0"
+		"fov"		"110"
+		"zvision"	"overlays/zr/zvision"
+	}
+	
+	"zombie4"
+	{
+		"type"		"normal"
+		"model"		"models/player/slow/babycrab_v2/slow_babycrab.mdl"
+		"health"	"50"
+		"speed"		"380"
+		"gravity"	"1.0"
+		"jump"		"1.0"
+		"fov"		"110"
+		"zvision"	"overlays/zr/zvision"
+	}
+
+	"hellknight"
+	{
+		"type"		"override_required"
+		"model"		"models/player/slow/predator_xp/predator_xp.mdl"
+		"health"	"30000"
+		"speed"		"425"
+		"gravity"	"0.7"
+		"jump"		"12.0"
+		"fov"		"110"
+		"zvision"	"overlays/zr/zvision"
+	}
+
+//	"headcrab" // headcrab, my game seems to crash when mixing these in with other zombies, so i recommend making it a boss
+//	{
+//		"type"		"override_required"
+//		"model"		"models/headcrab.mdl"
+//		"health"	"10"
+//		"speed"		"400"
+//		"gravity"	"0.9"
+//		"jump"		"15.0"
+//		"fov"		"110"
+//		"zvision"	"overlays/zr/zvision"
+//	}
+}

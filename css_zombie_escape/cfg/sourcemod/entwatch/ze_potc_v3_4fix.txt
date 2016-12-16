@@ -1,0 +1,19 @@
+"entities"
+{
+        "0"
+        {
+		"desc"			"Jacks Pistol"
+		"short_desc"		"Pistol"
+		"color"			"120061"
+		"name"			"jackpistol"
+		"exactname"		"true"
+		"singleactivator"	"true"
+		"type"			"weapon_deagle"
+		"button_type"		"physbox_multi"
+		"chat"			"true"
+		"hud"			"true"
+		"mode"			"4"
+		"cooldown"		"1.0"
+		"maxuses"		"1" 
+        }
+}

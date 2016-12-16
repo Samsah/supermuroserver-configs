@@ -1,0 +1,1082 @@
+"Phrases"
+{
+	"Main_Menu_Title"
+	{
+		"#format"	""
+		"en"		"BuildWars:\n--=--=--=--\n"
+	}
+	"Welcome_Advert"
+	{
+		"#format"	""
+		"en"		"Welcome to {olive}BuildWars{green}! If you're new to the server, please type {olive}!help{green} to get started."
+	}
+	//===========================================
+	"Prefix_Chat"
+	{
+		"#format"	""
+		"en"		"{olive}BuildWars: {green}"	
+	}
+	"Prefix_Hint"
+	{
+		"#format"	""
+		"en"		"BuildWars: "	
+	}
+	"Prefix_Center"
+	{
+		"#format"	""
+		"en"		"BuildWars: "	
+	}
+	"Prefix_Console"
+	{
+		"#format"	""
+		"en"		"BuildWars: "	
+	}
+	//===========================================
+	"Menu_Option_Selected"
+	{
+		"#format"	""
+		"en"		"[*] "		
+	}
+	"Menu_Option_Empty"
+	{
+		"#format"	""
+		"en"		"[  ] "
+	}
+	//===========================================
+	"Command_Help_Url_Title"
+	{
+		"#format"	""
+		"en"		"BuildWars: General Information"	
+	}
+	"Command_Show_Help_Failure"
+	{
+		"#format"	""
+		"en"		"[SM] Usage: sm_showhelp <target>"
+	}
+	"Command_Show_Help_Show_Activity"
+	{
+		"#format"	"{1:N}"
+		"en"		"Displayed the BuildWars help url to {1}."
+	}
+	"Command_Show_Help_Log_Message"
+	{
+		"#format"	"{1:N},{2:N}"
+		"en"		"{1} displayed the BuildWars help url to {2}."
+	}
+	//===========================================
+	"Spawn_Prop_Infinite"
+	{
+		"#format"	"{1:s}"
+		"en"		"You spawned a {1}!"	
+	}
+	"Spawn_Prop_Infinite_Admin"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"You spawned a {1}! (Entity: {2}/{3})"	
+	}
+	"Spawn_Prop_Limited"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"You spawned a {1} and have {2}/{3} remaining props!"	
+	}
+	"Spawn_Prop_Limited_Admin"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:d},{5:d}"
+		"en"		"You spawned a {1} and have {2}/{3} remaining props! (Entity: {4}/{5})"	
+	}
+	"Spawn_Prop_Limit_Reached"	
+	{
+		"#format"	""
+		"en"		"You cannot spawn as you've reached your spawning limit for this round!"	
+	}
+	"Spawn_Prop_Restricted"	
+	{
+		"#format"	""
+		"en"		"Sorry; the ability to spawn props is disabled until the next round!"	
+	}
+	"Spawn_Prop_Controls"	
+	{
+		"#format"	""
+		"en"		"You must use your knife to spawn props!\n\nLeft Click: Clone @ Location, Right Click: Create @ Crosshairs"	
+	}
+	//===========================================
+	"Delete_Prop_Infinite"
+	{
+		"#format"	"{1:s}"
+		"en"		"Your {1} was removed from the map!"	
+	}
+	"Delete_Prop_Admin"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"The {1} belonging to {2} was removed from the map!"	
+	}
+	"Delete_Prop_Limited"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"Your {1} was removed from the map! You have {2}/{3} deletes remaining!"	
+	}
+	"Delete_Prop_Limit_Reached"
+	{
+		"#format"	""
+		"en"		"You cannot delete as you've reached your deletion limit for this round!"	
+	}
+	"Delete_Prop_Limit_Insufficient"
+	{
+		"#format"	""
+		"en"		"You do not have enough deletions remaining to clear your props!"	
+	}
+	"Delete_Prop_Failure"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"This {1} belongs to {2}, not you!"	
+	}
+	"Delete_Prop_Restricted"	
+	{
+		"#format"	""
+		"en"		"Sorry; the ability to delete props is disabled until the next round!"	
+	}
+	"Notify_Succeed_Delete"
+	{
+		"#format"	""
+		"en"		"Deletion Completed!"
+	}
+	//===========================================
+	"Clear_Prop_Restricted"	
+	{
+		"#format"	""
+		"en"		"Sorry; the ability to clear props is disabled until the next round!"	
+	}
+	//===========================================
+	"Rotate_Prop_Client"
+	{
+		"#format"	"{1:s},{2:.1f}"
+		"en"		"The {1} was rotated {2} degrees!"	
+	}
+	"Rotate_Prop_Admin"
+	{
+		"#format"	"{1:s},{2:.1f},{3:d},{4:d}"
+		"en"		"The {1} was rotated {2} degrees! (Entity: {3}/{4})"	
+	}
+	"Rotate_Prop_Client_Admin"
+	{
+		"#format"	"{1:s},{2:s},{3:.1f},{4:d},{5:d}"
+		"en"		"The {1} belonging to {2} was rotated {3} degrees! (Entity: {4}/{5})"	
+	}
+	"Rotate_Prop_Reset_Client"
+	{
+		"#format"	"{1:s}"
+		"en"		"The {1}'s rotation has been reset!"	
+	}
+	"Rotate_Prop_Reset_Admin"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"The {1}'s rotation has been reset! (Entity: {2}/{3})"	
+	}
+	"Rotate_Prop_Reset_Client_Admin"
+	{
+		"#format"	"{1:s},{2:s},{3:d},{4:d}"
+		"en"		"The {1} belonging to {2} had its rotation reset! (Entity: {3}/{4})"	
+	}
+	"Rotate_Prop_Failure"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"This {1} belongs to {2}, not you!"
+	}
+	"Rotate_Prop_Restricted"	
+	{
+		"#format"	""
+		"en"		"Sorry; the ability to rotate props is disabled until the next round!"	
+	}
+	//===========================================
+	"Position_Own_Prop"
+	{
+		"#format"	"{1:s},{2:.1f}"
+		"en"		"The {1} was moved by {2} units!"	
+	}
+	"Position_Own_Prop_Admin"
+	{
+		"#format"	"{1:s},{2:.1f},{3:d},{4:d}"
+		"en"		"The {1} was moved by {2} units! (Entity: {3}/{4})"	
+	}
+	"Position_Other_Prop_Admin"
+	{
+		"#format"	"{1:s},{2:s},{3:.1f},{4:d},{5:d}"
+		"en"		"The {1} belonging to {2} was moved by {3} units! (Entity: {4}/{5})"	
+	}
+	"Position_Prop_Failure"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"This {1} belongs to {2}, not you!"
+	}
+	"Position_Prop_Restricted"	
+	{
+		"#format"	""
+		"en"		"Sorry; the ability to move props is disabled until the next round!"	
+	}
+	//===========================================	
+	"Control_Prop_Failure"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"This {1} belongs to {2}, not you!"	
+	}
+	"Control_Prop_Taken"
+	{
+		"#format"	"{1:s}"
+		"en"		"A staff member is currently controlling your {1}!"	
+	}
+	"Control_Prop_Taken_Already"
+	{
+		"#format"	"{1:s}"
+		"en"		"You cannot control the {1} as a staff member is currently controlling it!"	
+	}
+	"Control_Prop_Take_Away"
+	{
+		"#format"	"{1:s}"
+		"en"		"A staff member has taken control of your {1}!"	
+	}
+	"Control_Prop_Taken_Away"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"You have taken control of the {1} away from {2}!"	
+	}
+	"Control_Prop_Distance"	
+	{
+		"#format"	"{1:s}"
+		"en"		"The {1} is too far away to control!"	
+	}
+	"Control_Prop_Restricted"	
+	{
+		"#format"	""
+		"en"		"Sorry; the ability to control props is disabled until next round."	
+	}
+	//===========================================
+	"Teleport_In_Progress"
+	{
+		"#format"	""
+		"en"		"You are already waiting for a teleport to process!"	
+	}
+	"Teleport_Delay_Notify"
+	{
+		"#format"	"{1:.1f}"
+		"en"		"You will be teleported in {1} seconds..."	
+	}
+	"Teleport_Notify"
+	{
+		"#format"	""
+		"en"		"You have returned to your spawning area!"	
+	}
+	"Teleport_Limited"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"You have returned to your spawning area! You have {1}/{2} teleports remaining!"	
+	}
+	"Teleport_Delay_Limited"
+	{
+		"#format"	"{1:.1f},{2:d},{3:d}"
+		"en"		"You will be returned to spawn in {1} seconds! You have {2}/{3} teleports remaining!"	
+	}
+	"Teleport_Infinite"
+	{
+		"#format"	""
+		"en"		"You have returned to your spawning area!"	
+	}
+	"Teleport_Delay_Infinite"
+	{
+		"#format"	"{1:.1f}"
+		"en"		"You will be returned to spawn in {1} seconds!"	
+	}
+	"Teleport_Limit_Reached"
+	{
+		"#format"	""
+		"en"		"You cannot teleport as you've reached your teleportation limit for this round!"	
+	}
+	"Teleport_Restricted"	
+	{
+		"#format"	""
+		"en"		"Sorry; the ability to teleport is disabled until the next round."	
+	}
+	//===========================================
+	"Admin_Color_Succeed"
+	{
+		"#format"	""
+		"en"		"Coloring Completed!"
+	}
+	"Admin_Color_Failed"
+	{
+		"#format"	""
+		"en"		"Coloring Failed!"
+	}
+	//===========================================
+	"Color_Prop_Limit_Reached"	
+	{
+		"#format"	""
+		"en"		"Your props will not change color as you've reached your coloring limit for this round!"	
+	}
+	"Color_Prop_Restricted"	
+	{
+		"#format"	""
+		"en"		"Sorry; the ability to color props is disabled until the next round!"	
+	}
+	//===========================================
+	"Check_Prop"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"This {1} belongs to {2}!"
+	}
+	"Check_Prop_Admin"
+	{
+		"#format"	"{1:s},{2:s},{3:d},{4:d}"
+		"en"		"This {1} belongs to {2}! (Entity: {3}/{4})"
+	}
+	"Check_Prop_Restricted"	
+	{
+		"#format"	""
+		"en"		"Sorry; the ability to check props is disabled until the next round!"	
+	}
+	//===========================================
+	"Admin_Locate_Failure"
+	{
+		"#format"	""
+		"en"		"The player you selected is no longer available!"
+	}
+	"Admin_Target_Failure"
+	{
+		"#format"	""
+		"en"		"You cannot target this player!"
+	}
+	//===========================================
+	"Menu_Spawn_Prop_Limited"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Spawn Prop ({1}/{2})"
+	}
+	"Menu_Spawn_Prop_Infinite"
+	{
+		"#format"	""
+		"en"		"Spawn Prop"
+	}
+	"Menu_Rotate_Prop"
+	{
+		"#format"	""
+		"en"		"Rotate Prop"
+	}
+	"Menu_Position_Prop"
+	{
+		"#format"	""
+		"en"		"Move Prop"
+	}
+	"Menu_Delete_Prop_Limited"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Delete Prop ({1}/{2})"
+	}
+	"Menu_Delete_Prop_Infinite"
+	{
+		"#format"	""
+		"en"		"Delete Prop"
+	}
+	"Menu_Control_Prop"
+	{
+		"#format"	""
+		"en"		"Control Prop"
+	}
+	"Menu_Check_Prop"
+	{
+		"#format"	""
+		"en"		"Check Prop"
+	}
+	"Menu_Player_Actions"
+	{
+		"#format"	""
+		"en"		"Actions & Settings"
+	}
+	"Menu_Admin_Actions"
+	{
+		"#format"	""
+		"en"		"Admin Actions"
+	}
+	//===========================================
+	"Menu_Rotation_Info"
+	{
+		"#format"	"{1:.1f},{2:.1f},{3:.1f}"
+		"en"		"Rot: {1} {2} {3}"
+	}
+	"Menu_Rotation_Info_Missing"
+	{
+		"#format"	""
+		"en"		"Rot: ? ? ?"
+	}
+	"Menu_Rotation_X_Plus"
+	{
+		"#format"	"{1:.1f}"
+		"en"		"Rotate X +{1}"
+	}
+	"Menu_Rotation_X_Minus"
+	{
+		"#format"	"{1:.1f}"
+		"en"		"Rotate X -{1}"
+	}
+	"Menu_Rotation_Y_Plus"
+	{
+		"#format"	"{1:.1f}"
+		"en"		"Rotate Y +{1}"
+	}
+	"Menu_Rotation_Y_Minus"
+	{
+		"#format"	"{1:.1f}"
+		"en"		"Rotate Y -{1}"
+	}
+	"Menu_Rotation_Z_Plus"
+	{
+		"#format"	"{1:.1f}"
+		"en"		"Rotate Z +{1}"
+	}
+	"Menu_Rotation_Z_Minus"
+	{
+		"#format"	"{1:.1f}"
+		"en"		"Rotate Z -{1}"
+	}
+	"Menu_Rotation_Reset"
+	{
+		"#format"	""
+		"en"		"Reset Prop Rotation"
+	}
+	"Menu_Rotation_Default"
+	{
+		"#format"	""
+		"en"		"Set Rotation Interval"
+	}
+	"Menu_Rotation_Option"
+	{
+		"#format"	"{1:.1f}"
+		"en"		"{1} Degrees"
+	}
+	"Settings_Rotation"
+	{
+		"#format"	"{1:.1f}"
+		"en"		"Your default rotation value is now {1} degrees!"
+	}
+	//===========================================
+	"Menu_Position_Info"
+	{
+		"#format"	"{1:.1f},{2:.1f},{3:.1f}"
+		"en"		"Pos: {1} {2} {3}"
+	}
+	"Menu_Position_Info_Missing"
+	{
+		"#format"	""
+		"en"		"Pos: ? ? ?"
+	}
+	"Menu_Position_X_Plus"
+	{
+		"#format"	"{1:.1f}"
+		"en"		"Move X +{1}"
+	}
+	"Menu_Position_X_Minus"
+	{
+		"#format"	"{1:.1f}"
+		"en"		"Move X -{1}"
+	}
+	"Menu_Position_Y_Plus"
+	{
+		"#format"	"{1:.1f}"
+		"en"		"Move Y +{1}"
+	}
+	"Menu_Position_Y_Minus"
+	{
+		"#format"	"{1:.1f}"
+		"en"		"Move Y -{1}"
+	}
+	"Menu_Position_Z_Plus"
+	{
+		"#format"	"{1:.1f}"
+		"en"		"Move Z +{1}"
+	}
+	"Menu_Position_Z_Minus"
+	{
+		"#format"	"{1:.1f}"
+		"en"		"Move Z -{1}"
+	}
+	"Menu_Position_Default"
+	{
+		"#format"	""
+		"en"		"Set Position Interval"
+	}
+	"Menu_Action_Position_Option"
+	{
+		"#format"	"{1:.1f}"
+		"en"		"{1} Units"
+	}
+	"Settings_Position"
+	{
+		"#format"	"{1:.1f}"
+		"en"		"Your default movement distance is now {1} units!"
+	}
+	//===========================================
+	"Menu_Control_Issue"
+	{
+		"#format"	""
+		"en"		"Grab Prop"
+	}
+	"Menu_Control_Release"
+	{
+		"#format"	""
+		"en"		"Release Prop"
+	}
+	"Menu_Control_Increase"
+	{
+		"#format"	""
+		"en"		"Increase Grab Distance"
+	}
+	"Menu_Control_Decrease"
+	{
+		"#format"	""
+		"en"		"Decrease Grab Distance"
+	}
+	"Menu_Control_Clone"
+	{
+		"#format"	"{1:s}"
+		"en"		"Clone {1}"
+	}
+	"Menu_Control_Empty"
+	{
+		"#format"	""
+		"en"		"Clone (No Prop Selected)"
+	}	
+	"Menu_Control_Position_Lock_X"
+	{
+		"#format"	""
+		"en"		"Lock X-Axis Movement"
+	}
+	"Menu_Control_Position_Lock_Y"
+	{
+		"#format"	""
+		"en"		"Lock Y-Axis Movement"
+	}
+	"Menu_Control_Position_Lock_Z"
+	{
+		"#format"	""
+		"en"		"Lock Z-Axis Movement"
+	}
+	"Menu_Control_Rotation_Lock_X"
+	{
+		"#format"	""
+		"en"		"Lock X-Axis Rotation"
+	}
+	"Menu_Control_Rotation_Lock_Y"
+	{
+		"#format"	""
+		"en"		"Lock Y-Axis Rotation"
+	}
+	"Menu_Control_Rotation_Lock_Z"
+	{
+		"#format"	""
+		"en"		"Lock Z-Axis Rotation"
+	}
+	"Settings_Cycle_Change"
+	{
+		"#format"	"{1:.1f}"
+		"en"		"Your grab distance is now {1} units!"
+	}
+	"Settings_Position_Lock"
+	{
+		"#format"	"{1:s}"
+		"en"		"Controlled props will no longer move along the the {1}-axis!"
+	}
+	"Settings_Position_Unlock"
+	{
+		"#format"	"{1:s}"
+		"en"		"Controlled props will now move along the the {1}-axis!"
+	}
+	"Settings_Rotation_Lock"
+	{
+		"#format"	"{1:s}"
+		"en"		"Controlled props will no longer rotate around the the {1}-axis!"
+	}
+	"Settings_Rotation_Unlock"
+	{
+		"#format"	"{1:s}"
+		"en"		"Controlled props will now rotate around the the {1}-axis!"
+	}
+	//===========================================
+	"Menu_Action_Color_Infinite"
+	{
+		"#format"	""
+		"en"		"Change Prop Color"
+	}
+	"Menu_Action_Color_Limited"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Change Prop Color ({1}/{2})"
+	}
+	"Settings_Color"
+	{
+		"#format"	"{1:s}"
+		"en"		"Your default prop color is now {1}!"
+	}
+	//===========================================
+	"Menu_Action_Teleport_Infinite"
+	{
+		"#format"	""
+		"en"		"Return To Spawn"
+	}
+	"Menu_Action_Teleport_Limited"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Return To Spawn ({1}/{2})"
+	}
+	"Menu_Action_Delete"
+	{
+		"#format"	""
+		"en"		"Clear Props"
+	}
+	"Menu_Action_Confirm_Teleport_Ask"
+	{
+		"#format"	""
+		"en"		"Return To Spawn?"
+	}
+	"Menu_Action_Confirm_Teleport_Yes"
+	{
+		"#format"	""
+		"en"		"Yes, Teleport!"
+	}
+	"Menu_Action_Confirm_Teleport_No"
+	{
+		"#format"	""
+		"en"		"No, Cancel!"
+	}
+	"Menu_Action_Confirm_Delete_Ask"
+	{
+		"#format"	""
+		"en"		"Clear All Props?"
+	}
+	"Menu_Action_Confirm_Delete_Yes"
+	{
+		"#format"	""
+		"en"		"Yes, Clear!"
+	}
+	"Menu_Action_Confirm_Delete_No"
+	{
+		"#format"	""
+		"en"		"No, Cancel!"
+	}
+	//===========================================
+	"Menu_Admin_Delete"
+	{
+		"#format"	""
+		"en"		"Clear Player Props"
+	}
+	"Menu_Admin_Teleport"
+	{
+		"#format"	""
+		"en"		"Teleport Player"
+	}
+	"Menu_Admin_Color"
+	{
+		"#format"	""
+		"en"		"Color Player Props"
+	}
+	//===========================================
+	"Menu_Admin_Select_Single"
+	{
+		"#format"	""
+		"en"		"Specific Player"
+	}
+	"Menu_Admin_Select_Red"
+	{
+		"#format"	""
+		"en"		"Terrorists"
+	}
+	"Menu_Admin_Select_Blue"
+	{
+		"#format"	""
+		"en"		"Counter-Terrorists"
+	}
+	"Menu_Admin_Select_Mass"
+	{
+		"#format"	""
+		"en"		"All Players"
+	}
+	//===========================================
+	"Menu_Admin_Confirm_Delete_Single"
+	{
+		"#format"	"{1:s}"
+		"en"		"Clear Props for {1}?"
+	}
+	"Menu_Admin_Confirm_Delete_Red"
+	{
+		"#format"	""
+		"en"		"Clear Terrorist Props?"
+	}
+	"Menu_Admin_Confirm_Delete_Blue"
+	{
+		"#format"	""
+		"en"		"Clear Counter-Terrorist Props?"
+	}
+	"Menu_Admin_Confirm_Delete_Mass"
+	{
+		"#format"	""
+		"en"		"Clear All Props?"
+	}
+	"Menu_Admin_Confirm_Delete_No"
+	{
+		"#format"	""
+		"en"		"No, Cancel!"
+	}
+	"Menu_Admin_Confirm_Delete_Yes"
+	{
+		"#format"	""
+		"en"		"Yes, Clear!"
+	}
+	//===========================================
+	"Menu_Admin_Confirm_Teleport_Single"
+	{
+		"#format"	"{1:s}"
+		"en"		"Teleport {1}?"
+	}
+	"Menu_Admin_Confirm_Teleport_Red"
+	{
+		"#format"	""
+		"en"		"Teleport Terrorists?"
+	}
+	"Menu_Admin_Confirm_Teleport_Blue"
+	{
+		"#format"	""
+		"en"		"Teleport Counter-Terrorists?"
+	}
+	"Menu_Admin_Confirm_Teleport_Mass"
+	{
+		"#format"	""
+		"en"		"Teleport All Players?"
+	}
+	"Menu_Admin_Confirm_Teleport_No"
+	{
+		"#format"	""
+		"en"		"No, Cancel!"
+	}
+	"Menu_Admin_Confirm_Teleport_Yes"
+	{
+		"#format"	""
+		"en"		"Yes, Teleport!"
+	}	
+	//===========================================
+	"Menu_Admin_Confirm_Color_Single"
+	{
+		"#format"	"{1:s}"
+		"en"		"Color Props for {1}?"
+	}
+	"Menu_Admin_Confirm_Color_Red"
+	{
+		"#format"	""
+		"en"		"Color Terrorist Props?"
+	}
+	"Menu_Admin_Confirm_Color_Blue"
+	{
+		"#format"	""
+		"en"		"Color Counter-Terrorist Props?"
+	}
+	"Menu_Admin_Confirm_Color_Mass"
+	{
+		"#format"	""
+		"en"		"Color All Props?"
+	}
+	"Menu_Admin_Confirm_Color_No"
+	{
+		"#format"	""
+		"en"		"No, Cancel!"
+	}
+	"Menu_Admin_Confirm_Color_Yes"
+	{
+		"#format"	""
+		"en"		"Yes, Color!"
+	}
+	//===========================================
+	"Notify_Succeed_Clear"
+	{
+		"#format"	""
+		"en"		"Clearing Successful!"
+	}
+	"Notify_Succeed_Clear_Multiple"
+	{
+		"#format"	"{1:d}"
+		"en"		"Clearing Successful on {1} Clients!"
+	}
+	"Notify_Activity_Clear"
+	{
+		"#format"	"{1:N}"
+		"en"		"Removed props belonging to {1}."
+	}
+	"Log_Action_Clear"
+	{
+		"#format"	"{1:N},{2:N}"
+		"en"		"{1} removed props belonging to {2}."
+	}
+	//===========================================
+	"Notify_Succeed_Tele"
+	{
+		"#format"	""
+		"en"		"Teleportation Successful!"
+	}
+	"Notify_Succeed_Tele_Multiple"
+	{
+		"#format"	"{1:d}"
+		"en"		"Teleportation Successful on {1} Clients!"
+	}
+	"Notify_Activity_Tele"
+	{
+		"#format"	"{1:N}"
+		"en"		"Teleported {1} to spawn."
+	}
+	"Log_Action_Tele"
+	{
+		"#format"	"{1:N},{2:N}"
+		"en"		"{1} teleported {2} to spawn."
+	}
+	//===========================================
+	"Menu_Base_Actions"
+	{
+		"#format"	""
+		"en"		"Base Actions"
+	}
+	"Menu_Base_Current"
+	{
+		"#format"	""
+		"en"		" (Active)"
+	}
+	//===========================================
+	"Menu_Base_Option"
+	{
+		"#format"	"{1:s}"
+		"en"		"Base {1}"
+	}
+	"Menu_Base_Option_Props"
+	{
+		"#format"	"{1:d}"
+		"en"		", {1} Props"
+	}
+	"Menu_Base_Spacer"
+	{
+		"#format"	""
+		"en"		"-=-=-=-=-=-=-=-=-"
+	}
+	"Menu_Base_Set_Location"
+	{
+		"#format"	""
+		"en"		"Set Save Location"
+	}
+	"Menu_Base_Update_Location"
+	{
+		"#format"	""
+		"en"		"Update Save Location"
+	}
+	"Menu_Base_Clear_Location"
+	{
+		"#format"	""
+		"en"		"Clear Save Location"
+	}
+	//===========================================
+	"Menu_Base_Current_Base"
+	{
+		"#format"	"{1:s}"
+		"en"		"Current Base: {1}"
+	}
+	"Menu_Base_Current_Select"
+	{
+		"#format"	"{1:s}"
+		"en"		"Activate {1} Base"
+	}
+	"Menu_Base_Current_Spawn"
+	{
+		"#format"	""
+		"en"		"Spawn Base Props"
+	}
+	"Menu_Base_Current_Delete"
+	{
+		"#format"	""
+		"en"		"Delete Base Props"
+	}
+	"Menu_Base_Current_Save_Target"
+	{
+		"#format"	""
+		"en"		"Save Target Prop"
+	}
+	"Menu_Base_Current_Clear_Target"
+	{
+		"#format"	""
+		"en"		"Remove Target Prop"
+	}
+	"Menu_Base_Current_Save_All"
+	{
+		"#format"	""
+		"en"		"Save Current Props"
+	}
+	"Menu_Base_Current_Clear_All"
+	{
+		"#format"	""
+		"en"		"Empty Base Group"
+	}
+	"Menu_Base_Current_Move_All"
+	{
+		"#format"	""
+		"en"		"Move Base Props"
+	}
+	//===========================================
+	"Menu_Base_Loading"
+	{
+		"#format"	""
+		"en"		"Loading Data..."
+	}
+	"Menu_Base_Loading_Wait"
+	{
+		"#format"	""
+		"en"		"Please Wait..."
+	}
+	"Menu_Base_Query"
+	{
+		"#format"	""
+		"en"		"Performing Query..."
+	}
+	"Menu_Base_Query_Wait"
+	{
+		"#format"	""
+		"en"		"Please Wait..."
+	}
+	"Menu_Base_Refresh_Prompt"
+	{
+		"#format"	""
+		"en"		"Please Refresh..."
+	}
+	"Menu_Base_Refresh"
+	{
+		"#format"	""
+		"en"		"Refresh Menu"
+	}
+	"Phrase_Base_Query_Completed"
+	{
+		"#format"	""
+		"en"		"Your base query has completed!"
+	}
+	//===========================================
+	"Phrase_Base_Save_Issue"
+	{
+		"#format"	""
+		"en"		"You've placed a save location! Any props saved will be oriented around this location."
+	}
+	"Phrase_Base_Save_Update"
+	{
+		"#format"	""
+		"en"		"Your save location has been updated!"
+	}
+	"Phrase_Base_Save_Cancel"
+	{
+		"#format"	""
+		"en"		"Your save location has been cleared! If you have any props to save, you must have a save location!"
+	}
+	"Phrase_Base_Place_Props"
+	{
+		"#format"	"{1:s}"
+		"en"		"All props belonging to the {olive}{1}{green} base have been placed on the map!"
+	}
+	"Phrase_Base_Place_Props_Empty"
+	{
+		"#format"	"{1:s}"
+		"en"		"The {olive}{1}{green} base does not have any props to spawn!"
+	}
+	"Phrase_Base_Place_Props_Insufficient"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"You do not have enough free props to spawn the {olive}{1}{green} base! Delete {olive}{2}{green} props first!"
+	}
+	"Phrase_Base_Clear_Props"
+	{
+		"#format"	"{1:s}"
+		"en"		"All props belonging to the {olive}{1}{green} base have been removed from the map!"
+	}
+	"Phrase_Base_Save_Location"
+	{
+		"#format"	"{1:s}"
+		"en"		"The {1} is too far away from your save location to be saved!"
+	}
+	"Phrase_Base_Save_Location_Missing"
+	{
+		"#format"	""
+		"en"		"You currently do not have a save location set!"
+	}
+	"Phrase_Base_Save_Props"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"The {1} has been saved to the {2} base!"
+	}
+	"Phrase_Base_Remove_Props"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"The {1} has been removed from the {2} base!"
+	}
+	"Phrase_Base_Remove_Props_Missing"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"The {1} is currently not saved prop in the {2} base!"
+	}
+	"Phrase_Base_Save_Props_All"
+	{
+		"#format"	"{1:s}"
+		"en"		"All of your spawned props have been saved to the {olive}{1}{green} base!"
+	}
+	"Phrase_Base_Save_Props_All_Size"
+	{
+		"#format"	"{1:d}{2:s}"
+		"en"		"You cannot save more than {olive}{1}{green} props to the {olive}{2}{green} base!"
+	}
+	"Phrase_Base_Save_Props_All_Empty"
+	{
+		"#format"	""
+		"en"		"You currently do not have any spawned props to save!"
+	}
+	"Phrase_Base_Remove_Props_All"
+	{
+		"#format"	"{1:s}"
+		"en"		"All props saved within the {olive}{1}{green} base have been removed!"
+	}
+	"Phrase_Base_Ownership"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"This {1} belongs to {2}, not you!"	
+	}
+	"Phrase_Base_Save_Move_All_Empty"
+	{
+		"#format"	""
+		"en"		"You currently do not have any spawned props to move!"
+	}
+	//===========================================
+	"Menu_Base_Confirm_Save_Ask"
+	{
+		"#format"	""
+		"en"		"Save All Props?"
+	}
+	"Menu_Base_Confirm_Save_Yes"
+	{
+		"#format"	""
+		"en"		"Yes, Save!"
+	}
+	"Menu_Base_Confirm_Save_No"
+	{
+		"#format"	""
+		"en"		"No, Cancel!"
+	}
+	//===========================================
+	"Menu_Base_Confirm_Empty_Ask"
+	{
+		"#format"	"{1:s}"
+		"en"		"Empty {1} Base?"
+	}
+	"Menu_Base_Confirm_Empty_Yes"
+	{
+		"#format"	""
+		"en"		"Yes, Empty!"
+	}
+	"Menu_Base_Confirm_Empty_No"
+	{
+		"#format"	""
+		"en"		"No, Cancel!"
+	}
+}

@@ -1,0 +1,251 @@
+﻿"Phrases"
+{
+	// Knife
+	"knife"
+	{
+		"en"		"Knife"
+		"de"		"Messer"
+		"ru"		"Нож!"
+		"fr"		"Couteau"
+	}
+
+	// Pistol
+	"usp"
+	{
+		"en"		"USP .45"
+		"de"		"UPS .45"
+		"ru"		"UPS .45"
+		"fr"		"USP .45"
+	}
+
+	"deagle"
+	{
+		"en"		"Desert Eagle"
+		"de"		"Desert Eagle"
+		"ru"		"Desert Eagle"
+		"fr"		"Desert Eagle"
+	}
+
+	"p228"
+	{
+		"en"		"SIG P228"
+		"de"		"SIG P228"
+		"ru"		"SIG P228"
+		"fr"		"SIG P228"
+	}
+
+	"fiveseven"
+	{
+		"en"		"Five-Seven"
+		"de"		"Five-Seven"
+		"ru"		"Five-Seven"
+		"fr"		"Five-Seven"
+	}
+
+	"glock"
+	{
+		"en"		"Glock 18"
+		"de"		"Glock 18"
+		"ru"		"Glock 18"
+		"fr"		"Glock 18"
+	}
+
+	"elite"
+	{
+		"en"		"Dual Elites"
+		"de"		"Dual Elites"
+		"ru"		"Dual Elites"
+		"fr"		"Dual Elites"
+	}
+
+	// Shotguns
+	"xm1014"
+	{
+		"en"		"XM1014"
+		"de"		"XM1014"
+		"ru"		"XM1014"
+		"fr"		"XM1014"
+	}
+
+	"m3"
+	{
+		"en"		"Benelli M3"
+		"de"		"Benelli M3"
+		"ru"		"Benelli M3"
+		"fr"		"Benelli M3"
+	}
+
+	// Submachine Guns
+	"mp5navy"
+	{
+		"en"		"MP5 Navy"
+		"de"		"MP5 Navy"
+		"ru"		"MP5 Navy"
+		"fr"		"MP5 Navy"
+	}
+
+	"tmp"
+	{
+		"en"		"Steyr TMP"
+		"de"		"Steyr TMP"
+		"ru"		"Steyr TMP"
+		"fr"		"Steyr TMP"
+	}
+
+	"mac10"
+	{
+		"en"		"MAC-10"
+		"de"		"MAC-10"
+		"ru"		"MAC-10"
+		"fr"		"MAC-10"
+	}
+
+	"ump45"
+	{
+		"en"		"UMP45"
+		"de"		"UMP45"
+		"ru"		"UMP45"
+		"fr"		"UMP45"
+	}
+
+	"p90"
+	{
+		"en"		"P90"
+		"de"		"P90"
+		"ru"		"P90"
+		"fr"		"P90"
+	}
+
+	// Rifles
+	"ak47"
+	{
+		"en"		"AK-47"
+		"de"		"AK-47"
+		"ru"		"AK-47"
+		"fr"		"AK-47"
+	}
+
+	"sg552"
+	{
+		"en"		"SG 552"
+		"de"		"SG 552"
+		"ru"		"SG 552"
+		"fr"		"SG 552"
+	}
+
+	"aug"
+	{
+		"en"		"Steyr AUG"
+		"de"		"Steyr AUG"
+		"ru"		"Steyr AUG"
+		"fr"		"Steyr AUG"
+	}
+
+	"m4a1"
+	{
+		"en"		"M4A1"
+		"de"		"M4A1"
+		"ru"		"M4A1"
+		"fr"		"M4A1"
+	}
+
+	"galil"
+	{
+		"en"		"Galil"
+		"de"		"Galil"
+		"ru"		"Galil"
+		"fr"		"Galil"
+	}
+
+	"famas"
+	{
+		"en"		"FAMAS"
+		"de"		"FAMAS"
+		"ru"		"FAMAS"
+		"fr"		"FAMAS"
+	}
+
+	// Sniper Rifles
+	"scout"
+	{
+		"en"		"Steyr Scout"
+		"de"		"Steyr Scout"
+		"ru"		"Steyr Scout"
+		"fr"		"Steyr Scout"
+	}
+
+	"sg550"
+	{
+		"en"		"SG 550 Sniper"
+		"de"		"SG 550 Sniper"
+		"ru"		"SG 550 Sniper"
+		"fr"		"SG 550 Sniper"
+	}
+
+	"g3sg1"
+	{
+		"en"		"G3SG/1"
+		"de"		"G3SG/1"
+		"ru"		"G3SG/1"
+		"fr"		"G3SG/1"
+	}     
+
+	"awp"
+	{
+		"en"		"AWP"
+		"de"		"AWP"
+		"ru"		"AWP"
+		"fr"		"AWP"
+	}
+
+	// Machine Gun
+	"m249"
+	{
+		"en"		"M249 Para"
+		"de"		"M249 Para"
+		"ru"		"M249 Para"
+		"fr"		"M249 Para"
+	}
+
+	// Grenades
+	"hegrenade"
+	{
+		"en"		"Hand Grenade"
+		"de"		"Hand Grante"
+		"ru"		"Осколочная граната"
+		"fr"		"Grenade de main"
+	}
+
+	"smokegrenade"
+	{
+		"en"		"Smoke Grenade"
+		"de"		"Rauch Granate"
+		"ru"		"Дымовая граната"
+		"fr"		"Grenade Fumigène"
+	}
+
+	"flashbang"
+	{
+		"en"		"Flashbang"
+		"de"		"Blend Granate"
+		"ru"		"Световая граната"
+		"fr"		"Grenade Flash"
+	}
+
+	// Misc
+	"shield"
+	{
+		"en"		"Tactical Shield"
+		"de"		"Tactisches Schild"
+		"ru"		"Тактический щит"
+		"fr"		"Bouclier Tactique"
+	}
+
+	"c4"
+	{
+		"en"		"C4"
+		"de"		"C4"
+		"ru"		"C4"
+		"fr"		"C4"
+	}
+}

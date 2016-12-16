@@ -1,0 +1,329 @@
+///////////////////////////////////////////////////
+//------------------ HAT CONFIG -----------------//
+///////////////////////////////////////////////////
+//                                               //
+//          "Hat Name"                           //
+//        {                                      //
+//          "model"    "model location/reset"    //
+//          "offset"   "#.# #.# #.#"             //
+//        }                                      //
+//                                               //
+///////////////////////////////////////////////////
+
+
+
+"Hats"
+{
+	"Reset"
+	{
+		"model"		"reset"
+		"offset"	""
+		"angles"	""
+		"flags"		""
+	}
+	
+	"Helmet"
+    {
+        "model"		"models/BarneyHelmet_faceplate.mdl"
+		"offset"	"0.0 0.0 2.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		""
+	}
+	
+	"Watermelon"
+	{
+		"model"		"models/props_junk/watermelon01.mdl"
+		"offset"	"0.0 0.0 5.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		""
+	}
+	
+	"Traffic Cone"
+	{
+		"model"		"models/props_junk/trafficcone001a.mdl"
+		"offset"	"0.0 -1.0 20.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Metal Bucket"
+	{
+		"model"		"models/props_junk/metalbucket01a.mdl"
+		"offset"	"0.0 0.0 -8.0"
+		"angles"	"180.0 0.0 0.0"
+		"flags"		""
+	}
+	
+	"Coffee Mug"
+	{
+		"model"		"models/props/cs_office/coffee_mug.mdl"
+		"offset"	"0.0 0.0 9.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Cap"
+	{
+		"model"		"models/props/de_tides/vending_hat.mdl"
+		"offset"	"0.0 0.0 5.0"
+		"angles"	"0.0 -90.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Konjakki bottle"
+	{
+		"model"		"models/props_junk/glassjug01.mdl"
+		"offset"	"0.0 0.0 8.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		""
+	}
+	
+	"ES powah"
+	{
+		"model"		"models/props_junk/popcan01a.mdl"
+		"offset"	"0.0 0.0 11.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		""
+	}
+	
+	"Kahvikuppi"
+	{
+		"model"		"models/props_junk/garbage_coffeemug001a.mdl"
+		"offset"	"0.0 0.0 -12.0"
+		"angles"	"180.0 0.0 0.0"
+		"flags"		""
+	}
+	
+	"Rapu"
+	{
+		"model"		"models/headcrabclassic.mdl"
+		"offset"	"0.0 0.0 -5.0"
+		"angles"	"25.0 0.0 0.0"
+		"flags"		"a"
+	}
+
+	"Skull"
+	{
+		"model"		"models/gibs/hgibs.mdl"
+		"offset"	"0.0 0.0 1.8"
+		"angles"	"22.5 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Car Tire"
+	{
+		"model"		"models/props_vehicles/tire001c_car.mdl"
+		"offset"	"0.0 -10.0 0.0"
+		"angles"	"90.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Radio"
+	{
+		"model"		"models/props/cs_office/radio.mdl"
+		"offset"	"0.0 0.0 8.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		""
+	}
+	
+	"Astronaut helmet"
+	{
+		"model"		"models/astronauthelmet/astronauthelmet.mdl"
+		"offset"	"0.0 0.0 5.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Viking helmet"
+	{
+		"model"		"models/vikinghelmet/vikinghelmet.mdl"
+		"offset"	"0.0 -1.0 6.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Fedora"
+	{
+		"model"		"models/gmod_tower/fedorahat.mdl"
+		"offset"	"0.0 -1.5 8.5"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"KFC Bucket"
+	{
+		"model"		"models/gmod_tower/kfcbucket.mdl"
+		"offset"	"0.0 -3.0 3.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Cake Hat"
+	{
+		"model"		"models/cakehat/cakehat.mdl"
+		"offset"	"0.0 -1.0 3.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Santa Hat"
+	{
+		"model"		"models/santahat/santahat.mdl"
+		"offset"	"0.0 -1.0 6.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Dunce Hat"
+	{
+		"model"		"models/duncehat/duncehat.mdl"
+		"offset"	"0.0 -1.0 6.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Sombrero"
+	{
+		"model"		"models/gmod_tower/sombrero.mdl"
+		"offset"	"0.0 -1.0 6.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Cat Ears"
+	{
+		"model"		"models/gmod_tower/catears.mdl"
+		"offset"	"0.0 -3.0 6.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Afro"
+	{
+		"model"		"models/gmod_tower/afro.mdl"
+		"offset"	"0.0 -3.0 6.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Androssmask"
+	{
+		"model"		"models/gmod_tower/androssmask.mdl"
+		"offset"	"0.0 2.0 0.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"3D Glasses"
+	{
+		"model"		"models/gmod_tower/3dglasses.mdl"
+		"offset"	"0.0 1.0 2.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Aviators"
+	{
+		"model"		"models/gmod_tower/aviators.mdl"
+		"offset"	"0.0 1.0 2.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Drink Cap"
+	{
+		"model"		"models/gmod_tower/drinkcap.mdl"
+		"offset"	"0.0 -1.0 7.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Headcrab Hat"
+	{
+		"model"		"models/gmod_tower/headcrabhat.mdl"
+		"offset"	"0.0 -3.0 6.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Kliener Glasses"
+	{
+		"model"		"models/gmod_tower/klienerglasses.mdl"
+		"offset"	"0.0 1.0 2.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Star Glasses"
+	{
+		"model"		"models/gmod_tower/starglasses.mdl"
+		"offset"	"0.0 1.0 2.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Majorasmask"
+	{
+		"model"		"models/gmod_tower/majorasmask.mdl"
+		"offset"	"0.0 0.5 0.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Toromask"
+	{
+		"model"		"models/gmod_tower/toromask.mdl"
+		"offset"	"0.0 -1.0 4.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Top Hat"
+	{
+		"model"		"models/gmod_tower/tophat.mdl"
+		"offset"	"0.0 -1.0 6.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Witch Hat"
+	{
+		"model"		"models/gmod_tower/witchhat.mdl"
+		"offset"	"0.0 0.0 6.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Toeto Hat"
+	{
+		"model"		"models/gmod_tower/toetohat.mdl"
+		"offset"	"0.0 -1.0 6.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	
+	"Seuss Hat"
+	{
+		"model"		"models/gmod_tower/seusshat.mdl"
+		"offset"	"0.0 -1.0 6.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Link Hat"
+	{
+		"model"		"models/gmod_tower/linkhat.mdl"
+		"offset"	"0.0 -5.0 4.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Midna Hat"
+	{
+		"model"		"models/gmod_tower/midnahat.mdl"
+		"offset"	"0.0 0.0 0.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+}

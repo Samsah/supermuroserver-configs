@@ -1,0 +1,54 @@
+﻿"Phrases"
+{
+	// buying
+	"notinbuyzone"
+	{
+		"en"		"You are not in a buy zone."
+		"ru"		"Вы не в зоне покупок."
+	}
+	"maxmines"
+	{
+		"#format"		"{1:d}"
+		"en"		"You can buy only {1} trip mines"
+		"ru"		"Максимальное количество мин: {1} штук"
+	}
+	"cntmines"
+	{
+		"#format"		"{1:d}"
+		"en"		"You have {1} trip mines"
+		"ru"		"Ваши мины: {1} штук"
+	}
+	"nomoney"
+	{
+		"#format"		"{1:d},{2:d}"
+		"en"		"Your money is not enought, cost is {1}$, you have {2} mines"
+		"ru"		"У Вас недостачно денег, цена {1}$, Ваши мины: {2} штук"
+	}
+
+	// main
+	"notallowed"
+	{
+		"en"		"Your team does not have access to tripmines"
+	}
+	"nomines"
+	{
+		"en"		"You do not have any tripmines"
+		"ru"		"У Вас нет мин"
+	}
+	"toomany"
+	{
+		"#format"		"{1:d}"
+		"en"		"You already have {1} tripmines active."
+	}
+	"left"
+	{
+		"#format"		"{1:d}"
+		"en"		"Tripmines remaining: {1}"
+		"ru"		"Осталось мин: {1} штук"
+	}
+	"locationerr"
+	{
+		"en"		"Invalid location for Tripmine"
+		"ru"		"невозможно поставить мину"
+	}
+}

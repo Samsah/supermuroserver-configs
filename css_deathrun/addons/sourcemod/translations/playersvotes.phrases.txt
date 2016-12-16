@@ -1,0 +1,369 @@
+"Phrases"
+{
+	"Vote"
+	{
+		"en"	"Vote"
+		"es"	"Votación"
+		"pt"	"Votação"
+	}
+
+	"Kick"
+	{
+		"en"	"Kick"
+		"es"	"Expulsar"
+		"pt"	"Expulsar"
+	}
+
+	"Ban"
+	{
+		"en"	"Ban"
+		"es"	"Banear"
+		"pt"	"Banir"
+	}
+
+	"Map"
+	{
+		"en"	"Map"
+		"es"	"Mapa"
+		"pt"	"Mapa"
+	}
+
+	"Mute"
+	{
+		"en"	"Mute"
+		"es"	"Mutear"
+		"pt"	"Emudecer"
+	}
+
+	"kick"
+	{
+		"en"	"kick"
+		"es"	"expulsar"
+		"pt"	"expulsar"
+	}
+
+	"ban"
+	{
+		"en"	"ban"
+		"es"	"banear"
+		"pt"	"banir"
+	}
+
+	"map"
+	{
+		"en"	"map"
+		"es"	"mapa"
+		"pt"	"mapa"
+	}
+
+	"mute"
+	{
+		"en"	"mute"
+		"es"	"mutear"
+		"pt"	"emudecer"
+	}
+
+	"Settings"
+	{
+		"en"	"Settings"
+		"es"	"Configuración"
+		"pt"	"Configurações"
+	}
+
+	"Voting Menu"
+	{
+		"en"	"Voting Menu"
+		"es"	"Menu de Votación"
+		"pt"	"Menu de Votação"
+	}
+
+	"Votekick"
+	{
+		"en"	"VoteKick"
+		"es"	"VoteKick"
+		"pt"	"VoteKick"
+	}
+
+	"Voteban"
+	{
+		"en"	"VoteBan"
+		"es"	"VoteBan"
+		"pt"	"VoteBan"
+	}
+
+	"Votemap"
+	{
+		"en"	"VoteMap"
+		"es"	"VoteMap"
+		"pt"	"VoteMap"
+	}
+
+	"Votemute"
+	{
+		"en"	"VoteMute"
+		"es"	"VoteMute"
+		"pt"	"VoteMute"
+	}
+
+	"All"
+	{
+		"en"	"All"
+		"es"	"Todos"
+		"pt"	"Todos"
+	}
+
+	"all"
+	{
+		"en"	"all"
+		"es"	"todos"
+		"pt"	"todos"
+	}
+
+	"voted to kick"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} voted to kick {2}"
+		"es"		"{1} votó para expulsar {2}"
+		"pt"		"{1} votou para expulsar {2}"
+	}
+
+	"voted to ban"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} voted to ban {2}"
+		"es"		"{1} votó para banear {2}"
+		"pt"		"{1} votou para banir {2}"
+	}
+
+	"voted to mute"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} voted to mute {2}"
+		"es"		"{1} votó para mutear {2}"
+		"pt"		"{1} votou para emudecer {2}"
+	}
+
+	"voted for map"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} voted for map change to {2}"
+		"es"		"{1} votó por el cambio de mapa para {2}"
+		"pt"		"{1} votou para a mudança de mapa para {2}"
+	}
+
+	"voted for nextmap"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} voted to set nextmap to {2}"
+		"es"		"{1} votó para de establecer el mapa siguiente para {2}"
+		"pt"		"{1} votou para definir o próximo mapa para {2}"
+		
+	}
+
+	"voted for extend"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"{1} voted to extend map by {2} minutes"
+		"es"		"{1} votó para extender el mapa por {2} minutos"
+		"pt"		"{1} votou para extender o mapa por {2} minutos"
+	}
+
+	"extend map by"
+	{
+		"#format"	"{1:d}"
+		"en"		"Extend map by {1} minutes"
+		"es"		"Mapa extendido por {1} minutos"
+		"pt"		"Mapa extendido por {1} minutes"
+	}
+
+	"votes required"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Votes required {1}/{2}"
+		"es"		"Votos necesarios {1}/{2}"
+		"pt"		"Votos necessários {1}/{2}"
+	}
+
+	"kicked by vote"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} has been kicked by players vote"
+		"es"		"{1} fue expulso por el voto del jugadores"
+		"pt"		"{1} foi expulso pelo voto dos jogadores"
+	}
+
+	"banned by vote"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} has been banned by players vote"
+		"es"		"{1} fue baneado por el voto del jugadores"
+		"pt"		"{1} foi banido pelo voto dos jogadores"
+	}
+
+	"muted by vote"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} has been muted by players vote"
+		"es"		"{1} fue muteado por el voto de los jugadores"
+		"pt"		"{1} foi emudecido pelo voto dos jogadores"
+	}
+
+	"map change by vote"
+	{
+		"#format"	"{1:s}"
+		"en"		"Changing map to {1} due to players vote"
+		"es"		"Cambio de mapa para {1} debido el voto de los jugadores"
+		"pt"		"Alterando mapa para {1} devido a votação dos jogadores"
+	}
+
+	"nextmap change by vote"
+	{
+		"#format"	"{1:s}"
+		"en"		"Setting nextmap to {1} due to players vote"
+		"es"		"Mapa siguiente cambio para {1} debido el voto de los jugadores"
+		"pt"		"Próximo mapa alterado para {1} devido a votação dos jogadores"
+	}
+
+	"map extend by vote"
+	{
+		"#format"	"{1:d}"
+		"en"		"Extending map by {1} minutes due to players vote"
+		"es"		"Extendiendo mapa por {1} minutos, debido el voto de los jugadores"
+		"pt"		"Estendendo mapa por {1} minutos, devido a votação dos jogadores"
+	}
+
+	"kicked by users"
+	{
+		"en"		"You have been kicked by players votes"
+		"es"		"Usted fue expulso por el voto de los jugadores"
+		"pt"		"Você foi expulso pelo voto dos jogadores"
+	}
+
+	"banned by users"
+	{
+		"en"		"You have been banned by players votes"
+		"es"		"Usted fue baneado por el voto de los jugadores"
+		"pt"		"Você foi banido pelo voto dos jogadores"
+	}
+
+	"voting not allowed"
+	{
+		"#format"	"{1:d}"
+		"en"		"Voting not allowed for {1} seconds"
+		"es"		"Votar no es permitido por {1} segundos"
+		"pt"		"Votar não é permitido por {1} segundos"
+	}
+
+	"voting not allowed again"
+	{
+		"#format"	"{1:d}"
+		"en"		"Voting again not allowed for another {1} seconds"
+		"es"		"Nueva votación no es permitida por otros {1} segundos"
+		"pt"		"Nova votação não é permitida por outros {1} segundos"
+	}
+
+	"votes spent"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"You spent all {1} of your {2} votes this map"
+		"es"		"Usted utilizado todos los {1} de su {2} votos en este mapa"
+		"pt"		"Você utilizou todos os {1} de seus {2} votos neste mapa"
+	}
+
+	"votes remaining"
+	{
+		"#format"	"{1:d}"
+		"en"		"{1} votes remaining"
+		"es"		"{1} los votos restantes"
+		"pt"		"{1} votos restantes"
+	}
+
+	"canceled votes"
+	{
+		"#format"	"{1:t}"
+		"en"		"{1} votes canceled"
+		"es"		"{1} votos cancelados"
+		"pt"		"{1} votos cancelados"
+	}
+
+	"cancel all votes"
+	{
+		"en"		"Cancel all votes"
+		"es"		"Cancelar todos los votos"
+		"pt"		"Cancelar todos os votos"
+	}
+
+	"cancel kick votes"
+	{
+		"en"		"Cancel kick votes"
+		"es"		"Cancelar votos de expulsión"
+		"pt"		"Cancelar votos de expulsão"
+	}
+
+	"cancel ban votes"
+	{
+		"en"		"Cancel ban votes"
+		"es"		"Cancelar votos de banear"
+		"pt"		"Cancelar votos de banir"
+	}
+
+	"cancel map votes"
+	{
+		"en"		"Cancel map votes"
+		"es"		"Cancelar votos del mapa"
+		"pt"		"Cancelar votos de mapa"
+	}
+
+	"cancel mute votes"
+	{
+		"en"		"Cancel mute votes"
+		"es"		"Cancelar votos del mutear"
+		"pt"		"Cancelar votos de emudecer"
+	}
+
+	"enable voting"
+	{
+		"#format"	"{1:t}"
+		"en"		"Enable {1} voting"
+		"es"		"Habilitar {1} votación"
+		"pt"		"Habilitar {1} votação"
+	}
+
+	"disable voting"
+	{
+		"#format"	"{1:s}"
+		"en"		"Disable {1} voting"
+		"es"		"Deshabilitar {1} votación"
+		"pt"		"Desabilitar {1} votação"
+	}
+
+	"disabled votes"
+	{
+		"#format"	"{1:t}"
+		"en"		"{1} voting disabled"
+		"es"		"{1} votación deshabilitado"
+		"pt"		"{1} votação desabilitado"
+	}
+
+	"all disabled votes"
+	{
+		"en"		"All voting is disabled"
+		"es"		"Todos los votos están deshabilitado"
+		"pt"		"Todas as votações estão desabilitadas"
+	}
+
+	"enabled votes"
+	{
+		"#format"	"{1:t}"
+		"en"		"{1} voting enabled"
+		"es"		"{1} votación habilitada"
+		"pt"		"{1} votação habilitada"
+	}
+
+	"ban reasons"
+	{
+		"en"		"Ban reasons"
+		"es"		"Razones del Ban"
+		"pt"		"Razões de Ban"
+	}
+}

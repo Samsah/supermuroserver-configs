@@ -1,0 +1,172 @@
+﻿"Phrases"
+{
+	"WarmUpBuy"
+	{
+		"pl"		"[SM] Nie można czegokolwiek kupić podczas rozgrzewki"
+	}
+	"WeaponRestricted"
+	{
+		"pl"		"[SM] Ta broń jest obecnie zablokowana"
+	}
+	"Refunded"
+	{
+		"pl"		"[SM] Zwrócono Tobie pieniądze"
+	}
+	"WarmupCountdown"
+	{
+		"pl"		"Runda rozgrzewki: pozostało {1} sekund"
+	}
+	"WeaponRestrictMenuItem"
+	{
+		"pl"		"Blokowanie Broni"
+	}
+	"RestrictMenuItem"
+	{
+		"pl"		"Blokowanie Broni"
+	}
+	"RestrictWeaponsItem"
+	{
+		"pl"		"Blokowanie Broni"
+	}
+	"UnrestrictWeaponsItem"
+	{
+		"pl"		"Odblokowanie Broni"
+	}
+	"ForceBombDropItem"
+	{
+		"pl"		"Wymuś upuszczenie bomby"
+	}
+	"WeaponRestrictTitle"
+	{
+		"en"		"Weapon to restrict"
+		"pl"		"Broń do zablokowania"
+	}
+	"WeaponUnrestrictTitle"
+	{
+		"pl"		"Broń do odblokowania"
+	}
+	"AmmountTitle"
+	{
+		"pl"		"Zablokować broń do ilości"
+	}
+	"TeamRestrictTitle"
+	{
+		"pl"		"Zablokować broń drużynie"
+	}
+	"TeamUnrestrictTitle"
+	{
+		"pl"		"Odblokować broń drużynie"
+	}
+	"RestrictReply"
+	{
+		"pl"		"[SM] sm_restrict <broń> <ilość> <all|ct|t>"
+	}
+	"UnrestrictReply"
+	{
+		"pl"		"[SM] sm_unrestrict <broń> <all|ct|t>"
+	}
+	"InvalidTeam"
+	{
+		"pl"		"[SM] Niepoprawna drużyna"
+	}
+	"InvalidAmmount"
+	{
+		"pl"		"[SM] Niepoprawna ilość"
+	}
+	"InvalidWeapon"
+	{
+		"pl"		"[SM] Niepoprawna broń"
+	}
+	"NoOneHasBomb"
+	{
+		"pl"		"[SM] Nikt nie ma bomby"
+	}
+	"ForcedBombDrop"
+	{
+		"pl"		"Wymusił upuszczenie bomby"
+	}
+	"ConsoleBombDrop"
+	{
+		"pl"		"[SM] Konsola wymusiła upuszczenie bomby."
+	}
+	"RestrictedWeapon"
+	{
+		"pl"		"zablokowane {1} do"
+	}
+	"UnrestrictedWeapon"
+	{
+		"pl"		"odblokowane"
+	}
+	"ForTeamT"
+	{
+		"pl"		"dla t"
+	}
+	"ForTeamCT"
+	{
+		"pl"		"dla ct"
+	}
+	"WarmupInProgress"
+	{
+		"pl"		"[SM] Runda rozgrzewki w toku."
+	}
+	"NextRoundKnife"
+	{
+		"pl"		"[SM] Następna runda będzie tylko na noże."
+	}
+	"KnifeRoundSetup"
+	{
+		"pl"		"ustawił następną rundę tylko na noże"
+	}
+	"PistolsAlreadySet"
+	{
+		"pl"		"Runda na pistolety jest już ustawiona."
+	}
+	"NextRoundPistols"
+	{
+		"pl"		"[SM] Następna runda będzie tylko na pistolety."
+	}
+	"PistolsRoundSetup"
+	{
+		"pl"		"ustawił następną rundę tylko na pistolety."
+	}
+	"KnivesAlreadySet"
+	{
+		"pl"		"Runda na noże jest już ustawiona."
+	}
+	"UnrestrictedAll"
+	{
+		"pl"		"odblokował wszystkie bronie."
+	}
+	"AllUnrestricted"
+	{
+		"pl"		"[SM] Wszystkie bronie zostały odblokowane."
+	}
+	"RestrictedAll"
+	{
+		"pl"		"zablokował wszystkie bronie."
+	}
+	"AllRestricted"
+	{
+		"pl"		"[SM] Wszystkie bronie zostały zablokowane."
+	}
+	"ResetRestrictions"
+	{
+		"pl"		"resetuj wszystkie restrykcje."
+	}
+	"RemovedRestricted"
+	{
+		"pl"		"usunął zablokowane bronie graczom"
+	}
+  	"CounterTerrorists"
+  	{
+   		 "pl"		"Licznik Terroryści"
+  	}
+  	"Terrorists"
+  	{
+    		"pl"		"Terroryści"
+  	}
+ 	"Allteams"
+  	{
+   		"pl"		"Wszystkie drużyny"
+  	}
+}

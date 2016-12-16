@@ -1,0 +1,127 @@
+"Phrases"
+{
+	"when move"
+	{
+		"sv"		"SwapTeam - när?"
+	}
+	
+	"commands"
+	{
+		"sv"		"SwapTeam-kommandon"
+	}
+	
+	"immediately"
+	{
+		"sv"		"Direkt"
+	}
+	
+	"on death"
+	{
+		"sv"		"Vid dödsfall"
+	}
+	
+	"on rend"
+	{
+		"sv"		"Vid rundans slut"
+	}
+	
+	"to spec"
+	{
+		"sv"		"Till åskådarlaget"
+	}
+	
+	"select player"
+	{
+		"sv"		"Välj spelare"
+	}
+	
+	"dont swap rend"
+	{
+		"sv"		"{1} kommer inte flyttas till motsatta laget vid rundans slut."
+	}
+	
+	"dont swap rend2"
+	{
+		"sv"		"{1} kommer inte flyttas till motsatta laget vid rundans slut."
+	}
+	
+	"swap rend"
+	{
+		"sv"		"{1} kommer flyttas till motsatta laget vid rundans slut."
+	}
+	
+	"swap rend2"
+	{
+		"sv"		"{1} kommer flyttas till motsatta laget vid rundans slut."
+	}
+	
+	"swap death"
+	{
+		"sv"		"{1} kommer flyttas till motsatta laget vid dödsfall."
+	}
+	
+	"swap death2"
+	{
+		"sv"		"{1} kommer flyttas till motsatta laget vid dödsfall."
+	}
+
+	"dont swap death"
+	{
+		"sv"		"{1} kommer inte flyttas till motsatta laget vid dödsfall."
+	}
+	
+	"dont swap death2"
+	{
+		"sv"		"{1} kommer inte flyttas till motsatta laget vid dödsfall."
+	}
+	
+	"switch by admin"
+	{
+		"sv"		"Admin flyttade {1} över"
+	}
+	
+	"switch by admin2"
+	{
+		"sv"		"Admin flyttade {1} över"
+	}
+	
+	"swapteam usage"
+	{
+		"sv"		"Användning: sm_swapteam <#userid|namn>"
+	}
+	
+	"swapteam death usage"
+	{
+		"sv"		"Användning: sm_swapteam_death <#userid|namn>"
+	}
+	
+	"swapteam rend usage"
+	{
+		"sv"		"Användning: sm_swapteam_d <#userid|namn>"
+	}
+	
+	"swapteam rend error"
+	{
+		"sv"		"Spelarflytt vid rundans slut är inte möjlig i denna mod."
+	}
+	
+	"swapteam spec usage"
+	{
+		"sv"		"Användning: sm_spec <#userid|namn>"
+	}
+	
+	"Moved to spec"
+	{
+		"sv"		"Flyttade {1} till åskådarlaget."
+	}
+	
+	"Moved to team1"
+	{
+		"sv"		"Flyttade {1} till lag 1."
+	}
+	
+	"Moved to team2"
+	{
+		"sv"		"Flyttade {1} till lag 2."
+	}
+}

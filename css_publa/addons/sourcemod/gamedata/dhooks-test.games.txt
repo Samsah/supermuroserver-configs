@@ -1,0 +1,91 @@
+"Games"
+{
+	"cstrike"
+	{
+		"Offsets"
+		{
+			"BloodColor"
+			{
+				"windows"	"68"
+				"linux"		"69"
+			}
+			"GetModelName"
+			{
+				"windows"	"7"
+				"linux"		"8"
+			}
+			"GetMaxs"
+			{
+				"windows"	"335"
+				"linux"		"336"
+			}
+			"CanUse"
+			{
+				"windows"	"256"
+				"linux"		"257"
+			}
+			"CanHaveAmmo"
+			{
+				"windows"	"96"
+				"linux"		"96"
+			}
+			"SetModel"
+			{
+				"windows"	"24"
+				"linux"		"25"
+			}
+			"GetMaxPlayerSpeed"
+			{
+				"windows"	"435"
+				"linux"		"436"
+			}
+			"OnTakeDamage"
+			{
+				"windows"	"62"
+				"linux"		"63"
+			}
+		}
+	}
+	//Thanks to ProdigySim
+	"left4dead2"
+	{
+		"Addresses"
+		{
+			"CDirector"
+			{
+				"windows"
+				{
+					"signature" "DirectorMusicBanks_OnRoundStart"				
+					"read" "8"					
+				}
+				"linux"
+				{
+					"signature" "TheDirector"
+				}
+				"read" "0"
+			}
+		}
+				
+		"Signatures"
+		{
+			"DirectorMusicBanks_OnRoundStart"
+			{
+				"library"	"server"
+				"windows"       "\x83\xEC\x14\x57\x8B\xF9\x8B\x0D\x2A\x2A\x2A\x2A\xE8\x2A\x2A\x2A\x2A\x84\xC0\x0F\x2A\x2A\x2A\x2A\x2A\x53\x55\x6A\x24\xE8"
+			}
+			"TheDirector"
+			{
+				"library"	"server"
+				"linux"		"@TheDirector"
+			}
+		}
+		"Offsets"
+		{
+			"OnGameplayStart"
+			{
+				"windows"	"11"
+				"linux"		"11"
+			}
+		}
+	}
+}

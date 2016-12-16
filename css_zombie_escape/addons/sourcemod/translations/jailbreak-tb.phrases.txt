@@ -1,0 +1,128 @@
+"Phrases"
+{
+	"Clear Guards"
+	{
+		"en"		"Forcibly removed all guards waiting in the queue!"
+	}
+	"CT Bans Denied"
+	{
+		"en"		"CT Bans is enforcing a ban on your Steam ID. Request Denied!"
+	}
+	"Azelphur Ban"
+	{
+		"en"		"You are banned from Counter-Terrorist"
+	}
+	
+	"Queue Added Position"
+	{
+		"#format"	"{1:d}"
+		"en"		"You were added to the queue in position {1}."
+	}
+	
+	"Queue No Position Added"
+	{
+		"en"		"You were added to the queue."
+	}
+	
+	"Queue Position"
+	{
+		"#format"	"{1:d}"
+		"en"		"You are currently in position {1}."
+	}
+	
+	"Queue Manual Join"
+	{
+		"en"		"You were denied a queue slot. Join CT manually!"
+	}
+	
+	"Queue InQueue"
+	{
+		"en"		"You are already in the queue."
+	}
+	
+	"Queue CT"
+	{
+		"en"		"You are already a guard."
+	}
+	
+	"Random to CT"
+	{
+		"en"		"You were randomly swapped from T due to a CT shortage."
+	}
+	
+	"Request Processed"
+	{
+		"en"		"Your request for a transfer to CT has been processed."
+	}
+	
+	"Stacked to T"
+	{
+		"en"		"You were automatically swapped from CT since you were one of the last to join."
+	}
+	
+	"Join Mute"
+	{
+		"en"		"You are muted until the start of next round."
+	}
+	
+	"Join Admin"
+	{
+		"en"		"You are not muted due to admin status."
+	}
+
+	"Center CTBans"
+	{
+		"en"		"CTBans is enforcing a ban on your Steam ID"
+	}
+	
+	"Center Teams Locked"
+	{
+		"en"		"Teams are locked during round transitions"
+	}
+	
+	"Center Auto-Join Disabled"
+	{
+		"en"		"Auto-Join is Disabled"
+	}
+	
+	"Center InQueue"
+	{
+		"en"		"There are people waiting in the queue to join CT"
+	}
+	
+	"Center Must Play T First"
+	{
+		"en"		"You must play some as T before joining CT"
+	}
+	
+	"ClearGuards Usage"
+	{
+		"en"		"Usage: sm_clearguards"
+	}
+	
+	"Queue Empty"
+	{
+		"en"		"No one is currently in the queue."
+	}
+	
+	"Queue Not Found"
+	{
+		"en"		"Player not found in guard queue."
+	}
+	
+	"Queue Removed Guard"
+	{
+		"#format"	"{1:N}"
+		"en"		"Succesfully removed {1} from the guard queue."
+	}
+	
+	"Invalid Team Selection"
+	{
+		"en"		"Invalid Team Selection"
+	}
+	
+	"Not Available from Server"
+	{
+		"en"		"The menu cannot be displayed on the server console."
+	}
+}

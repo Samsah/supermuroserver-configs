@@ -1,0 +1,16 @@
+"Games"
+{
+	"cstrike"
+	{
+		"Signatures"
+		{
+			//CCSPlayer::AddAccount(int, bool, bool, const char*)
+			"AddAccount"
+			{
+				"library"		"server"
+				"windows"		"\x55\x8B\xEC\x83\xEC\x2A\x89\x2A\x2A\x8B\x2A\x2A\x05\x2A\x2A\x00\x00"
+				"linux"			"@_ZN9CCSPlayer10AddAccountEibbPKc"
+			}
+		}
+	}
+}

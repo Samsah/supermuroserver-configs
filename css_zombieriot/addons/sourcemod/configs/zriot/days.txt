@@ -1,0 +1,66 @@
+// ====================
+//     Zombie Riot
+//   File: days.txt
+//   Author: Greyscale
+// ====================
+//
+// Here you can pre-define each day and its difficulty
+// Format:
+//
+// "display" - This is what the day will be referred to
+//	"count" - How many zombies that need to be killed before moving onto the next day
+//	"healthboost" - The amount of extra HP each zombie will get in addition to that zombie's initial health
+//	"respawn" - If enabled, all zombies will be immediately respawn after death, when the day kill limit is
+//	          - reached, the remaining zombies dig into the ground and the next day will begin
+//                - Respawn is typically 0 for bosses
+//	"deaths_before_zombie" - How many deaths as human before being switched to the Zombie force (0: Disable)
+//	"fademin" - Distance, in game units, at which zombies start fading away ("" to disable)
+//	"fademax" - Distance, in game units, at which the zombie is fully invisible ("" to disable)
+//	"zombieoverride" - OPTIONAL: If specified only listed zombies will be spawned during this day, separate with "," (look in zombies.txt)
+//	"storyline" - OPTIONAL: If specified, the text will be printed on round_start for the day, used to illustrate some kind of story line
+
+
+"days"
+{
+	"Easy"
+	{
+		"count"			"45"
+		"healthboost"		"0"
+		"respawn"		"1"
+		"deaths_before_zombie"	"5"
+		"fademin"		"800.0"
+		"fademax"		"1000.0"
+	}
+
+	"Hard"
+	{
+		"count"			"85"
+		"healthboost"		"100"
+		"respawn"		"1"
+		"deaths_before_zombie"	"4"
+		"fademin"		"700.0"
+		"fademax"		"900.0"
+	}
+	
+	"Extreme"
+	{
+		"count"			"125"
+		"healthboost"		"200"
+		"respawn"		"1"
+		"deaths_before_zombie"	"3"
+		"fademin"		"600.0"
+		"fademax"		"800.0"
+	}
+
+	"Final Stand"
+	{
+		
+		"count"			"2"
+		"healthboost"		"0"
+		"respawn"		"0"
+		"deaths_before_zombie"	"0"
+		"fademin"		"500.0"
+		"fademax"		"700.0"
+		"zombieoverride"	"hellknight"
+	}
+}

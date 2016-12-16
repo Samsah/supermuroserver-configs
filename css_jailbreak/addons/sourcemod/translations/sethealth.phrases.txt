@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"Set Health"
+	{
+		"#format"		"{1:t},{2:d}"
+		"en"			"Set {1} health to {2}."
+	}
+}

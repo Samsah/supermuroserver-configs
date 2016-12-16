@@ -1,0 +1,270 @@
+﻿"Phrases"
+{
+	"Vote"
+	{
+		"en"	"Vote"
+	}
+
+	"Kick"
+	{
+		"en"	"Kick"
+	}
+
+	"Ban"
+	{
+		"en"	"Ban"
+	}
+
+	"Map"
+	{
+		"en"	"Map"
+	}
+
+	"Mute"
+	{
+		"en"	"Mute"
+	}
+
+	"kick"
+	{
+		"en"	"kick"
+	}
+
+	"ban"
+	{
+		"en"	"ban"
+	}
+
+	"map"
+	{
+		"en"	"map"
+	}
+
+	"mute"
+	{
+		"en"	"mute"
+	}
+
+	"Settings"
+	{
+		"en"	"Settings"
+	}
+
+	"Voting Menu"
+	{
+		"en"	"Voting Menu"
+	}
+
+	"Votekick"
+	{
+		"en"	"VoteKick"
+	}
+
+	"Voteban"
+	{
+		"en"	"VoteBan"
+	}
+
+	"Votemap"
+	{
+		"en"	"VoteMap"
+	}
+
+	"Votemute"
+	{
+		"en"	"VoteMute"
+	}
+
+	"All"
+	{
+		"en"	"All"
+	}
+
+	"all"
+	{
+		"en"	"all"
+	}
+
+	"voted to kick"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} voted to kick {2}"
+	}
+
+	"voted to ban"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} voted to ban {2}"
+	}
+
+	"voted to mute"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} voted to mute {2}"
+	}
+
+	"voted for map"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} voted for map change to {2}"
+	}
+
+	"voted for nextmap"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} voted to set nextmap to {2}"
+	}
+
+	"voted for extend"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"{1} voted to extend map by {2} minutes"
+	}
+
+	"extend map by"
+	{
+		"#format"	"{1:d}"
+		"en"		"Extend map {1} minutes"
+	}
+
+	"votes required"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Votes required {1}/{2}"
+	}
+
+	"kicked by vote"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} has been kicked by players vote"
+	}
+
+	"banned by vote"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} has been banned by players vote"
+	}
+
+	"muted by vote"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} has been muted by players vote"
+	}
+
+	"map change by vote"
+	{
+		"#format"	"{1:s}"
+		"en"		"Changing map to {1} due to players vote"
+	}
+
+	"nextmap change by vote"
+	{
+		"#format"	"{1:s}"
+		"en"		"Setting nextmap to {1} due to players vote"
+	}
+
+	"map extend by vote"
+	{
+		"#format"	"{1:d}"
+		"en"		"Extending map by {1} minutes due to players vote"
+	}
+
+	"kicked by users"
+	{
+		"en"		"You have been kicked by players votes"
+	}
+
+	"banned by users"
+	{
+		"en"		"You have been banned by players votes"
+	}
+
+	"voting not allowed"
+	{
+		"#format"	"{1:d}"
+		"en"		"Voting not allowed for {1} seconds"
+	}
+
+	"voting not allowed again"
+	{
+		"#format"	"{1:d}"
+		"en"		"Voting again not allowed for another {1} seconds"
+	}
+
+	"votes spent"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"You spent all {1} of your {2} votes this map"
+	}
+
+	"votes remaining"
+	{
+		"#format"	"{1:d}"
+		"en"		"{1} votes remaining"
+	}
+
+	"canceled votes"
+	{
+		"#format"	"{1:t}"
+		"en"		"{1} votes canceled"
+	}
+
+	"cancel all votes"
+	{
+		"en"		"Cancel all votes"
+	}
+
+	"cancel kick votes"
+	{
+		"en"		"Cancel kick votes"
+	}
+
+	"cancel ban votes"
+	{
+		"en"		"Cancel ban votes"
+	}
+
+	"cancel map votes"
+	{
+		"en"		"Cancel map votes"
+	}
+
+	"cancel mute votes"
+	{
+		"en"		"Cancel mute votes"
+	}
+
+	"enable voting"
+	{
+		"#format"	"{1:t}"
+		"en"		"Enable {1} voting"
+	}
+
+	"disable voting"
+	{
+		"#format"	"{1:s}"
+		"en"		"Disable {1} voting"
+	}
+
+	"disabled votes"
+	{
+		"#format"	"{1:t}"
+		"en"		"{1} voting disabled"
+	}
+
+	"all disabled votes"
+	{
+		"en"		"All voting is disabled"
+	}
+
+	"enabled votes"
+	{
+		"#format"	"{1:t}"
+		"en"		"{1} voting enabled"
+	}
+
+	"ban reasons"
+	{
+		"en"		"Ban reasons"
+	}
+}

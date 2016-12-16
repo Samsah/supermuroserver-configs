@@ -1,0 +1,5 @@
+// usage: "trigger" "Title" http://www.site.com
+// tags: {NAME} {STEAM_ID} {USER_ID} {IP} {SERVER_IP} {SERVER_PORT}
+"google" "Google" http://www.google.com
+
+

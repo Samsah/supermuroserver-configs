@@ -1,0 +1,12 @@
+"colors"
+{
+"color_tag""d99304"
+"color_name""9aff9a"
+"color_steamid""d2c898"
+"color_use""FF7C00"
+"color_pickup""9ec34f"
+"color_drop""9ec34f"
+"color_disconnect""9ec34f"
+"color_death""9ec34f"
+"color_warning""9ec34f"
+}

@@ -1,0 +1,183 @@
+"JailBreak_Commands"
+{
+	//* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+	//* JailBreak: RTD
+	"Commands: Roll"
+	{
+		"0" "!rtd"
+		"1" "/rtd"
+		"2" "!w"
+		"3" "/w"
+		"4" "!wuerfeln"
+		"5" "/wuerfeln"
+		"6" "!würfeln"
+		"7" "/würfeln"
+		"8" "!roll"
+		"9" "/roll"
+	}
+	"Commands: My Rolls"
+	{
+		"0" "!myrolls"
+		"1" "/myrolls"
+	}
+	//* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+	//* JailBreak: Ranks
+	"Commands: Info"
+	{
+		"0" "!info"
+		"1" "/info"
+		"2" "!ranks"
+		"3" "/ranks"
+	}
+	"Commands: Top"
+	{
+		"0" "!top"
+		"1" "/top"
+		"2" "!top10"
+		"3" "/top10"
+	}
+	"Commands: Rank"
+	{
+		"0" "!rank"
+		"1" "/rank"
+		"2" "!place"
+		"3" "/place"
+	}
+	"Commands: Kills"
+	{
+		"0" "!kill"
+		"1" "/kill"
+		"2" "!kills"
+		"3" "/kills"
+	}
+	"Commands: Times"
+	{
+		"0" "!time"
+		"1" "/time"
+		"2" "!times"
+		"3" "/times"
+	}
+	"Commands: Rounds"
+	{
+		"0" "!round"
+		"1" "/round"
+		"2" "!rounds"
+		"3" "/rounds"
+	}
+	"Commands: Vip"
+	{
+		"0" "!vip"
+		"1" "/vip"
+	}
+	//* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+	//* JailBreak: Custom
+	"Commands: Rules"
+	{
+		"0" "!rules"
+		"1" "/rules"
+	}
+	"Commands: Grenade Trails"
+	{
+		"0" "!gtrails"
+		"1" "/gtrails"
+	}
+	"Commands: Surrender"
+	{
+		"0" "!ergeben"
+		"1" "/ergeben"
+		"2" "!e"
+		"3" "/e"
+		"4" "!surrender"
+		"5" "/surrender"
+		"6" "!s"
+		"7" "/s"
+	}
+	"Commands: Refuse"
+	{
+		"0" "!v"
+		"1" "/v"
+		"2" "!verweigen"
+		"3" "/verweigen"
+		"4" "!pass"
+		"5" "/pass"
+		"6" "!p"
+		"7" "/p"
+		"8" "!refuse"
+		"9" "/refuse"
+	}
+	"Commands: War Start"
+	{
+		"0" "!srounds"
+		"1" "/srounds"
+	}
+	//* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+	//* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+	//* JailBreak: Gangs
+	"Commands: Gangs"
+	{
+		"0" "!gang"
+		"1" "/gang"
+		"2" "!gangs"
+		"3" "/gangs"
+	}
+	"Commands: Gang Help"
+	{
+		"0" "!help"
+		"1" "/help"
+		"2" "!ganghelp"
+		"3" "/ganghelp"
+	}
+	"Commands: New Gang"
+	{
+		"0" "!addgang"
+		"1" "/addgang"
+		"2" "!creategang"
+		"3" "/creategang"
+	}
+	"Commands: Transfer"
+	{
+		"0" "!transfer"
+		"1" "/transfer"
+	}
+	"Commands: Points"
+	{
+		"0" "!points"
+		"1" "/points"
+		"2" "!credits"
+		"3" "/credits"
+		"4" "!funds"
+		"5" "/funds"
+	}
+	//* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+	
+	//* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+	//* JailBreak: Rewards
+	"Commands: Shop"
+	{
+		"0" "!shop"
+		"1" "/shop"
+	}
+	"Commands: Atom"
+	{
+		"0" "!atom"
+		"1" "/atom"
+	}
+	"Commands: Medic"
+	{
+		"0" "!medic"
+		"1" "/medic"
+	}
+	"Commands: Revive"
+	{
+		"0" "!revive"
+		"1" "/revive"
+		"2" "!newlive"
+		"3" "/newlive"
+	}
+	"Commands: Credits"
+	{
+		"0" "!credits"
+		"1" "/credits"
+	}
+}

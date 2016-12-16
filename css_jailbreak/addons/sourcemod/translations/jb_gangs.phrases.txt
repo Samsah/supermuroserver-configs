@@ -1,0 +1,1272 @@
+"Phrases"
+{
+	//===========================================
+	//======Phrases: General
+	//===========================================
+	"Prefix_Chat"
+	{
+		"#format"	""
+		"en"		"{white}[Gangs]:{olive} "
+		"de"		"{white}[Gangs]:{olive} "
+	}
+	"Prefix_Clan"
+	{
+		"#format"	"{1:s},{2:N}"
+		"en"		"{red}[{1}] {2}:{default} "
+		"de"		"{red}[{1}] {2}:{default} "
+	}
+	"Prefix_Hint"
+	{
+		"#format"	""
+		"en"		"[Gangs]: "
+		"de"		"[Gangs]: "
+	}
+	"Phrase_Notify_Value_Input"
+	{
+		"#format"	""
+		"en"		"You must enter a value!"
+		"de"		"Du musst einen Wert angeben!"
+	}
+	"Phrase_Invalid_Name_Input"
+	{
+		"#format"	""
+		"en"		"The new gang name has invalid characters!"
+		"de"		"Der Gang name hat ungueltige Zeichen!"
+	}
+	"Phrase_Successful_Name_Input"
+	{
+		"#format"	"{1:s}"
+		"en"		"The gang name is now: {1}"
+		"de"		"Der neue Gang Name lautet nun: {1}"
+	}
+	"Phrase_Notify_Tag_Input"
+	{
+		"#format"	""
+		"en"		"Your next message is your new gang tag!"
+		"de"		"Deine Nächste Chat Nachricht ist dein Gang Tag!"
+	}
+	"Phrase_Invalid_Tag_Input"
+	{
+		"#format"	""
+		"en"		"The new gang tag has invalid characters!"
+		"de"		"Der Gang Tag hat ungueltige Zeichen!"
+	}
+	"Phrase_Successful_Tag_Input"
+	{
+		"#format"	"{1:s}"
+		"en"		"The gang tag is now: {1}"
+		"de"		"Der neue Gang tag lautet nun: {1}"
+	}
+	"Phrase_Current_Cash"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"{1} has ${2}!"
+		"de"		"{1} hat ${2}!"
+	}
+	"Phrase_Purchase_Successful"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Successful Purchase! Spent: ${1}, Remaining: ${2}"
+		"de"		"Einkauf erfolgreich.(${1}, ${2})"
+	}
+	"Phrase_Cannot_Afford_Purchase"
+	{
+		"#format"	""
+		"en"		"You cannot afford that!"
+		"de"		"Das kannst du dir nicht leisten!"
+	}
+	"Phrase_Gang_None"
+	{
+		"#format"	""
+		"en"		"You are not in a gang!"
+		"de"		"Du bist in keiner Gang!"
+	}
+	"Phrase_Gang_Existing"
+	{
+		"#format"	""
+		"en"		"You are already in a gang!"
+		"de"		"Du bist in keiner Gang!"
+	}
+	"Phrase_Gang_Loading"
+	{
+		"#format"	""
+		"en"		"Your gang is still loading, please try again shortly!"
+		"de"		"Deine Gang lädt noch. Bitte versuche es später erneut."
+	}
+	"Phrase_Gang_Loading_Notify"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1}'s gang is still loading; please try again later."
+		"de"		"{1}'s gang is still loading; please try again later."
+	}
+
+
+	//===========================================
+	//======Menu: General
+	//===========================================
+	"Menu_Leader"
+	{
+		"#format"	"{1:s}"
+		"en"		"(Ldr) - {1}"
+		"de"		"(Ldr) - {1}"
+	}
+	"Menu_Admin"
+	{
+		"#format"	"{1:s}"
+		"en"		"(Adm) - {1}"
+		"de"		"(Adm) - {1}"
+	}
+	"Menu_Member"
+	{
+		"#format"	"{1:s}"
+		"en"		"(Mem) - {1}"
+		"de"		"(Mem) - {1}"
+	}
+
+
+	"Menu_Gang_Create_Title"
+	{
+		"#format"	""
+		"en"		"Gang Creation\n---------------------------"
+		"de"		"Gang erstellen\n---------------------------"
+	}
+	"Menu_Gang_Create_Rules"
+	{
+		"#format"	""
+		"en"		"Rules"
+		"de"		"Regeln"
+	}
+	"Menu_Gang_Create_Help"
+	{
+		"#format"	""
+		"en"		"Help"
+		"de"		"Hilfe"
+	}
+	"Menu_Gang_Create_Gang"
+	{
+		"#format"	""
+		"en"		"Create Gang"
+		"de"		"Gang erstellen"
+	}
+
+	"Panel_Rules_Title"
+	{
+		"#format"	""
+		"en"		"Rules\n---------------------------"
+		"de"		"Regeln\n---------------------------"
+	}
+	"Panel_Rules_Back"
+	{
+		"#format"	""
+		"en"		"0) Back"
+		"de"		"0. Back"
+	}
+	"Panel_Help_Title"
+	{
+		"#format"	""
+		"en"		"Help\n---------------------------"
+		"de"		"Hilfe\n---------------------------"
+	}
+	"Panel_Help_Category_Title"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1}\n---------------------------"
+		"de"		"{1}\n---------------------------"
+	}
+	"Panel_Help_Category_Data"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1}"
+		"de"		"{1}"
+	}
+
+
+	//===========================================
+	//======Menu: Gang Main
+	//===========================================
+	"Menu_Main_Title"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"{1}, ${2:d}\n---------------------------"
+		"de"		"{1}, ${2:d}\n---------------------------"
+	}
+	"Menu_Main_Title_No_Gang"
+	{
+		"#format"	""
+		"en"		"Gangs\n---------------------------"
+		"de"		"Gangs\n---------------------------"
+	}
+	"Menu_Main_Actions"
+	{
+		"#format"	""
+		"en"		"Actions"
+		"de"		"Aktionen"
+	}
+	"Menu_Main_Skills"
+	{
+		"#format"	""
+		"en"		"Skills"
+		"de"		"Skills"
+	}
+	"Menu_Main_Top"
+	{
+		"#format"	""
+		"en"		"Top Gangs"
+		"de"		"Top Gangs"
+	}
+	"Menu_Main_Statistics"
+	{
+		"#format"	""
+		"en"		"Statistics"
+		"de"		"Statistiken"
+	}
+	"Menu_Main_Members"
+	{
+		"#format"	""
+		"en"		"Members"
+		"de"		"Mitglieder"
+	}
+	"Menu_Main_Help"
+	{
+		"#format"	""
+		"en"		"Help"
+		"de"		"Hilfe"
+	}
+	"Menu_Main_Admin"
+	{
+		"#format"	""
+		"en"		"Gang Admin"
+		"de"		"Gang Admin"
+	}
+
+	//===========================================
+	//======Menu: Gang Main: Stats
+	//===========================================
+	"Menu_Main_Stats_Title"
+	{
+		"#format"	""
+		"en"		"Statistics\n---------------------------"
+		"de"		"Statistiken\n---------------------------"
+	}
+	"Menu_Main_Stats_Gang_Players"
+	{
+		"#format"	"{1:d}"
+		"en"		"Total Gang Members: {1}"
+		"de"		"Spieler mit Gang: {1}"
+	}
+	"Menu_Main_Stats_Your_Skills"
+	{
+		"#format"	"{1:d}"
+		"en"		"Your Gang Skills: {1}"
+		"de"		"Gekaufte Skills in deiner Gang: {1}"
+	}
+	"Menu_Main_Stats_Your_Skills_No_Gang"
+	{
+		"#format"	""
+		"en"		"Your Gang Skills: No Gang"
+		"de"		"Bought skills in your gang: Du hast keine Gang"
+	}
+	"Menu_Main_Stats_Gang_Skills"
+	{
+		"#format"	"{1:d}"
+		"en"		"Total Gang Skills: {1}"
+		"de"		"Gekaufte Skills in allen Gangs: {1}"
+	}
+	"Menu_Main_Stats_Favored_Skill"
+	{
+		"#format"	"{1:s}"
+		"en"		"Favored Skill: {1}"
+		"de"		"Beliebtester Skill: {1}"
+	}
+	"Menu_Main_Stats_Player_Gold"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"Richest Member: {1}, ${2}"
+		"de"		"Spieler mit dem meisten Geld: {1}, ${2}"
+	}
+	"Menu_Main_Stats_Gang_Gold"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"Richest Gang: {1}, ${2}"
+		"de"		"Gang mit dem meisten Geld: {1}, ${2}"
+	}
+	"Menu_Main_Stats_Admin_Gangs"
+	{
+		"#format"	"{1:d}"
+		"en"		"Total Gang Admins: {1}"
+		"de"		"Admins in allen Gangs: {1}"
+	}
+
+	//===========================================
+	//======Menu: Gang Main: Admin
+	//===========================================
+	"Menu_Actions_Admin_Title"
+	{
+		"#format"	""
+		"en"		"Member Status\n---------------------------"
+		"de"		"Memberstatus\n---------------------------"
+	}
+	"Menu_Actions_Admin_Demote"
+	{
+		"#format"	"{1:s}"
+		"en"		"You removed the position of Gang Admin from {1}!"
+		"de"		"Du hast den [Adm]Status von {1} geandert!"
+	}
+	"Menu_Actions_Admin_Demote_Notify"
+	{
+		"#format"	""
+		"en"		"You have been demoted from your Admin position!"
+		"de"		"Dein Status wurde zu < Mitglieder Status > geaendert!"
+	}
+	"Menu_Actions_Admin_Promote"
+	{
+		"#format"	"{1:s}"
+		"en"		"You assigned the position of Gang Admin to {1}!"
+		"de"		"Du hast den [Adm] Status von {1} geandert!"
+	}
+	"Menu_Actions_Admin_Promote_Notify"
+	{
+		"#format"	""
+		"en"		"You have been given the Admin position in the Gang!"
+		"de"		"Du hast nun den [Adm] Status in der Gang."
+	}
+	"Menu_Actions_Leader_Demote"
+	{
+		"#format"	"{1:s}"
+		"en"		"You have given the position of Gang Leader to {1}!"
+		"de"		"Du hast die Position des Gang Leaders an {1} gegeben!"
+	}
+	"Menu_Actions_Leader_Promote"
+	{
+		"#format"	"{1:N}"
+		"en"		"You have been given the position of Gang Leader by {1}!"
+		"de"		"Dir wurde die Position des Gang Leaders von {1} gegeben!"
+	}
+
+	//===========================================
+	//======Menu: Gang Main: Top
+	//===========================================
+	"Menu_Actions_Top_Title"
+	{
+		"#format"	""
+		"en"		"Top Gangs\n---------------------------"
+		"de"		"Top Gangs\n---------------------------"
+	}
+	"Menu_Actions_Top_Entry"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"{1} ({2})"
+		"de"		"{1} ({2})"
+	}
+
+	//===========================================
+	//======Menu: Gang Main: Members
+	//===========================================
+	"Menu_Actions_Members_Title"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1}'s Members\n---------------------------"
+		"de"		"{1} Mitglieder\n---------------------------"
+	}
+
+	//===========================================
+	//======Menu: Gang Actions
+	//===========================================
+	"Menu_Actions_Title"
+	{
+		"#format"	""
+		"en"		"Actions\n---------------------------"
+		"de"		"Aktionen\n---------------------------"
+	}
+	"Menu_Actions_Invite"
+	{
+		"#format"	""
+		"en"		"Invite Player"
+		"de"		"Spieler einladen"
+	}
+	"Menu_Actions_Remove"
+	{
+		"#format"	""
+		"en"		"Kick Member"
+		"de"		"Mitglied kicken"
+	}
+	"Menu_Actions_Admin"
+	{
+		"#format"	""
+		"en"		"Admin Member"
+		"de"		"Memberstatus"
+	}
+	"Menu_Actions_Leader"
+	{
+		"#format"	""
+		"en"		"New Leader"
+		"de"		"Neuer Leader"
+	}
+	"Menu_Actions_Admin_Tag"
+	{
+		"#format"	""
+		"en"		"Set Gang Tag"
+		"de"		"Gang Tag setzen"
+	}
+	"Menu_Actions_Create"
+	{
+		"#format"	""
+		"en"		"Create Gang"
+		"de"		"Gang erstellen"
+	}
+	"Menu_Actions_Player_Set_Tag"
+	{
+		"#format"	""
+		"en"		"Enable Your Tag"
+		"de"		"Setze Clantag"
+	}
+	"Menu_Actions_Player_Remove_Tag"
+	{
+		"#format"	""
+		"en"		"Disable Your Tag"
+		"de"		"Entferne Clantag"
+	}
+	"Menu_Actions_Leave"
+	{
+		"#format"	""
+		"en"		"Leave Gang"
+		"de"		"Gang verlassen"
+	}
+	"Menu_Actions_Money"
+	{
+		"#format"	""
+		"en"		"Transfer Funds"
+		"de"		"Geld ueberweisen"
+	}
+
+	//===========================================
+	//======Menu: Gang Actions: Kick
+	//===========================================
+	"Menu_Actions_Kick_Title"
+	{
+		"#format"	""
+		"en"		"Kick Member\n---------------------------"
+		"de"		"Mitlglied kicken\n---------------------------"
+	}
+
+	//===========================================
+	//======Phrases
+	//===========================================
+	"Phrase_Gangs_Actions_Left_Gang"
+	{
+		"#format"	""
+		"en"		"You have left the gang."
+		"de"		"Du wurdest von der Gang ausgeschlossen."
+	}
+	"Phrase_Notify_Transfer_Input"
+	{
+		"#format"	"{1:d}"
+		"en"		"Your next message is the amount you wish to transfer to the gang's bank. You have ${1}."
+		"de"		"Deine Nächste Chatnachricht ist der Wert den du zur Bank übeweist."
+	}
+	"Phrase_Notify_Transfer_Success"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"{1} cash was transferred to the gang. The gang now has {2}$."
+		"de"		"Dein Geld {1} wurde der Gang ueberwiesen. Die Gang hat nun: {2}$."
+	}
+	"Phrase_Gangs_Actions_Set_Tag"
+	{
+		"#format"	""
+		"en"		"Your next message is the gang's new tag."
+		"de"		"Deine Nächste Chat Nachricht ist dein Kurzer Gang Tag."
+	}
+	"Phrase_Gangs_Actions_Kick_Member"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} was removed from the gang."
+		"de"		"{1} wurde von der Gang entfernt."
+	}
+	"Phrase_Transfer_Insufficient"
+	{
+		"#format"	""
+		"en"		"You do not have enough cash!"
+		"de"		"Du hast nicht so viel Geld."
+	}
+
+	"Phrase_Next_Input_Name"
+	{
+		"#format"	""
+		"en"		"Your next message is your new gang name!"
+		"de"		"Deine Nächste Chat Nachricht ist dein Gangname!"
+	}
+	"Phrase_Create_Gang_Invalid_Name"
+	{
+		"#format"	""
+		"en"		"You did not enter a valid gang name!"
+		"de"		"Du musst einen Gang Namen angeben!"
+	}
+	"Phrase_Create_Gang_Insufficient"
+	{
+		"#format"	"{1:d}"
+		"en"		"You need at least ${1} to create a gang!"
+		"de"		"Das Erstellen einer Gang kostet {1}!"
+	}
+	"Phrase_Create_Gang_Invalid_Length"
+	{
+		"#format"	""
+		"en"		"Your gang name cannot be more than 30 characters long."
+		"de"		"Dir wurde Geld, wegen einem falschen Namen abgezogen."
+	}
+	"Phrase_Create_Gang_Exists"
+	{
+		"#format"	"{1:s}"
+		"en"		"The gang \"{1}\" already exists."
+		"de"		"Den Namen {1} gibt es schon."
+	}
+	"Phrase_Create_Gang_Processing"
+	{
+		"#format"	""
+		"en"		"A gang is currently being created; please try again shortly."
+		"de"		"Versuche es spaeter noch ein mal."
+	}
+	"Phrase_Create_Gang_Success"
+	{
+		"#format"	"{1:s}"
+		"en"		"The gang \"{1}\" has been created!"
+		"de"		"Die Gang < {1} > wurde erstellt!"
+	}
+	"Phrase_Notify_Gang_Invite"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"		"{1} has sent a membership request for the {2} gang."
+		"de"		"{1} hat dich zur Gang {2} eingeladen."
+	}
+	"Phrase_Notify_Gang_Accept"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"		"{1} has joined the {2} gang."
+		"de"		"{1} schloss sich einer {2} Gang an."
+	}
+	"Phrase_Notify_Gang_Decline"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"		"{1} has declined your invite to join the {2} gang."
+		"de"		"{1} has declined your invite to join the {2} gang."
+	}
+	"Menu_Accept"
+	{
+		"#format"	""
+		"en"		"Yes"
+		"de"		"Ja"
+	}
+	"Menu_Decline"
+	{
+		"#format"	""
+		"en"		"No"
+		"de"		"Nein"
+	}
+
+	"Phrase_Gang_Max_Members"
+	{
+		"#format"	""
+		"en"		"The gang is at maximum capacity."
+		"de"		"Es gibt schon zu viele Mitglieder."
+	}
+	"Menu_Invite_Members_Title"
+	{
+		"#format"	""
+		"en"		"Invite Player\n---------------------------"
+		"de"		"Spieler einladen\n---------------------------"
+	}
+	"Menu_Invite_Title"
+	{
+		"#format"	"{1:s}"
+		"en"		"Join {1}?\n---------------------------"
+		"de"		"Join {1} gang?\n---------------------------"
+	}
+
+
+	//===========================================
+	//======Skills
+	//===========================================
+	"Menu_Skills_Title"
+	{
+		"#format"	""
+		"en"		"Gang Skills\n---------------------------"
+		"de"		"Gang Skills\n---------------------------"
+	}
+	"Menu_Free_Skills_Title"
+	{
+		"#format"	"{1:d}"
+		"en"		"Free Skills (${1})\n---------------------------"
+		"de"		"Freie Skills (${1})\n---------------------------"
+	}
+	"Menu_Silver_Skills_Title"
+	{
+		"#format"	"{1:d}"
+		"en"		"Silver Skills (${1})\n---------------------------"
+		"de"		"Silber Skills (${1})\n---------------------------"
+	}
+	"Menu_Gold_Skills_Title"
+	{
+		"#format"	"{1:d}"
+		"en"		"Gold Skills (${1})\n---------------------------"
+		"de"		"Gold Skills (${1})\n---------------------------"
+	}
+	"Menu_Free_Skills_Title_View"
+	{
+		"#format"	""
+		"en"		"Free Skills\n---------------------------"
+		"de"		"Freie Skills\n---------------------------"
+	}
+	"Menu_Silver_Skills_Title_View"
+	{
+		"#format"	""
+		"en"		"Silver Skills\n---------------------------"
+		"de"		"Silber Skills\n---------------------------"
+	}
+	"Menu_Gold_Skills_Title_View"
+	{
+		"#format"	""
+		"en"		"Gold Skills\n---------------------------"
+		"de"		"Gold Skills\n---------------------------"
+	}
+	//===========================================
+	"Menu_Free_Skills"
+	{
+		"#format"	""
+		"en"		"Free Skills"
+		"de"		"Free Skills"
+	}
+	"Menu_Silver_Skills"
+	{
+		"#format"	""
+		"en"		"Silver Skills"
+		"de"		"Silber Skills"
+	}
+	"Menu_Gold_Skills"
+	{
+		"#format"	""
+		"en"		"Gold Skills"
+		"de"		"Gold Skills"
+	}
+	//===========================================
+	"Menu_Buy_Skills"
+	{
+		"#format"	""
+		"en"		"Buy Skills"
+		"de"		"Skills kaufen"
+	}
+	"Menu_Sell_Skills"
+	{
+		"#format"	""
+		"en"		"Sell Skills"
+		"de"		"Skills verkaufen"
+	}
+	"Menu_View_Skills"
+	{
+		"#format"	""
+		"en"		"View Skills"
+		"de"		"Zeige Skills"
+	}
+	"Menu_Skills_Buy"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		" - Level {1} (${2})"
+		"de"		" - Level {1} (${2})"
+	}
+	"Menu_Skills_Buy_One"
+	{
+		"#format"	"{1:d}"
+		"en"		" - (${1})"
+		"de"		" - (${1})"
+	}
+	"Menu_Skills_Buy_Max"
+	{
+		"#format"	"{1:d}"
+		"en"		" - Level {1} (Max)"
+		"de"		" - Level {1} (Ausverkauft)"
+	}
+	"Menu_Skills_Buy_Max_One"
+	{
+		"#format"	""
+		"en"		" - (Purchased)"
+		"de"		" - (Ausverkauft)"
+	}
+	"Menu_Skills_Sell"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		" - Level {1} (${2})"
+		"de"		" - Level {1} (${2})"
+	}
+	"Menu_Skills_Sell_One"
+	{
+		"#format"	"{1:d}"
+		"en"		" - (${1})"
+		"de"		" - (${1})"
+	}
+	"Menu_Skills_Sell_None"
+	{
+		"#format"	""
+		"en"		" - Level 0"
+		"de"		" - Level 0"
+	}
+	"Menu_Skills_View"
+	{
+		"#format"	"{1:d}"
+		"en"		" - Level {1}"
+		"de"		" - Level {1}"
+	}
+	"Menu_Skills_View_One"
+	{
+		"#format"	""
+		"en"		" - (Purchased)"
+		"de"		" - (Ausverkauft)"
+	}
+	"Menu_Skills_View_None"
+	{
+		"#format"	""
+		"en"		" - (Available)"
+		"de"		" - (Verfuegbar)"
+	}
+	"Menu_Skills_Sell_None_One"
+	{
+		"#format"	""
+		"en"		""
+		"de"		""
+	}
+	//===========================================
+	"Skills_Health"
+	{
+		"#format"	""
+		"en"		"Health"
+		"de"		"Health"
+	}
+	"Skills_Spawn_Points"
+	{
+		"#format"	""
+		"en"		"Spawn Cash"
+		"de"		"Spawn Cash"
+	}
+	"Skills_Gravity"
+	{
+		"#format"	""
+		"en"		"Gravity"
+		"de"		"Gravity"
+	}
+	"Skills_Damage"
+	{
+		"#format"	""
+		"en"		"Damage"
+		"de"		"Damage"
+	}
+	"Skills_Stamina"
+	{
+		"#format"	""
+		"en"		"Speed"
+		"de"		"Speed"
+	}
+	"Skills_Weapon_Drop"
+	{
+		"#format"	""
+		"en"		"Weapon Drop"
+		"de"		"Weapon Drop"
+	}
+	"Skills_Premium"
+	{
+		"#format"	""
+		"en"		"Premium Status"
+		"de"		"Premium Status"
+	}
+	"Skills_Gang_Chat"
+	{
+		"#format"	""
+		"en"		"Gang Chat"
+		"de"		"Gang Chat"
+	}
+	"Skills_Gang_Rename"
+	{
+		"#format"	""
+		"en"		"Gang Rename"
+		"de"		"Gang umbennen"
+	}
+	"Skills_Kevlar"
+	{
+		"#format"	""
+		"en"		"Kevlar"
+		"de"		"Kevlar"
+	}
+	"Skills_Gang_Tag"
+	{
+		"#format"	""
+		"en"		"Gang Tag"
+		"de"		"Gang Tag"
+	}
+	"Skills_Health_Regen_Amount"
+	{
+		"#format"	""
+		"en"		"Health Regen: Amount"
+		"de"		"Health Regen: Anzahl"
+	}
+	"Skills_Health_Regen_Rate"
+	{
+		"#format"	""
+		"en"		"Health Regen: Rate"
+		"de"		"Health Regen: Rate"
+	}
+	"Skills_Poison_Smoke"
+	{
+		"#format"	""
+		"en"		"Poison Smoke"
+		"de"		"Poison Smoke"
+	}
+	"Skills_Random_Pistol"
+	{
+		"#format"	""
+		"en"		"Random Pistol"
+		"de"		"Pistol"
+	}
+	"Skills_Frost_Pistol"
+	{
+		"#format"	""
+		"en"		"Frost Smoke"
+		"de"		"Frost Pistol"
+	}
+	"Skills_Vampire"
+	{
+		"#format"	""
+		"en"		"Vampire"
+		"de"		"Vampir"
+	}
+	"Skills_Vampire_Grenade"
+	{
+		"#format"	""
+		"en"		"Vampire Grenade"
+		"de"		"Vampir Grenade"
+	}
+	"Skills_Member"
+	{
+		"#format"	""
+		"en"		"Member"
+		"de"		"Mitglieder"
+	}
+	"Skills_Slow_Bang_Duration"
+	{
+		"#format"	""
+		"en"		"Slow Bang: Time"
+		"de"		"Slow Bang: Zeit"
+	}
+	"Skills_Slow_Bang_Strength"
+	{
+		"#format"	""
+		"en"		"Slow Bang: Strength"
+		"de"		"Slow Bang: Kraft"
+	}
+	"Skills_Extra_Bullets"
+	{
+		"#format"	""
+		"en"		"Reserve Ammo"
+		"de"		"Reserve Ammo"
+	}
+	"Skills_Kevlar_Regen_Amount"
+	{
+		"#format"	""
+		"en"		"Kevlar Regen: Amount"
+		"de"		"Kevlar Regen: Anzahl"
+	}
+	"Skills_Kevlar_Regen_Rate"
+	{
+		"#format"	""
+		"en"		"Kevlar Regen: Rate"
+		"de"		"Kevlar Regen: Rate"
+	}
+	"Skills_Throwing_Chance"
+	{
+		"#format"	""
+		"en"		"Throwing Knives: Chance"
+		"de"		"Throwing Knives: Chance"
+	}
+	"Skills_Throwing_Amount"
+	{
+		"#format"	""
+		"en"		"Throwing Knives: Amount"
+		"de"		"Throwing Knives: Anzahl"
+	}
+	"Skills_Knife_Push"
+	{
+		"#format"	""
+		"en"		"Knife Push"
+		"de"		"Knife Push"
+	}
+	"Skills_Ammo_Regen_Amount"
+	{
+		"#format"	""
+		"en"		"Ammo Regen: Amount"
+		"de"		"Ammo Regen: Anzahl"
+	}
+	"Skills_Ammo_Regen_Rate"
+	{
+		"#format"	""
+		"en"		"Ammo Regen: Rate"
+		"de"		"Ammo Regen: Rate"
+	}
+	"Skills_Flash_Resistance"
+	{
+		"#format"	""
+		"en"		"Flash Resistance"
+		"de"		"Flash Resistance"
+	}
+	"Skills_Respawn"
+	{
+		"#format"	""
+		"en"		"Respawn Chance"
+		"de"		"Respawn Chance"
+	}
+	"Skills_Adrenaline"
+	{
+		"#format"	""
+		"en"		"Adrenaline"
+		"de"		"Adrenalin"
+	}
+	"Skills_Shake_Nade_Duration"
+	{
+		"#format"	""
+		"en"		"Shake Nade: Duration"
+		"de"		"Shake Nade: Dauer"
+	}
+	"Skills_Shake_Nade_Strength"
+	{
+		"#format"	""
+		"en"		"Shake Nade: Strength"
+		"de"		"Shake Nade: Kraft"
+	}
+	//===========================================
+	//======List Gangs
+	//===========================================
+	"Menu_List_Title"
+	{
+		"#format"	""
+		"en"		"Select A Gang:\n---------------------------"
+		"de"		"Gang auswaehlen:\n---------------------------"
+	}
+	"Menu_List_Page"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Entries {1}-{2}"
+		"de"		"Eingang {1}-{2}"
+	}
+	"Menu_List_Empty"
+	{
+		"#format"	""
+		"en"		"No Gangs!"
+		"de"		"Keine Gangs!"
+	}
+	"Menu_List_Entry"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1}"
+		"de"		"{1}"
+	}
+
+	"Menu_Admin_Gang_Title"
+	{
+		"#format"	"{1:s}"
+		"en"		"Gang: {1}\n---------------------------"
+		"de"		"Gang: {1}\n---------------------------"
+	}
+	"Menu_Admin_Gang_View_Stats"
+	{
+		"#format"	""
+		"en"		"View Stats"
+		"de"		"Zeige Stats"
+	}
+	"Menu_Admin_Gang_Manage_Skills"
+	{
+		"#format"	""
+		"en"		"Manage Skills"
+		"de"		"Manage Skills"
+	}
+	"Menu_Admin_Gang_Manage_Members"
+	{
+		"#format"	""
+		"en"		"Manage Members"
+		"de"		"Manage Members"
+	}
+	"Menu_Admin_Gang_Invite_Members"
+	{
+		"#format"	""
+		"en"		"Invite Members"
+		"de"		"Member einladen"
+	}
+	"Menu_Admin_Gang_Delete"
+	{
+		"#format"	""
+		"en"		"Delete Gang"
+		"de"		"Loesche Gang"
+	}
+	"Menu_Admin_Gang_Delete_Title"
+	{
+		"#format"	"{1:s}"
+		"en"		"Delete {1}?\n---------------------------"
+		"de"		"Loesche {1}?\n---------------------------"
+	}
+
+	"Menu_Admin_Gang_Stats_Title"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Statistics\n---------------------------"
+		"de"		"{1} Statistiken\n---------------------------"
+	}
+	"Menu_Admin_Gang_Stats_Leader"
+	{
+		"#format"	"{1:s}"
+		"en"		"Leader: {1}"
+		"de"		"Leader: {1}"
+	}
+	"Menu_Admin_Gang_Stats_Admins"
+	{
+		"#format"	"{1:d}"
+		"en"		"Admins: {1}"
+		"de"		"Admins: {1}"
+	}
+	"Menu_Admin_Gang_Stats_Members"
+	{
+		"#format"	"{1:d}"
+		"en"		"Members: {1}"
+		"de"		"Members: {1}"
+	}
+	"Menu_Admin_Gang_Stats_Skills"
+	{
+		"#format"	"{1:d}"
+		"en"		"Skills: {1}"
+		"de"		"Skills: {1}"
+	}
+	"Menu_Admin_Gang_Stats_Cash"
+	{
+		"#format"	"{1:d}"
+		"en"		"Bank: ${1}"
+		"de"		"Bank: ${1}"
+	}
+	"Menu_Admin_Gang_Stats_Premium"
+	{
+		"#format"	"{1:d}"
+		"en"		"Premium: {1}"
+		"de"		"Premium: {1}"
+	}
+	"Menu_Admin_Gang_Empty"
+	{
+		"#format"	""
+		"en"		"Gang is Empty!"
+		"de"		"Gang is leer!"
+	}
+
+	"Menu_Admin_Gang_Members_Title"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Members\n---------------------------"
+		"de"		"{1} Members\n---------------------------"
+	}
+	"Menu_Admin_Gang_Members_Info_Title"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1}\n---------------------------"
+		"de"		"{1}\n---------------------------"
+	}
+	"Menu_Admin_Gang_Invite_Title"
+	{
+		"#format"	"{1:s}"
+		"en"		"Send Invite To {1}:"
+		"de"		"Sende Einladung zu {1}:"
+	}
+	"Menu_Admin_Gang_Members_Member"
+	{
+		"#format"	""
+		"en"		"Set Member"
+		"de"		"Setze Member"
+	}
+	"Menu_Admin_Gang_Members_Admin"
+	{
+		"#format"	""
+		"en"		"Set Admin"
+		"de"		"Setze Admin"
+	}
+	"Menu_Admin_Gang_Members_Leader"
+	{
+		"#format"	""
+		"en"		"Set Leader"
+		"de"		"Setze Leader"
+	}
+	"Menu_Admin_Gang_Members_Kick"
+	{
+		"#format"	""
+		"en"		"Kick From Gang"
+		"de"		"Kicke aus Gang"
+	}
+	"Menu_Admin_Gang_Members_Kick_Title"
+	{
+		"#format"	"{1:s}"
+		"en"		"Kick {1}?\n---------------------------"
+		"de"		"Kick {1}?\n---------------------------"
+	}
+
+	"Phrase_Admin_Gang_Members_Member"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} has been set to Gang Member."
+		"de"		"{1} ist nun Gang Member."
+	}
+	"Phrase_Admin_Gang_Members_Leader"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} has been set to Gang Leader."
+		"de"		"{1} ist nun Gang Leader."
+	}
+	"Phrase_Admin_Gang_Members_Admin"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} has been set to Gang Admin."
+		"de"		"{1} wurde zum Gang Admin gesetzt."
+	}
+	"Phrase_Admin_Gang_Kick"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} has been removed from {2}."
+		"de"		"{1} wurde von der Gang {2} entfernt."
+	}
+	"Phrase_Admin_Gang_Kick_Notify"
+	{
+		"#format"	"{1:s},{2:N}"
+		"en"		"You have been removed from {1} by {2}."
+		"de"		"Du wurdest von der Gang {1} von {2} entfernt."
+	}
+	"Phrase_Admin_Gang_Invite"
+	{
+		"#format"	"{1:s},{2:N}"
+		"en"		"An invitation to {1} has been sent to {2}."
+		"de"		"Eine Einladung zur Gang {1} wurde an {2} gesendet."
+	}
+	"Phrase_Admin_Gang_Invite_No_Players"
+	{
+		"#format"	""
+		"en"		"There are no players currently in-game without a gang!"
+		"de"		"Es gibt keine Spieler ohne Gang!"
+	}
+
+	"Menu_Admin_Gang_Skills_Title"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Skills\n---------------------------"
+		"de"		"{1} Skills\n---------------------------"
+	}
+	"Menu_Admin_Gang_Skills_Set_Title"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"{1}, Current: {2}\n---------------------------"
+		"de"		"{1}, Aktuell: {2}\n---------------------------"
+	}
+	"Phrase_Admin_Gang_Skills_Set"
+	{
+		"#format"	"{1:s},{2:s},{3:d}"
+		"en"		"You set {1}'s {2} to Level {3}."
+		"de"		"Du hast {1}'s {2} zu Level {3} gesezt.."
+	}
+
+	"Phrase_Admin_Gang_Delete_Notify"
+	{
+		"#format"	"{1:s}"
+		"en"		"The {1} gang has been deleted!"
+		"de"		"Die {1} gang wurde geloescht!"
+	}
+	"Phrase_Admin_Gang_Delete_Notify_Member"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Your gang {1} has been deleted by {2}!"
+		"de"		"Deine Gang {1} wurde geloescht von {2}!"
+	}
+	"Menu_Enable_Notifications"
+	{
+		"#format"	""
+		"en"		"Enable Notifications"
+		"de"		"Benachrichtigungen einschalten"
+	}
+	"Menu_Disable_Notifications"
+	{
+		"#format"	""
+		"en"		"Disable Notifications"
+		"de"		"Benachrichtigungen ausschalten"
+	}
+	"Phrase_Enable_Notifications"
+	{
+		"#format"	""
+		"en"		"Notifications for gang skills have been enabled."
+		"de"		"Benachrichtigungen wurden aktiviert."
+	}
+	"Phrase_Disable_Notifications"
+	{
+		"#format"	""
+		"en"		"Notifications for gang skills have been disabled."
+		"de"		"Benachrichtigungen wurden deaktiviert."
+	}
+	"Skills_Participation"
+	{
+		"#format"	""
+		"en"		"Participation"
+		"de"		"Time-Cash"
+	}
+	"Skills_Murderer"
+	{
+		"#format"	""
+		"en"		"Murderer"
+		"de"		"Kill-Cash"
+	}
+	"Phrase_Notify_Attacker_Weapon_Drop"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"		"You caused {1} to drop their {2}!"
+		"de"		"Du hast {1} gezwungen seine Waffe({2}) fallen zu lassen!"
+	}
+	"Phrase_Notify_Victim_Weapon_Drop"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"		"{1} caused you to drop your {2}!"
+		"de"		"{1} hat die gezwungen deine Waffe({2}) fallen zu lassen!"
+	}
+	"Phrase_Notify_Respawn"
+	{
+		"#format"	""
+		"en"		"Your Gang Respawn skill has revived you!"
+		"de"		"Dein Gang Skill Respawn hat dich wiederbelebt!"
+	}
+	"Phrase_Notify_Adrenaline"
+	{
+		"#format"	"{1:.0f}"
+		"en"		"Your low health has triggered a {1} percent speed boost!"
+		"de"		"Du hast einen Adrenalin Boost bekommen({1} Speed)!"
+	}
+	"Phrase_Notify_Adrenaline_Disable"
+	{
+		"#format"	""
+		"en"		"The adrenaline rush has worn off..."
+		"de"		"Der Adrenalinschub ist vorbei."
+	}
+	"Phrase_Notify_Throwing_Knives"
+	{
+		"#format"	"{1:d}"
+		"en"		"You've spawned with {1} Throwing Knives!"
+		"de"		"Du bist mit {1} Throwing Knives gespawnt!"
+	}
+	"Phrase_Notify_Random_Pistol"
+	{
+		"#format"	"{1:s}"
+		"en"		"Your Random Pistol skill has given you a {1}!"
+		"de"		"Du hast eine {1} bekommen!"
+	}
+	"Phrase_Notify_Award_Points"
+	{
+		"#format"	"{1:d}"
+		"en"		"You've received {1} gang points for playing!"
+		"de"		"Du hast {1}$ fuer deine Spielzeit bekommen!"
+	}
+	"Phrase_View_Own_Points"
+	{
+		"#format"	"{1:d}"
+		"en"		"You currently have {1} points. Use !transfer <amount> to give points to your gang!"
+		"de"		""
+	}
+}

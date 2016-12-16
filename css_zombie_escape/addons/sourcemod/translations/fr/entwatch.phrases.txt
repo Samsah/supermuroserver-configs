@@ -1,0 +1,27 @@
+﻿"Phrases"
+{
+	"welcome"
+	{
+		"en"		"Tapez !hud pour activer le HUD - Plugin par"
+	}
+	"use"
+	{
+		"en"		"a utilisé"
+	}
+	"pickup"
+	{
+		"en"		"a pris"
+	}
+	"drop"
+	{
+		"en"		"a jeté"
+	}
+	"death"
+	{
+		"en"		"est mort avec"
+	}
+	"disconnect"
+	{
+		"en"		"se déconnecta avec"
+	}
+}

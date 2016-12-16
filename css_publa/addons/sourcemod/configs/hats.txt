@@ -1,0 +1,184 @@
+///////////////////////////////////////////////////
+//------------------ HAT CONFIG -----------------//
+///////////////////////////////////////////////////
+//                                               //
+//          "Hat Name"                           //
+//        {                                      //
+//          "model"    "model location/reset"    //
+//          "offset"   "#.# #.# #.#"             //
+//        }                                      //
+//                                               //
+///////////////////////////////////////////////////
+
+
+
+"Hats"
+{
+	"Reset"
+	{
+		"model"		"reset"
+		"offset"	""
+		"angles"	""
+		"flags"		""
+	}
+
+    "Car Tire"
+	{
+		"model"		"models/props_vehicles/tire001c_car.mdl"
+		"offset"	"0.0 -10.0 0.0"
+		"angles"	"90.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Helmet"
+    {
+        "model"		"models/BarneyHelmet_faceplate.mdl"
+		"offset"	"0.0 0.0 2.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Watermelon"
+	{
+		"model"		"models/props_junk/watermelon01.mdl"
+		"offset"	"0.0 0.0 5.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Traffic Cone"
+	{
+		"model"		"models/props_junk/trafficcone001a.mdl"
+		"offset"	"0.0 -1.0 20.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Baseball Cap"
+	{
+		"model"		"models/props/cs_office/snowman_hat.mdl"
+		"offset"	"0.0 0.0 7.0"
+		"angles"	"0.0 -90.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Coffee Mug"
+	{
+		"model"		"models/props/cs_office/coffee_mug.mdl"
+		"offset"	"0.0 0.0 9.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Cap"
+	{
+		"model"		"models/props/de_tides/vending_hat.mdl"
+		"offset"	"2.0 -1.0 5.0"
+		"angles"	"0.0 -90.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Radio"
+	{
+		"model"		"models/props/cs_office/radio.mdl"
+		"offset"	"0.0 0.0 8.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"Konjakki bottle"
+	{
+		"model"		"models/props_junk/glassjug01.mdl"
+		"offset"	"0.0 0.0 8.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"a"
+	}
+	
+	"ES powah"
+	{
+		"model"		"models/props_junk/popcan01a.mdl"
+		"offset"	"0.0 0.0 11.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"d"
+	}
+	
+	"Kahvikuppi"
+	{
+		"model"		"models/props_junk/garbage_coffeemug001a.mdl"
+		"offset"	"0.0 0.0 -12.0"
+		"angles"	"180.0 0.0 0.0"
+		"flags"		"d"
+	}
+	
+	"Rapu"
+	{
+		"model"		"models/headcrabclassic.mdl"
+		"offset"	"0.0 0.0 -5.0"
+		"angles"	"25.0 0.0 0.0"
+		"flags"		"a"
+	}
+
+	"Skull"
+	{
+		"model"		"models/gibs/hgibs.mdl"
+		"offset"	"0.0 0.0 1.8"
+		"angles"	"22.5 0.0 0.0"
+		"flags"		"a"
+	}
+	"Car Tire"
+	{
+		"model"		"models/props_vehicles/tire001c_car.mdl"
+		"offset"	"0.0 -10.0 0.0"
+		"angles"	"90.0 0.0 0.0"
+		"flags"		"d"
+	}
+	
+	"Watermelon"
+	{
+		"model"		"models/props_junk/watermelon01.mdl"
+		"offset"	"0.0 0.0 5.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"d"
+	}
+	
+	"Traffic Cone"
+	{
+		"model"		"models/props_junk/trafficcone001a.mdl"
+		"offset"	"0.0 -1.0 20.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"d"
+	}
+	
+	"Baseball Cap"
+	{
+		"model"		"models/props/cs_office/snowman_hat.mdl"
+		"offset"	"0.0 0.0 7.0"
+		"angles"	"0.0 -90.0 0.0"
+		"flags"		""
+	}
+	
+	"Coffee Mug"
+	{
+		"model"		"models/props/cs_office/coffee_mug.mdl"
+		"offset"	"0.0 0.0 9.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"d"
+	}
+	
+	"Cap"
+	{
+		"model"		"models/props/de_tides/vending_hat.mdl"
+		"offset"	"2.0 -1.0 5.0"
+		"angles"	"0.0 -90.0 0.0"
+		"flags"		"d"
+	}
+	
+	"Radio"
+	{
+		"model"		"models/props/cs_office/radio.mdl"
+		"offset"	"0.0 0.0 8.0"
+		"angles"	"0.0 0.0 0.0"
+		"flags"		"d"
+	}
+	
+}

@@ -1,0 +1,141 @@
+"Phrases"
+{
+	"ct switch"
+	{
+		"en"		" You are being switched to the counter terrorist team"
+		"pl"		" Zostałeś/aś przeniesiony/a do Drużyny CT"
+		"ru"		" Вы были перенесены за команду контр террористов"
+		"de"		" Du wurdest in das Counter Terroristen Team gewechselt"
+		"sv"		" Du blir flyttad till antiterroristlaget"
+	}
+	"t switch"
+	{
+		"en"		" You are being switched to the terrorist team"
+		"pl"		" Zostałeś/aś przeniesiony/a do Drużyny T"
+		"ru"		" Вы были перенесены за команду террористов"
+		"de"		" Du wurdest in das Terroisten Team gewechselt"
+		"sv"		" Du blir flyttad till terroristlaget"
+	}
+	"pending"
+	{
+		"en"		" The team balance is pending"
+		"pl"		" Balansowanie w oczekiwaniu"
+		"ru"		" Балансировка команд"
+		"de"		" Die Teambalance ist unausgewogen"
+		"sv"		" Lagbalanseraren arbetar"
+	}
+	"balanced"
+	{
+		"en"		" The teams appear to be balanced"
+		"pl"		" Drużyny są zbalansowane"
+		"ru"		" Команды сбалансированы"
+		"de"		" Die Teams scheinen ausgeglichen"
+		"sv"		" Lagen verkar se jämna ut"
+	}
+	"not balanced"
+	{
+		"en"		" The teams are not balanced"
+		"pl"		" Drużyny są nierówne"
+		"ru"		" Команды не сбалансированы"
+		"de"		" Die Teams sind nicht ausgeglichen"
+		"sv"		" Lagen är ojämna"
+	}
+	"unbalanceable"
+	{
+		"en"		" The teams cannot be balanced"
+		"pl"		" Nie ma możliwości wyrównania Drużyn"
+		"ru"		" Команды не могут быть сбалансированы"	
+		"de"		" Die Teams konnten nicht ausgeglichen werden"
+		"sv"		" Lagen kan inte balanseras"
+	}
+	"team management menu"
+	{
+		"en"		"Team Management"
+		"pl"		"Zarządzanie Drużynami"
+		"sv"		"Laghantering"
+	}
+	"swap teams"
+	{
+		"en"		"Swap Teams"
+		"pl"		"Zamień Drużyny"
+		"sv"		"Byta lag"
+	}
+	"switch player"
+	{
+		"en"		"Switch Player"
+		"pl"		"Przerzuć Gracza"
+		"sv"		"Flytta över spelare"
+	}
+	"switch player next"
+	{
+		"en"		"Switch Player Next Round"
+		"pl"		"Przerzuć Gracza w następnej Rundzie"
+		"sv"		"Flytta över spelare nästa runda"
+	}
+	"announce preferences"
+	{
+		"en"		"Announce Preferences"
+		"pl"		"Ustawienia Ogłoszeń"
+		"sv"		"Egenskaper för tillkännagivande"
+	}
+	"maintain size on"
+	{
+		"en"		"Turn Maintain Size On"
+		"pl"		"Włącz Utrzymywanie Liczebności"
+		"sv"		"Aktivera storlekshantering"
+	}
+	"maintain size off"
+	{
+		"en"		"Turn Maintain Size Off"
+		"pl"		"Wyłącz Utrzymywanie Liczebności"
+		"sv"		"Avaktivera storlekshantering"
+	}
+	"control joins on"
+	{
+		"en"		"Turn Control Joins On"
+		"pl"		"Włącz Kontrolę Przyłączeń"
+		"sv"		"Aktivera kontroll vid anslutning"
+	}
+	"control joins off"
+	{
+		"en"		"Turn Control Joins Off"
+		"pl"		"Wyłącz Kontrolę Przyłączeń"
+		"sv"		"Avaktivera kontroll vid anslutning"
+	}
+	"enable balancer"
+	{
+		"en"		"Enable Team Balancing"
+		"pl"		"Włącz Balanser"
+		"sv"		"Aktivera lagbalansering"
+	}
+	"disable balancer"
+	{
+		"en"		"Disable Team Balancing"
+		"pl"		"Wyłącz Balansera"
+		"sv"		"Avaktivera lagbalansering"
+	}
+	"kdr panel"
+	{
+		"en"		"Kill/Death Ratio Panel"
+		"pl"		"Panel Statystyk"
+		"sv"		"Hantering av mord-/dödsfallsförhållande"
+	}
+	"internal stats"
+	{
+		"en"		"Internal Stats"
+		"pl"		"Statystyki Wewnętrzne"
+		"sv"		"Intern statistik"
+	}
+	"display stats"
+	{
+		"en"		"Display Stats"
+		"pl"		"Pokaż Statystyki"
+		"sv"		"Visa statistik"
+	}
+	"dump settings"
+	{
+		"en"		"Save Settings"
+		"pl"		"Zapisz Ustawienia"
+		"sv"		"Spara inställningar"
+	}
+}

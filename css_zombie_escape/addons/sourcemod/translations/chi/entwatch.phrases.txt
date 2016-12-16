@@ -1,0 +1,27 @@
+﻿"Phrases"
+{
+	"welcome"
+	{
+		"chi"		"在聊天框输入!hud 来切换HUD的显示开关 - 插件作者:"
+	}
+	"use"
+	{
+		"chi"		"使用了"
+	}
+	"pickup"
+	{
+		"chi"		"拾起了"
+	}
+	"drop"
+	{
+		"chi"		"丢掉了"
+	}
+	"death"
+	{
+		"chi"		"死亡且扔掉了"
+	}
+	"disconnect"
+	{
+		"chi"		"离开了服务器,此时他持有"
+	}
+}

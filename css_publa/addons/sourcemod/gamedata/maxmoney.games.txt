@@ -1,0 +1,38 @@
+"Games"
+{
+	"cstrike"
+	{
+		"Addresses"
+		{
+			"AddAccount"
+			{
+				"windows"
+				{
+					"signature"	"AddAccount_Sig"			
+				}
+				"linux"
+				{
+					"signature"	"AddAccount_Sig"
+				}
+			}
+		}
+		"Signatures"
+		{
+			"AddAccount_Sig"
+			{
+				"library"	"server"
+				"windows"	"\x55\x8B\xEC\x83\xEC\x2C\x89\x4D\xD4\x8B\x45\xD4\x05\x2A\x2A\x00\x00"
+				"linux"		"@_ZN9CCSPlayer10AddAccountEibbPKc"
+			}
+
+		}
+		"Offsets"
+		{
+			"AddAccountLen"
+			{
+				"windows"		"270"
+				"linux"			"1170"
+			}
+		}
+	}
+}

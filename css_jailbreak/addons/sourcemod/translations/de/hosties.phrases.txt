@@ -1,0 +1,307 @@
+"Phrases"
+{
+	"Knife Fight"
+	{
+		"de"		"Knife Fight"
+	}
+	"Shot4Shot"
+	{
+		"de"		"Deagle Roulette"
+	}
+	"Gun Toss"
+	{
+		"de"		"Deagle Weitwurf"
+	}
+	"Chicken Fight"
+	{
+		"de"		"Chicken Fight"
+	}
+	"Hot Potato"
+	{
+		"de"		"Heiße Kartoffel"
+	}
+	"Dodgeball"
+	{
+		"de"		"Dodgeball"
+	}
+	"No Scope Battle"
+	{
+		"de"		"No Scope Duell"
+	}
+	"Rock Paper Scissors"
+	{
+		"de"		"Schere Stein Papier"
+	}
+	"Already Dropped Deagle"
+	{
+		"de"		"Du hast deine Deagle schon fallen gelassen!"
+	}
+	"Hot Potato PickUp"
+	{
+		"de"		"{1} hat die heiße Kartoffel aufgenommen!"
+	}
+	"Powered By Hosties"
+	{
+		"de"		"Auf diesem Server läuft das Hosties plugin"
+	}
+	"Please Follow Rules"
+	{
+		"de"		"Lies dir hier die Regeln durch: !rules."
+	}
+	"Knife Fight Gun Attack Slay"
+	{
+		"de"		"{1} wurde wegen des angriffs auf {2} mit einer {3} während eines Knife Fights geslayt."
+	}
+	"Knife Fight Gun Attack Abort"
+	{
+		"de"		"{1} griff {2} mit einer {3} an - Knife Fight abgebrochen."
+	}
+	"Chicken Fight Gun Attack Slay"
+	{
+		"de"		"{1} wurde wegen des angriffs auf {2} mit einer {3} während eines Chicken Fights geslayt."
+	}
+	"Chicken Fight Gun Attack Abort"
+	{
+		"de"		"{1} griff {2} mit einer {3} an - Chicken Fight abgebrochen."
+	}
+	"Hot Potato Attack Slay"
+	{
+		"de"		"{1} wurde wegen des angriffs auf {2} während einem 'Heiße Kartoffel' Kampf geslayt."
+	}
+	"Hot Potato Attack Abort"
+	{
+		"de"		"{1} griff {2} an - 'Heiße Kartoffel' abgebrochen."
+	}
+	"New Rebel"
+	{
+		"de"		"{1} ist nun ein Rebell."
+	}
+	"Freeattack"
+	{
+		"de"		"{1} hat {2} angegriffen."
+	}
+	"Non LR Kill LR Slay"
+	{
+		"de"		" {1} wurde geslayt, da {2} während seines Wunsches getötet wurde."
+	}
+	"Non LR Kill LR Abort"
+	{
+		"de"		"{1} tötete {2} Wunsch abgebrochen."
+	}
+	"Rebel Kill"
+	{
+		"de"		"{1} hat den Rebellen {2} getötet."
+	}
+	"LR Available"
+	{
+		"de"		"Ts können ihren Wunsch nun mit !lr oder über den Chat äußern."
+	}
+	"LR Player Disconnect"
+	{
+		"de"		"{1} hat den Server verlassen - Spiel abgebrochen."
+	}
+	"Chicken Fight Win And Slay"
+	{
+		"de"		"{1} hat den Chicken Fight gewonnen - {2} wurde getötet."
+	}
+	"Chicken Fight Win"
+	{
+		"de"		"{1} hat den Chicken Fight gewonnen."
+	}
+	"Chicken Fight Kill Loser"
+	{
+		"de"		"Töte {1}!"
+	}
+	"S4S Double Shot Slay"
+	{
+		"de"		"{1} wurde wegen mehrmaligen Feuerns getötet."
+	}
+	"S4S Double Shot Abort"
+	{
+		"de"		"{1} 2 Schüsse hintereinander abgegeben - Roulette abgebrochen."
+	}
+	"S4S Shot Taken"
+	{
+		"de"		"{1} hat geschossen!"
+	}
+	"Distance Meter"
+	{
+		"de"		"Distanz meter:"
+	}
+	"LR Rebel Not Allowed"
+	{
+		"de"		"Wenn du ein Rebell bist, hast du keinen Wunsch!"
+	}
+	"LR Choose"
+	{
+		"de"		"Wähle deinen Wunsch!"
+	}
+	"No CTs Alive"
+	{
+		"de"		"Es gibt keine (lebenden) CTs, die deinen Wunsch erfüllen können."
+	}
+	"Too Many Ts"
+	{
+		"de"		"Es gibt für zu viele Terroristen um einen Wunsch zu äußern!"
+	}
+	"Not Alive Or In Wrong Team"
+	{
+		"de"		"Du bist entweder Tot oder im falschen Team um einen Wunsch zu äußern."
+	}
+	"Another LR In Progress"
+	{
+		"de"		"Ein T hat schon seinen Wunsch geäußert; Versuche es später nocheinmal."
+	}
+	"LR Disabled"
+	{
+		"de"		"Tut uns Leid, Wünsche sind zur Zeit deaktiviert."
+	}
+	"Choose A Player"
+	{
+		"de"		"Wähle einen Spieler"
+	}
+	"Rebel Ask CT For LR"
+	{
+		"de"		"Rebell {1} möchte einen {2} mit dir machen. Annehmen?"
+	}
+	"Yes"
+	{
+		"de"		"Ja"
+	}
+	"No"
+	{
+		"de"		"Nein"
+	}
+	"Asking For Permission"
+	{
+		"de"		"{1} wird über deinen Wunsch befragt, da du ein Rebell bist."
+	}
+	"Target Is Not Alive Or In Wrong Team"
+	{
+		"de"		"Der Spieler ist entweder Tot oder im falschen Team."
+	}
+	"Declined LR Request"
+	{
+		"de"		"{1} hat deinen Wunsch abgelehnt."
+	}
+	"LR Partner Died"
+	{
+		"de"		"Dein Wunsch-Partner wurde getötet."
+	}
+	"Too Slow Another LR In Progress"
+	{
+		"de"		"Zu langsam, der Wunsch eines anderen ist bereits aktiv!"
+	}
+	"LR Request Decline Or Too Long"
+	{
+		"de"		"{1} hat deiner Anfrage nicht zugestimmt."
+	}
+	"LR KF Start"
+	{
+		"de"		"{1} will einen Knife Fight mit {2} machen."
+	}
+	"LR S4S Start"
+	{
+		"de"		"{1} will ein Deagle Roulette mit {2} machen."
+	}
+	"LR GT Start"
+	{
+		"de"		"{1} will einen Deagle Weitwurf mit  {2} machen."
+	}
+	"LR CF Start"
+	{
+		"de"		"{1} will einen mit  {2} einen Chicken Fight haben."
+	}
+	"LR HP Start"
+	{
+		"de"		"{1} will mit  {2} 'Heiße Kartoffel' Spielen."
+	}
+	"LR DB Start"
+	{
+		"de"		"{1} will mit {2} Dodgeball spielen."
+	}
+	"LR NS Start"
+	{
+		"de"		"{1} will ein No Scope Duell mit {2} machen."
+	}
+	"LR RPS Start"
+	{
+		"de"		"{1} spielt mit {2} Schere Stein Papier."
+	}
+	"No Rebels ATM"
+	{
+		"de"		"Zur Zeit gibt es keine Rebellen."
+	}
+	"Rebelling Terrorists"
+	{
+		"de"		"Rebellen:"
+	}
+	"CheckPlayers CMD Disabled"
+	{
+		"de"		"!checkplayers wurde auf diesem Server deaktiviert."
+	}
+	"Server Rules"
+	{
+		"de"		"Server Regeln:"
+	}
+	"HP Win"
+	{
+		"de"		"{1} hat 'Heiße Kartoffel' gewonnen - {2} wurde geslayt."
+	}
+	"HP Last One To Have The Potato"
+	{
+		"de"		"Du bist der Letzte mit einer heißen Kartoffel!"
+	}
+	"Ts Muted"
+	{
+		"de"		"Terroristen sind für die ersten {1} Sekunden gemuted!"
+	}
+	"Ts Can Speak Again"
+	{
+		"de"		"Terroristen können nun sprechen... leise..."
+	}
+	"T Now Muted"
+	{
+		"de"		"Du bist nun gemuted, sobald du wieder lebst, wirst du ent-muted."
+	}
+	"NS Weapon Chooser Menu"
+	{
+		"de"		"Wähle eine Waffe für das No Scope Duell:"
+	}
+	"CT Attack T Gun"
+	{
+		"de"		"{1} hat {2}, welcher eine Waffe hat, angegriffen"
+	}
+	"Rock"
+	{
+		"de"		"Stein"
+	}
+	"Paper"
+	{
+		"de"		"Papier"
+	}
+	"Scissors"
+	{
+		"de"		"Schere"
+	}
+	"LR RPS No Answer"
+	{
+		"de"		"{1} hatte keine Lust, oder hat sich nicht rechtzeitig entschieden!"
+	}
+	"LR RPS Done"
+	{
+		"de"		"{1}: {2}! {3}: {4}! - {5} hat gewonnen"
+	}
+	"LR RPS Tie"
+	{
+		"de"		"{1}: {2}! {3}: {4}! - kein Gewinner---"
+	}
+	"LR Not With Bot"
+	{
+		"de"		"Bots sind für dieses Spiel zu dumm... leider."
+	}
+	"LR Not Available"
+	{
+		"de"		"Du kannst jetzt keinen Wunsch äußern!"
+	}
+}

@@ -1,0 +1,307 @@
+"Phrases"
+{
+	"Knife Fight"
+	{
+		"pl"		"Walka Na Noże"
+	}
+	"Shot4Shot"
+	{
+		"pl"		"Strzał za Strzał"
+	}
+	"Gun Toss"
+	{
+		"pl"		"Rzut Bronią"
+	}
+	"Chicken Fight"
+	{
+		"pl"		"Walka Kurczaków"
+	}
+	"Hot Potato"
+	{
+		"pl"		"Gorący Ziemniak"
+	}
+	"Dodgeball"
+	{
+		"pl"		"Dwa Ognie"
+	}
+	"No Scope Battle"
+	{
+		"pl"		"Walka Bez Celowników"
+	}
+	"Rock Paper Scissors"
+	{
+		"pl"		"Papier, kamień, nożyce"
+	}
+	"Already Dropped Deagle"
+	{
+		"pl"		"Już rzuciłeś swoim deaglem!"
+	}
+	"Hot Potato PickUp"
+	{
+		"pl"		"{1} podniósł gorącego ziemniaka!"
+	}
+	"Powered By Hosties"
+	{
+		"pl"		"Serwer wspierany jest przez plugin Hosties dla SM, dobrej zabawy!"
+	}
+	"Please Follow Rules"
+	{
+		"pl"		"Prosimy stosować się do zasad zamieszczonych w !rules."
+	}
+	"Knife Fight Gun Attack Slay"
+	{
+		"pl"		"{1} został zgładzony za zaatakowanie {2} z {3} podczas Walki Na Noże."
+	}
+	"Knife Fight Gun Attack Abort"
+	{
+		"pl"		"{1} zaatakował {2} z {3} - Walka Na Noże przerwana."
+	}
+	"Chicken Fight Gun Attack Slay"
+	{
+		"pl"		"{1} został zgładzony za zaatakowanie {2} z {3} podczas Walki Kurczaków."
+	}
+	"Chicken Fight Gun Attack Abort"
+	{
+		"pl"		"{1} zaatakował {2} z {3} - Walka Kurczaków przerwana."
+	}
+	"Hot Potato Attack Slay"
+	{
+		"pl"		"{1} został zgładzony za zaatakowanie {2} podczas zawodów w Gorącego Ziemniaka."
+	}
+	"Hot Potato Attack Abort"
+	{
+		"pl"		"{1} zaatakował {2} - zawody w Gorącego Ziemniaka przerwane."
+	}
+	"New Rebel"
+	{
+		"pl"		"{1} stał się buntownikiem."
+	}
+	"Freeattack"
+	{
+		"pl"		"{1} zaatakował {2}."
+	}
+	"Non LR Kill LR Slay"
+	{
+		"pl"		"Gracz {1} został zgładzony za zabicie LR-gracza {2}."
+	}
+	"Non LR Kill LR Abort"
+	{
+		"pl"		"Gracz {1} zabił LR-gracza {2} - LR przerwane."
+	}
+	"Rebel Kill"
+	{
+		"pl"		"{1} zabił buntownika {2}."
+	}
+	"LR Available"
+	{
+		"pl"		"Terroryści mogą teraz wpisać !lr, by mieć ostatnie życzenie."
+	}
+	"LR Player Disconnect"
+	{
+		"pl"		"LR-gracz {1} rozłączył się - LR przerwane."
+	}
+	"Chicken Fight Win And Slay"
+	{
+		"pl"		"{1} wygrał Walkę Kurczaków - {2} został zgładzony."
+	}
+	"Chicken Fight Win"
+	{
+		"pl"		"{1} wygrał Walkę Kurczaków."
+	}
+	"Chicken Fight Kill Loser"
+	{
+		"pl"		"Zabij {1}!"
+	}
+	"S4S Double Shot Slay"
+	{
+		"pl"		"{1} został zgładzony z powodu strzelenia dwa razy podczas gry Strzał za Strzał."
+	}
+	"S4S Double Shot Abort"
+	{
+		"pl"		"{1} strzelił 2 razy - gra Strzał za Strzał przerwana."
+	}
+	"S4S Shot Taken"
+	{
+		"pl"		"{1} wykorzystał swój strzał."
+	}
+	"Distance Meter"
+	{
+		"pl"		"Miernik odległości:"
+	}
+	"LR Rebel Not Allowed"
+	{
+		"pl"		"Nie możesz skorzystać z LR, gdy jesteś buntownikiem."
+	}
+	"LR Choose"
+	{
+		"pl"		"Wybierz ostatnie życzenie"
+	}
+	"No CTs Alive"
+	{
+		"pl"		"Nie ma już CT (żywych), z którymi mógłbyś wybrać LR."
+	}
+	"Too Many Ts"
+	{
+		"pl"		"Nie możesz użyć LR, ponieważ jest za dużo terrorystów!"
+	}
+	"Not Alive Or In Wrong Team"
+	{
+		"pl"		"Nie żyjesz lub jesteś w złej drużynie, by móc skorzystać z LR."
+	}
+	"Another LR In Progress"
+	{
+		"pl"		"W trakcie jest już LR. Spróbuj ponownie później."
+	}
+	"LR Disabled"
+	{
+		"pl"		"Przepraszamy, ostatnie życzenia zostały zablokowane na tym serwerze."
+	}
+	"Choose A Player"
+	{
+		"pl"		"Wybierz gracza"
+	}
+	"Rebel Ask CT For LR"
+	{
+		"pl"		"Buntownik {1} chce mieć z tobą {2}. Akceptujesz?"
+	}
+	"Yes"
+	{
+		"pl"		"Tak"
+	}
+	"No"
+	{
+		"pl"		"Nie"
+	}
+	"Asking For Permission"
+	{
+		"pl"		"Oczekiwanie na odpowiedź od {1} z powodu bycia buntownikiem..."
+	}
+	"Target Is Not Alive Or In Wrong Team"
+	{
+		"pl"		"Wybrany gracz nie żyje lub jest w złej drużynie dla LR."
+	}
+	"Declined LR Request"
+	{
+		"pl"		"{1} anulował twoją prośbę o LR."
+	}
+	"LR Partner Died"
+	{
+		"pl"		"Twój LR partner nie żyje."
+	}
+	"Too Slow Another LR In Progress"
+	{
+		"pl"		"Ups, za wolno. W trakcie jest już inne LR."
+	}
+	"LR Request Decline Or Too Long"
+	{
+		"pl"		"{1} anulował twoją prośbę o LR lub zabrało to za dużo czasu na odpowiedź."
+	}
+	"LR KF Start"
+	{
+		"pl"		"{1} wybrał {2} do Walki Na Noże."
+	}
+	"LR S4S Start"
+	{
+		"pl"		"{1} wybrał {2} do Strzał za Strzał."
+	}
+	"LR GT Start"
+	{
+		"pl"		"{1} wybrał Rzut Bronią z {2}."
+	}
+	"LR CF Start"
+	{
+		"pl"		"{1} wybrał Walkę Kurczaków z {2}."
+	}
+	"LR HP Start"
+	{
+		"pl"		"{1} wybrał Gorącego Ziemniaka z {2}."
+	}
+	"LR DB Start"
+	{
+		"pl"		"{1} wybrał Dwa Ognie z {2}."
+	}
+	"LR NS Start"
+	{
+		"pl"		"{1} wybrał Walkę Bez Celowników z {2}."
+	}
+	"LR RPS Start"
+	{
+		"pl"		"{1} wybrał Papier, kamień, nożyce z {2}."
+	}
+	"No Rebels ATM"
+	{
+		"pl"		"Aktualnie nie ma żadnych zbuntowanych terrorystów."
+	}
+	"Rebelling Terrorists"
+	{
+		"pl"		"Zbuntowani terroryści:"
+	}
+	"CheckPlayers CMD Disabled"
+	{
+		"pl"		"Komenda !checkplayers jest zablokowana na tym serwerze."
+	}
+	"Server Rules"
+	{
+		"pl"		"Zasady serwera:"
+	}
+	"HP Win"
+	{
+		"pl"		"{1} wygrał zawody w Gorącego Ziemniaka - {2} został zgładzony."
+	}
+	"HP Last One To Have The Potato"
+	{
+		"pl"		"Byłeś ostatnią osobą, która miała ziemniaka!"
+	}
+	"Ts Muted"
+	{
+		"pl"		"Terroryści zostali wyciszeni na pierwsze {1} sekund trwania rundy!"
+	}
+	"Ts Can Speak Again"
+	{
+		"pl"		"Terroryści mogą już mówić... po cichu..."
+	}
+	"Now Muted"
+	{
+		"pl"		"Zostałeś wyciszony do końca trwania rundy."
+	}
+	"NS Weapon Chooser Menu"
+	{
+		"pl"		"Proszę wybrać broń do Walki Bez Celowników:"
+	}
+	"CT Attack T Gun"
+	{
+		"pl"		"{1} zaatakował {2}, który miał broń..."
+	}
+	"Rock"
+	{
+		"pl"		"Kamień"
+	}
+	"Paper"
+	{
+		"pl"		"Papier"
+	}
+	"Scissors"
+	{
+		"pl"		"Nożyce"
+	}
+	"LR RPS No Answer"
+	{
+		"pl"		"{1} nie wybrał papieru, kamienia lub nożyc, bądź nie zrobił tego na czas."
+	}
+	"LR RPS Done"
+	{
+		"pl"		"{1} wybrał {2}, {3} wybrał {4} - {5} wygrał"
+	}
+	"LR RPS Tie"
+	{
+		"pl"		"{1} wybrał {2}, {3} wybrał {4} - remis"
+	}
+	"LR Not With Bot"
+	{
+		"pl"		"Przepraszamy, nie możesz mieć LR z botem."
+	}
+	"LR Not Available"
+	{
+		"pl"		"W tej chwili nie możesz wybrać ostatniego życzenia."
+	}
+}

@@ -1,0 +1,42 @@
+﻿"Phrases"
+{
+	//Unrequested bomb
+	"Unrequested"
+	{
+		"#format"		"{1:s}{2:s}{3:s}{4:s}"
+		"en"			"No one requested the bomb. You can do so by saying {1}!requestbomb {2}(or {3}!rb{4})."
+		"fr"			"Personne n'a demandé la bombe. Vous pouvez faire cela en disant {1}!requestbomb {2}(ou {3}!rb{4})."
+	}
+	//Request-related
+	"Already requesting"
+	{
+		"#format"		""
+		"en"			"You already are requesting the bomb."
+		"fr"			"Vous êtes présentement en demande de la bombe."
+	}
+	"Now eligible"
+	{
+		"#format"		""
+		"en"			"You now are eligible to receive the bomb next round."
+		"fr"			"Vous êtes désormais éligible pour recevoir la bombe au prochain tour."
+	}
+	"Teamate requests"
+	{
+		"#format"		"{1:s}{2:N}{3:s}{4:s}{5:s}{6:s}{7:s}"
+		"en"			"Your teamate {1}{2} {3}requested the bomb for the upcoming round by saying {4}!requestbomb {5}(or {6}!rb{7})."
+		"fr"			"Votre coéquipier {1}{2} {3}demande la bombe pour le prochain tour en disant {4}!requestbomb {5}(ou {6}!rb{7})."
+	}
+	//Give-related
+	"Receive bomb"
+	{
+		"#format"		""
+		"en"			"You've receive the bomb as requested."
+		"fr"			"Vous recevez la bombe comme demandé."
+	}
+	"Teamate receive"
+	{
+		"#format"		"{1:s}{2:N}{3:s}"
+		"en"			"Your teamate {1}{2} {3}got luckier than you and received the bomb!"
+		"fr"			"Votre coéquipier {1}{2} {3}a été plus chanceux que vous et a reçu la bombe!"
+	}
+}

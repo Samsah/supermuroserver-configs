@@ -1,0 +1,33 @@
+"entities"
+{
+        "0"
+        {
+		"desc"			"Red LightSaber"
+		"short_desc"		"Red Saber"
+		"color"			"ff0000"
+		"name"			"saber_deagle2"
+		"exactname"			"true"
+		"singleactivator"		"true"
+		"type"			"weapon_deagle"
+		"button_type"		"func_button"
+		"chat"			"true"
+		"hud"			"true"
+		"mode"			"1" 
+		"cooldown"		"20"		
+        }
+        "1"
+        {
+		"desc"			"Blue LightSaber"
+		"short_desc"		"Blue Saber"
+		"color"			"0000ff"
+		"name"			"saber_deagle"
+		"exactname"			"true"
+		"singleactivator"		"true"
+		"type"			"weapon_deagle"
+		"button_type"		"func_button"
+		"chat"			"true"
+		"hud"			"true"
+		"mode"			"1"
+		"cooldown"		"20"
+        }
+}

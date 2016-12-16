@@ -1,0 +1,104 @@
+"Phrases"
+{
+	"GameVoting_Reset_Vote"
+	{
+		"en" "Reset my vote"
+		"ru" "Отменить свой голос"
+		"de" "Stimme zurücksetzen"
+		"es" "Resetear mi voto"
+		"pl" "Wyzeruj mój głos."
+		"nl" "Reset mijn score"
+		"ko" "내 투표 초기화"
+		"fr" "Reinitialiser mon vote"
+	}
+	"Voteban_Menu_Title"
+	{
+		"en" "Voteban Menu"
+		"ru" "Голосование за бан"
+		"de" "Voteban Menü"
+		"es" "Menú de Voteban"
+		"pl" "Menu Voteban"
+		"nl" "Voteban Menu"
+		"ko" "투표 밴 메뉴"
+		"fr" "Voteban Menu"
+	}
+	"Votekick_Menu_Title"
+	{
+		"en" "Votekick Menu"
+		"ru" "Голосование за кик"
+		"de" "Votekick Menü"
+		"es" "Menú de votekick"
+		"pl" "Menu Votekick"
+		"nl" "Votekick Menu"
+		"ko" "투표 킥 메뉴"
+		"fr" "Votekick Menu"
+	}
+	"GameVoting_Vote_Reseted"
+	{
+		"en" "Your vote has been reseted."
+		"ru" "Ваш голос был обнулен."
+		"de" "Deine Stimme wurde zurückgesetzt."
+		"es" "Tu voto ha sido reseteado."
+		"pl" "Twój głos został wyzerowany."
+		"nl" "Uw stem is gereset."
+		"ko" "당신의 투표가 초기화되었습니다."
+		"fr" "Votre vote a ete remis a zero."
+	}
+	"GameVoting_Voteban"
+	{
+		"#format" "{1:s},{2:s},{3:d},{4:d}"
+		"en" "Player {1} wants to ban {2} ({3}/{4})"
+		"ru" "Игрок {1} хочет забанить {2} ({3}/{4})"
+		"de" "Spieler {1} will {2} bannen ({3}/{4})"
+		"es" "El jugador {1} vota para banear a {2} ({3}/{4}) votos requeridos"
+		"pl" "Gracz {1} chce zbanować {2} ({3}/{4})"
+		"nl" "Speler {1} wilt {2} bannen ({3}/{4})"
+		"ko" "플레이어 {1} 님이 {2} 님을 밴하기를 원합니다 ({3}/{4})"
+		"fr" "Joueur {1} veut ban {2} ({3}/{4})"
+	}
+	"GameVoting_Votekick"
+	{
+		"#format" "{1:s},{2:s},{3:d},{4:d}"
+		"en" "Player {1} wants to kick {2} ({3}/{4})"
+		"ru" "Игрок {1} хочет кикнуть {2} ({3}/{4})"
+		"de" "Spieler {1} will {2} kicken ({3}/{4})"
+		"es" "El jugador {1} vota para kickear a {2} ({3}/{4}) votos requeridos"
+		"pl" "Gracz {1} chce wykopać {2} ({3}/{4})"
+		"nl" "Speler {1} wilt {2} bannen ({3}/{4})"
+		"ko" "플레이어 {1} 님이 {2} 님을 밴하기를 원합니다 ({3}/{4})"
+		"fr" "Joueur {1} veut kick {2} ({3}/{4})"
+	}
+	"GameVoting_Votekick_Disabled"
+	{
+		"en" "This module of [GameVoting] was disabled."
+		"ru" "Этот модуль [GameVoting] был выключен."
+		"de" "Dieses Modul von [GameVoting] wurde deaktiviert."
+		"es" "El modulo [GameVoting] está desactivado."
+		"pl" "Ten moduł [GameVoting] jest wyłaczony."
+		"nl" "Deze module van [GameVoting] is uitgeschakeld."
+		"ko" "해당 모듈 [GameVoting] 이 비활성화 되었습니다."
+		"fr" "Le module de [GameVoting] est desactiver."
+	}
+	"GameVoting_Voteban_Disabled"
+	{
+		"en" "This module of [GameVoting] was disabled."
+		"ru" "Этот модуль [GameVoting] был выключен."
+		"de" "Dieses Modul von [GameVoting] wurde deaktiviert."
+		"es" "El modulo [GameVoting] está desactivado."
+		"pl" "Ten moduł [GameVoting] jest wyłaczony."
+		"nl" "Deze module van [GameVoting] is uitgeschakeld."
+		"ko" "해당 모듈 [GameVoting] 이 비활성화 되었습니다."
+		"fr" "Le module de [GameVoting] est desactiver."
+	}
+	"GameVoting_NeedMorePlayers"
+	{
+		"en" "Need more players for GameVoting."
+		"ru" "Нужно больше игроков для голосований."
+		"de" "Mehr Spieler für Gamevoting benötigt."
+		"es" "Se necesitan más jugadores para empezar esta votación."
+		"pl" "Potrzebne wiecej graczy do GameVoting."
+		"nl" "Er zijn niet genoeg spelers om een GameVote te starten."
+		"ko" "게임 투표를 위해서는 더 많은 플레이어가 필요합니다."
+		"fr" "Besoin de plus de joueur pour GameVoting."
+	}
+}

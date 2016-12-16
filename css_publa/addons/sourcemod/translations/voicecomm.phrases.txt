@@ -1,0 +1,112 @@
+"Phrases"
+{
+	"Mute Time Expired"
+	{
+		"en"	"Prisoners can now talk again."
+		"sv"	"Fångarna kan nu prata igen."
+	}
+	
+	"Start of Round with a Muted Team"
+	{
+		"en"	"Guards can now talk again."
+		"sv"	"Fångvaktarna kan nu prata igen."
+	}
+	
+	"Start of Round without Muted Team"
+	{
+		"en"	"All players may talk again."
+		"sv"	"Alla spelare kan nu prata igen."
+	}
+	
+	"Spectator - Admin"
+	{
+		"en"	"[ADMIN] You are allowed to talk to everyone from spec."
+		"sv"	"[ADMIN] Du får prata med alla åskådare."
+	}
+	
+	"Spectator - Not Admin"
+	{
+		"en"	"You're not allowed to talk to anyone from spectator."
+		"sv"	"Du är inte tillåten att prata med vem som helst i åskådarlaget."
+	}
+	
+	"Enforce Existing Mute"
+	{
+		"en"	"Your previous mute is still being enforced."
+		"sv"	"Din föregående tystning tvingas fortfarande."
+	}
+	
+	"DeadAllTalk - Spawn - TeamTalk Off"
+	{
+		"en"	"You can now talk to everyone."
+		"sv"	"Du kan nu prata med alla."
+	}
+	
+	"DeadAllTalk - Spawn - TeamTalk On"
+	{
+		"en"	"You can now talk to your teammates."
+		"sv"	"Du kan nu prata med dina lagkamrater."
+	}
+	
+	"Muted On Death - Not Admin"
+	{
+		"en"	"You are muted until next round."
+		"sv"	"Du är tystad till nästa runda."
+	}
+	
+	"Muted On Death - Admin"
+	{
+		"en"	"You are not muted due to admin status."
+		"sv"	"Du är inte tystad med anledning av dina befogenheter."
+	}
+	
+	"DeadAllTalk - Death - Admin"
+	{
+		"en"	"[ADMIN] You may still talk to all players."
+		"sv"	"[ADMIN] Du är fortfarande tillåten att prata med alla spelare."
+	}
+	
+	"DeadAllTalk - Death - Not Admin"
+	{
+		"en"	"You can now only talk to other dead players."
+		"sv"	"Du kan nu bara prata med andra döda spelare."
+	}
+	
+	"Round End - All Talk On"
+	{
+		"en"	"All Talk is on until the next round starts."
+		"sv"	"Alltalk är på till nästa runda startar."
+	}
+	
+	"Round End - All Talk Off"
+	{
+		"en"	"Talking has returned to normal."
+		"sv"	"Talande har återgått till normalt tillstånd."
+	}
+	
+	"Mute On Join"
+	{
+		"en"	"You've been muted until the next time you spawn."
+		"sv"	"Du har blivit tystad tills nästa gången du återskapas."
+	}
+	
+	"Admin On Join"
+	{
+		"en"	"[ADMIN] You're not muted due to admin status."
+		"sv"	"[ADMIN] Du är inte mutad med anledning av dina befogenheter."
+	}
+	
+	"List Mute Name"
+	{
+		"#format"	"{1:N}"
+		"en"	"{1} is administratively muted."
+		"sv"	"{1} är administrativt tystad."
+	}
+	
+	"Removed Stateful Mute"
+	{
+		"#format"	"{1:N}"
+		"en"	"Removed stateful mute for {1}."
+		"sv"	"Tog bort tillståndsbaserad tystning för {1}."
+	}
+}

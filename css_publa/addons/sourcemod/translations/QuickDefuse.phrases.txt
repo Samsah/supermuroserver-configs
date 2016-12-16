@@ -1,0 +1,129 @@
+"Phrases"
+{
+	"Message Start"
+	{
+		"en"				"{green}[QuickDefuse]{default}"
+	}
+	"Blue"
+	{
+		"en"				"Blue"
+	}
+	"Yellow"
+	{
+		"en"				"Yellow"
+	}
+	"Red"
+	{
+		"en"				"Red"
+	}
+	"Green"
+	{
+		"en"				"Green"
+	}
+	"Blue Color"
+	{
+		"en"				"{blue}Blue{default}"
+	}
+	"Yellow Color"
+	{
+		"en"				"{yellow}Yellow{default}"
+	}
+	"Red Color"
+	{
+		"en"				"{red}Red{default}"
+	}
+	"Green Color"
+	{
+		"en"				"{green}Green{default}"
+	}
+	"t1"
+	{
+		"en"				"Choose a Wire:"
+	}
+	"t2"
+	{
+		"en"				"The CT's can try guess this for an instant defuse"
+	}
+	"t3"
+	{
+		"en"				"Exit, or ignore this for a random wire"
+	}
+	"t4"
+	{
+		"en"				"Exit"
+	}
+	"ct1"
+	{
+		"en"				"Choose a Wire:"
+	}
+	"ct2"
+	{
+		"en"				"Ignore this to defuse normally"
+	}
+	"ct3"
+	{
+		"en"				"Get it right and the bomb is defused"
+	}
+	"ct4"
+	{
+		"en"				"Get it wrong and the bomb instantly explodes"
+	}
+	"ct5"
+	{
+		"en"				"With no defuse kit you have a 50% chance of the bomb exploding"
+	}
+	"ct6"
+	{
+		"en"				"even if you choose the right wire"
+	}
+	"ct7"
+	{
+		"en"				"Blue"
+	}
+	"ct8"
+	{
+		"en"				"Black"
+	}
+	"ct9"
+	{
+		"en"				"Red"
+	}
+	"ct10"
+	{
+		"en"				"Green"
+	}
+	"ct11"
+	{
+		"en"				"Exit"
+	}
+	"Wire Choice"
+	{
+		"#format"			"{1:s},{2:s}"
+		"en"				"{1} You chose the {2} wire."
+	}
+	"Correct Cut"
+	{
+		"#format"			"{1:s},{2:s},{3:s}"
+		"en"				"{1} {teamcolor}{2}{default} correctly cut the {3} wire for an instant C4 defusal (1:4 odds)."
+	}
+	"Incorrect Cut"
+	{
+		"#format"			"{1:s},{2:s},{3:s},{4:s}"
+		"en"				"{1} {teamcolor}{2}{default} detonated the C4 with an incorrect wire choice of {3} (3:4 odds). The correct wire was {4}."
+	}
+	"Correct Pull"
+	{
+		"#format"			"{1:s},{2:s},{3:s}"
+		"en"				"{1} {teamcolor}{2}{default} correctly pulled the {3} wire for an instant C4 defusal (1:8 odds)."
+	}
+	"Incorrect Pull"
+	{
+		"#format"			"{1:s},{2:s},{3:s},{4:s}"
+		"en"				"{1} {teamcolor}{2}{default} detonated the C4 with an incorrect wire choice of {3} (7:8 odds). The correct wire was {4}."
+	}
+	"Correct Pull without Kit"
+	{
+		"#format"			"{1:s},{2:s},{3:s}"
+		"en"				"{1} {teamcolor}{2}{default} chose the correct wire ({3}) but the C4 still detonated!"
+	}
+}

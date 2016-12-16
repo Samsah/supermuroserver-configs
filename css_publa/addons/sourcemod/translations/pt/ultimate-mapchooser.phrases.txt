@@ -1,0 +1,218 @@
+ï»¿//Phrases for Ultimate Mapchooser by Steell
+
+"Phrases"
+{
+    "Slot Block Message 1"
+    {
+        "pt"    "Escolha qual mapa gostaria de jogar"
+    }
+
+    "Slot Block Message 2"
+    {
+        "pt"    "escolha cuidadosamente."
+    }
+
+    "Map Vote Menu Title"
+    {
+        "pt"    "Vote para o próximo mapa!"
+    }
+
+    "Group Vote Menu Title"
+    {
+        "pt"    "Vote para o próximo grupo de mapas!"
+    }
+
+    "Extend Map"
+    {
+        "pt"    "Extender o Mapa"
+    }
+
+    "Don't Change"
+    {
+        "pt"    "Não mudar"
+    }
+
+    "End of Map Vote Over"
+    {
+        "pt"    "Votação por mapa finalizada."
+    }
+
+    "Map Extended"
+    {
+        "pt"    "O mapa atual será extendido."
+    }
+
+    "End of Map Vote Map Won"
+    {
+        "pt"    "O promimo mapa vai ser {1}."
+    }
+
+    "Vote Win Percentage"
+    {
+        //There are supposed to be two percent signs here.
+        //If there is only one, no percent sign will be displayed.
+        "pt"    "Recebeu {1}%% de {2} votos"
+    }
+
+    "Map Unchanged"
+    {
+        "pt"    "O mapa não será mudado."
+    }
+
+    "Map Change in 5"
+    {
+        "pt"    "Mudando de mapa em 5 segundos."
+    }
+
+    "Map Change at Round End"
+    {
+        "pt"    "O mapa irá mudar ao fim desta rodada."
+    }
+
+    "End of Map Vote Group Won"
+    {
+        "pt"    "O próximo mapa vai ser '{1},' escolhido do grupo '{2}.'"
+    }
+
+    "Runoff Msg"
+    {
+        "pt"    "Votação falhou! Não ouve voto marjoritário!."
+    }
+
+    "Another Vote"
+    {
+        "pt"    "Outra votação está a caminho em {1} segundos."
+    }
+
+    "Player Disconnect RTV"
+    {
+        "pt"    "Jogador desconectado tentou Rock The Vote."
+    }
+
+    "Not Enough Players"
+    {
+        "pt"    "Não tem jogadores o suficiente no servidor mpara o mapa atual. ({1} são necessários)"
+    }
+
+    "Too Many Players"
+    {
+        "pt"    "Tem jgoadores demais no servidor para o mapa atual. ({1} máximo)"
+    }
+
+    "No RTV Player Count"
+    {
+        "pt"    "Não é possível usar Rock The Vote, faltam {1} jogadores no servidor para Rock The Vote."
+    }
+
+    "No RTV Nextmap"
+    {
+        "pt"    "Não é possível usar Rock The Vote até o próximo mapa."
+    }
+
+    "No RTV Time"
+    {
+        "pt"    "Não é possível usar Rock The Vote por mais {1} segundos."
+    }
+
+    "More Required"
+    {
+        "pt"    "{1} mais são necessários"
+    }
+
+    "RTV Entered"
+    {
+        "pt"    "{1} quer Rock The Vote."
+    }
+
+    "RTV Info Msg"
+    {
+        "pt"    "Digite 'rtv' para tentar votar ou digite 'nominate' para nominar um mapa."
+    }
+
+    "RTV Start"
+    {
+        "pt"    "Rocking the Vote!"
+    }
+
+    "Vote In Progress"
+    {
+        "pt"    "A votação já está em progresso."
+    }
+
+    "RTV Already Entered"
+    {
+        "pt"    "Você já deu Rock The Vote."
+    }
+
+    "No Nominate Nextmap"
+    {
+        "pt"    "Não é possível nominar até o próximo mapa."
+    }
+
+    "Pending Vote"
+    {
+        "pt"    "Votação Pendente"
+    }
+
+    "Next Map"
+    {
+        "pt"    "Próximo Mapa: {1}"
+    }
+
+    "Player Nomination"
+    {
+        "pt"    "{1} nominou o mapa {2}."
+    }
+
+    "Nomination Menu Title"
+    {
+        "pt"    "Nomine um Mapa."
+    }
+
+    "Yes/No Menu Title"
+    {
+        "pt"    "Mudar o mapa para {1}?"
+    }
+
+    "Yes"
+    {
+        "pt"    "Sim"
+    }
+
+    "No"
+    {
+        "pt"    "Não"
+    }
+
+    "Starting Map Vote"
+    {
+        "pt"    "Iniciando votação de mapa. O Mapa irá mudar quando a votação terminar."
+    }
+
+    "Default Warning"
+    {
+        //{TIME} is where the time in seconds is going to be placed.
+        //Please keep {TIME} in this string in english, it is not an error.
+        "pt"    "{TIME} segundos antes da votação."
+    }
+    
+    "Vote Failed"
+    {
+        "pt"    "A votação falhou. A opção vencedora não recebeu a porcentagem minima de votos necessária."
+    }
+    
+    "Selective Runoff"
+    {
+        "pt"    "Apresentando menu de votação para os jogadores que não votaram ou que tiveram os votos eliminados."
+    }
+    
+    "No RTV Admin"
+    {
+        "pt"    "Você não tem as permições necessárias para tentar Rock The Vote."
+    }
+    
+    "No Nominate Admin"
+    {
+        "pt"    "Você não tem as permições necessárias para nominar um mapa."
+    }
+}

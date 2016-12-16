@@ -1,0 +1,19 @@
+"Phrases"
+{
+	"[Slay Losers]"
+	{
+		"en"		"{green}[Slay Losers]{default} "
+	}
+	"Counter Terrorists have been spared for touching at least one hostage"
+	{
+		"en"		"Counter Terrorists have been spared for touching at least one hostage"
+	}
+	"Counter Terrorists have been slayed for not completing the objectives"
+	{
+		"en"		"Counter Terrorists have been slayed for not completing the objectives"
+	}
+	"Terrorists have been slayed for not completing the objectives"
+	{
+		"en"		"Terrorists have been slayed for not completing the objectives"
+	}
+}

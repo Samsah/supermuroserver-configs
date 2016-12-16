@@ -1,0 +1,7 @@
+"WeaponRestrictSounds"
+{
+	"sounds"
+	{
+		"restricted"		"sound/admin_plugin/actions/restrictedweapon.wav"
+	}
+}

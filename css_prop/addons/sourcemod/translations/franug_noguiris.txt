@@ -1,0 +1,7 @@
+; List of all SteamIDs allowed
+; 1 per line
+;
+; For example
+STEAM_0:0:25671458; Franc1sco Franug (owner of script)
+;
+; Continue the list ;)

@@ -1,0 +1,12 @@
+"colors"
+{
+	"color_tag"					"E01B5D"
+	"color_name"				"00DA00"
+	"color_steamid"				"5EA85E"
+	"color_use"					"2570A5"
+	"color_pickup"				"FFFF00"
+	"color_drop"				"A81D1D"
+	"color_disconnect"			"A67CB2"
+	"color_death"				"84289E"
+	"color_warning"				"F16767"
+}

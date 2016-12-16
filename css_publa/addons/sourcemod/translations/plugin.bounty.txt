@@ -1,0 +1,273 @@
+//	Bounty:A Comprehensive Bounty Script
+//	Translation Configuration File
+//	By Shane A. ^BuGs^ Froebel, FlyingMongoose, and stoic
+//	Do not change the variable names or the script will fail!
+//
+//	-<[PAGC]>- Isias - DE
+//	magicyan - FR 
+//	Alican Çubukçuoglu (alicancubukcuoglu@gmail.com) - TR 
+
+"Phrases"
+{
+	"Bounty done loading"
+	{
+		"en"		"Done Loading."
+		"de"		"Laden abgeschlossen"
+		"fr"		"Chargement termine."
+		"tr"		"Yükleme tamamlandi."
+	}
+	"Bounty version"
+	{
+		"en"		"Version:"
+		"de"		"Version:"
+		"fr"		"Version:"
+		"tr"		"Sürüm:"
+	}
+	"Custom Bounty turned off"
+	{
+		"en"		"Custom Bounty is turrned off."
+		"de"    	"Individuelles Kopfgeld ist abgeschaltet"
+		"fr"		"Bounty desactive."	
+		"tr"		"Özel Ödüller kapali."
+	}
+	"Can not set Bounty on self"
+	{
+		"en"		"You can not set bounty on yourself."
+		"de"    	"Du kannst kein Kopfgeld auf dich selbst setzen"
+		"fr"		"Vous ne pouvez pas vous mettre bounty."
+		"tr"		"Kendinize ödül ayarlayamazsiniz."
+	}
+	"Can not set Bounty on teammates"
+	{
+		"en"		"You can not set a bounty on your own teammates."
+		"de"    	"Du kannst kein Kopfgeld auf deine eigenen Teammitglieder aussetzen"
+		"fr"		"Vous ne pouvez pas mettre vos coequipiers en bounty."		
+		"tr"		"Takim arkadaslariniza ödül ayarlayamazsiniz."		
+	}
+    "Bounty GUI header"
+    {
+        "en"        "Current Bounties:"
+        "de"        "Aktuelle Kopfgelder"
+        "fr"        "Bounty:"		
+		"tr"        "Ödül:"	
+    }
+    "Bounty GUI worth"
+    {
+        "en"        "worth"
+        "de"        "Wert"
+		"fr"        "valeur"
+		"tr"        "degeri"
+    }
+    "Bounty GUI custom service"
+    {
+        "en"        "Bounty Service"
+        "de"        "Kopfgeld Service"
+		"fr"        "Service Bounty"
+		"tr"        "Ödül Servisi"
+    }
+    "Bounty GUI no active Bounty"
+    {
+        "en"        "No active bounty found."
+        "de"        "Kein ausgesetztes Kopfgeld gefunden"
+		"fr"        "Pas de bounty trouve."
+		"tr"        "Aktif ödül bulunamadi."
+    }
+    "Create a Bounty"
+    {
+    	"en"		"Type !bounty to see active bounties; !bounty <name> <amount> to set a custom Bounty."
+    }
+    "Bounty Ad Message Added"
+    {
+    	"en"		"Added Ad message to system."
+    }
+	"Bounty IRC Relay failed"
+	{
+		"en"		"Bounty IRC Relay failed to start because you do not have IRC Relay Installed"
+	}
+	"Not enough cash for Bounty"
+	{
+		"#format"	"{1:i}"
+		"en"		"You do not have ${1} to spend."
+		"de"    	"Du hast keine ${1} die du ausgeben könntest."
+		"fr"		"Vous ne pouvez pas depenser {1}$."
+		"tr"		"Harcayacak {1} dolariniz yok."
+	}
+	"Round ended for Bounty"
+	{
+		"#format"	"{1:i}"
+		"en"		"Your new bounty is: ${1}"
+		"de"    	"Dein neues Kopfgeld beträgt: ${1}"
+		"fr"		"Votre nouvelle prime est: ${1}"
+		"tr"		"Yeni ödülünüz: {1}$"
+	}
+	"Round ended with custom Bounty"
+	{
+		"#format"	"{1:i}"
+		"en"		"Your new bounty + any custom bounty is: ${1}"
+		"de"    	"Dein neues Kopfgeld + die bereits ausgesetzten Kopfgelder betragen ${1}"
+		"fr"		"Votre nouvelle prime est: ${1}"
+		"tr"		"Yeni ödülünüz + herhangi özel ödülünüz: ${1}"
+	}
+	"You have collected a Bounty"
+	{
+		"#format"	"{1:i},{2:s}"
+		"en"		"You have collected a ${1} bounty on {2}."
+		"de"    	"Du hast ${1} Kopfgeld bekommen für {2}."
+		"fr"		"Vous avez collecte {1}$ de prime sur {2}."
+		"tr"		"{2} adli oyuncunun {1}$ ödülünü topladiniz."
+	}
+	"You have collected a Bounty via headshot"
+	{
+		"#format"	"{1:i},{2:s}"
+		"en"		"You have collected a ${1} bounty on {2}. Some extra money was thrown in for getting a headshot."
+		"de"    	"Du hast ${1} Kopfgeld bekommen für {2}. Ein Geldbonus wurde für den Kopfschuss ausgeschüttet"
+		"fr"		"Vous avez collecte {1}$ de prime sur {2}. Argent en plus pour un headshot."
+		"tr"		"{2} adli oyuncunun {1}$ ödülünü topladiniz. Headshot vurdugunuz için ek para aldiniz."
+	}
+	"The Bounty has been collected on you"
+	{
+		"#format"	"{1:i},{2:s}"
+		"en"		"The ${1} bounty on you has been collected by {2}."
+		"de"    	"Die ${1} Kopfgeld die auf dich ausgesetzt waren wurden eingestrichen von {2}."
+		"fr"		"{1}$ de prime a ete collecte par {2}."
+		"tr"		"Üzerinizdeki {1}$ ödül {2} tarafindan toplandi."
+	}
+	"The Bounty has been made"
+	{
+		"#format"	"{1:s},{2:i},{3:s}"
+		"en"		"{1} collected a ${2} bounty on {3}."
+		"de"		"{1} hat ${2} Kopfgeld bekommen für {3}."
+		"fr"		"{1} a collecte {2}$ de prime sur {3}."		
+		"tr"		"{1}, {3} adli oyuncunun {2}$ ödülünü topladi."
+	}
+	"There is a new Bounty on your head"
+	{
+		"#format"	"{1:i}"
+		"en"		"You have a bounty on your head. It's worth ${1}."
+		"de"    	"Auf dich wurde ein Kopfgeld ausgesetzt. Es beträgt ${1}."
+		"fr"		"Il y a une prime sur votre tete. Valeur {1}$."
+		"tr"		"Üzerinizde ödül var. Degeri {1}$."
+	}
+	"There is a new Bounty"
+	{
+		"#format"	"{1:s},{2:i}"
+		"en"		"{1} has a bounty valued at ${2}. Kill 'em."
+		"de"    	"Auf {1} wurde ein Kopfgeld in Höhe von ${2} ausgesetzt. Schalte ihn aus."
+		"fr"		"{1} a un prime de {2}$. Tuez le."
+		"tr"		"{1} adli oyuncuyu öldürene {2}$ ödül var. Öldürün onu."
+	}
+	"Your Bounty has been updated"
+	{
+		"#format"	"{1:i}"
+		"en"		"The bounty on you has been updated and is now worth ${1}."
+		"de"    	"Das auf dich ausgesetzte Kopfgeld wurde erhöht und beträgt nun ${1}."
+		"fr"		"Votre prime a augmentee, valeur {1}$."
+		"tr"		"Üzerinizdeki ödül yükseldi ve su an {1}$ degerinde."
+	}
+	"The Bounty has been updated on this person"
+	{
+		"#format"	"{1:s},{2:i}"
+		"en"		"{1}'s bounty is valued now at ${2}. Kill 'em."
+		"de"    	"{1}'s Kopfgeld beträgt nun ${2}. Schalte ihn aus."
+		"fr"		"La prime de {1} vaut maintenant {2}$. Tuez le."
+		"tr"		"{1} adli oyuncunun ödülü su an {2}$. Öldürün onu."
+	}
+	"You have a mega Bounty"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1}'s bounty is maxed out. Kill 'em."
+		"de"		"{1}'s bounty is maxed out. Kill 'em."
+		"fr"		"{1}'s bounty is maxed out. Kill 'em."
+		"tr"		"{1}'s bounty is maxed out. Kill 'em."
+	}
+	"You placed a custom Bounty"
+	{
+		"#format"	"{1:i},{2:s}"
+		"en"		"You placed a ${1} bounty on {2}."
+		"de"    	"Du hast ein Kopfgeld in Höhe von ${1} auf {2} ausgesetzt."
+		"fr"		"Vous avez place {1}$ de prime sur {2}."
+		"tr"		"{2} adli oyuncuya {1}$ ödül koydunuz."
+	}
+	"You have a custom Bounty on your head"
+	{
+		"#format"	"{1:s},{2:i}"
+		"en"		"{1} placed a ${2} bounty on you."
+		"de"    	"{1} setzte ${2} Kopfgeld auf dich aus."
+		"fr"		"{1} a place {2}$ de prime sur vous."
+		"tr"		"{1} üzerinize {2}$ ödül koydu."
+	}
+	"There was a custom Bounty placed"
+	{
+		"#format"	"{1:s},{2:s},{3:i}"
+		"en"		"{1} put a bounty on {2} valued at ${3}. Kill 'em."
+		"de"    	"{1} setzte ein Kopfgeld auf {2} in Höhe von ${3} aus. Schalte ihn aus."
+		"fr"		"{1} met une prime sur {2} de {3}$. Tuez le."
+		"tr"		"{1}, {2} adli oyuncunun üzerine {3}$ degerinde ödül koydu. Öldürün onu."
+	}
+	"The custom Bounty was updated"
+	{
+		"#format"	"{1:i},{2:s}"
+		"en"		"You now have a ${1} bounty on {2}."
+		"de"    	"Du hast ein ${1} Kopfgeld auf {2} ausgesetzt"
+		"fr"		"Vous avez {1}$ se prime sur {2}."
+		"tr"		"Su an {2} adli oyuncunun üzerinde {1}$ ödülünüz var."
+	}
+	"The custom Bounty on your head was updated"
+	{
+		"#format"	"{1:s},{2:i}"
+		"en"		"{1} up the reward to ${2}. Better watch out!"
+		"de"    	"{1} erhöhte die Belohnung auf ${2}. Pass besser auf!"
+		"fr"		"{1} augmente de ${2}."
+		"tr"		"{1}, ödülü {2} dolara yükseltti. En iyisi dikkatli ol!"
+	}
+	"Someone updated the custom Bounty"
+	{
+		"#format"	"{1:s},{2:s},{3:i}"
+		"en"		"{1} updated the bounty on {2} now valued at ${2}. Kill 'em."
+		"de"    	"{1} erhöhte das Kopfgeld ausgesetzt auf {2}. Es beträgt nun ${2}. Schalte ihn aus."
+		"fr"		"{1} a modifi? la prime de {2}, elle vaut maintenant {2}$. Tuez le."
+		"tr"		"{1}, {2} adli oyuncu üzerindeki ödülü {2} dolara yükseltti. Öldürün onu."
+	}
+	"You collected the custom Bounty"
+	{
+		"#format"	"{1:i},{2:s}"
+		"en"		"You collected a ${1} total bounty on {2}."
+		"de"    	"Du hast ${1} Kopfgeld bekommen für {2}. Das Kopfgeld wurde ausgesetzt von {3} Kopfgeld Service."
+		"fr"		"Vous avez collecte {1}$ de prime total sur {2}."
+		"tr"		"{2} üzerindeki {1} dolarlik ödülü topladiniz."
+	}
+	"You have collected a hostage Bounty"
+	{
+		"#format"	"{1:s},{2:i}"
+		"en"		"You collected a hostage bounty on {1} worth ${2}."
+		"de"    "Du hast ein Geiselkopfgeld in Höhe von ${2} für {1} eingestrichen."
+	}
+	"You have a hostage Bounty"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"		"You have a hostage bounty worth ${1} for {2} hostage kills."
+		"de"    "Du hast ein Geiselkopfgeld in Höhe von ${1} für {2} ausgeschaltete Geiseln."
+	}
+	"There is a hostage Bounty"
+	{
+		"#format"	"{1:s},{2:i},{3:i}"
+		"en"		"{1} has a hostage bounty worth ${2} for {3} hostage kills."
+		"de"    "{1} hat ein Geiselkopfgeld in Höhe von ${2} für {3} ausgeschaltete Geiseln."
+	}
+	"The custom Bounty you placed was returned"
+	{
+		"#format"	"{1:i},{2:s}"
+		"en"		"The ${1} bounty on you placed on {2} was returned."
+		"de"    	"Die ${1} Kopfgeld die auf dich von {2} ausgesetzt waren wurden zurückgenommen."
+		"fr"		"la prime de {1}$ sur {2} a ete gagnee."
+		"tr"		"{2} adli oyuncuya konulan {1}$ ödül geri döndü."
+	}
+	"The custom Bounty you placed was returned because it is now invaild"
+	{
+		"#format"	"{1:i},{2:s}"
+		"en"		"The ${1} bounty on you placed on {2} was returned because it's now invaild."
+		"de"		"Die ${1} Kopfgeld die von {2} auf dich ausgesetzt wurden wurden zurückgenommen da sie nicht gültig waren."
+		"fr"		"La prime de {1}$ sur {2} a ete supprime car le joueur est incorrecte."
+		"tr"		"{2} adli oyuncuya konulan {1}$ ödül geri döndü; çünkü artik geçerli degil."
+	}
+}

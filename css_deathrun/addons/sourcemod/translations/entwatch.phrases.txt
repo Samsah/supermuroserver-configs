@@ -1,0 +1,27 @@
+﻿"Phrases"
+{
+	"welcome"
+	{
+		"en"		"Type !hud to toggle HUD - Plugin by"
+	}
+	"use"
+	{
+		"en"		"used"
+	}
+	"pickup"
+	{
+		"en"		"has picked up"
+	}
+	"drop"
+	{
+		"en"		"has dropped"
+	}
+	"death"
+	{
+		"en"		"died and dropped"
+	}
+	"disconnect"
+	{
+		"en"		"disconnected while holding"
+	}
+}

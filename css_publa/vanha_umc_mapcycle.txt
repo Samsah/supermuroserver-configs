@@ -1,0 +1,358 @@
+// Mapcycle definition for Ultimate Mapchooser v3.0 by Steell
+
+///////////////////////////////////////////////////////////////////////////////
+//***************************************************************************//
+//**                           ULTIMATE MAPCHOOSER                         **//
+//***************************************************************************//
+// The format of this file is as specified in the following example:         //
+//                                                                           //
+// "umc_rotation"                                                            //
+// {                                                                         //
+//      "GROUPNAME1" //Name of the group, used by group votes.               //
+//      {                                                                    //
+//          //Text to display for maps from this group in the vote. If left  //
+//          //blank or omitted, the map's name will be used as the default.  //
+//          //Note: The string "{MAP}" will be replaced by the map's name.   //
+//          // (Default value: "{MAP})                                       //
+//          "display-template"      "any value"                              //
+//            //Defined in "umc-core.smx"                                    //
+//                                                                           //
+//          //Number of maps to include from this group in a vote.           //
+//          // (Default value: 1)                                            //
+//          "maps_invote"           "int >= 0"                               //
+//            //Defined in "umc-core.smx"                                    //
+//                                                                           //
+//          //The weight of this group for random picking. Higher numbers    //
+//          //mean the group is more likely to be picked. 0 means the group  //
+//          //can never be picked randomly.                                  //
+//          // (Default value: 1)                                            //
+//          "group_weight"          "int >= 0"                               //
+//            //Defined in "umc-weight.smx"                                  //
+//                                                                           //
+//          //If a map from this group is picked randomly or via vote, the   //
+//          //next time a map is chosen randomly, it will be from the group  //
+//          //specified in this setting. If "" then a random group is picked.//
+//          // (Default value: "")                                           //
+//          "next_mapgroup"         "Group Name"                             //
+//            //Defined in "umc-randomcycle.smx"                             //
+//                                                                           //
+//          //Used as defaults if "min_players" or "max_players" is          //
+//          //not defined for any map in this group.                         //
+//          // (Default value: 0)                                            //
+//          "default_min_players"   "int >= 0"                               //
+//          // (Default value: Player limit of the server)                   //
+//          "default_max_players"   "int >= 0"                               //
+//            //Defined in "umc-playerlimits.smx"                            //
+//                                                                           //
+//          //Used as defaults if "min_time" or "max_time" is not defined    //
+//          //for any map in this group                                      //
+//          // (Default value: "0000")                                       //
+//          "default_min_time"  "HHMM, where HH is the hour and MM is the    //
+//                               minute"                                     //
+//          // (Default value: "2359")                                       //
+//          "default_max_time"	    "HHMM"                                   //
+//            //Defined in "umc-timelimits.smx"                              //
+//                                                                           //
+//          //The command specified here is performed at the start of all    //
+//          //maps in this group.                                            //
+//          // (Default value: "")                                           //
+//          "command"   "any valid console command"                          //
+//            //Defined in "umc-mapcommands.smx"                             //
+//                                                                           //
+//          "MAP1" //Name of a map, must be a valid map.                     //
+//          {                                                                //
+//              //Text to display for this map in the vote. If left blank    //
+//              //or omitted, the map's name will be used instead.           //
+//              //Note: The string "{MAP}" will be replaced by the map's     //
+//              //      name.                                                //
+//              // (Default value: "{MAP}")                                  //
+//              "display-template"      "any value"                          //
+//                //Defined in "umc-core.smx"                                //
+//                                                                           //
+//              //The weight of this map with reference to other maps        //
+//              //in this category. This number affect how likely the        //
+//              //map will appear in a vote, as well as how likely this      //
+//              //map will be chosen randomly (assuming this group has       //
+//              //already been chosen.)                                      //
+//              // (Default value: 1)                                        //
+//              "weight"        "int >= 0"                                   //
+//                //Defined in "umc-weight.smx"                              //
+//                                                                           //
+//              //Defines the number of players required to be on the        //
+//              //server in order for this map to be used.                   //
+//              // (Default values: see "default_min_players" and            //
+//              //  "default_max_players")                                   //
+//              "min_players"   "int >= 0"                                   //
+//              "max_players"   "int >= 0"                                   //
+//                //Defined in "umc-playerlimits.smx"                        //
+//                                                                           //
+//              //Defines the minimum and maximum times the plugin will pick //
+//              //this map to be played.                                     //
+//              "min_time"      "HHMM"                                       //
+//              "max_time"      "HHMM"                                       //
+//                //Defined in "umc-timelimits.smx"                          //
+//                                                                           //
+//              //This command is performed at the start of this map. Note:  //
+//              //The command specified here is performed AFTER the one      //
+//              //specified for the group, and does not override it.         //
+//              // (Default value: "")                                       //
+//              "command"       "any valid console command"                  //
+//                //Defined in "umc-mapcommands.smx"                         //
+//          }                                                                //
+//                                                                           //
+//          "MAP2"                                                           //
+//          {                                                                //
+//              ...                                                          //
+//          }                                                                //
+//                                                                           //
+//          ...                                                              //
+//                                                                           //
+//          "MAPN"                                                           //
+//          {                                                                //
+//              ...                                                          //
+//          }                                                                //
+//      }                                                                    //
+//                                                                           //
+//      "GROUPNAME2"                                                         //
+//      {                                                                    //
+//          ...                                                              //
+//      }                                                                    //
+//                                                                           //
+//      ...                                                                  //
+//                                                                           //
+//      "GROUPNAMEN"                                                         //
+//      {                                                                    //
+//          ...                                                              //
+//      }                                                                    //
+// }                                                                         //
+//***************************************************************************//
+///////////////////////////////////////////////////////////////////////////////
+
+"umc_rotation"
+{
+
+	"Custom Maps"
+    {
+	
+		"de_truth"
+		{
+			"min_players"   "25" 
+		}
+		
+		"de_damaged_beta"
+		{
+			"min_players"   "25" 
+		}
+		
+		"de_beroth_beta"
+		{
+			"min_players"   "25" 
+		}
+		
+		"de_gallery"	{}
+		
+		"de_feat"
+		{
+			"max_players"   "28" 
+		}
+ 
+		"de_incido_v7"	{}
+		
+		"de_desert_atrocity_v3"
+		{
+			"min_players"   "28" 
+		}
+		
+		"de_syksy"		{}
+		
+		"de_island_v2"
+		{
+			"max_players"   "26" 
+		}
+		
+		"de_cache"		{}
+	
+		"de_season"		{}
+		
+		"de_cpl_strike"
+		{
+			"max_players"   "26" 
+		}
+		
+		"de_varasto_v3"
+		{
+			"min_players"   "28" 
+		}
+		
+		"de_contra"	{}
+		
+		"cs_italy_tactik2"
+		{
+			"min_players"   "28" 
+		}
+		
+		"de_abbottabad" {}
+ 
+        "de_losttemple_pro"	{}
+		
+		"de_pyramid_css"	{}
+
+        "de_cpl_mill"	{}
+ 
+        "de_cbble_extended"		{}
+		
+		"de_villa"	{}
+		
+		"de_bahrain2014"	{}
+ 
+        "de_secretcamp" {}
+		
+		"de_kismayo"	{}
+		
+		"de_tessa"	{}
+		
+		"de_strata"		{}
+		
+		"de_russka"		{}
+		
+		"de_sandland"	{}
+	
+		"de_vegas_lite"		{}
+		
+		"de_westwood"	{}
+		
+		"de_slummi"	{}
+	
+        "de_tehdas_v2"	{}
+		
+		"de_hiekka_v3"	{}
+		
+		"de_3rdstreet"	{}
+		
+        "cs_kismayo_m2" {}
+
+        "de_vertigo_pro"	{}
+		
+		"de_outlaws"	{}
+		
+	}
+
+    "Custom Maps II"
+
+    {
+	
+	"default_min_players" "28"
+	
+		"de_hydroco"	{}
+		
+		"de_thematrix_11"	{}
+		
+		"de_synthesis_b3"	{}
+		
+		"de_troit"	{}
+		
+		"de_hardrock_cafe"	{}
+		
+		"cs_churchS"	{}
+		
+		"de_boston"	{}
+		
+		"de_bluecorridor_kai"	{}
+		
+		"de_rotterdam_css"	{}
+		
+		"de_leika"		{}
+		
+		"de_yucatan"	{}
+		
+		"de_nightfever"	{}
+		
+		"de_alexandra_pro"	{}
+		
+		"de_glacier"	{}
+		
+		"de_rimini"		{}
+		
+		"de_overdrive"	{}
+		
+		"de_nighthawk_pro"	{}
+	
+		"de_kyoto"	{}
+		
+		"de_red_roofs"	{}
+		
+		"de_atlantis"	{}
+		
+		"de_sultan_pro"	{}
+		
+		"de_scud_pro"		{}
+		
+		"de_navarrobase"	{}
+		
+		"de_wellness"		{}
+		
+		"de_rusty"		{}
+		
+		"de_rush_fix"		{}
+	
+		"cs_office_unlimited_oc"	{}
+		
+		"de_electrica"		{}
+		
+		"de_cortona"		{}
+		
+		"de_pariah_ukcs_b2"	{}
+		
+		"de_forest_hdr"		{}
+
+		
+
+	}
+
+    "Normal Maps"
+
+    { 
+	"default_max_players" "27"
+      
+        "de_dust2" {}
+		
+		"de_dust"	{}
+	
+		"de_prodigy"	
+		{
+			"max_players"   "16" 
+		}
+		
+		"cs_assault"	
+		{
+			"max_players"   "16" 
+		}
+       
+        "de_piranesi"  {}
+ 
+        "cs_office" 	{}
+		
+		"cs_italy"	{}
+		
+		"de_aztec"	{}
+ 
+        "de_nuke" 	{}
+ 
+        "de_inferno" 	{}
+ 
+        "cs_compound"	{}
+		
+		"de_train" {}
+ 
+        "de_chateau" {}
+		
+		"de_cbble"	{}
+
+		"de_port"	{}
+
+       
+ 	
+	}
+}
+ 	
+

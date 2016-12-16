@@ -1,0 +1,315 @@
+"Phrases"
+{
+	//The following translations all correspond to the sm_status feature,
+	// which prevents a menu of all players currently punished and provides
+	// detailed information on their punishment.
+	//{
+	"Comm_Phrase_Back"
+	{
+		//The translation for the word Back
+		"#format"	""
+		"en"		"Back"
+	}
+	"Comm_Status_Mute_Short"
+	{
+		//The string that appears in sm_status to designate a mute
+		"#format"	""
+		"en"		"[M] "
+	}
+	"Comm_Status_Gag_Short"
+	{
+		//The string that appears in sm_status to designate a gag
+		"#format"	""
+		"en"		"[G] "
+	}
+	"Comm_Status_Silence_Short"
+	{
+		//The string that appears in sm_status to designate a silence
+		"#format"	""
+		"en"		"[S] "
+	}
+	"Comm_Status_No_Matches"
+	{
+		//The string that appears when there are no current punishments
+		"#format"	""
+		"en"		"(No Comm Punishments)"
+	}
+	"Comm_Status_Format_1"
+	{
+		//Formatting for temporary / permanant punishments: ~ Length, Type
+		"#format"	"{1:s}"
+		"en"		"  Length: {1}"
+	}
+	"Comm_Status_Format_2"
+	{
+		//Formatting for the length of extended punishments.
+		"#format"	"{1:d},{2:s}"
+		"en"		"  Length: {1} {2}"
+	}
+	"Comm_Status_Format_3"
+	{
+		//Formatting for the remaining time of extended punishments
+		"#format"	"{1:d},{2:s}"
+		"en"		"  Remaining: {1} {2}"
+	}
+	"Comm_Status_Format_4"
+	{
+		//Formatting for the administrator responsible for the punishment
+		"#format"	"{1:s}"
+		"en"		"  Admin: {1}"
+	}
+	"Comm_Status_Format_5"
+	{
+		//Formatting for the date the punishment was issued
+		"#format"	"{1:s}"
+		"en"		"  Issued: {1}"
+	}
+	//}
+
+	//The following translations are used for displaying titles for various menus
+	//{
+	"Comm_Menu_Status_Title"
+	{
+		//The title that appears for the sm_status menu
+		"#format"	""
+		"en"		"Current Punishments:"
+	}
+	"Comm_Menu_Length_Title"
+	{
+		//The title that appears when selecting a length
+		"#format"	""
+		"en"		"Select Duration:"
+	}
+	"Comm_Menu_Type_Title"
+	{
+		//The title that appears when selecting a punishment type
+		"#format"	""
+		"en"		"Select Punishment:"
+	}
+	"Comm_Menu_Player_Title"
+	{
+		//The title that appears when selecting a player
+		"#format"	""
+		"en"		"Select Player:"
+	}
+	"Comm_Menu_Display"
+	{
+		//The information that is displayed when accessing extendedcomm through sm_admin
+		"#format"	""
+		"en"		"Gag/Mute player"
+	}
+	//}
+
+	//The following translations are used throughout the plugin
+	//{
+	"Comm_Length_Minute"
+	{
+		//The translation of the word Minute
+		"#format"	""
+		"en"		"Minute"
+	}
+	"Comm_Length_Minutes"
+	{
+		//The translation of the word Minutes
+		"#format"	""
+		"en"		"Minutes"
+	}
+	"Comm_Length_Second"
+	{
+		//The translation of the word Second
+		"#format"	""
+		"en"		"Second"
+	}
+	"Comm_Length_Seconds"
+	{
+		//The translation of the word Seconds
+		"#format"	""
+		"en"		"Seconds"
+	}
+	"Comm_Phrase_Mute"
+	{
+		//The translation of the word Mute
+		"#format"	""
+		"en"		"Mute"
+	}
+	"Comm_Phrase_Gag"
+	{
+		//The translation of the word Gag
+		"#format"	""
+		"en"		"Gag"
+	}
+	"Comm_Phrase_Silence"
+	{
+		//The translation of the word Silence
+		"#format"	""
+		"en"		"Silence"
+	}
+	"Comm_Phrase_Muted"
+	{
+		//The translation of the word Muted
+		"#format"	""
+		"en"		"Muted"
+	}
+	"Comm_Phrase_Gagged"
+	{
+		//The translation of the word Gagged
+		"#format"	""
+		"en"		"Gagged"
+	}
+	"Comm_Phrase_Silenced"
+	{
+		//The translation of the word Silenced
+		"#format"	""
+		"en"		"Silenced"
+	}
+	"Comm_Phrase_Temporary"
+	{
+		//The translation of the word Temporary
+		"#format"	""
+		"en"		"Temporary"
+	}
+	"Comm_Phrase_Extended"
+	{
+		//The translation of the word Extended
+		"#format"	""
+		"en"		"Extended"
+	}
+	"Comm_Phrase_Permanent"
+	{
+		//The translation of the word Permanent
+		"#format"	""
+		"en"		"Permanent"
+	}
+	"Comm_Phrase_Issue"
+	{
+		//The translation for the word Issue
+		"#format"	""
+		"en"		"Issue"
+	}
+	"Comm_Phrase_Remove"
+	{
+		//The translation for the word Remove
+		"#format"	""
+		"en"		"Remove"
+	}
+	"Comm_Type_Issue_Format"
+	{
+		//Formatting for menu options when selecting a punishment.
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} {2}"
+	}
+	"Comm_Type_Remove_Format"
+	{
+		//Formatting for menu options when selecting a punishment.
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"{1} {2} {3}"
+	}
+	"Comm_Issue_Log_Format_1"
+	{
+		//Admin (SteamId) issued a type punishment on Target (SteamId)
+		"#format"	"{1:N},{2:s},{3:s},{4:s}{5:N},{6:s}"
+		"en"		"{1} ({2}) issued a {3} {4} on {5} ({6})."
+	}
+	"Comm_Issue_Log_Format_2"
+	{
+		//Admin (SteamId) issued a type punishment on Target (SteamId) for x minutes
+		"#format"	"{1:N},{2:s},{3:s},{4:s}{5:N},{6:s},{7:d},{8:s}"
+		"en"		"{1} ({2}) issued a {3} {4} on {5} ({6}) for {7} {8}."
+	}
+	"Comm_Remove_Log_Format_1"
+	{
+		//Admin (SteamId) removed the punishment on Target (SteamId)
+		"#format"	"{1:N},{2:s},{3:s},{4:N},{5:s}"
+		"en"		"{1} ({2}) removed the {3} on {4} ({5})."
+	}
+	"Comm_Remove_Log_Format_2"
+	{
+		//Action (SteamId) removed the type punishment on Target (SteamId)
+		"#format"	"{1:N},{2:s},{3:s},{4:s},{5:N},{6:s}"
+		"en"		"{1} ({2}) removed the {3} {4} on {5} ({6})."
+	}
+	//}
+
+	//The following translations are associated with the sm_extendecomm_update command
+	//{
+	"Command_Update_Database"
+	{
+		"#format"	""
+		"en"		"You cannot update the plugin as your database is not properly configured!"
+	}
+	"Command_Update_Missing_Version"
+	{
+		"#format"	"{1:s}"
+		"en"		"You must provide the current version you are running! Example: sm_extendedcomm_update {1:s}."
+	}
+	"Command_Update_Prune_Successful"
+	{
+		"#format"	""
+		"en"		"The database has been successfully been pruned!"		
+	}
+	"Command_Update_Query_Successful"
+	{
+		"#format"	"{1:s}"
+		"en"		"The defined update queries for update \"{1:s}\" have been successfully executed!"		
+	}
+	"Command_Update_Missing_Update"
+	{
+		"#format"	""
+		"en"		"The version you provided does not have an update associated with it!"
+	}
+	//}
+
+	//The following translations are associated with sm_* commands belonging to extendedcomm
+	//{
+	"Command_Issue_Mute_Usage"
+	{
+		"#format"	""
+		"en"		"[SM] Usage: sm_mute <player> <optional:time (in minutes)>"		
+	}
+	"Command_Issue_Gag_Usage"
+	{
+		"#format"	""
+		"en"		"[SM] Usage: sm_gag <player> <optional:time (in minutes)>"		
+	}
+	"Command_Issue_Silence_Usage"
+	{
+		"#format"	""
+		"en"		"[SM] Usage: sm_silence <player> <optional:time (in minutes)>"		
+	}
+	"Command_Remove_Mute_Usage"
+	{
+		"#format"	""
+		"en"		"[SM] Usage: sm_unmute <player>"		
+	}
+	"Command_Remove_Gag_Usage"
+	{
+		"#format"	""
+		"en"		"[SM] Usage: sm_ungag <player>"		
+	}
+	"Command_Remove_Silence_Usage"
+	{
+		"#format"	""
+		"en"		"[SM] Usage: sm_unsilence <player>"		
+	}
+	"Command_Target_Not_Available"
+	{
+		"#format"	""
+		"en"		"[SM] You cannot target this player."		
+	}
+	"Command_Player_Not_Available"
+	{
+		"#format"	""
+		"en"		"[SM] The player you selected is no longer available."		
+	}
+	"Command_Issue_No_Perm"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"[SM] You do not have permission to {1} {2} this player!"		
+	}
+	"Command_Issue_No_Extended"
+	{
+		"#format"	"{1:s},{2:s},{3:d}{4:s}"
+		"en"		"[SM] You do not have permission to {1} {2} this player for {3} {4}!"		
+	}
+	//}
+}

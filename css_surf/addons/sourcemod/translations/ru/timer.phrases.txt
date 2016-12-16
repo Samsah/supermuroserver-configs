@@ -1,0 +1,217 @@
+"Phrases"
+{
+	"Round Finish Message"
+	{
+		"ru"			"{1} прошел карту с результатом {2}({3})"
+	}
+	
+	"Jumps Message"
+	{
+		"ru"			"и {1} прыжками"
+	}
+	
+	"Flashbangs Message"
+	{
+		"ru"			"с {1} флешкой(ами)"
+	}
+	
+	"Difficulty Message"
+	{
+		"ru"			"на сложности {1}"
+	}
+	
+	"Rank Message"
+	{
+		"ru"			 "Позиция: {1}/{2}."
+	}
+	
+	"Record Break Message"
+	{
+		"ru"			 "{1} бьет рекорд карты."
+	}
+
+	"Point Select Panel"
+	{
+		"ru"			"Пожалуйста станьте в(о) {1} точке зоны,\nи нажмите вашу ATTACK2 клавишу."
+	}
+	
+	"Cancel"
+	{
+		"ru"			"Отменить"
+	}
+
+	"Please wait"
+	{
+		"ru"			"Пожалуйста подождите..."
+	}
+
+	"FIRST"
+	{
+		"ru"			"ПЕРВОЙ"
+	}
+	
+	"SECOND"
+	{
+		"ru"			"ВТОРОЙ"
+	}	
+
+	"Map Zone Delete"
+	{
+		"ru"			"Зона карты успешно удалена."
+	}
+	
+	"Time"
+	{
+		"ru"			"Время"
+	}
+	
+	"Jumps"
+	{
+		"ru"			"Прыжки"
+	}
+	
+	"Flashbangs"
+	{
+		"ru"			"Флешки"
+	}
+	
+	"HUD Speed"
+	{
+		"ru"			"Скорость"
+	}
+
+	"HUD Best Times"
+	{
+		"ru"			"Лучшее время"
+	}
+	
+	"HUD Difficulty"
+	{
+		"ru"			"Сложность"
+	}
+	
+	"Player"
+	{
+		"ru"			"Игрок"
+	}
+
+	"No target"
+	{
+		"ru"			"Цель не найдена."
+	}
+	
+	"Physics Difficulty"
+	{
+		"ru"			"Уровень сложности"
+	}
+	
+	"World Record Menu Title"
+	{
+		"ru"			"Рекорды для {1}"
+	}
+	
+	"World Record Loading"
+	{
+		"ru"			"Рекорды грузяться; попробуйте попозже."
+	}
+
+	"No Records"
+	{
+		"ru"			"Извините, но еще нет рекордов."
+	}
+	
+	"No Difficulty Records"
+	{
+		"ru"			"Извините, но еще нет рекордов для этой сложности."
+	}
+	
+	"Record Info"
+	{
+		"ru"			"Сведения о рекорде"
+	}
+	
+	"Player Name"
+	{
+		"ru"			"Имя игрока"
+	}
+	
+	"Rank"
+	{
+		"ru"			"Позиция"
+	}
+
+	"Toggle visibilty"
+	{
+		"ru"			"Переключена видимость игроков."
+	}
+	
+	"Timer Management"
+	{
+		"ru"			"Управление таймером"
+	}
+
+	"Delete Map Records"
+	{
+		"ru"			"Удалить все рекорды с т. карты"
+	}
+	
+	"Delete All Map Zones"
+	{
+		"ru"			"Удалить все зоны с текущей карты"
+	}
+
+	"Delete Player Record"
+	{
+		"ru"			"Удалить рекорды игроков с т. карты"
+	}
+
+	"Add Map Zone"
+	{
+		"ru"			"Добавить зону"
+	}
+
+	"Delete Map Zone"
+	{
+		"ru"			"Удалить зону"
+	}
+
+	"Select zone type"
+	{
+		"ru"			"Выберите тип зоны:"
+	}
+	
+	"Start"
+	{
+		"ru"			"Старт"
+	}
+	
+	"End"
+	{
+		"ru"			"Конец"
+	}
+	
+	"Glitch1"
+	{
+		"ru"			"Баг1 - Остановка Таймера"
+	}
+	
+	"Glitch2"
+	{
+		"ru"			"Баг2 - Рестарт Таймера"
+	}
+	
+	"Glitch3"
+	{
+		"ru"			"Баг3 - Респаун игрока"
+	}
+
+	"Choose Player"
+	{
+		"ru"			"Выберите игрока:"
+	}
+
+	"Delete Records"
+	{
+		"ru"			"Удалить рекорды:"
+	}
+}

@@ -1,0 +1,8 @@
+"Advertisements"
+{
+	"2"
+	{
+		"type"		"S"
+		"text"		"SÄÄNNÖT: {GREEN}!rules{DEFAULT}"
+	}
+}

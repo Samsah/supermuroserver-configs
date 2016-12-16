@@ -1,0 +1,181 @@
+"Phrases"
+{
+	"WarmUpBuy"
+	{
+		"en"		"[SM] You cannot buy anything during warmup"
+	}
+	"WeaponRestricted"
+	{
+		"en"		"[SM] That weapon is currently restricted"
+	}
+	"Refunded"
+	{
+		"en"		"[SM] You have been refunded money"
+	}
+	"WarmupCountdown"
+	{
+		"#format"	"{1:i}"
+		"en"		"Warm up round {1} seconds left"
+	}
+	"WeaponRestrictMenuItem"
+	{
+		"en"		"Weapon Restrict:"
+	}
+	"RestrictMenuItem"
+	{
+		"en"		"Restrict Weapon"
+	}
+	"RestrictWeaponsItem"
+	{
+		"en"		"Restrict Weapons"
+	}
+	"UnrestrictWeaponsItem"
+	{
+		"en"		"Unrestrict Weapons"
+	}
+	"ForceBombDropItem"
+	{
+		"en"		"Force Bomb Drop"
+	}
+	"WeaponRestrictTitle"
+	{
+		"en"		"Weapon to restrict"
+	}
+	"WeaponUnrestrictTitle"
+	{
+		"en"		"Weapon to unrestrict"
+	}
+	"AmmountTitle"
+	{
+		"en"		"Ammount to restrict weapon to"
+	}
+	"TeamRestrictTitle"
+	{
+		"en"		"Team to restrict weapon for"
+	}
+	"TeamUnrestrictTitle"
+	{
+		"en"		"Team to unrestrict weapon for"
+	}
+	"RestrictReply"
+	{
+		"en"		"[SM] sm_restrict <weapon> <ammount> <all|ct|t>"
+	}
+	"UnrestrictReply"
+	{
+		"en"		"[SM] sm_unrestrict <weapon> <all|ct|t>"
+	}
+	"InvalidTeam"
+	{
+		"en"		"[SM] Invalid team"
+	}
+	"InvalidAmmount"
+	{
+		"en"		"[SM] Invalid ammount"
+	}
+	"InvalidWeapon"
+	{
+		"en"		"[SM] Invalid weapon"
+	}
+	"NoOneHasBomb"
+	{
+		"en"		"[SM] No one has the bomb."
+	}
+	"ForcedBombDrop"
+	{
+		"en"		"forced the bomb to be dropped."
+	}
+	"ConsoleBombDrop"
+	{
+		"en"		"[SM] Console forced the bomb to be dropped."
+	}
+	"RestrictedWeapon"
+	{
+		"#format"	"{1:s}"
+		"en"		"restricted {1} to"
+	}
+	"UnrestrictedWeapon"
+	{
+		"en"		"unrestricted"
+	}
+	"ForTeamT"
+	{
+		"en"		"for t"
+	}
+	"ForTeamCT"
+	{
+		"en"		"for ct"
+	}
+	"WarmupInProgress"
+	{
+		"en"		"[SM] Warmup round in progress."
+	}
+	"NextRoundKnife"
+	{
+		"en"		"[SM] Next round will be a knife only round."
+	}
+	"KnifeRoundSetup"
+	{
+		"en"		"has setup a knife only round next round"
+	}
+	"PistolsAlreadySet"
+	{
+		"en"		"Pistols round is already setup."
+	}
+	"NextRoundPistols"
+	{
+		"en"		"[SM] Next round will be a pistol only round."
+	}
+	"PistolsRoundSetup"
+	{
+		"en"		"has setup a pistol only round next round"
+	}
+	"KnivesAlreadySet"
+	{
+		"en"		"Knife round is already setup."
+	}
+	"UnrestrictedAll"
+	{
+		"en"		"has unrestricted all weapons."
+	}
+	"AllUnrestricted"
+	{
+		"en"		"[SM] All weapons have been unrestricted."
+	}
+	"RestrictedAll"
+	{
+		"en"		"has restricted all weapons."
+	}
+	"AllRestricted"
+	{
+		"en"		"[SM] All weapons have been restricted."
+	}
+	"ResetRestrictions"
+	{
+		"en"		"reset all restrictions."
+	}
+	"RemovedRestricted"
+	{
+		"en"		"removed restricted weapons from players"
+	}
+	"SetupKnife"
+	{
+		"en"		"Setup Knife Round"
+	}
+	"SetupPistols"
+	{
+		"en"		"Setup Pistol Round"
+	}
+	"CounterTerrorists"
+	{
+		"en"		"Counter Terrorists"
+	}
+	"Terrorists"
+	{
+		"en"		"Terrorists"
+	}
+	"Allteams"
+	{
+		"en"		"All teams"
+	}
+}

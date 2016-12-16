@@ -1,0 +1,207 @@
+"Phrases"
+{
+	"Round Finish"
+	{
+		"pt"			"{1} terminou o mapa em {2}({3}) com {4} saltos."
+	}
+
+	"Round Finish Difficulty"
+	{
+		"pt"			 "{1} terminou o mapa em {2}({3}) com {5} saltos na dificuldade {4}."
+	}
+
+	"Round Finish Without Jumps"
+	{
+		"pt"			"{1} terminou o mapa em {2}({3})."
+	}
+
+	"Round Finish Difficulty Without Jumps"
+	{
+		"pt"			 "{1} terminou o mapa em {2}({3}) na dificuldade {4}."
+	}
+
+	"Point Select Panel"
+	{
+		"pt"			"Por favor fique na {1} parte da zona,\ne clique com o botão ATTACK2 do seu mouse."
+	}
+
+	"Cancel"
+	{
+		"pt"			"Cancelar"
+	}
+	
+	"Please wait"
+	{
+		"pt"			"Por favor aguarde..."
+	}
+
+	"FIRST"
+	{
+		"pt"			"PRIMEIRA"
+	}
+	
+	"SECOND"
+	{
+		"pt"			"SEGUNDA"
+	}
+
+	"Map Zone Delete"
+	{
+		"pt"			"Zona do mapa deletada com sucesso."
+	}
+
+	"Time"
+	{
+		"pt"			"Tempo"
+	}
+
+	"Jumps"
+	{
+		"pt"			"Pulos"
+	}
+
+	"Flashbangs"
+	{
+		"pt"			"Flashbangs**"
+	}
+
+	"HUD Speed"
+	{
+		"pt"			"Velocidade"
+	}
+
+	"HUD Best Times"
+	{
+		"pt"			"Melhor Tempo"
+	}
+
+	"HUD Difficulty"
+	{
+		"pt"			"Dificuldade"
+	}
+	
+	"Player"
+	{
+		"pt"			"Jogador"
+	}
+
+	"No target"
+	{
+		"pt"			"Alvo não ptcontrado."
+	}
+
+	"Physics Difficulty"
+	{
+		"pt"			"Dificuldade de Física"
+	}
+
+	"World Record Menu Title"
+	{
+		"pt"			"Records mundiais para {1}"
+	}
+
+	"World Record Loading"
+	{
+		"pt"			"Os recordes mundiais ainda estão carregando; tptte novamptte em alguns instantes."
+	}
+
+	"No Records"
+	{
+		"pt"			"Desculpe, não há recordes."
+	}
+
+	"No Difficulty Records"
+	{
+		"pt"			"Desculpe, não há recordes nesta dificuldade."
+	}
+
+	"Record Info"
+	{
+		"pt"			"Informação do Recorde"
+	}
+
+	"Player Name"
+	{
+		"pt"			"Nome do Jogador"
+	}
+
+	"Rank"
+	{
+		"pt"			"Rank"
+	}
+
+	"Toggle visibilty"
+	{
+		"pt"			"Habilitar ver jogadores."
+	}
+
+	"Timer Management"
+	{
+		"pt"			"Gerptciamptto do Timer"
+	}
+
+	"Delete Map Records"
+	{
+		"pt"			"Delete All Records From Currptt Map"
+	}
+
+	"Delete All Map Zones"
+	{
+		"pt"			"Delete All Zones From Currptt Map"
+	}
+
+	"Delete Player Record"
+	{
+		"pt"			"Delete Player's Record From Currptt Map"
+	}
+
+	"Add Map Zone"
+	{
+		"pt"			"Adicionar zona no mapa"
+	}
+
+	"Delete Map Zone"
+	{
+		"pt"			"Deletar zona do mapa"
+	}
+
+	"Select zone type"
+	{
+		"pt"			"Escolha o tipo de zona:"
+	}
+	
+	"Start"
+	{
+		"pt"			"Inicio"
+	}
+	
+	"End"
+	{
+		"pt"			"Fim"
+	}
+	
+	"Glitch1"
+	{
+		"pt"			"Abuso - Parar Tempo"
+	}
+	
+	"Glitch2"
+	{
+		"pt"			"Abuso2 - Reiniciar Timer"
+	}
+	
+	"Glitch3"
+	{
+		"pt"			"Abuso3 - Renascer Jogador"
+	}
+
+	"Choose Player"
+	{
+		"pt"			"Escolher Jogador:"
+	}
+
+	"Delete Records"
+	{
+		"pt"			"Deletar Recordes:"
+	}
+}

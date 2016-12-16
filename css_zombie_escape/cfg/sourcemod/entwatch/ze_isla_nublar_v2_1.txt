@@ -1,0 +1,35 @@
+"entities"
+{
+	"0"
+	{
+		"desc"			"Muldoon's Shotgun"
+		"short_desc"		"Shotgun"
+		"color"			"DB8B00"
+		"name"			"deagleshotgun"
+		"exactname"		"true"
+		"singleactivator"	"true"
+		"type"			"weapon_deagle"
+		"button_type"		"func_button"
+		"chat"			"true"
+		"hud"			"true"
+		"mode"			"4"
+		"cooldown"		"1.5"
+		"maxuses"		"8"
+	}
+	"1"
+	{
+		"desc"			"Muldoon's Shotgun-2"
+		"short_desc"		"Shotgun-2"
+		"color"			"DB8B00"
+		"name"			"deagleshotgun2"
+		"exactname"		"true"
+		"singleactivator"	"true"
+		"type"			"weapon_deagle"
+		"button_type"		"func_button"
+		"chat"			"true"
+		"hud"			"true"
+		"mode"			"4"
+		"cooldown"		"1.5"
+		"maxuses"		"8"
+	}
+}

@@ -1,0 +1,43 @@
+﻿"Phrases"
+{
+	"Rule Line 1"
+	{
+		"en"			"* Be nice to everyone"
+	}
+	"Rule Line 2"
+	{
+		"en"			"* Zombies will try to kill Humans"
+	}
+	"Rule Line 3"
+	{
+		"en"			"* Humans will try to stay alive"
+	}
+	"Rule Line 4"
+	{
+		"en"			"---------------------------------"
+	}
+	"Rule Line 5"
+	{
+		"en"			"* No spamming text or voice. Use ENGLISH plz"
+	}
+	"Rule Line 6"
+	{
+		"en"			"* No derogatory or inflammatory comments (pwnt, raped, nig***, etc)"
+	}
+	"Rule Line 7"
+	{
+		"en"			"* Do not use hacks, exploits or glitches"
+	}
+	"Rule Line 8"
+	{
+		"en"			"* Do not retry/reconnect!"
+	}
+	"Rule Line 9"
+	{
+		"en"			"--Have Fun!--"
+	}
+	"Rule Line 10"
+	{
+		"en"			""
+	}
+}

@@ -1,0 +1,123 @@
+"Phrases"
+{
+	"Message Start"
+	{
+		"pl"				"{green}[QuickDefuse]{default}"
+	}
+	"Blue"
+	{
+		"pl"				"Niebieski"
+	}
+	"Yellow"
+	{
+		"pl"				"Żółty"
+	}
+	"Red"
+	{
+		"pl"				"Czerwony"
+	}
+	"Green"
+	{
+		"pl"				"Zielony"
+	}
+	"Blue Color"
+	{
+		"pl"				"{blue}Niebieski{default}"
+	}
+	"Yellow Color"
+	{
+		"pl"				"{yellow}Żółty{default}"
+	}
+	"Red Color"
+	{
+		"pl"				"{red}Czerwony{default}"
+	}
+	"Green Color"
+	{
+		"pl"				"{green}Zielony{default}"
+	}
+	"t1"
+	{
+		"pl"				"Wybierz kabel:"
+	}
+	"t2"
+	{
+		"pl"				"Antyterroryści mogą rozbroić  bombę przecinając kabel"
+	}
+	"t3"
+	{
+		"pl"				"Wyjdź lub zignoruj to, a kabel zostanie wybrany losowo"
+	}
+	"t4"
+	{
+		"pl"				"Wyjdź"
+	}
+	"ct1"
+	{
+		"pl"				"Wybierz kabel:"
+	}
+	"ct2"
+	{
+		"pl"				"Zignoruj to, aby rozbrajać normalnie"
+	}
+	"ct3"
+	{
+		"pl"				"Wybierzesz właściwy, a bomba zostanie rozbrojona"
+	}
+	"ct4"
+	{
+		"pl"				"Wybierzesz niewłaściwy - bomba wybuchnie"
+	}
+	"ct5"
+	{
+		"pl"				"Bez zestawu do rozbrajania masz 50% szans na to,"
+	}
+	"ct6"
+	{
+		"pl"				"że bomba wybuchnie nawet wybierając właściwy kabel"
+	}
+	"ct7"
+	{
+		"pl"				"Niebieski"
+	}
+	"ct8"
+	{
+		"pl"				"Żółty"
+	}
+	"ct9"
+	{
+		"pl"				"Czerwony"
+	}
+	"ct10"
+	{
+		"pl"				"Zielony"
+	}
+	"ct11"
+	{
+		"pl"				"Wyjdź"
+	}
+	"Wire Choice"
+	{
+		"pl"				"{1} Wybrałeś {2} kabel."
+	}
+	"Correct Cut"
+	{
+		"pl"				"{1} {teamcolor}{2}{default} pomyślnie przeciął {3} kabel i natychmiastowo rozbroił bombę."
+	}
+	"Incorrect Cut"
+	{
+		"pl"				"{1} {teamcolor}{2}{default} zdetonował bombę przecinając niewłaściwy, {3} kabel. {4} był właściwym kablem."
+	}
+	"Correct Pull"
+	{
+		"pl"				"{1} {teamcolor}{2}{default} pomyślnie wyrwał {3} kabel i natychmiastowo rozbroił bombę."
+	}
+	"Incorrect Pull"
+	{
+		"pl"				"{1} {teamcolor}{2}{default} zdetonował bombę wyrywając niewłaściwy, {3} kabel. {4} był właściwym kablem."
+	}
+	"Correct Pull without Kit"
+	{
+		"pl"				"{1} {teamcolor}{2}{default} wyrwał właściwy kabel ({3}), ale bomba wybuchła!"
+	}
+}

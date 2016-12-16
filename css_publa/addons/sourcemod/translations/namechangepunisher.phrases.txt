@@ -1,0 +1,12 @@
+"Phrases"
+{
+	"Kick Reason"
+	{
+		"en"		"[NCP] Name changed too many times."	
+	}
+	
+	"Ban Reason"
+	{
+		"en"		"[NCP] Name change abuse."
+	}
+}

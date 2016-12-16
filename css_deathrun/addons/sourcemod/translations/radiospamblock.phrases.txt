@@ -1,0 +1,21 @@
+﻿"Phrases"
+{
+	"Wait 1 second"
+	{
+		"en"			"Wait 1 second before sending a new radio message"
+		"ru"			"Подождите 1 секунду перед отправкой новго радио сообщения"
+	}
+
+	"Wait X seconds"
+	{
+		"#format"		"{1:d}"
+		"en"			"Wait {1} seconds before new radio message"
+		"ru"			"Подождите {1} секунд перед отправкой нового радио сообщения"
+	}
+
+	"Disabled"
+	{
+		"en"			"Radio messages disabled"
+		"ru"			"Радио сообщения отключены"
+	}
+}

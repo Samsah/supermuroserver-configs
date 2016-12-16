@@ -1,0 +1,15 @@
+"Games"
+{
+	"cstrike"
+	{
+		"Offsets"
+		{
+			"Weapon_Drop"
+			{
+				"windows"	"253"
+				"linux"		"254"
+				"mac"		"254"
+			}
+		}
+	}
+}

@@ -1,0 +1,311 @@
+"Phrases"
+{
+	"Knife Fight"
+	{
+		"es"		"Lucha a Cuchillo"
+	}
+	"Shot4Shot"
+	{
+		"es"		"Ruleta"
+	}
+	"Gun Toss"
+	{
+		"es"		"Pistola Lanza"
+	}
+	"Chicken Fight"
+	{
+		"es"		"Pelea de Gallos"
+	}
+	"Hot Potato"
+	{
+		"es"		"Patata Caliente"
+	}
+	"Dodgeball"
+	{
+		"es"		"Balon prisionero"
+	}
+	"No Scope Battle"
+	{
+		"es"		"No Scope"
+	}
+	"Rock Paper Scissors"
+	{
+		"es"		"Piedra, Papel o Tijeras"
+	}
+	"Already Dropped Deagle"
+	{
+		"es"		"Ya ha caido la Deagle!"
+	}
+	"Hot Potato PickUp"
+	{
+		"es"		"{1} ha recogio la Patata Caliente"
+	}
+	"Powered By Hosties"
+	{
+		"es"		"Servidor funcionando con SM_Hosties. Traducido al castellano por steam: franug (Franc1sco)"
+	}
+	"Please Follow Rules"
+	{
+		"es"		"Por favor siga las reglas listadas en !rules."
+	}
+	"Knife Fight Gun Attack Slay"
+	{
+		"es"		"{1} fue asesinado por atacar a {2} con {3} durante una Lucha a Cuchillo."
+	}
+	"Knife Fight Gun Attack Abort"
+	{
+		"es"		"{1} ha atacado a {2} con {3} = Lucha a Cuchillo cancelada."
+	}
+	"Chicken Fight Gun Attack Slay"
+	{
+		"es"		"{1} fue asesinado por atacar a {2} con {3} durante una Pelea de Gallos."
+	}
+	"Chicken Fight Gun Attack Abort"
+	{
+		"es"		"{1} ha atacado a {2} con {3} = Pelea de Gallos cancelada."
+	}
+	"Hot Potato Attack Slay"
+	{
+		"es"		"{1} fue asesinado por atacar a {2} durante una Patata Caliente."
+	}
+	"Hot Potato Attack Abort"
+	{
+		"es"		"{1} ha atacado a {2} = Patata Caliente cancelada."
+	}
+	"New Rebel"
+	{
+		"es"		"{1} es ahora un rebelde!"
+	}
+	"Freeattack"
+	{
+		"es"		"{1} ha atacado a {2}."
+	}
+	"Non LR Kill LR Slay"
+	{
+		"es"		"No mates a LR-players! {1} fue asesinado por haber matado al LR-player {2}."
+	}
+	"Non LR Kill LR Abort"
+	{
+		"es"		"{1} ha matado al LR-player {2} = LR cancelado."
+	}
+	"Rebel Kill"
+	{
+		"es"		"{1} ha matado al rebelde {2}."
+	}
+	"LR Available"
+	{
+		"es"		"Los prisioneros pueden escribir ahora !lr en chat para pedir su ultimo deseo."
+	}
+	"LR Player Disconnect"
+	{
+		"es"		"LR-player {1} desconectado = LR cancelado."
+	}
+	"Chicken Fight Win And Slay"
+	{
+		"es"		"{1} ha ganado la Pelea de Gallos = {2} matado."
+	}
+	"Chicken Fight Win"
+	{
+		"es"		"{1} ha ganado la Pelea de Gallos."
+	}
+	"Chicken Fight Kill Loser"
+	{
+		"es"		"Muere {1}!"
+	}
+	"S4S Double Shot Slay"
+	{
+		"es"		"{1} fue asesinado por disparar 2 tiros seguidos en una Ruleta."
+	}
+	"S4S Double Shot Abort"
+	{
+		"es"		"{1} ha disparado 2 tiros = Ruleta cancelada."
+	}
+	"S4S Shot Taken"
+	{
+		"es"		"{1} ha tenido su tiro."
+	}
+	"Distance Meter"
+	{
+		"es"		"Distancia en metros:"
+	}
+	"LR Rebel Not Allowed"
+	{
+		"es"		"Tu no puedes tener un LR cuando eres un rebelde."
+	}
+	"LR Choose"
+	{
+		"es"		"Elige tu ultimo deseo"
+	}
+	"No CTs Alive"
+	{
+		"es"		"No hay CTs (vivos) con los que tener el LR."
+	}
+	"Too Many Ts"
+	{
+		"es"		"Hay demasiados terroristas vivos para tener un LR ahora!"
+	}
+	"Not Alive Or In Wrong Team"
+	{
+		"es"		"Usted no esta vivo o esta en el equipo equivocado para el !lr."
+	}
+	"Another LR In Progress"
+	{
+		"es"		"Ya hay un LR en curso. Intentelo mas tarde."
+	}
+	"LR Disabled"
+	{
+		"es"		"Lo sentimos, Ultimo Deseo esta deshabilitado en este server."
+	}
+	"Choose A Player"
+	{
+		"es"		"Elige un jugador"
+	}
+	"Rebel Ask CT For LR"
+	{
+		"es"		"El rebelde {1} quiere tener un {2} contigo. Aceptas?"
+	}
+	"Yes"
+	{
+		"es"		"Si"
+	}
+	"No"
+	{
+		"es"		"No"
+	}
+	"Asking For Permission"
+	{
+		"es"		"{1} tiene que darte permiso porque tu eres un rebelde..."
+	}
+	"Target Is Not Alive Or In Wrong Team"
+	{
+		"es"		"El jugador no esta vivo o esta en el equipo equivocado para el LR."
+	}
+	"Declined LR Request"
+	{
+		"es"		"{1} ha rechazado su LR."
+	}
+	"LR Partner Died"
+	{
+		"es"		"Su compañero LR ha muerto."
+	}
+	"Too Slow Another LR In Progress"
+	{
+		"es"		"Ooh, demasiado lento. Ya hay otro LR en curso"
+	}
+	"LR Request Decline Or Too Long"
+	{
+		"es"		"{1} ha rechazado su LR o ha tardado mucho tiempo en contestar"
+	}
+	"LR KF Start"
+	{
+		"es"		"{1} ha optado por tener una Lucha a Cuchillo con {2}."
+	}
+	"LR S4S Start"
+	{
+		"es"		"{1} ha optado por tener una Ruleta con {2}."
+	}
+	"LR GT Start"
+	{
+		"es"		"{1} ha optado por tener una Pistola Lanza con {2}."
+	}
+	"LR CF Start"
+	{
+		"es"		"{1} ha optado por tener una Pelea de Gallos con {2}."
+	}
+	"LR HP Start"
+	{
+		"es"		"{1} ha optado por tener una Patata Caliente con {2}."
+	}
+	"LR DB Start"
+	{
+		"es"		"{1} ha optado por tener un Balon Prisionero con {2}."
+	}
+	"LR NS Start"
+	{
+		"es"		"{1} ha optado por tener un No Scope con {2}."
+	}
+	"LR RPS Start"
+	{
+		"es"		"{1} ha optado por tener un Piedra, Papel o Tijeras con {2}."
+	}
+	"No Rebels ATM"
+	{
+		"es"		"No hay prisioneros rebelados en este momento."
+	}
+	"Rebelling Terrorists"
+	{
+		"es"		"Prisioneros rebelados:"
+	}
+	"CheckPlayers CMD Disabled"
+	{
+		"es"		"El comando !checkplayers esta deshabilitado en este servidor."
+	}
+	"Server Rules"
+	{
+		"es"		"Normas del servidor:"
+	}
+	"HP Win"
+	{
+		"es"		"{1} ha ganado en Patata Caliente = {2} matado."
+	}
+	"HP Last One To Have The Potato"
+	{
+		"es"		"Usted fue el ultimo en tener la Patata Caliente!"
+	}
+	"Ts Muted"
+	{
+		"es"		"Los prisioneros estan en silencio los primeros {1} segundos de la ronda!"
+	}
+	"Ts Can Speak Again"
+	{
+		"es"		"Los Prisioneros pueden hablar ahora... en voz baja..."
+	}
+	"Now Muted"
+	{
+		"es"		"Ahora estas muteado, seras desmuteado al final de la ronda."
+	}
+	"NS Weapon Chooser Menu"
+	{
+		"es"		"Elige un arma para usar en la batalla No Scope:"
+	}
+	"CT Attack T Gun"
+	{
+		"es"		"{1} ha atacado a {2} que tiene un arma."
+	}
+	"Rock"
+	{
+		"es"		"Piedra"
+	}
+	"Paper"
+	{
+		"es"		"Papel"
+	}
+	"Scissors"
+	{
+		"es"		"Tijeras"
+	}
+	"LR RPS No Answer"
+	{
+		"es"		"{1} no eligio Piedra, Papel o Tijeras... o no lo eligio a tiempo."
+	}
+	"LR RPS Done"
+	{
+		"es"		"{1} eligio {2}, {3} eligio {4} = {5} ha ganado"
+	}
+	"LR RPS Tie"
+	{
+		"es"		"{1} eligio {2}, {3} eligio {4} = empate"
+	}
+	"LR Not With Bot"
+	{
+		"es"		"Lo sentimos, no puedes tener un LR con un bot."
+	}
+	"LR Not Available"
+	{
+		"es"		"No se puede tener un LR en estos momentos."
+	}
+	"LR Delay Announcement"
+	{
+		"es"		"Los terroristas no pueden hacer !lr los primeros {1} segundo(s) de la ronda!"
+	}
+}

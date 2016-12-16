@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"Saved"
+	{
+		"#format"	"{1:d}"
+		"en"			"When you join a team again, your cash will be restored to ${1}"
+	}
+	"Restored"
+	{
+		"#format"	"{1:d}"
+		"en"			"Your cash has been restored to ${1}"
+	}
+}

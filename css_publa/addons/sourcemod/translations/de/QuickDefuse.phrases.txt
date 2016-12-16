@@ -1,0 +1,123 @@
+"Phrases"
+{
+	"Message Start"
+	{
+		"de"				"{green}[QuickDefuse]{default}"
+	}
+	"Blue"
+	{
+		"de"				"Blau"
+	}
+	"Yellow"
+	{
+		"de"				"Schwarz"
+	}
+	"Red"
+	{
+		"de"				"Rot"
+	}
+	"Green"
+	{
+		"de"				"Gruen"
+	}
+	"Blue Color"
+	{
+		"de"				"{blue}Blau{default}"
+	}
+	"Yellow Color"
+	{
+		"de"				"{yellow}Schwarz{default}"
+	}
+	"Red Color"
+	{
+		"de"				"{red}Rot{default}"
+	}
+	"Green Color"
+	{
+		"de"				"{green}Gruen{default}"
+	}
+	"t1"
+	{
+		"de"				"Waehle eine Kabelfarbe:"
+	}
+	"t2"
+	{
+		"de"				"Die CTs entschaerfen sofort, wenn sie die Farbe erraten"
+	}
+	"t3"
+	{
+		"de"				"Schliessen oder ignorieren fuer eine zufaellige Wahl"
+	}
+	"t4"
+	{
+		"de"				"Schliessen"
+	}
+	"ct1"
+	{
+		"de"				"Waehle eine Kabelfarbe:"
+	}
+	"ct2"
+	{
+		"de"				"Dies hier ignorieren fuer eine sichere Entschaerfung"
+	}
+	"ct3"
+	{
+		"de"				"Erwische das richtige Kabel und die Bombe ist sofort entschaerft"
+	}
+	"ct4"
+	{
+		"de"				"Eine falsche Wahl laesst die Bombe sofort explodieren"
+	}
+	"ct5"
+	{
+		"de"				"Ohne DefuseKit besteht eine 50% Chance, dass die Bombe explodiert"
+	}
+	"ct6"
+	{
+		"de"				"sogar, wenn Du das richtige Kabel erwischt"
+	}
+	"ct7"
+	{
+		"de"				"Blau"
+	}
+	"ct8"
+	{
+		"de"				"Schwarz"
+	}
+	"ct9"
+	{
+		"de"				"Rot"
+	}
+	"ct10"
+	{
+		"de"				"Gruen"
+	}
+	"ct11"
+	{
+		"de"				"Schliessen"
+	}
+	"Wire Choice"
+	{
+		"de"				"{1} Du hast das {2} Kabel gewählt"
+	}
+	"Correct Cut"
+	{
+		"de"				"{1} {teamcolor}{2}{default} hat das Kabel ({3}) richtig gewahlt und die Bombe entschaerft"
+	}
+	"Incorrect Cut"
+	{
+		"de"				"{1} {teamcolor}{2}{default} hat das C4 hochgejagt, weil er das falsche Kabel mit der Farbe {3} erwischt hat. Richtig war das {4} Kabel"
+	}
+	"Correct Pull"
+	{
+		"de"				"{1} {teamcolor}{2}{default} hat das Kabel ({3}) richtig gewahlt und die Bombe entschaerft"
+	}
+	"Incorrect Pull"
+	{
+		"de"				"{1} {teamcolor}{2}{default} hat das C4 hochgejagt, weil er das falsche Kabel mit der Farbe {3} erwischt hat. Richtig war das {4} Kabel"
+	}
+	"Correct Pull without Kit"
+	{
+		"de"				"{1} {teamcolor}{2}{default} hat zwar das richtige Kabel mit der Farbe {3} erwischt, aber das C4 ist trotzdem hochgegangen"
+	}
+}

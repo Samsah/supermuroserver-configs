@@ -1,0 +1,21 @@
+"Phrases"
+{
+    "LR Name"
+    {
+        "en"        "Backstabs"
+    }
+    "LR Start"
+    {
+        "#format"   "{1:N},{2:N}"
+        "en"        "{1} has challenged {2} to a Backstabs war."
+    }
+    "LR Explain"
+    {
+        "en"        "Knife your opponent in the back to win."
+    }
+    "LR Winner"
+    {
+        "#format"   "{1:N}"
+        "en"        "{1} is the Backstabs champion :)"
+    }
+}

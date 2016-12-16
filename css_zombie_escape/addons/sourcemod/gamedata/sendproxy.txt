@@ -1,0 +1,32 @@
+"Games"
+{
+	"tf"
+	{
+		"Offsets"
+		{
+			"UpdateOnRemove"
+			{
+				"windows"	"105"
+				"linux"		"106"
+			}
+		}
+	}
+
+	"#default"
+	{
+		"#supported"
+		{
+			"game"		"cstrike"
+			"game"		"dod"
+			"game"		"hl2mp"
+		}
+		"Offsets"
+		{
+			"UpdateOnRemove"
+			{
+				"windows"	"104"
+				"linux"		"105"
+			}
+		}
+	}
+}

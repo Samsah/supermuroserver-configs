@@ -1,0 +1,179 @@
+﻿"Phrases"
+{
+	"WarmUpBuy"
+	{
+		"ru"		"[SM] Закуп запрещен во время разминки"
+	}
+	"WeaponRestricted"
+	{
+		"ru"		"[SM] Это оружие запрещено или ограничено"
+	}
+	"Refunded"
+	{
+		"ru"		"[SM] Вам вернули потраченные деньги"
+	}
+	"WarmupCountdown"
+	{
+		"ru"		"Разминка: осталось {1} сек."
+	}
+	"WeaponRestrictMenuItem"
+	{
+		"ru"		"Запрет оружия:"
+	}
+	"RestrictMenuItem"
+	{
+		"ru"		"Запретить оружие"
+	}
+	"RestrictWeaponsItem"
+	{
+		"ru"		"Оружие для запрета"
+	}
+	"UnrestrictWeaponsItem"
+	{
+		"ru"		"Оружие для отмены запрета"
+	}
+	"ForceBombDropItem"
+	{
+		"ru"		"Заставить упасть бомбу"
+	}
+	"WeaponRestrictTitle"
+	{
+		"ru"		"Оружие для запрета"
+	}
+	"WeaponUnrestrictTitle"
+	{
+		"ru"		"Оружие для отмены запрета"
+	}
+	"AmmountTitle"
+	{
+		"ru"		"Ограничить количество до"
+	}
+	"TeamRestrictTitle"
+	{
+		"ru"		"Ограничить оружие для"
+	}
+	"TeamUnrestrictTitle"
+	{
+		"ru"		"Разрешить оружие для"
+	}
+	"RestrictReply"
+	{
+		"ru"		"[SM] sm_restrict <оружие> <количество> <all|ct|t>"
+	}
+	"UnrestrictReply"
+	{
+		"ru"		"[SM] sm_unrestrict <оружие> <all|ct|t>"
+	}
+	"InvalidTeam"
+	{
+		"ru"		"[SM] Неправильно указана команда"
+	}
+	"InvalidAmmount"
+	{
+		"ru"		"[SM] Неправильно указано количество"
+	}
+	"InvalidWeapon"
+	{
+		"ru"		"[SM] Неправильно указано оружие"
+	}
+	"NoOneHasBomb"
+	{
+		"ru"		"[SM] Бомба не на руках."
+	}
+	"ForcedBombDrop"
+	{
+		"ru"		"заставил бомбу упасть."
+	}
+	"ConsoleBombDrop"
+	{
+		"ru"		"[SM] Консоль заставила бомбу упасть."
+	}
+	"RestrictedWeapon"
+	{
+		"ru"		"ограничил {1} до"
+	}
+	"UnrestrictedWeapon"
+	{
+		"ru"		"разрешил"
+	}
+	"ForTeamT"
+	{
+		"ru"		"для Т"
+	}
+	"ForTeamCT"
+	{
+		"ru"		"для СТ"
+	}
+	"WarmupInProgress"
+	{
+		"ru"		"[SM] Идет разминочный раунд."
+	}
+	"NextRoundKnife"
+	{
+		"ru"		"[SM] Следующий раунд будет только на ножах."
+	}
+	"KnifeRoundSetup"
+	{
+		"ru"		"установил следующий раунд только на ножах"
+	}
+	"PistolsAlreadySet"
+	{
+		"ru"		"Пистолетный раунд уже установлен."
+	}
+	"NextRoundPistols"
+	{
+		"ru"		"[SM] Следующий раунд будет только на пистолетах."
+	}
+	"PistolsRoundSetup"
+	{
+		"ru"		"установил следующий раунд только на пистолетах"
+	}
+	"KnivesAlreadySet"
+	{
+		"ru"		"Ножевой раунд уже установлен."
+	}
+	"UnrestrictedAll"
+	{
+		"ru"		"разрешил использовать любое оружие."
+	}
+	"AllUnrestricted"
+	{
+		"ru"		"[SM] Разрешено использовать любое оружие."
+	}
+	"RestrictedAll"
+	{
+		"ru"		"запретил использовать любое оружие."
+	}
+	"AllRestricted"
+	{
+		"ru"		"[SM] Запрещено использовать любое оружие."
+	}
+	"ResetRestrictions"
+	{
+		"ru"		"отменил все ограничения."
+	}
+	"RemovedRestricted"
+	{
+		"ru"		"убрал запрещенное оружие у игроков"
+	}
+	"SetupKnife"
+	{
+		"ru"		"Установить Ножевой Раунд"
+	}
+	"SetupPistols"
+	{
+		"ru"		"Установить Пистолетный Раунд"
+	}
+  	"CounterTerrorists"
+  	{
+    		"ru"		"Команды спецназа"
+	}
+	"Terrorists"
+	{
+		"ru"		"Команды террористов"
+	}
+	"Allteams"
+	{
+		"ru"		"Обеих команд"
+	}
+}

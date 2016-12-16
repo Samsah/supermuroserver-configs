@@ -1,0 +1,176 @@
+﻿"Phrases"
+{
+	// Announcements
+	"killstats_display"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Type !{1} or !{2} in the chat window to display current kill stats"
+		"de"		"Tippe !{1}/!{2} um die aktuellen Killstats anzeigen zu lassen"
+		"ru"		"Пропишите !{1}/!{2} в чате для просмотра текущей статистики повреждений"
+		"fr"		"Tapez !{1} dans le chat pour afficher les kill stats du moment"
+	}
+
+	"killstats_options_display"
+	{
+		"#format"	"{1:s}"
+		"en"		"Type !{1} in the chat window to enable or disable the killstats function"
+		"de"		"Tippe !{1} um die Killstats Funktion an- oder abzuschalten"
+		"ru"		"Пропишите !{1} для включения и выключения статистики повреждений"
+		"fr"		"Tapez !{1} dans le chat pour permettre ou neutraliser les fonctions de killstats"
+	}
+
+	// Kill Stats Panel
+	"killstats"
+	{
+		"en"		"Kill Stats"
+		"de"		"Kill Stats"
+		"ru"		"Статистика повреждений"
+		"fr"		"Kill Stats"
+	}
+
+	"players_killed"
+	{
+		"en"		"Players Killed"
+		"de"		"Ausgeschaltete Spieler"
+		"ru"		"Убитые игроки"
+		"fr"		"Joueurs Tués"
+	}
+
+	"killed_by"
+	{
+		"en"		"Killed By"
+		"de"		"Ausgeschaltet von"
+		"ru"		"Вас убил"
+		"fr"		"Tué par"
+	}
+
+	"damage_done"
+	{
+		"en"		"Damage Done"
+		"de"		"Ausgeteilter Schaden"
+		"ru"		"Урона нанесено"
+		"fr"		"Dommages Faits"
+	}
+
+	"damage_taken"
+	{
+		"en"		"Damage Taken"
+		"de"		"Eingesteckter Schaden"
+		"ru"		"Повреждений получено"
+		"fr"		"Dommages Pris"
+	}
+
+	"exit"
+	{
+		"en"		"Exit"
+		"de"		"Schliessen"
+		"ru"		"ВЫХОД"
+		"fr"		"Sortir"
+	}
+
+	"next"
+	{
+		"en"		"Next"
+		"de"    	"Nächste"
+		"ru"		"Следуящая"
+		"fr"		"Suivantes"
+	}
+
+	"previous"
+	{
+		"en"		"Previous"
+		"de"    	"Zurück"
+		"ru"		"Предыдущая"
+		"fr"		"Précédentes"
+	}
+
+	"none"
+	{
+		"en"		"None"
+		"de"		"Keine"
+		"ru"		"Пусто"
+		"fr"		"Aucun"
+	}
+
+	"menu_continued"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} (cont.)"
+		"de"    	"{1} (fort.)"
+		"ru"    	"{1} (fort.)"
+		"fr"		"{1} (cont.)"
+	}
+
+	"more"
+	{
+		"en"		"more"
+		"de"		"Mehr"
+		"ru"		"ЕЩЕ"
+		"fr"		"plus"
+	}
+
+	// Kill Stats Options Panel
+	"killstats_options"
+	{
+		"en"		"Kill Stats Options"
+		"de"		"Kill Stats Optionen"
+		"ru"		"Настройки статистики повреждений"
+		"fr"		"Options de Kill Stats"
+	}
+
+	"enable"
+	{
+		"en"		"Enable"
+		"de"		"Einschalten"
+		"ru"		"Включить"
+		"fr"		"Mettre en marche"
+	}
+
+	"enable_on_death"
+	{
+		"en"		"Enable only on death"
+		"de"    	"Einblenden wenn gestorben"
+		"ru"		"Включить показ после смерти"
+		"fr"		"Mettre en marche seulement lorsque mort"
+	}
+
+	"enable_on_round_end"
+	{
+		"en"		"Enable only at the end of a round"
+		"de"    	"Einblenden am Rundenende"
+		"ru"		"Включить показ в конце раунда"
+		"fr"		"Mettre en marche seulement a la fin du round"
+	}
+
+	"disable"
+	{
+		"en"		"Disable"
+		"de"		"Ausschalten"
+		"ru"		"Выключить"
+		"fr"		"Fermer"
+	}
+
+	"view"
+	{
+		"en"		"View"
+		"de"		"Anzeigen"
+		"ru"		"Просмотр"
+		"fr"		"Vue"
+	}
+
+	"show_results_in_menu"
+	{
+		"en"		"Display stats in menu"
+		"de"    	"Stats in Menü anzeigen"
+		"ru"		"Показывать статистику повреждений в меню"
+		"fr"		"Afficher les stats dans le menu"
+	}
+
+	"show_results_in_chat"
+	{
+		"en"		"Display stats in chat"
+		"de"    	"Stats im Chat anzeigen"
+		"ru"		"Показывать статистику повреждений в чате"
+		"fr"		"Afficher les stats dans le chat"
+	}
+}

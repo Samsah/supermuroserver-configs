@@ -1,0 +1,123 @@
+"Phrases"
+{
+	"Message Start"
+	{
+		"fr"				"{green}[QuickDefuse]{default}"
+	}
+	"Blue"
+	{
+		"fr"				"Bleu"
+	}
+	"Yellow"
+	{
+		"fr"				"Jaune"
+	}
+	"Red"
+	{
+		"fr"				"Rouge"
+	}
+	"Green"
+	{
+		"fr"				"Vert"
+	}
+	"Blue Color"
+	{
+		"fr"				"{blue}Bleu{default}"
+	}
+	"Yellow Color"
+	{
+		"fr"				"{yellow}Jaune{default}"
+	}
+	"Red Color"
+	{
+		"fr"				"{red}Rouge{default}"
+	}
+	"Green Color"
+	{
+		"fr"				"{green}Vert{default}"
+	}
+	"t1"
+	{
+		"fr"				"Choisir un Fil :"
+	}
+	"t2"
+	{
+		"fr"				"Les CTs peuvent tenter de le deviner pour un désamorçage immédiat"
+	}
+	"t3"
+	{
+		"fr"				"Sortir ou ignorer pour un fil aléatoire"
+	}
+	"t4"
+	{
+		"fr"				"Sortir"
+	}
+	"ct1"
+	{
+		"fr"				"Choisir un Fil :"
+	}
+	"ct2"
+	{
+		"fr"				"Ignorer pour désamorcer normalement"
+	}
+	"ct3"
+	{
+		"fr"				"Choisissez le bon et la bombe est désamorcée"
+	}
+	"ct4"
+	{
+		"fr"				"Choisissez le mauvais et la bombe explose instantanément"
+	}
+	"ct5"
+	{
+		"fr"				"Sans kit de désamorçage vous avez 50% de chance que la bombe explose"
+	}
+	"ct6"
+	{
+		"fr"				"même en choisissant le bon fil"
+	}
+	"ct7"
+	{
+		"fr"				"Bleu"
+	}
+	"ct8"
+	{
+		"fr"				"Jaune"
+	}
+	"ct9"
+	{
+		"fr"				"Rouge"
+	}
+	"ct10"
+	{
+		"fr"				"Vert"
+	}
+	"ct11"
+	{
+		"fr"				"Sortir"
+	}
+	"Wire Choice"
+	{
+		"fr"				"{1} Vous choissisez le fil {2}"
+	}
+	"Correct Cut"
+	{
+		"fr"				"{1} {teamcolor}{2}{default} a correctement coupé le fil {3} pour un désamorçage instantané (proba 1:4)"
+	}
+	"Incorrect Cut"
+	{
+		"fr"				"{1} {teamcolor}{2}{default} a fait exploser la bombe avec le fil {3} (proba 3:4) Le bon fil était le {4}"
+	}
+	"Correct Pull"
+	{
+		"fr"				"{1} {teamcolor}{2}{default} a correctement tiré le fil {3} pour un désamorçage instantané (proba 1:8)"
+	}
+	"Incorrect Pull"
+	{
+		"fr"				"{1} {teamcolor}{2}{default} a fait exploser la bombe avec le fil {3} (proba 7:8) Le bon fil était le {4}"
+	}
+	"Correct Pull without Kit"
+	{
+		"fr"				"{1} {teamcolor}{2}{default} a choisi le bon fil (3) mais la bombe a quand même explosée !"
+	}
+}

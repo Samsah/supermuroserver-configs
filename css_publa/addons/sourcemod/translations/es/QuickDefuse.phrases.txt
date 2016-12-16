@@ -1,0 +1,123 @@
+﻿"Phrases"
+{
+	"Message Start"
+	{
+		"es"				"{green}[QuickDefuse]{default}"
+	}
+	"Blue"
+	{
+		"es"				"Azul"
+	}
+	"Yellow"
+	{
+		"es"				"Amarillo"
+	}
+	"Red"
+	{
+		"es"				"Rojo"
+	}
+	"Green"
+	{
+		"es"				"Verde"
+	}
+	"Blue Color"
+	{
+		"es"				"{blue}Azul{default}"
+	}
+	"Yellow Color"
+	{
+		"es"				"{yellow}Amarillo{default}"
+	}
+	"Red Color"
+	{
+		"es"				"{red}Rojo{default}"
+	}
+	"Green Color"
+	{
+		"es"				"{green}Verde{default}"
+	}
+	"t1"
+	{
+		"es"				"Elige un Cable:"
+	}
+	"t2"
+	{
+		"es"				"Los CT's pueden tratar de adivinar el cable para desactivar la bomba instantáneamente"
+	}
+	"t3"
+	{
+		"es"				"Sal, o ignora esto para elegir un cable al azar"
+	}
+	"t4"
+	{
+		"es"				"Salir"
+	}
+	"ct1"
+	{
+		"es"				"Elige y corta un Cable:"
+	}
+	"ct2"
+	{
+		"es"				"Ignora esto, para defusar de modo normal"
+	}
+	"ct3"
+	{
+		"es"				"Elige el Cable correcto y la bomba se desactivara con éxito"
+	}
+	"ct4"
+	{
+		"es"				"Elige el Cable incorrecto y la bomba explotara inmediantamente"
+	}
+	"ct5"
+	{
+		"es"				"Si no tienes kit de defuse tienes un 50 % de posibilidades que la bomba explote"
+	}
+	"ct6"
+	{
+		"es"				"incluso si eliges el cable correcto"
+	}
+	"ct7"
+	{
+		"es"				"Azul"
+	}
+	"ct8"
+	{
+		"es"				"Amarillo"
+	}
+	"ct9"
+	{
+		"es"				"Rojo"
+	}
+	"ct10"
+	{
+		"es"				"Verde"
+	}
+	"ct11"
+	{
+		"es"				"Salir"
+	}
+	"Wire Choice"
+	{
+		"es"				"{1} Has elegido el cable {2}"
+	}
+	"Correct Cut"
+	{
+		"es"				"{1} {teamcolor}{2}{default} ha cortado el cable {3} de la C4 correctamente y ha desactivado la bomba con éxito (1:4 posiblidades)"
+	}
+	"Incorrect Cut"
+	{
+		"es"				"{1} {teamcolor}{2}{default} ha detonado la C4 eligiendo el cable incorrecto ({3}), (3:4 posiblidades). El cable correcto era el {4}"
+	}
+	"Correct Pull"
+	{
+		"es"				"{1} {teamcolor}{2}{default} ha tirado del cable {3} para desactivar la C4 al acto (1:8 posiblidades)"
+	}
+	"Incorrect Pull"
+	{
+		"es"				"{1} {teamcolor}{2}{default} ha detonado la C4 con el cable {3} que era el incorrecto (7:8 posiblidades). El cable correcto era el {4}"
+	}
+	"Correct Pull with No Kit"
+	{
+		"es"				"{1} {teamcolor}{2}{default} ha elegido el cable correcto ({3}), pero la bomba detonó de todas formas por no llevar defuser!"
+	}
+}

@@ -1,0 +1,48 @@
+"entities"
+{
+	"0"
+	{
+		"desc"			"Light"
+		"short_desc"		"Light"
+		"color"			"B03500"
+		"name"			"souhtu_pickup"
+		"exactname"		"true"
+		"singleactivator"	"true"
+		"type"			"weapon_elite"
+		"button_type"		"func_button"
+		"chat"			"true"
+		"hud"			"true"
+		"mode"			"1"
+		"cooldown"		"60.0"
+	}
+	"1"
+	{
+		"desc"			"Jacks Pistol"
+		"short_desc"		"Pistol"
+		"color"			"B00049"
+		"name"			"jack_pistol"
+		"exactname"		"true"
+		"singleactivator"	"true"
+		"type"			"weapon_elite"
+		"button_type"		"func_button"
+		"chat"			"true"
+		"hud"			"true"
+		"mode"			"4"
+		"cooldown"		"1.0"
+		"maxuses"		"1" 
+	}
+	"2"
+	{
+		"desc"			"Chalices"
+		"short_desc"		"Chalices"
+		"color"			"0900B0"
+		"name"			"hopea_maljat_ase"
+		"exactname"		"true"
+		"singleactivator"	"true"
+		"type"			"weapon_elite"
+		"button_type"		"func_button"
+		"chat"			"true"
+		"hud"			"true"
+		"mode"			"2"
+	}
+}
